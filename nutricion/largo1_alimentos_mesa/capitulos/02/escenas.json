@@ -1,0 +1,384 @@
+{
+ "serie": "nutricion",
+ "titulo": "Qué le pasa a tu cuerpo si comes esto todos los días · capítulo 2",
+ "duracion": 87.98,
+ "personajes": {
+  "medica": {
+   "nombre": "Nutricionista",
+   "etiqueta": "Lo que dicen los expertos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "La sabiduría de la abuela",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#FF9F1C",
+   "lentes": true
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "alimentos",
+   "inicio": 0.0,
+   "fin": 4.53,
+   "alimentos": [
+    {
+     "alimento": "platano_verde",
+     "etiqueta": "plátano verde",
+     "t": 0.85
+    },
+    {
+     "alimento": "maduro",
+     "etiqueta": "plátano maduro",
+     "t": 1.82
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿*Plátano* todos los días?"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 4.53,
+   "fin": 9.61,
+   "alimentos": [
+    {
+     "alimento": "platano_verde",
+     "marca": "",
+     "etiqueta": "verde",
+     "t": 1.12
+    },
+    {
+     "alimento": "maduro",
+     "marca": "",
+     "etiqueta": "maduro",
+     "t": 2.27
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Verde* o *maduro*"
+    },
+    {
+     "t": 2.97,
+     "txt": "casi *dos alimentos*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 9.61,
+   "fin": 12.67,
+   "items": [
+    {
+     "icono": "escudo",
+     "txt": "Almidón resistente",
+     "t": 0.87
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El verde tiene *almidón resistente*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 12.67,
+   "fin": 20.05,
+   "organos": [
+    {
+     "id": "estomago",
+     "etiqueta": "Pasa de largo",
+     "t": 2.6,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "intestino",
+     "etiqueta": "Casi sin cambiar",
+     "t": 4.7,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Resiste* la digestión"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 20.05,
+   "fin": 25.25,
+   "organos": [
+    {
+     "id": "intestino",
+     "etiqueta": "Bacterias buenas",
+     "t": 2.1,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Llega al *intestino grueso*"
+    },
+    {
+     "t": 2.82,
+     "txt": "comida para tus *bacterias buenas*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 25.25,
+   "fin": 30.31,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "Lo fermentan",
+     "t": 0.65
+    },
+    {
+     "icono": "escudo",
+     "txt": "Cuidan el intestino",
+     "t": 2.45
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 30.31,
+   "fin": 38.23,
+   "items": [
+    {
+     "icono": "reloj",
+     "txt": "Se digiere despacio",
+     "t": 0.86
+    },
+    {
+     "icono": "gota",
+     "txt": "El azúcar sube lento",
+     "t": 3.16
+    },
+    {
+     "icono": "check",
+     "txt": "Llenas más tiempo",
+     "t": 5.46
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 38.23,
+   "fin": 44.21,
+   "alimentos": [
+    {
+     "alimento": "maduro",
+     "etiqueta": "plátano maduro",
+     "t": 1.25
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Al madurar se vuelve *azúcar*"
+    },
+    {
+     "t": 4.17,
+     "txt": "Por eso el maduro es *dulce*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 44.21,
+   "fin": 51.5,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Verde",
+     "valor": 35,
+     "t": 1.57
+    },
+    {
+     "etiqueta": "Maduro",
+     "valor": 80,
+     "t": 2.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Sube el azúcar *más rápido*"
+    },
+    {
+     "t": 4.32,
+     "txt": "ojo si tienes *diabetes*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 51.5,
+   "fin": 59.96,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "Presión",
+     "t": 2.95,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "rinones",
+     "etiqueta": "Potasio",
+     "t": 5.7,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Verde o maduro: *potasio*"
+    },
+    {
+     "t": 4.12,
+     "txt": "ayuda a controlar la *presión*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 59.96,
+   "fin": 63.44,
+   "alimentos": [
+    {
+     "alimento": "platano_verde",
+     "etiqueta": "plátano verde",
+     "t": 0.77
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Cómo lo cocinas *lo cambia todo*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 63.44,
+   "fin": 68.13,
+   "alimentos": [
+    {
+     "alimento": "mangu",
+     "marca": "si",
+     "etiqueta": "hervido",
+     "t": 1.44
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Hervido, como el *mangú*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 68.13,
+   "fin": 77.1,
+   "alimentos": [
+    {
+     "alimento": "tostones",
+     "marca": "no",
+     "etiqueta": "tostones",
+     "t": 1.87
+    },
+    {
+     "alimento": "maduro",
+     "marca": "no",
+     "etiqueta": "maduros fritos",
+     "t": 3.54
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Frito *absorbe aceite*"
+    },
+    {
+     "t": 4.79,
+     "txt": "*más calorías* que una comida"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 77.1,
+   "fin": 79.21,
+   "alimentos": [
+    {
+     "alimento": "tostones",
+     "marca": "medida",
+     "etiqueta": "tostones",
+     "t": 0.54
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No tienes que *dejarlos*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 79.21,
+   "fin": 84.48,
+   "alimentos": [
+    {
+     "alimento": "mangu",
+     "marca": "si",
+     "etiqueta": "hervido",
+     "t": 1.53
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Todos los días: *casi siempre hervido*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 84.48,
+   "fin": 87.98,
+   "palabra": "Nutrición"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 42.24,
+   "fin": 46.74
+  }
+ ]
+}
