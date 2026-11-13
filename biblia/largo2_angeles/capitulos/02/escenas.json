@@ -1,0 +1,529 @@
+{
+ "serie": "biblia",
+ "titulo": "Los ángeles de la Biblia que casi nadie te explicó · capítulo 2",
+ "duracion": 111.62,
+ "personajes": {
+  "querubin": {
+   "nombre": "Querubín",
+   "etiqueta": "Querubín · guardián",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#E8C66A",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "adan": {
+   "nombre": "Adán",
+   "etiqueta": "Adán",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#8A6A3E",
+   "mirada": 0.3
+  },
+  "eva": {
+   "nombre": "Eva",
+   "etiqueta": "Eva",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#3A2414",
+   "mujer": true,
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "mirada": -0.3
+  },
+  "moises": {
+   "nombre": "Moisés",
+   "etiqueta": "Moisés",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E0DBD0",
+   "barba": "larga",
+   "colorBarba": "#E0DBD0",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "ezequiel": {
+   "nombre": "Ezequiel",
+   "etiqueta": "El profeta Ezequiel",
+   "piel": "#A06C46",
+   "pelo": "largo",
+   "colorPelo": "#2E2018",
+   "barba": "larga",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#5E4A7A",
+   "colorManto": "#C9A46A"
+  },
+  "isaias": {
+   "nombre": "Isaías",
+   "etiqueta": "El profeta Isaías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#9A9184",
+   "barba": "larga",
+   "colorBarba": "#9A9184",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#B8862B"
+  },
+  "serafin": {
+   "nombre": "Serafín",
+   "etiqueta": "Serafín · \"los que arden\"",
+   "piel": "#F2C27A",
+   "pelo": "largo",
+   "colorPelo": "#F28C28",
+   "ropa": "tunica",
+   "colorRopa": "#FFE2A8",
+   "colorManto": "#D9481E",
+   "mirada": 0.2
+  },
+  "miguel": {
+   "nombre": "Miguel",
+   "etiqueta": "El arcángel Miguel",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "ropa": "militar",
+   "colorRopa": "#8C2F2F",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "daniel": {
+   "nombre": "Daniel",
+   "etiqueta": "El profeta Daniel",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#7A2E4A",
+   "colorManto": "#D9B45A"
+  },
+  "gabriel": {
+   "nombre": "Gabriel",
+   "etiqueta": "El ángel Gabriel",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#C9A46A",
+   "ropa": "tunica",
+   "colorRopa": "#FAF6EC",
+   "colorManto": "#6C8EBF",
+   "mirada": 0.3
+  },
+  "zacarias": {
+   "nombre": "Zacarías",
+   "etiqueta": "El sacerdote Zacarías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#EEEAE2",
+   "barba": "larga",
+   "colorBarba": "#EEEAE2",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D5A80",
+   "edad": "mayor"
+  },
+  "maria": {
+   "nombre": "María",
+   "etiqueta": "María de Nazaret",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "sombrero": "manto",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D6FA8",
+   "mirada": -0.2
+  },
+  "lucero": {
+   "nombre": "Lucero",
+   "etiqueta": "Lucero, hijo de la mañana",
+   "piel": "#C9A27E",
+   "pelo": "largo",
+   "colorPelo": "#1A1410",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#2B2B3A",
+   "colorManto": "#8C2F2F",
+   "cejas": "fruncidas",
+   "mirada": -0.5
+  },
+  "rey": {
+   "nombre": "Rey de Babilonia",
+   "etiqueta": "El rey de Babilonia",
+   "piel": "#A8744C",
+   "pelo": "rizado",
+   "colorPelo": "#1A1410",
+   "barba": "larga",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#6B2E2E",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas"
+  },
+  "eliseo": {
+   "nombre": "Eliseo",
+   "etiqueta": "El profeta Eliseo",
+   "piel": "#9E6A44",
+   "pelo": "calvo",
+   "barba": "larga",
+   "colorBarba": "#3A2A20",
+   "ropa": "tunica",
+   "colorRopa": "#6B4A2F",
+   "colorManto": "#4A3524"
+  },
+  "criado": {
+   "nombre": "El criado",
+   "etiqueta": "El criado de Eliseo",
+   "piel": "#B07A50",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "cejas": "fruncidas",
+   "mirada": 0.4
+  },
+  "juan": {
+   "nombre": "Juan",
+   "etiqueta": "El apóstol Juan",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#B9B2A6",
+   "barba": "larga",
+   "colorBarba": "#B9B2A6",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "retrato",
+   "inicio": 0.0,
+   "fin": 2.39,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Ezequiel*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 2.39,
+   "fin": 8.75,
+   "preset": "ciudad_antigua",
+   "semilla": 4,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Prisionero en *Babilonia*"
+    },
+    {
+     "t": 3.64,
+     "txt": "lejos del *templo*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 8.75,
+   "fin": 12.55,
+   "preset": "desierto",
+   "semilla": 9,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Junto al río *Quebar*"
+    },
+    {
+     "t": 2.14,
+     "txt": "el cielo *se abrió*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 12.55,
+   "fin": 19.08,
+   "preset": "desierto",
+   "semilla": 11,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una nube con *fuego por dentro*"
+    },
+    {
+     "t": 3.4,
+     "txt": "*cuatro* seres vivientes"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 19.08,
+   "fin": 22.71,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "Cuatro caras",
+     "t": 0.81
+    },
+    {
+     "icono": "estrella",
+     "txt": "Cuatro alas",
+     "t": 2.03
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 22.71,
+   "fin": 25.68,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Ezequiel *1:10*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 25.68,
+   "fin": 37.64,
+   "cita": "Ezequiel 1:10 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y el aspecto de sus caras era *cara de hombre*, y *cara de león* al lado derecho de los cuatro, y *cara de buey* a la izquierda en los cuatro; asimismo había en los cuatro *cara de águila*.",
+   "tInicio": 0.4,
+   "tEscritura": 11.06
+  },
+  {
+   "tipo": "lista",
+   "inicio": 37.64,
+   "fin": 41.65,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "Hombre",
+     "t": 0.05
+    },
+    {
+     "icono": "corona",
+     "txt": "León",
+     "t": 0.8
+    },
+    {
+     "icono": "escudo",
+     "txt": "Buey",
+     "t": 1.41
+    },
+    {
+     "icono": "sol",
+     "txt": "Águila",
+     "t": 2.01
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Y aparecen las *ruedas*"
+    },
+    {
+     "t": 2.5,
+     "txt": "Versículo *16*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 41.65,
+   "fin": 53.48,
+   "cita": "Ezequiel 1:16 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "El aspecto de las ruedas y su obra era semejante al color del crisólito. Y las cuatro tenían una misma semejanza; su apariencia y su obra eran como *rueda en medio de rueda*.",
+   "tInicio": 0.4,
+   "tEscritura": 11.53
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 53.48,
+   "fin": 58.57,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El versículo *18*"
+    },
+    {
+     "t": 2.45,
+     "txt": "todavía pone a *pensar*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 58.57,
+   "fin": 64.64,
+   "cita": "Ezequiel 1:18 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y sus aros eran altos y espantosos, y *llenos de ojos* alrededor en las cuatro.",
+   "tInicio": 0.4,
+   "tEscritura": 5.56
+  },
+  {
+   "tipo": "lista",
+   "inicio": 64.64,
+   "fin": 71.74,
+   "items": [
+    {
+     "icono": "sol",
+     "txt": "Ruedas dentro de ruedas",
+     "t": 0.86
+    },
+    {
+     "icono": "play",
+     "txt": "Van a cualquier lado",
+     "t": 3.17
+    },
+    {
+     "icono": "estrella",
+     "txt": "Cubiertas de ojos",
+     "t": 5.49
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 71.74,
+   "fin": 78.31,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Siglos de *discusión*"
+    },
+    {
+     "t": 3.44,
+     "txt": "Él mismo da la *respuesta*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 78.31,
+   "fin": 81.14,
+   "preset": "desierto",
+   "semilla": 11,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Ezequiel *10:20*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 81.14,
+   "fin": 86.89,
+   "cita": "Ezequiel 10:20 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Estos eran los mismos seres vivientes que vi debajo del Dios de Israel junto al río Quebar; y conocí que *eran querubines*.",
+   "tInicio": 0.4,
+   "tEscritura": 5.27
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 86.89,
+   "fin": 94.34,
+   "preset": "ciudad_antigua",
+   "semilla": 2,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "La *clave*"
+    },
+    {
+     "t": 2.52,
+     "txt": "Creían que Dios vivía en *Jerusalén*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 94.34,
+   "fin": 101.68,
+   "region": "levante",
+   "puntos": [
+    {
+     "nombre": "Jerusalén",
+     "t": 0.88
+    },
+    {
+     "nombre": "Damasco",
+     "t": 2.9,
+     "etiqueta": "rumbo a Babilonia"
+    }
+   ],
+   "ruta": {
+    "de": "Jerusalén",
+    "a": "Damasco",
+    "t": 2.23,
+    "dur": 2.5
+   },
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Pero lo ve llegar a *Babilonia*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 101.68,
+   "fin": 108.12,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El mensaje era claro"
+    },
+    {
+     "t": 1.89,
+     "txt": "Dios *no se quedó atrás*"
+    },
+    {
+     "t": 3.86,
+     "txt": "fue a buscar a su pueblo"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 108.12,
+   "fin": 111.62,
+   "palabra": "Biblia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 54.06,
+   "fin": 58.56
+  }
+ ]
+}
