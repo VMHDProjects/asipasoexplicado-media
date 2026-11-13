@@ -1,0 +1,355 @@
+{
+ "serie": "salud",
+ "titulo": "9 cosas que le pasan a tu cuerpo y nadie te explicó · capítulo 4",
+ "duracion": 105.73,
+ "personajes": {
+  "medica": {
+   "nombre": "Médica",
+   "etiqueta": "Lo que dicen los médicos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "hombre": {
+   "nombre": "Hombre",
+   "etiqueta": "",
+   "piel": "#8E5A3A",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#2E6F8E"
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "Adultos mayores",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#C0566B",
+   "lentes": true
+  },
+  "abuelo": {
+   "nombre": "Abuelo",
+   "etiqueta": "Adultos mayores",
+   "piel": "#6E4630",
+   "pelo": "calvo",
+   "colorPelo": "#DCD6CC",
+   "bigote": "grueso",
+   "colorBarba": "#DCD6CC",
+   "edad": "mayor",
+   "ropa": "camisa",
+   "colorRopa": "#3E7C5A"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "titular",
+   "inicio": 0.0,
+   "fin": 3.75,
+   "fondo": "30",
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "¿Y si dejas el *alcohol* un mes?"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 3.75,
+   "fin": 16.36,
+   "personaje": "hombre",
+   "etiqueta": "Un mes sin alcohol",
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "Duermes *mejor*"
+    },
+    {
+     "t": 1.12,
+     "txt": "El alcohol te *tumba* rápido"
+    },
+    {
+     "t": 3.02,
+     "txt": "pero te despierta en la *noche*"
+    },
+    {
+     "t": 8.52,
+     "txt": "Sin alcohol, sueño más *profundo*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 16.36,
+   "fin": 28.8,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "Presión baja",
+     "t": 2.41
+    },
+    {
+     "id": "pancreas",
+     "etiqueta": "Mejor insulina",
+     "t": 8.81
+    }
+   ],
+   "texto": [
+    {
+     "t": 1.01,
+     "txt": "Tu presión *baja*"
+    },
+    {
+     "t": 2.51,
+     "txt": "Un estudio: un mes sin alcohol"
+    },
+    {
+     "t": 5.61,
+     "txt": "bajó la *presión*"
+    },
+    {
+     "t": 8.71,
+     "txt": "y mejoró la *insulina*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 28.8,
+   "fin": 39.44,
+   "organos": [
+    {
+     "id": "higado",
+     "etiqueta": "Filtra el alcohol",
+     "t": 0.37
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "Tu *hígado* descansa"
+    },
+    {
+     "t": 1.67,
+     "txt": "el que *filtra* el alcohol"
+    },
+    {
+     "t": 3.77,
+     "txt": "acumula *grasa*"
+    },
+    {
+     "t": 7.97,
+     "txt": "una pausa le da *espacio*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 39.44,
+   "fin": 45.99,
+   "fondo": "!",
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "Una *advertencia* importante"
+    },
+    {
+     "t": 1.93,
+     "txt": "Si tomas mucho y a diario"
+    },
+    {
+     "t": 4.23,
+     "txt": "*no lo dejes de golpe* solo"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 45.99,
+   "fin": 51.15,
+   "personaje": "medica",
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "La abstinencia puede ser *peligrosa*"
+    },
+    {
+     "t": 2.38,
+     "txt": "Habla primero con un *médico*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 51.15,
+   "fin": 54.91,
+   "fondo": "agua",
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "¿Y cuando tomas poca *agua*?"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 54.91,
+   "fin": 67.95,
+   "items": [
+    {
+     "icono": "gota",
+     "txt": "Amarillo claro: vas bien",
+     "t": 4.46
+    },
+    {
+     "icono": "alerta",
+     "txt": "Oscura y poca: falta agua",
+     "t": 6.56
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "La primera señal *no siempre es la sed*"
+    },
+    {
+     "t": 2.66,
+     "txt": "Mira el *color de tu orina*"
+    },
+    {
+     "t": 8.66,
+     "txt": "Tu cuerpo está *ahorrando* líquido"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 67.95,
+   "fin": 75.8,
+   "organos": [
+    {
+     "id": "piel",
+     "etiqueta": "Piel seca",
+     "t": 3.02
+    },
+    {
+     "id": "cerebro",
+     "etiqueta": "Dolor de cabeza",
+     "t": 5.22
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "Tu cuerpo empieza a *quejarse*"
+    },
+    {
+     "t": 3.02,
+     "txt": "boca seca, *piel seca*"
+    },
+    {
+     "t": 5.12,
+     "txt": "cansancio y *dolor de cabeza*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 75.8,
+   "fin": 80.36,
+   "fondo": "?",
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "Crees que tienes *sueño o hambre*"
+    },
+    {
+     "t": 2.87,
+     "txt": "y lo que tienes es *sed*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 80.36,
+   "fin": 90.74,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Confusión",
+     "t": 3.41
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Corazón acelerado",
+     "t": 5.01
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.01,
+     "txt": "Si sigue, llegan los *mareos*"
+    },
+    {
+     "t": 3.41,
+     "txt": "en casos graves, *confusión*"
+    },
+    {
+     "t": 7.01,
+     "txt": "Ya no es un descuido"
+    },
+    {
+     "t": 8.91,
+     "txt": "es una *emergencia*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 90.74,
+   "fin": 102.23,
+   "personaje": "abuela",
+   "personaje2": "abuelo",
+   "t2": 1.43,
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "Más riesgo: *niños* y *mayores*"
+    },
+    {
+     "t": 4.33,
+     "txt": "con la edad se pierde la *sed*"
+    },
+    {
+     "t": 7.23,
+     "txt": "No esperes a que pida agua"
+    },
+    {
+     "t": 10.38,
+     "txt": "*ofrécesela*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 102.23,
+   "fin": 105.73,
+   "palabra": "Cuerpo"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 51.1,
+   "fin": 55.6
+  }
+ ]
+}

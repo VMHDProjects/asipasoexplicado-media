@@ -1,0 +1,514 @@
+{
+ "serie": "salud",
+ "titulo": "9 cosas que le pasan a tu cuerpo y nadie te explicó · capítulo 1",
+ "duracion": 124.88,
+ "personajes": {
+  "medica": {
+   "nombre": "Médica",
+   "etiqueta": "Lo que dicen los médicos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "hombre": {
+   "nombre": "Hombre",
+   "etiqueta": "",
+   "piel": "#8E5A3A",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#2E6F8E"
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "Adultos mayores",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#C0566B",
+   "lentes": true
+  },
+  "abuelo": {
+   "nombre": "Abuelo",
+   "etiqueta": "Adultos mayores",
+   "piel": "#6E4630",
+   "pelo": "calvo",
+   "colorPelo": "#DCD6CC",
+   "bigote": "grueso",
+   "colorBarba": "#DCD6CC",
+   "edad": "mayor",
+   "ropa": "camisa",
+   "colorRopa": "#3E7C5A"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "cuerpo",
+   "inicio": 0,
+   "fin": 7.85,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Cerebro",
+     "t": 1.0
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Corazón",
+     "t": 2.6
+    },
+    {
+     "id": "higado",
+     "etiqueta": "Hígado",
+     "t": 4.2
+    },
+    {
+     "id": "vejiga",
+     "etiqueta": "Vejiga",
+     "t": 5.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Tu cuerpo *reacciona* a todo"
+    },
+    {
+     "t": 2.9,
+     "txt": "a lo que tomas, a lo que *comes*"
+    },
+    {
+     "t": 5.1,
+     "txt": "a lo que *aguantas*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 7.85,
+   "fin": 13.43,
+   "fondo": "9",
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "*9 cosas* que le pasan a tu cuerpo"
+    },
+    {
+     "t": 3.25,
+     "txt": "y que casi nadie te *explicó*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 13.43,
+   "fin": 17.62,
+   "fondo": "12 h",
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "¿Qué le pasa a tu cuerpo con *12 horas sin comer*?"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 17.62,
+   "fin": 24.12,
+   "hitos": [
+    {
+     "anio": "0 h",
+     "txt": "Última comida",
+     "t": 0.38
+    },
+    {
+     "anio": "2 h",
+     "txt": "Usa ese azúcar",
+     "t": 3.28
+    },
+    {
+     "anio": "6 h",
+     "txt": "Todavía le alcanza",
+     "t": 4.98
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.98,
+     "txt": "Las primeras horas *no cambian nada*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 24.12,
+   "fin": 28.89,
+   "organos": [
+    {
+     "id": "higado",
+     "etiqueta": "Reserva de azúcar",
+     "t": 1.18
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Cuando se acaba…"
+    },
+    {
+     "t": 1.28,
+     "txt": "el *hígado* suelta su reserva"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 28.89,
+   "fin": 35.72,
+   "desde": 0,
+   "hasta": 12,
+   "sufijo": " h",
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "Entre las *10 y 12 horas*"
+    },
+    {
+     "t": 2.11,
+     "txt": "la reserva empieza a *bajar*"
+    },
+    {
+     "t": 4.31,
+     "txt": "*cambio de combustible*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 35.72,
+   "fin": 42.68,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Deja de depender del azúcar",
+     "t": 0.08
+    },
+    {
+     "icono": "fuego",
+     "txt": "Empieza a usar grasa",
+     "t": 1.68
+    }
+   ],
+   "texto": [
+    {
+     "t": 3.58,
+     "txt": "El *interruptor metabólico*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 42.68,
+   "fin": 49.72,
+   "organos": [
+    {
+     "id": "higado",
+     "etiqueta": "Cetonas",
+     "t": 1.12
+    },
+    {
+     "id": "cerebro",
+     "etiqueta": "Energía",
+     "t": 3.72
+    }
+   ],
+   "texto": [
+    {
+     "t": 1.12,
+     "txt": "El hígado produce *cetonas*"
+    },
+    {
+     "t": 3.92,
+     "txt": "y tu cerebro las usa como *energía*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 49.72,
+   "fin": 58.37,
+   "items": [
+    {
+     "icono": "sol",
+     "txt": "Más despiertos",
+     "t": 0.88
+    },
+    {
+     "icono": "alerta",
+     "txt": "Mareo",
+     "t": 5.68
+    },
+    {
+     "icono": "luna",
+     "txt": "Cansancio",
+     "t": 6.58
+    },
+    {
+     "icono": "cerebro",
+     "txt": "Dolor de cabeza",
+     "t": 7.48
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Unos se sienten *más despiertos*"
+    },
+    {
+     "t": 3.68,
+     "txt": "otros, *lo contrario*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 58.37,
+   "fin": 62.63,
+   "fondo": "!",
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "Un dato que casi nadie *menciona*"
+    },
+    {
+     "t": 2.53,
+     "txt": "*Esto ya te pasa*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 62.63,
+   "fin": 67.77,
+   "hitos": [
+    {
+     "anio": "8 p. m.",
+     "txt": "Cenas",
+     "t": 0.17
+    },
+    {
+     "anio": "8 a. m.",
+     "txt": "Desayunas",
+     "t": 1.77
+    }
+   ],
+   "texto": [
+    {
+     "t": 2.87,
+     "txt": "*12 horas* sin comer"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 67.77,
+   "fin": 71.75,
+   "fondo": "1",
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "¿Y si comes *una sola vez* al día?"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 71.75,
+   "fin": 75.22,
+   "desde": 0,
+   "hasta": 20,
+   "prefijo": "+",
+   "sufijo": " h",
+   "texto": [
+    {
+     "t": 0.85,
+     "txt": "Más de *20 horas* sin comer"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 75.22,
+   "fin": 82.64,
+   "organos": [
+    {
+     "id": "higado",
+     "etiqueta": "Reserva agotada",
+     "t": 0.38
+    },
+    {
+     "id": "estomago",
+     "etiqueta": "Usa la grasa",
+     "t": 2.58
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Agota el *azúcar guardada*"
+    },
+    {
+     "t": 2.38,
+     "txt": "y vive de su *grasa*"
+    },
+    {
+     "t": 4.78,
+     "txt": "Por eso muchos *bajan de peso*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 82.64,
+   "fin": 88.25,
+   "personaje": "medica",
+   "texto": [
+    {
+     "t": 1.06,
+     "txt": "Pero la razón *no es mágica*"
+    },
+    {
+     "t": 3.06,
+     "txt": "Universidad *Johns Hopkins*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 88.25,
+   "fin": 98.52,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "No es la hora en que comes",
+     "t": 1.15
+    },
+    {
+     "icono": "check",
+     "txt": "Es cuánto comes",
+     "t": 3.15
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "Lo que más pesa…"
+    },
+    {
+     "t": 5.25,
+     "txt": "Si metes todo el día en una comida"
+    },
+    {
+     "t": 8.25,
+     "txt": "el resultado *cambia poco*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 98.52,
+   "fin": 105.11,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Mareos",
+     "t": 3.18
+    },
+    {
+     "icono": "luna",
+     "txt": "Cansancio",
+     "t": 4.28
+    },
+    {
+     "icono": "cerebro",
+     "txt": "Dolor de cabeza",
+     "t": 5.28
+    }
+   ],
+   "texto": [
+    {
+     "t": 1.08,
+     "txt": "No todos los cuerpos lo *toleran*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 105.11,
+   "fin": 113.09,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Embarazadas",
+     "t": 2.69
+    },
+    {
+     "icono": "x",
+     "txt": "Mujeres lactando",
+     "t": 3.89
+    },
+    {
+     "icono": "x",
+     "txt": "Medicamentos para la diabetes",
+     "t": 5.39
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.09,
+     "txt": "*No se recomienda* para"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 113.09,
+   "fin": 121.38,
+   "personaje": "medica",
+   "texto": [
+    {
+     "t": 0.01,
+     "txt": "Ni *milagro* ni *veneno*"
+    },
+    {
+     "t": 3.61,
+     "txt": "Es un *cambio fuerte*"
+    },
+    {
+     "t": 4.91,
+     "txt": "Háblalo antes con un *médico*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 121.38,
+   "fin": 124.88,
+   "palabra": "Cuerpo"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 60.7,
+   "fin": 65.2
+  }
+ ]
+}

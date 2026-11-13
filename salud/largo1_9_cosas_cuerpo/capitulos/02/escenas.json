@@ -1,0 +1,425 @@
+{
+ "serie": "salud",
+ "titulo": "9 cosas que le pasan a tu cuerpo y nadie te explicó · capítulo 2",
+ "duracion": 106.84,
+ "personajes": {
+  "medica": {
+   "nombre": "Médica",
+   "etiqueta": "Lo que dicen los médicos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "hombre": {
+   "nombre": "Hombre",
+   "etiqueta": "",
+   "piel": "#8E5A3A",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#2E6F8E"
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "Adultos mayores",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#C0566B",
+   "lentes": true
+  },
+  "abuelo": {
+   "nombre": "Abuelo",
+   "etiqueta": "Adultos mayores",
+   "piel": "#6E4630",
+   "pelo": "calvo",
+   "colorPelo": "#DCD6CC",
+   "bigote": "grueso",
+   "colorBarba": "#DCD6CC",
+   "edad": "mayor",
+   "ropa": "camisa",
+   "colorRopa": "#3E7C5A"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "titular",
+   "inicio": 0.0,
+   "fin": 3.87,
+   "fondo": "café",
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "¿Qué le pasa a tu cuerpo cuando tomas *café*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 3.87,
+   "fin": 9.5,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Adenosina",
+     "t": 0.35
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "En tu cerebro: *adenosina*"
+    },
+    {
+     "t": 3.25,
+     "txt": "la que te da *sueño*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 9.5,
+   "fin": 15.99,
+   "fondo": "zzz",
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "La cafeína le *tapa la entrada*"
+    },
+    {
+     "t": 2.32,
+     "txt": "El café no te da *energía*"
+    },
+    {
+     "t": 4.72,
+     "txt": "te *esconde el cansancio*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 15.99,
+   "fin": 21.4,
+   "desde": 0,
+   "hasta": 60,
+   "prefijo": "< ",
+   "sufijo": " min",
+   "texto": [
+    {
+     "t": 1.03,
+     "txt": "Su punto más alto en la *sangre*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 21.4,
+   "fin": 26.24,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Nervios acelerados",
+     "t": 0.22
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Presión arriba",
+     "t": 1.82
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "Tu sistema nervioso se *acelera*"
+    },
+    {
+     "t": 1.92,
+     "txt": "y la presión *sube*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 26.24,
+   "fin": 35.56,
+   "hitos": [
+    {
+     "anio": "0 h",
+     "txt": "Café",
+     "t": 0.38
+    },
+    {
+     "anio": "4 h",
+     "txt": "Sigue el efecto",
+     "t": 2.18
+    },
+    {
+     "anio": "6 h",
+     "txt": "Todavía",
+     "t": 3.58
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "El efecto *no se va rápido*"
+    },
+    {
+     "t": 5.28,
+     "txt": "El café de la tarde te roba *el sueño*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 35.56,
+   "fin": 43.27,
+   "desde": 0,
+   "hasta": 400,
+   "sufijo": " mg",
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "¿Cuánto es *demasiado*?"
+    },
+    {
+     "t": 2.06,
+     "txt": "Hasta *400 mg* al día"
+    },
+    {
+     "t": 4.86,
+     "txt": "no hacen daño a la *mayoría*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 43.27,
+   "fin": 49.86,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Temblores",
+     "t": 2.25
+    },
+    {
+     "icono": "luna",
+     "txt": "Insomnio",
+     "t": 3.15
+    },
+    {
+     "icono": "cerebro",
+     "txt": "Dolor de cabeza",
+     "t": 4.15
+    },
+    {
+     "icono": "corazon",
+     "txt": "Corazón acelerado",
+     "t": 5.15
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "Si te pasas, el cuerpo *avisa*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 49.86,
+   "fin": 53.86,
+   "fondo": "azúcar",
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "¿Y cuando comes *mucha azúcar*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 53.86,
+   "fin": 59.76,
+   "organos": [
+    {
+     "id": "estomago",
+     "etiqueta": "Se absorbe rápido",
+     "t": 0.26
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Glucosa arriba",
+     "t": 2.76
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "Se absorbe *rápido*"
+    },
+    {
+     "t": 2.66,
+     "txt": "La glucosa en tu sangre *sube*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 59.76,
+   "fin": 67.34,
+   "organos": [
+    {
+     "id": "pancreas",
+     "etiqueta": "Insulina",
+     "t": 0.26
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "El páncreas suelta *insulina*"
+    },
+    {
+     "t": 2.66,
+     "txt": "que mete el azúcar en las *células*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 67.34,
+   "fin": 77.09,
+   "items": [
+    {
+     "icono": "gota",
+     "txt": "Lo que sobra",
+     "t": 1.28
+    },
+    {
+     "icono": "fuego",
+     "txt": "Se guarda como grasa",
+     "t": 3.08
+    },
+    {
+     "icono": "alerta",
+     "txt": "Aumento de peso",
+     "t": 5.88
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Lo que no usas *no se bota*"
+    },
+    {
+     "t": 5.78,
+     "txt": "El exceso se relaciona con *el peso*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 77.09,
+   "fin": 88.85,
+   "hitos": [
+    {
+     "anio": "Hoy",
+     "txt": "Azúcar alta",
+     "t": 0.83
+    },
+    {
+     "anio": "Cada día",
+     "txt": "Peor respuesta",
+     "t": 3.03
+    },
+    {
+     "anio": "Años",
+     "txt": "Diabetes tipo 2",
+     "t": 9.23
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.83,
+     "txt": "Si se repite *todos los días*"
+    },
+    {
+     "t": 6.23,
+     "txt": "*Resistencia a la insulina*"
+    },
+    {
+     "t": 9.23,
+     "txt": "camino a la *diabetes tipo 2*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 88.85,
+   "fin": 95.65,
+   "desde": 0,
+   "hasta": 10,
+   "prefijo": "< ",
+   "sufijo": "%",
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "La *OMS* recomienda"
+    },
+    {
+     "t": 2.27,
+     "txt": "menos del *10%* de las calorías"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 95.65,
+   "fin": 103.34,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Refrescos",
+     "t": 3.57
+    },
+    {
+     "icono": "x",
+     "txt": "Jugos",
+     "t": 4.77
+    },
+    {
+     "icono": "x",
+     "txt": "Productos empacados",
+     "t": 5.77
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "Ojo: no está en la *azucarera*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 103.34,
+   "fin": 106.84,
+   "palabra": "Cuerpo"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 51.7,
+   "fin": 56.2
+  }
+ ]
+}

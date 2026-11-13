@@ -1,0 +1,373 @@
+{
+ "serie": "salud",
+ "titulo": "9 cosas que le pasan a tu cuerpo y nadie te explicó · capítulo 3",
+ "duracion": 103.61,
+ "personajes": {
+  "medica": {
+   "nombre": "Médica",
+   "etiqueta": "Lo que dicen los médicos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "hombre": {
+   "nombre": "Hombre",
+   "etiqueta": "",
+   "piel": "#8E5A3A",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#2E6F8E"
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "Adultos mayores",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#C0566B",
+   "lentes": true
+  },
+  "abuelo": {
+   "nombre": "Abuelo",
+   "etiqueta": "Adultos mayores",
+   "piel": "#6E4630",
+   "pelo": "calvo",
+   "colorPelo": "#DCD6CC",
+   "bigote": "grueso",
+   "colorBarba": "#DCD6CC",
+   "edad": "mayor",
+   "ropa": "camisa",
+   "colorRopa": "#3E7C5A"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "titular",
+   "inicio": 0.0,
+   "fin": 4.11,
+   "fondo": "WC",
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "¿Y si aguantas las ganas de *orinar*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 4.11,
+   "fin": 11.15,
+   "organos": [
+    {
+     "id": "vejiga",
+     "etiqueta": "Se estira",
+     "t": 0.37
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "Tu vejiga es un *músculo*"
+    },
+    {
+     "t": 2.57,
+     "txt": "guarda de *1½ a 2 tazas*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 11.15,
+   "fin": 17.26,
+   "organos": [
+    {
+     "id": "vejiga",
+     "etiqueta": "Llena",
+     "t": 0.13
+    },
+    {
+     "id": "cerebro",
+     "etiqueta": "¡Aviso!",
+     "t": 1.53
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "Cuando se llena…"
+    },
+    {
+     "t": 1.43,
+     "txt": "los nervios avisan al *cerebro*"
+    },
+    {
+     "t": 3.43,
+     "txt": "la *primera gana*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 17.26,
+   "fin": 25.94,
+   "fondo": "!",
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "Si aguantas, aprietas una *llave*"
+    },
+    {
+     "t": 4.22,
+     "txt": "la vejiga se sigue *estirando*"
+    },
+    {
+     "t": 6.52,
+     "txt": "y la señal sube *más fuerte*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 25.94,
+   "fin": 30.46,
+   "personaje": "hombre",
+   "etiqueta": "La costumbre",
+   "texto": [
+    {
+     "t": 0.04,
+     "txt": "Una vez *no pasa nada*"
+    },
+    {
+     "t": 1.84,
+     "txt": "El problema es *la costumbre*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 30.46,
+   "fin": 45.2,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Músculos más débiles",
+     "t": 2.82
+    },
+    {
+     "icono": "gota",
+     "txt": "No se vacía completa",
+     "t": 5.42
+    },
+    {
+     "icono": "x",
+     "txt": "Bacterias que crecen",
+     "t": 8.22
+    },
+    {
+     "icono": "alerta",
+     "txt": "Infección urinaria",
+     "t": 12.22
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "Aguantar *con frecuencia*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 45.2,
+   "fin": 50.95,
+   "desde": 0,
+   "hasta": 3,
+   "prefijo": "Cada 2 o ",
+   "sufijo": " h",
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Lo normal"
+    },
+    {
+     "t": 3.48,
+     "txt": "Si tu cuerpo avisa, *hazle caso*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 50.95,
+   "fin": 56.54,
+   "preset": "campo",
+   "semilla": 4,
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "¿Y si *caminas* todos los días?"
+    },
+    {
+     "t": 3.83,
+     "txt": "Tu corazón trabaja *mejor*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 56.54,
+   "fin": 63.2,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "Presión controlada",
+     "t": 0.24
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.04,
+     "txt": "Controla la *presión*"
+    },
+    {
+     "t": 3.24,
+     "txt": "mejora el corazón y los *vasos*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 63.2,
+   "fin": 73.68,
+   "items": [
+    {
+     "icono": "rayo",
+     "txt": "Las piernas usan glucosa",
+     "t": 2.58
+    },
+    {
+     "icono": "check",
+     "txt": "Controla el azúcar",
+     "t": 7.08
+    },
+    {
+     "icono": "check",
+     "txt": "Controla el peso",
+     "t": 8.68
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Tu *azúcar* en la sangre baja"
+    },
+    {
+     "t": 7.08,
+     "txt": "Ayuda con el azúcar y el *peso*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 73.68,
+   "fin": 85.41,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Endorfinas",
+     "t": 2.1
+    },
+    {
+     "id": "huesos",
+     "etiqueta": "Huesos y músculos",
+     "t": 8.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.7,
+     "txt": "Tu cabeza *cambia*"
+    },
+    {
+     "t": 2.1,
+     "txt": "libera *endorfinas*"
+    },
+    {
+     "t": 5.7,
+     "txt": "menos *estrés*, mejor sueño"
+    },
+    {
+     "t": 8.5,
+     "txt": "y fortalece los *huesos*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 85.41,
+   "fin": 92.42,
+   "desde": 0,
+   "hasta": 150,
+   "sufijo": " min",
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "¿Cuánto hace falta?"
+    },
+    {
+     "t": 1.17,
+     "txt": "*150 minutos* a la semana"
+    },
+    {
+     "t": 4.77,
+     "txt": "media hora, *cinco días*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 92.42,
+   "fin": 100.11,
+   "preset": "pueblo",
+   "semilla": 6,
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "Si hoy no caminas nada"
+    },
+    {
+     "t": 1.66,
+     "txt": "hasta *5 minutos* cuentan"
+    },
+    {
+     "t": 3.86,
+     "txt": "No necesitas *gimnasio*"
+    },
+    {
+     "t": 5.56,
+     "txt": "sal por la *puerta*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 100.11,
+   "fin": 103.61,
+   "palabra": "Cuerpo"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 50.1,
+   "fin": 54.6
+  }
+ ]
+}
