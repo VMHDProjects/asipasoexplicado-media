@@ -1,0 +1,401 @@
+{
+ "serie": "nutricion",
+ "titulo": "Qué le pasa a tu cuerpo si comes esto todos los días · capítulo 5",
+ "duracion": 81.72,
+ "personajes": {
+  "medica": {
+   "nombre": "Nutricionista",
+   "etiqueta": "Lo que dicen los expertos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "La sabiduría de la abuela",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#FF9F1C",
+   "lentes": true
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "alimentos",
+   "inicio": 0.0,
+   "fin": 4.52,
+   "alimentos": [
+    {
+     "alimento": "aguacate",
+     "etiqueta": "aguacate",
+     "t": 0.86
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿*Aguacate* todos los días?"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 4.52,
+   "fin": 6.67,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Grasa de la buena",
+     "t": 0.54
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Grasa, pero *de la buena*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 6.67,
+   "fin": 12.46,
+   "alimentos": [
+    {
+     "alimento": "aguacate",
+     "marca": "",
+     "etiqueta": "aguacate",
+     "t": 1.25
+    },
+    {
+     "alimento": "aceite",
+     "marca": "",
+     "etiqueta": "aceite de oliva",
+     "t": 3.34
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Monoinsaturada*"
+    },
+    {
+     "t": 3.34,
+     "txt": "como el *aceite de oliva*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 12.46,
+   "fin": 20.62,
+   "alimentos": [
+    {
+     "alimento": "salami",
+     "marca": "no",
+     "etiqueta": "embutidos",
+     "t": 2.27
+    },
+    {
+     "alimento": "aguacate",
+     "marca": "si",
+     "etiqueta": "aguacate",
+     "t": 4.35
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Si reemplaza a los *embutidos*"
+    },
+    {
+     "t": 4.35,
+     "txt": "baja el *colesterol malo*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 20.62,
+   "fin": 25.49,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Guineo",
+     "valor": 45,
+     "t": 1.94
+    },
+    {
+     "etiqueta": "Aguacate",
+     "valor": 62,
+     "t": 2.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Mucha *fibra*"
+    },
+    {
+     "t": 1.94,
+     "txt": "más *potasio* que un guineo"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 25.49,
+   "fin": 31.32,
+   "organos": [
+    {
+     "id": "estomago",
+     "etiqueta": "Digestión",
+     "t": 1.12,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Presión",
+     "t": 2.97,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Llena y ayuda a la *digestión*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 31.32,
+   "fin": 33.98,
+   "alimentos": [
+    {
+     "alimento": "brocoli",
+     "marca": "",
+     "etiqueta": "vegetales",
+     "t": 0.66
+    },
+    {
+     "alimento": "aguacate",
+     "marca": "",
+     "etiqueta": "aguacate",
+     "t": 1.24
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Hace que otros te *nutran más*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 33.98,
+   "fin": 39.82,
+   "items": [
+    {
+     "icono": "gota",
+     "txt": "Vitaminas",
+     "t": 1.77
+    },
+    {
+     "icono": "estrella",
+     "txt": "Antioxidantes",
+     "t": 3.09
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Se absorben con *un poco de grasa*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 39.82,
+   "fin": 47.17,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Ensalada sola",
+     "valor": 20,
+     "t": 2.28
+    },
+    {
+     "etiqueta": "Con aguacate",
+     "valor": 90,
+     "t": 4.01
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Aguacate en la *ensalada*"
+    },
+    {
+     "t": 4.01,
+     "txt": "*multiplicó* los antioxidantes"
+    }
+   ]
+  },
+  {
+   "tipo": "plato",
+   "inicio": 47.17,
+   "fin": 52.39,
+   "porciones": [
+    {
+     "parte": 0.25,
+     "alimento": "arroz",
+     "etiqueta": "Arroz",
+     "t": 0.67
+    },
+    {
+     "parte": 0.25,
+     "alimento": "habichuelas",
+     "etiqueta": "Habichuelas",
+     "t": 1.37
+    },
+    {
+     "parte": 0.25,
+     "alimento": "aguacate",
+     "etiqueta": "Aguacate",
+     "t": 2.31
+    },
+    {
+     "parte": 0.25,
+     "alimento": "brocoli",
+     "etiqueta": "Ensalada",
+     "t": 3.01
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No está ahí *solo por el sabor*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 52.39,
+   "fin": 58.74,
+   "alimentos": [
+    {
+     "alimento": "aguacate",
+     "marca": "medida",
+     "etiqueta": "aguacate",
+     "t": 3.29
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo que casi nadie dice"
+    },
+    {
+     "t": 2.59,
+     "txt": "Sano *no es ilimitado*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 58.74,
+   "fin": 62.56,
+   "desde": 0,
+   "hasta": 300,
+   "prefijo": "+",
+   "sufijo": " kcal",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Un aguacate *entero*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 62.56,
+   "fin": 68.7,
+   "alimentos": [
+    {
+     "alimento": "aguacate",
+     "marca": "si",
+     "etiqueta": "medio",
+     "t": 2.81
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿Bajando de peso?"
+    },
+    {
+     "t": 3.1,
+     "txt": "*medio aguacate* o menos"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 68.7,
+   "fin": 73.31,
+   "personaje": "medica",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El aguacate *no engorda más*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 73.31,
+   "fin": 78.22,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Lo que comes",
+     "valor": 90,
+     "t": 1.31
+    },
+    {
+     "etiqueta": "Lo que gastas",
+     "valor": 60,
+     "t": 2.43
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Engorda comer *más de lo que gastas*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 78.22,
+   "fin": 81.72,
+   "palabra": "Nutrición"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 39.11,
+   "fin": 43.61
+  }
+ ]
+}
