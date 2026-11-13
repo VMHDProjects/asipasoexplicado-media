@@ -1,0 +1,16 @@
+{
+  "serie": "salud",
+  "titulo": "Prueba · ¿Qué le pasa a tu cuerpo si duermes poco?",
+  "duracion": 22,
+  "escenas": [
+    { "tipo": "titular", "inicio": 0, "fin": 3.5, "fondo": "?", "texto": [ { "t": 0.2, "txt": "¿Qué le pasa a tu cuerpo si duermes *menos de 6 horas*?" } ] },
+    { "tipo": "cuerpo", "inicio": 3.5, "fin": 10.5,
+      "organos": [ { "id": "cerebro", "t": 1.0 }, { "id": "corazon", "t": 3.4 }, { "id": "estomago", "t": 5.4, "etiqueta": "Apetito" } ],
+      "texto": [ { "t": 0.3, "txt": "El *cerebro* no limpia sus desechos" }, { "t": 3.2, "txt": "El *corazón* trabaja de más" }, { "t": 5.2, "txt": "Y te da más *hambre*" } ] },
+    { "tipo": "comparar", "inicio": 10.5, "fin": 15, "barras": [ { "etiqueta": "7–9 h", "valor": 100, "sufijo": "%", "icono": "luna", "t": 0.4 }, { "etiqueta": "Menos de 6 h", "valor": 60, "sufijo": "%", "icono": "alerta", "t": 1.2 } ], "max": 110,
+      "texto": [ { "t": 0.2, "txt": "Tu concentración, *en números*" } ] },
+    { "tipo": "lista", "inicio": 15, "fin": 19.5, "items": [ { "icono": "luna", "txt": "Misma hora todas las noches", "t": 0.3 }, { "icono": "x", "txt": "Pantallas fuera de la cama", "t": 1.3 }, { "icono": "gota", "txt": "Cuarto fresco y oscuro", "t": 2.3 } ] },
+    { "tipo": "cierre", "inicio": 19.5, "fin": 22, "palabra": "Cuerpo", "proximo": "Lo que el azúcar le hace a tu cerebro" }
+  ],
+  "superpuestos": [ { "tipo": "compartir", "inicio": 9.5, "fin": 13 } ]
+}

@@ -1,0 +1,17 @@
+{
+  "serie": "nutricion",
+  "titulo": "Prueba · El desayuno dominicano",
+  "duracion": 22,
+  "escenas": [
+    { "tipo": "titular", "inicio": 0, "fin": 3.5, "fondo": "?", "texto": [ { "t": 0.2, "txt": "¿Tu desayuno te está *quitando energía*?" } ] },
+    { "tipo": "alimentos", "inicio": 3.5, "fin": 9.5,
+      "alimentos": [ { "alimento": "huevo", "marca": "si", "t": 0.3 }, { "alimento": "aguacate", "marca": "si", "t": 0.8 }, { "alimento": "pan", "etiqueta": "pan blanco", "marca": "medida", "t": 1.3 }, { "alimento": "refresco", "marca": "no", "t": 1.8 } ],
+      "texto": [ { "t": 0.2, "txt": "Lo que sí y lo que *no*" }, { "t": 3.4, "txt": "El refresco es *azúcar pura*" } ] },
+    { "tipo": "plato", "inicio": 9.5, "fin": 15.5,
+      "porciones": [ { "parte": 0.5, "alimento": "brocoli", "etiqueta": "Vegetales", "t": 0.5 }, { "parte": 0.25, "alimento": "pollo", "etiqueta": "Proteína", "t": 1.5 }, { "parte": 0.25, "alimento": "arroz", "etiqueta": "Carbohidrato", "t": 2.5 } ],
+      "texto": [ { "t": 0.3, "txt": "El plato *ideal*" }, { "t": 3.2, "txt": "Mitad *vegetales*" } ] },
+    { "tipo": "cifra", "inicio": 15.5, "fin": 19.5, "desde": 0, "hasta": 39, "sufijo": " g", "texto": [ { "t": 2.0, "txt": "de azúcar en *un solo refresco*" } ] },
+    { "tipo": "cierre", "inicio": 19.5, "fin": 22, "palabra": "Nutrición", "proximo": "El jugo de naranja no es tan sano como crees" }
+  ],
+  "superpuestos": [ { "tipo": "compartir", "inicio": 10, "fin": 13.5 } ]
+}

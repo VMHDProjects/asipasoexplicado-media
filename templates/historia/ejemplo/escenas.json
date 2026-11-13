@@ -1,0 +1,31 @@
+{
+  "serie": "historia",
+  "titulo": "Prueba 30 s · La caída de Lilís",
+  "duracion": 30,
+  "personajes": {
+    "lilis": { "nombre": "Ulises Heureaux", "etiqueta": "Ulises Heureaux · Lilís", "piel": "#5A3826", "pelo": "rizado", "colorPelo": "#17110E", "bigote": "grueso", "ropa": "militar", "banda": true, "medallas": true, "cejas": "fruncidas", "mirada": -0.4 }
+  },
+  "escenas": [
+    { "tipo": "escenario", "preset": "pueblo", "inicio": 0, "fin": 4.6, "semilla": 4,
+      "texto": [ { "t": 0.3, "txt": "26 de julio de *1899*" }, { "t": 2.4, "txt": "*Disparos* en Moca" } ] },
+    { "tipo": "retrato", "personaje": "lilis", "inicio": 4.6, "fin": 9.6,
+      "texto": [ { "t": 0.4, "txt": "El dictador más *temido*" }, { "t": 2.6, "txt": "Casi dos décadas en el *poder*" } ] },
+    { "tipo": "linea_tiempo", "inicio": 9.6, "fin": 15.0,
+      "hitos": [
+        { "anio": 1845, "txt": "Nace en Puerto Plata", "t": 0.4 },
+        { "anio": 1882, "txt": "Llega a la presidencia", "t": 1.7 },
+        { "anio": 1887, "txt": "Vuelve y ya no suelta el poder", "t": 3.0 },
+        { "anio": 1899, "txt": "Cae en Moca", "t": 4.2 }
+      ] },
+    { "tipo": "mapa", "region": "hispaniola", "inicio": 15.0, "fin": 20.4,
+      "puntos": [ { "nombre": "Puerto Plata", "t": 1.9 }, { "nombre": "Santo Domingo", "t": 2.4 }, { "nombre": "Moca", "t": 3.5 } ],
+      "ruta": { "de": "Santo Domingo", "a": "Moca", "t": 2.7, "dur": 1.0 },
+      "enfoque": { "lugar": "Moca", "t": 3.9, "escala": 2.0 },
+      "texto": [ { "t": 0.3, "txt": "Un país bajo su *control*" }, { "t": 3.2, "txt": "Hasta que llegó a *Moca*" } ] },
+    { "tipo": "cifra", "inicio": 20.4, "fin": 25.0, "desde": 1882, "hasta": 1899,
+      "texto": [ { "t": 2.2, "txt": "Y todo terminó en *segundos*" } ] },
+    { "tipo": "cierre", "inicio": 25.0, "fin": 30.0, "palabra": "Historia",
+      "proximo": "¿Quién fue Ramón Cáceres, el hombre que lo enfrentó?" }
+  ],
+  "superpuestos": [ { "tipo": "compartir", "inicio": 15.6, "fin": 19.8 } ]
+}

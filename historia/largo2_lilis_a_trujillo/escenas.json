@@ -1,0 +1,2286 @@
+{
+ "serie": "historia",
+ "titulo": "De Lilís a la caída de Trujillo (1870–1961)",
+ "duracion": 642.6,
+ "personajes": {
+  "lilis": {
+   "nombre": "Ulises Heureaux",
+   "etiqueta": "Ulises Heureaux · Lilís",
+   "piel": "#5A3826",
+   "pelo": "rizado",
+   "colorPelo": "#17110E",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "baez": {
+   "nombre": "Buenaventura Báez",
+   "etiqueta": "Buenaventura Báez",
+   "piel": "#D9A77C",
+   "pelo": "calvo",
+   "colorPelo": "#3A2A20",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.3
+  },
+  "luperon": {
+   "nombre": "Gregorio Luperón",
+   "etiqueta": "Gregorio Luperón",
+   "piel": "#8A5A3C",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "manubrio",
+   "barba": "perilla",
+   "ropa": "militar",
+   "mirada": 0.4
+  },
+  "caceres": {
+   "nombre": "Ramón Cáceres",
+   "etiqueta": "Ramón Cáceres",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "cejas": "fruncidas"
+  },
+  "jimenes": {
+   "nombre": "Juan Isidro Jimenes",
+   "etiqueta": "Juan Isidro Jimenes",
+   "piel": "#D8A47A",
+   "pelo": "calvo",
+   "colorPelo": "#CFC8BD",
+   "barba": "corta",
+   "colorBarba": "#DCD6CC",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.4
+  },
+  "horacio": {
+   "nombre": "Horacio Vásquez",
+   "etiqueta": "Horacio Vásquez",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#2B211A",
+   "bigote": "manubrio",
+   "ropa": "militar",
+   "mirada": -0.3
+  },
+  "roosevelt": {
+   "nombre": "Theodore Roosevelt",
+   "etiqueta": "Theodore Roosevelt",
+   "piel": "#EFC3A0",
+   "pelo": "corto",
+   "colorPelo": "#6B4A2F",
+   "bigote": "grueso",
+   "lentes": true,
+   "ropa": "levita"
+  },
+  "desiderio": {
+   "nombre": "Desiderio Arias",
+   "etiqueta": "Desiderio Arias",
+   "piel": "#A46D48",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "sombrero": "sombrero",
+   "cejas": "fruncidas"
+  },
+  "knapp": {
+   "nombre": "Harry Knapp",
+   "etiqueta": "Capitán Harry Knapp",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9A48A",
+   "ropa": "militar",
+   "colorRopa": "#E8E6DE",
+   "sombrero": "kepis",
+   "colorSombrero": "#E8E6DE",
+   "edad": "mayor"
+  },
+  "trujillo_joven": {
+   "nombre": "Rafael L. Trujillo",
+   "etiqueta": "Rafael Leónidas Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#5B6B45",
+   "mirada": 0.3
+  },
+  "trujillo": {
+   "nombre": "Trujillo",
+   "etiqueta": "Rafael L. Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas"
+  },
+  "trujillo_gen": {
+   "nombre": "El Generalísimo",
+   "etiqueta": "Trujillo · Generalísimo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "sombrero": "bicornio",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "minerva": {
+   "nombre": "Minerva Mirabal",
+   "etiqueta": "Minerva Mirabal",
+   "mujer": true,
+   "piel": "#D29A72",
+   "pelo": "largo",
+   "colorPelo": "#1D1612",
+   "ropa": "vestido",
+   "colorRopa": "#2F5D8A",
+   "mirada": 0.3
+  },
+  "maria_teresa": {
+   "nombre": "María Teresa Mirabal",
+   "etiqueta": "María Teresa Mirabal",
+   "mujer": true,
+   "piel": "#D8A47E",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "ropa": "vestido",
+   "colorRopa": "#8A3B4F",
+   "mirada": -0.3
+  },
+  "manolo": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo Tavárez Justo",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#7C8A5A"
+  },
+  "betancourt": {
+   "nombre": "Rómulo Betancourt",
+   "etiqueta": "Rómulo Betancourt",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#9A9086",
+   "lentes": true,
+   "ropa": "levita",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "cifra",
+   "inicio": 0,
+   "fin": 7.4,
+   "desde": 0,
+   "hasta": 15000,
+   "miles": true,
+   "prefijo": "+",
+   "durConteo": 1.4,
+   "texto": [
+    {
+     "t": 1.6,
+     "txt": "dominicanos *votaron*"
+    },
+    {
+     "t": 4.4,
+     "txt": "para unirse a *Estados Unidos*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 7.4,
+   "fin": 10.0,
+   "barras": [
+    {
+     "etiqueta": "A favor",
+     "valor": 15000,
+     "prefijo": "+",
+     "t": 0.1
+    },
+    {
+     "etiqueta": "En contra",
+     "valor": 11,
+     "t": 0.5
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Solo *11* en contra"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 10.0,
+   "fin": 11.6,
+   "fondo": "1870",
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "¿Por qué *nunca* pasó?"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 11.6,
+   "fin": 15.6,
+   "personaje": "lilis",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Lo que vino después fue *peor*"
+    },
+    {
+     "t": 2.6,
+     "txt": "Un dictador que lo *sabía todo*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 15.6,
+   "fin": 20.4,
+   "hitos": [
+    {
+     "anio": 1863,
+     "txt": "Guerra de la Restauración",
+     "t": 0.2
+    },
+    {
+     "anio": 1865,
+     "txt": "Recuperamos la independencia",
+     "t": 2.0
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 20.4,
+   "fin": 26.0,
+   "personaje": "baez",
+   "personaje2": "luperon",
+   "t2": 2.8,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un país *destruido* y dividido"
+    },
+    {
+     "t": 2.8,
+     "txt": "*Rojos* de Báez, *azules* de Luperón"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 26.0,
+   "fin": 34.2,
+   "personaje": "baez",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1868: Báez vuelve al *poder*"
+    },
+    {
+     "t": 3.0,
+     "txt": "Otra vez quiere *entregar* el país"
+    },
+    {
+     "t": 6.0,
+     "txt": "ahora a *Estados Unidos*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 34.2,
+   "fin": 41.6,
+   "preset": "pueblo",
+   "semilla": 7,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un plebiscito *imposible*"
+    },
+    {
+     "t": 3.4,
+     "txt": "+15,000 a favor, solo *11* en contra"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 41.6,
+   "fin": 46.4,
+   "fondo": "NO",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1870: el Senado de EE.UU."
+    },
+    {
+     "t": 2.2,
+     "txt": "*rechaza* la anexión"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 46.4,
+   "fin": 52.4,
+   "puntos": [
+    {
+     "nombre": "Puerto Plata",
+     "t": 3.2
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "Puerto Plata",
+     "escala": 1.8,
+     "t": 3.8
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "La República *sobrevive*"
+    },
+    {
+     "t": 2.6,
+     "txt": "Un joven general de *Puerto Plata*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 52.4,
+   "fin": 59.2,
+   "personaje": "lilis",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Héroe de la *Restauración*"
+    },
+    {
+     "t": 3.2,
+     "txt": "Ulises Heureaux"
+    },
+    {
+     "t": 4.4,
+     "txt": "Todos lo llamaban *Lilís*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 59.2,
+   "fin": 66.0,
+   "hitos": [
+    {
+     "anio": 1882,
+     "txt": "Llega a la presidencia",
+     "t": 0.2
+    },
+    {
+     "anio": 1887,
+     "txt": "Vuelve para no irse más",
+     "t": 3.0
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 66.0,
+   "fin": 74.0,
+   "puntos": [
+    {
+     "nombre": "Santiago",
+     "t": 0.5
+    },
+    {
+     "nombre": "La Vega",
+     "t": 1.05
+    },
+    {
+     "nombre": "Moca",
+     "t": 1.6
+    },
+    {
+     "nombre": "Azua",
+     "t": 2.15
+    },
+    {
+     "nombre": "San Juan",
+     "t": 2.7
+    },
+    {
+     "nombre": "Higüey",
+     "t": 3.25
+    },
+    {
+     "nombre": "Barahona",
+     "t": 3.8
+    },
+    {
+     "nombre": "Samaná",
+     "t": 4.35
+    },
+    {
+     "nombre": "Monte Cristi",
+     "t": 4.9
+    },
+    {
+     "nombre": "San Pedro de Macorís",
+     "t": 5.45
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Espías en *cada pueblo*"
+    },
+    {
+     "t": 1.6,
+     "txt": "A unos los compraba, a otros los exiliaba"
+    },
+    {
+     "t": 5.4,
+     "txt": "y a muchos los mandaba a *matar*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 74.0,
+   "fin": 82.2,
+   "personaje": "luperon",
+   "personaje2": "lilis",
+   "t2": 4.4,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Ni Luperón, su maestro, se *salvó*"
+    },
+    {
+     "t": 2.6,
+     "txt": "Murió en *1897*"
+    },
+    {
+     "t": 6.0,
+     "txt": "enfrentado al hombre que había *formado*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 82.2,
+   "fin": 87.8,
+   "puntos": [
+    {
+     "nombre": "Santiago",
+     "t": 1.2
+    },
+    {
+     "nombre": "Puerto Plata",
+     "t": 2.4
+    }
+   ],
+   "ruta": {
+    "de": "Santiago",
+    "a": "Puerto Plata",
+    "dur": 1.6,
+    "t": 1.6
+   },
+   "enfoques": [
+    {
+     "lugar": "Santiago",
+     "escala": 1.9,
+     "t": 0.8
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Telégrafo"
+    },
+    {
+     "t": 1.6,
+     "txt": "Ferrocarril *Santiago – Puerto Plata*"
+    },
+    {
+     "t": 3.4,
+     "txt": "Auge del *azúcar*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 87.8,
+   "fin": 94.6,
+   "desde": 100,
+   "hasta": 2,
+   "prefijo": "$",
+   "tConteo": 0.4,
+   "durConteo": 4.5,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Préstamos y billetes *sin respaldo*"
+    },
+    {
+     "t": 3.2,
+     "txt": "Las *papeletas* de Lilís casi no valían nada"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 94.6,
+   "fin": 101.0,
+   "preset": "pueblo",
+   "semilla": 4,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "26 de julio de *1899*"
+    },
+    {
+     "t": 2.6,
+     "txt": "*Moca*"
+    },
+    {
+     "t": 3.2,
+     "txt": "Un grupo de jóvenes lo *espera*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 101.0,
+   "fin": 106.2,
+   "personaje": "caceres",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Entre ellos, *Ramón Cáceres*"
+    },
+    {
+     "t": 2.6,
+     "txt": "Los disparos acaban con *Lilís*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 106.2,
+   "fin": 111.4,
+   "fondo": "1899",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Termina la *dictadura*"
+    },
+    {
+     "t": 1.4,
+     "txt": "pero queda una *deuda*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 111.4,
+   "fin": 117.8,
+   "fondo": "$",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Mataron al dictador"
+    },
+    {
+     "t": 1.6,
+     "txt": "pero nadie mató la *deuda*"
+    },
+    {
+     "t": 3.4,
+     "txt": "Y la deuda trajo *soldados extranjeros*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 117.8,
+   "fin": 122.6,
+   "puntos": [
+    {
+     "nombre": "Moca",
+     "t": 1.8
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "Moca",
+     "escala": 2.1,
+     "t": 2.2
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Julio de *1899*"
+    },
+    {
+     "t": 2.8,
+     "txt": "Lilís cae a tiros en *Moca*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 122.6,
+   "fin": 126.2,
+   "preset": "pueblo",
+   "semilla": 9,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "El país *celebra*"
+    },
+    {
+     "t": 1.2,
+     "txt": "pero las arcas están *vacías*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 126.2,
+   "fin": 130.4,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Deudas con Europa",
+     "t": 0.1
+    },
+    {
+     "icono": "alerta",
+     "txt": "Deudas con Estados Unidos",
+     "t": 1.2
+    },
+    {
+     "icono": "x",
+     "txt": "Y no hay con qué pagar",
+     "t": 2.6
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 130.4,
+   "fin": 137.6,
+   "personaje": "jimenes",
+   "personaje2": "horacio",
+   "t2": 2.2,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Llegan dos *caudillos*"
+    },
+    {
+     "t": 1.8,
+     "txt": "Jimenes y Vásquez"
+    },
+    {
+     "t": 4.4,
+     "txt": "Primero *aliados*"
+    },
+    {
+     "t": 5.6,
+     "txt": "después *enemigos*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 137.6,
+   "fin": 145.4,
+   "fondo": "VS",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "El país, en *dos bandos*"
+    },
+    {
+     "t": 1.4,
+     "txt": "como en una gallera"
+    },
+    {
+     "t": 3.2,
+     "txt": "*Bolos* y *coludos*"
+    },
+    {
+     "t": 5.2,
+     "txt": "Cada pocos meses, una *revolución*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 145.4,
+   "fin": 154.2,
+   "preset": "puerto",
+   "semilla": 3,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Acreedores *europeos*"
+    },
+    {
+     "t": 1.0,
+     "txt": "amenazan con *barcos de guerra*"
+    },
+    {
+     "t": 5.8,
+     "txt": "EE.UU. no quiere europeos en el *Caribe*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 154.2,
+   "fin": 161.6,
+   "personaje": "roosevelt",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1905"
+    },
+    {
+     "t": 2.0,
+     "txt": "*Theodore Roosevelt* hace una oferta"
+    },
+    {
+     "t": 5.0,
+     "txt": "Nosotros cobramos sus *aduanas*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 161.6,
+   "fin": 166.4,
+   "barras": [
+    {
+     "etiqueta": "Deuda",
+     "valor": 55,
+     "sufijo": "%",
+     "t": 0.2
+    },
+    {
+     "etiqueta": "Gobierno",
+     "valor": 45,
+     "sufijo": "%",
+     "t": 2.6
+    }
+   ],
+   "max": 60,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "*55 %* para pagar la deuda"
+    },
+    {
+     "t": 2.6,
+     "txt": "el resto, para el gobierno"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 166.4,
+   "fin": 174.2,
+   "hitos": [
+    {
+     "anio": 1905,
+     "txt": "EE.UU. cobra las aduanas",
+     "t": 0.1
+    },
+    {
+     "anio": 1907,
+     "txt": "Se firma la Convención",
+     "t": 1.0
+    }
+   ],
+   "texto": [
+    {
+     "t": 3.4,
+     "txt": "El dinero de los puertos lo cuenta un *extranjero*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 174.2,
+   "fin": 180.8,
+   "personaje": "caceres",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un respiro con *Ramón Cáceres*"
+    },
+    {
+     "t": 2.2,
+     "txt": "el mismo que le disparó a Lilís"
+    },
+    {
+     "t": 4.6,
+     "txt": "Pone orden y *construye*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 180.8,
+   "fin": 188.2,
+   "desde": 1906,
+   "hasta": 1911,
+   "durConteo": 1.2,
+   "texto": [
+    {
+     "t": 1.6,
+     "txt": "Lo matan a *él también*"
+    },
+    {
+     "t": 4.6,
+     "txt": "Vuelve el *caos*"
+    },
+    {
+     "t": 5.4,
+     "txt": "Varios presidentes en *cinco años*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 188.2,
+   "fin": 196.4,
+   "personaje": "desiderio",
+   "personaje2": "jimenes",
+   "t2": 4.0,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1916"
+    },
+    {
+     "t": 1.6,
+     "txt": "El ministro de Guerra, *Desiderio Arias*"
+    },
+    {
+     "t": 4.0,
+     "txt": "se levanta contra Jimenes"
+    },
+    {
+     "t": 6.6,
+     "txt": "Jimenes *renuncia*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 196.4,
+   "fin": 201.8,
+   "preset": "puerto",
+   "semilla": 5,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Mayo de 1916"
+    },
+    {
+     "t": 1.4,
+     "txt": "Los *marines* toman Santo Domingo"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 201.8,
+   "fin": 211.0,
+   "personaje": "knapp",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "29 de noviembre"
+    },
+    {
+     "t": 1.6,
+     "txt": "El capitán *Harry Knapp*"
+    },
+    {
+     "t": 5.0,
+     "txt": "Gobierno militar de *Estados Unidos*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 211.0,
+   "fin": 216.6,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Sin presidente",
+     "t": 0.1
+    },
+    {
+     "icono": "x",
+     "txt": "Sin congreso",
+     "t": 1.4
+    },
+    {
+     "icono": "alerta",
+     "txt": "Con censura",
+     "t": 2.4
+    },
+    {
+     "icono": "reloj",
+     "txt": "Ocho años de ocupación",
+     "t": 3.4
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 216.6,
+   "fin": 221.2,
+   "personaje": "trujillo_joven",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "De esa ocupación saldría"
+    },
+    {
+     "t": 2.2,
+     "txt": "un joven guardia que lo *controlaría todo*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 221.2,
+   "fin": 226.6,
+   "fondo": "1918",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Entró como un *desconocido*"
+    },
+    {
+     "t": 2.6,
+     "txt": "12 años después, *dueño del país*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 226.6,
+   "fin": 239.6,
+   "puntos": [
+    {
+     "nombre": "Santo Domingo",
+     "t": 7.0
+    },
+    {
+     "nombre": "Santiago",
+     "t": 9.4
+    }
+   ],
+   "ruta": {
+    "de": "Santo Domingo",
+    "a": "Santiago",
+    "dur": 2.2,
+    "t": 7.6
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1916"
+    },
+    {
+     "t": 2.2,
+     "txt": "Los marines *gobiernan*"
+    },
+    {
+     "t": 5.2,
+     "txt": "Desarman y *censuran*"
+    },
+    {
+     "t": 6.8,
+     "txt": "Carreteras: la capital con el *Cibao*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 239.6,
+   "fin": 245.6,
+   "puntos": [
+    {
+     "nombre": "El Seibo",
+     "t": 3.2
+    },
+    {
+     "nombre": "San Pedro de Macorís",
+     "t": 4.4
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "El Seibo",
+     "escala": 1.9,
+     "t": 2.4
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "No todos se quedan *quietos*"
+    },
+    {
+     "t": 2.2,
+     "txt": "En el Este"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 245.6,
+   "fin": 253.2,
+   "preset": "campo",
+   "semilla": 6,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Campesinos armados les hacen la *guerra*"
+    },
+    {
+     "t": 3.0,
+     "txt": "Los llaman *gavilleros*"
+    },
+    {
+     "t": 5.4,
+     "txt": "La respuesta es *dura*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 253.2,
+   "fin": 259.4,
+   "fondo": "1917",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Para mantener el orden"
+    },
+    {
+     "t": 1.6,
+     "txt": "crean una fuerza nueva"
+    },
+    {
+     "t": 4.0,
+     "txt": "la *Guardia Nacional*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 259.4,
+   "fin": 268.2,
+   "personaje": "trujillo_joven",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1918"
+    },
+    {
+     "t": 1.8,
+     "txt": "Un joven de *San Cristóbal*"
+    },
+    {
+     "t": 4.4,
+     "txt": "27 años"
+    },
+    {
+     "t": 6.2,
+     "txt": "*Rafael Leónidas Trujillo*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 268.2,
+   "fin": 275.6,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Aprende rápido",
+     "t": 0.1
+    },
+    {
+     "icono": "check",
+     "txt": "Disciplinado",
+     "t": 1.4
+    },
+    {
+     "icono": "check",
+     "txt": "Ordenado",
+     "t": 2.4
+    },
+    {
+     "icono": "check",
+     "txt": "Sabe a quién obedecer",
+     "t": 3.4
+    }
+   ],
+   "texto": [
+    {
+     "t": 5.4,
+     "txt": "Sube de rango una y otra vez"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 275.6,
+   "fin": 290.4,
+   "hitos": [
+    {
+     "anio": 1918,
+     "txt": "Entra a la Guardia",
+     "t": 0.1
+    },
+    {
+     "anio": 1924,
+     "txt": "Se van los marines",
+     "t": 1.0
+    },
+    {
+     "anio": 1928,
+     "txt": "General y jefe del Ejército",
+     "t": 9.2
+    }
+   ],
+   "texto": [
+    {
+     "t": 3.4,
+     "txt": "Horacio Vásquez *vuelve*"
+    },
+    {
+     "t": 6.2,
+     "txt": "Confía en Trujillo"
+    },
+    {
+     "t": 8.2,
+     "txt": "Lo *asciende*"
+    },
+    {
+     "t": 11.4,
+     "txt": "General y jefe del *Ejército*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 290.4,
+   "fin": 298.0,
+   "personaje": "horacio",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Vásquez comete un *error*"
+    },
+    {
+     "t": 2.6,
+     "txt": "quiere quedarse más *tiempo*"
+    },
+    {
+     "t": 5.4,
+     "txt": "Febrero de *1930*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 298.0,
+   "fin": 306.2,
+   "puntos": [
+    {
+     "nombre": "Santiago",
+     "t": 0.4
+    },
+    {
+     "nombre": "Santo Domingo",
+     "t": 2.6
+    }
+   ],
+   "ruta": {
+    "de": "Santiago",
+    "a": "Santo Domingo",
+    "dur": 2.4,
+    "t": 0.8
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un movimiento sale de *Santiago*"
+    },
+    {
+     "t": 3.2,
+     "txt": "Vásquez espera al ejército"
+    },
+    {
+     "t": 5.8,
+     "txt": "El ejército *no se mueve*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 306.2,
+   "fin": 311.6,
+   "preset": "pueblo",
+   "semilla": 12,
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Trujillo deja a sus soldados en el *cuartel*"
+    },
+    {
+     "t": 2.8,
+     "txt": "El gobierno cae *sin pelear*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 311.6,
+   "fin": 319.6,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Tres meses después, elecciones",
+     "t": 0.1
+    },
+    {
+     "icono": "x",
+     "txt": "Opositores perseguidos",
+     "t": 2.6
+    },
+    {
+     "icono": "corona",
+     "txt": "Trujillo gana prácticamente solo",
+     "t": 5.6
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 319.6,
+   "fin": 328.2,
+   "personaje": "trujillo",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "16 de agosto de *1930*"
+    },
+    {
+     "t": 2.4,
+     "txt": "Se pone la *banda presidencial*"
+    },
+    {
+     "t": 5.2,
+     "txt": "La tendría *31 años*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 328.2,
+   "fin": 333.8,
+   "fondo": "1930",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "18 días después"
+    },
+    {
+     "t": 2.6,
+     "txt": "un *huracán* le daría la excusa"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 333.8,
+   "fin": 340.4,
+   "preset": "pueblo",
+   "semilla": 14,
+   "colores": {
+    "cielo": [
+     "#1B2233",
+     "#4A5468"
+    ],
+    "sol": "#9AA5B8",
+    "nube": "#5B6578",
+    "lejos": "#2A3245"
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un huracán *destruye* la capital"
+    },
+    {
+     "t": 2.6,
+     "txt": "y un hombre se queda con *todo*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 340.4,
+   "fin": 349.8,
+   "desde": 1,
+   "hasta": 18,
+   "sufijo": " días",
+   "durConteo": 2.5,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "3 de septiembre de 1930"
+    },
+    {
+     "t": 3.0,
+     "txt": "Trujillo lleva 18 días en el poder"
+    },
+    {
+     "t": 6.0,
+     "txt": "Ciclón de *San Zenón*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 349.8,
+   "fin": 355.8,
+   "preset": "pueblo",
+   "semilla": 15,
+   "colores": {
+    "cielo": [
+     "#1B2233",
+     "#4A5468"
+    ],
+    "sol": "#9AA5B8",
+    "nube": "#5B6578",
+    "lejos": "#2A3245"
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Barrios enteros *desaparecen*"
+    },
+    {
+     "t": 2.2,
+     "txt": "Muertos por *miles*"
+    },
+    {
+     "t": 4.4,
+     "txt": "En medio del desastre"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 355.8,
+   "fin": 367.8,
+   "personaje": "trujillo",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Poderes de *emergencia*"
+    },
+    {
+     "t": 2.8,
+     "txt": "Organiza la reconstrucción"
+    },
+    {
+     "t": 5.2,
+     "txt": "Aparece en *todas partes*"
+    },
+    {
+     "t": 8.2,
+     "txt": "Termina la emergencia"
+    },
+    {
+     "t": 10.0,
+     "txt": "Los poderes *no se devuelven*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 367.8,
+   "fin": 381.8,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Los partidos desaparecen",
+     "t": 0.1
+    },
+    {
+     "icono": "check",
+     "txt": "Queda uno: el Partido Dominicano",
+     "t": 3.0
+    },
+    {
+     "icono": "alerta",
+     "txt": "Para trabajar, hay que estar inscrito",
+     "t": 6.4
+    },
+    {
+     "icono": "alerta",
+     "txt": "10 % del sueldo para el partido",
+     "t": 9.2
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 381.8,
+   "fin": 387.6,
+   "fondo": "3",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Los opositores: *tres caminos*"
+    },
+    {
+     "t": 2.6,
+     "txt": "*Callar*"
+    },
+    {
+     "t": 3.6,
+     "txt": "*Irse* o *desaparecer*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 387.6,
+   "fin": 397.8,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "La sal",
+     "t": 1.6
+    },
+    {
+     "icono": "gota",
+     "txt": "La leche",
+     "t": 2.2
+    },
+    {
+     "icono": "fuego",
+     "txt": "La carne",
+     "t": 2.8
+    },
+    {
+     "icono": "estrella",
+     "txt": "El tabaco",
+     "t": 3.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Después, los *negocios*"
+    },
+    {
+     "t": 4.4,
+     "txt": "Poco a poco, todo pasa"
+    },
+    {
+     "t": 7.2,
+     "txt": "por las manos de *una sola familia*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 397.8,
+   "fin": 406.2,
+   "personaje": "trujillo_gen",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Después, los *nombres*"
+    },
+    {
+     "t": 2.0,
+     "txt": "*Benefactor* de la Patria"
+    },
+    {
+     "t": 6.4,
+     "txt": "Luego, *Generalísimo*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 406.2,
+   "fin": 418.8,
+   "puntos": [
+    {
+     "lugar": "Santo Domingo",
+     "etiqueta": "Ciudad Trujillo",
+     "t": 6.0
+    },
+    {
+     "lugar": [
+      -70.99,
+      19.03
+     ],
+     "etiqueta": "Pico Trujillo",
+     "t": 10.6
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "Santo Domingo",
+     "escala": 1.8,
+     "t": 3.4
+    },
+    {
+     "lugar": [
+      -70.99,
+      19.03
+     ],
+     "escala": 1.8,
+     "t": 8.4
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1936"
+    },
+    {
+     "t": 2.0,
+     "txt": "La ciudad más antigua de América"
+    },
+    {
+     "t": 4.0,
+     "txt": "deja de llamarse Santo Domingo"
+    },
+    {
+     "t": 6.0,
+     "txt": "*Ciudad Trujillo*"
+    },
+    {
+     "t": 8.4,
+     "txt": "La montaña más alta del Caribe"
+    },
+    {
+     "t": 10.6,
+     "txt": "*Pico Trujillo*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 418.8,
+   "fin": 428.0,
+   "fondo": "JEFE",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "En las casas, una placa"
+    },
+    {
+     "t": 3.4,
+     "txt": "«En este hogar, *Trujillo es el jefe*»"
+    },
+    {
+     "t": 7.0,
+     "txt": "En las calles, un letrero"
+    },
+    {
+     "t": 8.2,
+     "txt": "«Dios y *Trujillo*»"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 428.0,
+   "fin": 431.2,
+   "desde": 0,
+   "hasta": 6,
+   "sufijo": " años",
+   "durConteo": 0.8,
+   "texto": [
+    {
+     "t": 0.6,
+     "txt": "para ponerle su *nombre* al país"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 431.2,
+   "fin": 444.0,
+   "fondo": "1937",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Al año siguiente, en la *frontera*"
+    },
+    {
+     "t": 2.4,
+     "txt": "la orden más *oscura* de su gobierno"
+    },
+    {
+     "t": 5.8,
+     "txt": "Miles de muertos en *una semana*"
+    },
+    {
+     "t": 9.8,
+     "txt": "Y durante años, *silencio*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 444.0,
+   "fin": 462.6,
+   "puntos": [
+    {
+     "nombre": "Dajabón",
+     "t": 3.4
+    },
+    {
+     "nombre": "Monte Cristi",
+     "t": 4.2
+    },
+    {
+     "nombre": "Pedernales",
+     "t": 5.0
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "Dajabón",
+     "escala": 2.1,
+     "t": 7.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1937"
+    },
+    {
+     "t": 2.8,
+     "txt": "Miles de familias *haitianas* en la frontera"
+    },
+    {
+     "t": 7.8,
+     "txt": "Muchas llevan *generaciones* ahí"
+    },
+    {
+     "t": 10.4,
+     "txt": "Trabajan, comercian, tienen hijos aquí"
+    },
+    {
+     "t": 14.6,
+     "txt": "La frontera casi *no existe*"
+    },
+    {
+     "t": 16.8,
+     "txt": "La gente cruza, compra y regresa"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 462.6,
+   "fin": 474.2,
+   "personaje": "trujillo_gen",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "2 de octubre"
+    },
+    {
+     "t": 1.6,
+     "txt": "Trujillo está en *Dajabón*"
+    },
+    {
+     "t": 4.6,
+     "txt": "Esa noche, en una fiesta"
+    },
+    {
+     "t": 6.4,
+     "txt": "anuncia que lo va a *resolver*"
+    },
+    {
+     "t": 9.6,
+     "txt": "La orden baja a los *cuarteles*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 474.2,
+   "fin": 484.6,
+   "preset": "campo",
+   "semilla": 21,
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Soldados recorren el *noroeste*"
+    },
+    {
+     "t": 4.2,
+     "txt": "Machetes y cuchillos, *no fusiles*"
+    },
+    {
+     "t": 6.2,
+     "txt": "para que parezca obra de *campesinos*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 484.6,
+   "fin": 493.4,
+   "fondo": "?",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Les pedían decir una palabra"
+    },
+    {
+     "t": 3.8,
+     "txt": "*Perejil*"
+    },
+    {
+     "t": 5.0,
+     "txt": "Quien no la pronunciaba como dominicano"
+    },
+    {
+     "t": 7.6,
+     "txt": "quedaba *señalado*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 493.4,
+   "fin": 502.8,
+   "desde": 0,
+   "hasta": 20000,
+   "miles": true,
+   "sufijo": "?",
+   "durConteo": 3.5,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Nadie sabe cuántos murieron"
+    },
+    {
+     "t": 2.4,
+     "txt": "12,000, 20,000, *o más*"
+    },
+    {
+     "t": 7.0,
+     "txt": "La cifra exacta *nunca se sabrá*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 502.8,
+   "fin": 511.0,
+   "fondo": "1938",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "La noticia sale al *mundo*"
+    },
+    {
+     "t": 2.0,
+     "txt": "Presión *internacional*"
+    },
+    {
+     "t": 3.8,
+     "txt": "El gobierno acepta indemnizar a *Haití*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 511.0,
+   "fin": 519.6,
+   "desde": 0,
+   "hasta": 750000,
+   "miles": true,
+   "prefijo": "US$",
+   "durConteo": 1.8,
+   "tam": 250,
+   "texto": [
+    {
+     "t": 2.4,
+     "txt": "Al final se entregó *menos*"
+    },
+    {
+     "t": 4.2,
+     "txt": "Casi nada llegó a las *familias*"
+    },
+    {
+     "t": 6.2,
+     "txt": "Ningún jefe fue *castigado*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 519.6,
+   "fin": 528.0,
+   "personaje": "trujillo_gen",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Dentro del país, *silencio*"
+    },
+    {
+     "t": 3.2,
+     "txt": "24 años más en el poder"
+    },
+    {
+     "t": 6.2,
+     "txt": "Pero el miedo *no dura para siempre*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 528.0,
+   "fin": 535.0,
+   "personaje": "minerva",
+   "personaje2": "maria_teresa",
+   "t2": 1.8,
+   "etiqueta": "Hermanas Mirabal",
+   "etiqueta2": "Salcedo",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Las que más lo *desafiaron*"
+    },
+    {
+     "t": 1.8,
+     "txt": "tres hermanas de *Salcedo*"
+    },
+    {
+     "t": 3.6,
+     "txt": "Las mandó a matar para acabar con la *oposición*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 535.0,
+   "fin": 538.0,
+   "fondo": "1961",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Seis meses después"
+    },
+    {
+     "t": 1.4,
+     "txt": "el muerto era *él*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 538.0,
+   "fin": 553.6,
+   "puntos": [
+    {
+     "lugar": [
+      -70.75,
+      18.91
+     ],
+     "etiqueta": "Constanza",
+     "t": 4.4
+    },
+    {
+     "lugar": [
+      -70.98,
+      19.86
+     ],
+     "etiqueta": "Maimón",
+     "t": 8.8
+    },
+    {
+     "lugar": [
+      -71.22,
+      19.82
+     ],
+     "etiqueta": "Estero Hondo",
+     "lado": -1,
+     "t": 9.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "14 de junio de *1959*"
+    },
+    {
+     "t": 3.2,
+     "txt": "Exiliados llegan por aire a *Constanza*"
+    },
+    {
+     "t": 8.0,
+     "txt": "Otros desembarcan en *Maimón* y *Estero Hondo*"
+    },
+    {
+     "t": 11.0,
+     "txt": "Vienen a tumbar a Trujillo"
+    },
+    {
+     "t": 12.8,
+     "txt": "Casi todos *mueren*"
+    },
+    {
+     "t": 14.2,
+     "txt": "Pero la fecha *queda*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 553.6,
+   "fin": 564.0,
+   "personaje": "manolo",
+   "personaje2": "minerva",
+   "t2": 7.4,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Nace un movimiento *clandestino*"
+    },
+    {
+     "t": 4.0,
+     "txt": "El *14 de Junio*"
+    },
+    {
+     "t": 5.8,
+     "txt": "Manolo Tavárez Justo"
+    },
+    {
+     "t": 7.4,
+     "txt": "y su esposa, *Minerva Mirabal*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 564.0,
+   "fin": 575.2,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Cientos de jóvenes van a la cárcel",
+     "t": 3.4
+    },
+    {
+     "icono": "alerta",
+     "txt": "Muchos, de familias conocidas",
+     "t": 5.8
+    },
+    {
+     "icono": "libro",
+     "txt": "Hasta la Iglesia protesta",
+     "t": 8.4
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1960: el régimen los *descubre*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 575.2,
+   "fin": 586.2,
+   "personaje": "betancourt",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Ese mismo año"
+    },
+    {
+     "t": 1.0,
+     "txt": "manda a matar a *Rómulo Betancourt*"
+    },
+    {
+     "t": 3.8,
+     "txt": "presidente de Venezuela"
+    },
+    {
+     "t": 5.2,
+     "txt": "El atentado *falla*"
+    },
+    {
+     "t": 6.6,
+     "txt": "América le *rompe relaciones*"
+    },
+    {
+     "t": 9.4,
+     "txt": "El régimen queda *solo*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 586.2,
+   "fin": 595.6,
+   "personaje": "minerva",
+   "personaje2": "maria_teresa",
+   "t2": 2.6,
+   "etiqueta": "Minerva Mirabal",
+   "etiqueta2": "María Teresa Mirabal",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "25 de noviembre de *1960*"
+    },
+    {
+     "t": 2.6,
+     "txt": "Minerva y María Teresa"
+    },
+    {
+     "t": 6.4,
+     "txt": "regresan de ver a sus esposos presos"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 595.6,
+   "fin": 606.4,
+   "preset": "campo",
+   "semilla": 30,
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "En la carretera las *detienen*"
+    },
+    {
+     "t": 2.0,
+     "txt": "Las matan, junto a su chofer"
+    },
+    {
+     "t": 4.4,
+     "txt": "*Rufino de la Cruz*"
+    },
+    {
+     "t": 5.4,
+     "txt": "Quieren que parezca un *accidente*"
+    },
+    {
+     "t": 9.4,
+     "txt": "Nadie lo *creyó*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 606.4,
+   "fin": 618.2,
+   "puntos": [
+    {
+     "nombre": "Santo Domingo",
+     "lado": 1,
+     "t": 5.0
+    },
+    {
+     "nombre": "San Cristóbal",
+     "lado": -1,
+     "t": 6.6
+    }
+   ],
+   "ruta": {
+    "de": "Santo Domingo",
+    "a": "San Cristóbal",
+    "dur": 2.2,
+    "t": 5.5
+   },
+   "enfoques": [
+    {
+     "lugar": "San Cristóbal",
+     "escala": 2.4,
+     "t": 7.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Seis meses después"
+    },
+    {
+     "t": 1.6,
+     "txt": "30 de mayo de *1961*"
+    },
+    {
+     "t": 5.4,
+     "txt": "Rumbo a *San Cristóbal*"
+    },
+    {
+     "t": 8.0,
+     "txt": "casi sin escolta"
+    },
+    {
+     "t": 9.6,
+     "txt": "Lo están *esperando*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 618.2,
+   "fin": 622.4,
+   "desde": 1930,
+   "hasta": 1961,
+   "durConteo": 1.2,
+   "texto": [
+    {
+     "t": 1.4,
+     "txt": "31 años de dictadura *terminan*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 622.4,
+   "fin": 629.4,
+   "personaje": "minerva",
+   "personaje2": "maria_teresa",
+   "t2": 1.6,
+   "etiqueta": "Minerva Mirabal",
+   "etiqueta2": "María Teresa Mirabal",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Hoy, cada *25 de noviembre*"
+    },
+    {
+     "t": 3.6,
+     "txt": "el mundo recuerda a las *Mirabal*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 629.4,
+   "fin": 636.4,
+   "fondo": "1962",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "El país por fin vota *libremente*"
+    },
+    {
+     "t": 3.4,
+     "txt": "y el elegido duró *siete meses*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 636.4,
+   "fin": 642.6,
+   "palabra": "Historia",
+   "proximo": "El presidente que duró siete meses"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 318.0,
+   "fin": 323.0
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "serie": "biblia",
+  "titulo": "Prueba · Melquisedec",
+  "duracion": 22,
+  "personajes": {
+    "melquisedec": { "nombre": "Melquisedec", "etiqueta": "Melquisedec", "piel": "#B47E55", "pelo": "largo", "colorPelo": "#D8D2C4", "barba": "larga", "colorBarba": "#D8D2C4", "sombrero": "corona", "ropa": "tunica", "colorRopa": "#EFE6D2", "colorManto": "#6B2D5C", "edad": "mayor" },
+    "abraham": { "nombre": "Abraham", "etiqueta": "Abraham", "piel": "#B07A50", "pelo": "largo", "colorPelo": "#8E8A84", "barba": "larga", "colorBarba": "#9A958E", "sombrero": "manto", "colorManto": "#7A5532", "ropa": "tunica", "colorRopa": "#8B5E3C", "edad": "mayor", "mirada": 0.4 }
+  },
+  "escenas": [
+    { "tipo": "titular", "inicio": 0, "fin": 3.5, "fondo": "?", "texto": [ { "t": 0.2, "txt": "Un hombre *sin padre* ni madre" } ] },
+    { "tipo": "retrato", "personaje": "melquisedec", "personaje2": "abraham", "t2": 2.2, "inicio": 3.5, "fin": 7.5,
+      "texto": [ { "t": 0.3, "txt": "Rey de *Salem*" }, { "t": 2.2, "txt": "y Abraham se inclinó ante él" } ] },
+    { "tipo": "versiculo", "inicio": 7.5, "fin": 14.5, "cita": "Génesis 14:18", "versiculo": "Entonces *Melquisedec*, rey de Salem y sacerdote del Dios Altísimo, sacó *pan y vino*;" },
+    { "tipo": "mapa", "region": "levante", "inicio": 14.5, "fin": 19, "puntos": [ { "nombre": "Salem", "t": 1.8 } ], "enfoque": { "lugar": "Salem", "t": 2.4, "escala": 2.4 },
+      "texto": [ { "t": 0.3, "txt": "Salem, la futura *Jerusalén*" } ] },
+    { "tipo": "cierre", "inicio": 19, "fin": 22, "palabra": "Biblia", "proximo": "El hombre que nunca murió" }
+  ],
+  "superpuestos": [ { "tipo": "compartir", "inicio": 9.5, "fin": 13 } ]
+}
