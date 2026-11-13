@@ -1,0 +1,737 @@
+{
+"duracion": 537.16,
+"frases": [
+{
+"i": 0,
+"txt": "¿Qué le pasa a tu cuerpo si comes huevo todos los días?",
+"ini": 0.0,
+"fin": 3.28
+},
+{
+"i": 1,
+"txt": "¿Y plátano, arroz, habichuelas, aguacate o avena?",
+"ini": 3.77,
+"fin": 7.61
+},
+{
+"i": 2,
+"txt": "Son las comidas que están en casi todas las mesas, y cada una hace algo distinto dentro de ti.",
+"ini": 8.35,
+"fin": 14.15
+},
+{
+"i": 3,
+"txt": "Esto es lo que pasa cuando las comes todos los días.",
+"ini": 14.88,
+"fin": 17.78
+},
+{
+"i": 4,
+"txt": "¿Qué le pasa a tu cuerpo si comes huevo todos los días?",
+"ini": 18.77,
+"fin": 21.9
+},
+{
+"i": 5,
+"txt": "Uno.",
+"ini": 22.57,
+"fin": 22.82
+},
+{
+"i": 6,
+"txt": "Recibes una de las proteínas más completas que existen.",
+"ini": 23.44,
+"fin": 26.59
+},
+{
+"i": 7,
+"txt": "Un huevo trae unos seis gramos de proteína, con todos los aminoácidos que tu cuerpo necesita y no puede fabricar solo.",
+"ini": 27.22,
+"fin": 34.51
+},
+{
+"i": 8,
+"txt": "Por eso llena tanto y ayuda a mantener los músculos.",
+"ini": 35.05,
+"fin": 38.11
+},
+{
+"i": 9,
+"txt": "Dos.",
+"ini": 38.67,
+"fin": 39.12
+},
+{
+"i": 10,
+"txt": "La yema, la parte que mucha gente bota, es donde está casi todo lo bueno.",
+"ini": 39.57,
+"fin": 44.16
+},
+{
+"i": 11,
+"txt": "Tiene colina, que el cerebro usa para la memoria y la comunicación entre las neuronas.",
+"ini": 44.67,
+"fin": 49.35
+},
+{
+"i": 12,
+"txt": "Y tiene luteína y zeaxantina, dos sustancias que se acumulan en los ojos y los protegen.",
+"ini": 49.75,
+"fin": 55.07
+},
+{
+"i": 13,
+"txt": "Tres.",
+"ini": 55.81,
+"fin": 56.22
+},
+{
+"i": 14,
+"txt": "¿Y el colesterol?",
+"ini": 56.64,
+"fin": 57.38
+},
+{
+"i": 15,
+"txt": "Durante años nos dijeron que el huevo era peligroso para el corazón.",
+"ini": 58.01,
+"fin": 61.39
+},
+{
+"i": 16,
+"txt": "Hoy se sabe que, en la mayoría de las personas sanas, el colesterol de la comida sube el colesterol de la sangre mucho menos de lo que se creía.",
+"ini": 62.02,
+"fin": 69.9
+},
+{
+"i": 17,
+"txt": "Lo que más lo sube son las grasas saturadas y las grasas trans.",
+"ini": 70.42,
+"fin": 74.04
+},
+{
+"i": 18,
+"txt": "La Asociación Americana del Corazón dice que un huevo al día puede ser parte de una alimentación sana.",
+"ini": 74.59,
+"fin": 80.4
+},
+{
+"i": 19,
+"txt": "Pero hay una excepción: si tienes diabetes o el colesterol alto, la cantidad la debe decidir tu médico.",
+"ini": 80.94,
+"fin": 86.97
+},
+{
+"i": 20,
+"txt": "Y un detalle que casi nadie toma en cuenta.",
+"ini": 87.63,
+"fin": 89.98
+},
+{
+"i": 21,
+"txt": "Muchas veces el problema no es el huevo.",
+"ini": 90.47,
+"fin": 92.76
+},
+{
+"i": 22,
+"txt": "Es lo que viene con él: el salami frito, el queso frito y el aceite que se reutiliza una y otra vez.",
+"ini": 93.2,
+"fin": 99.95
+},
+{
+"i": 23,
+"txt": "Un huevo hervido o revuelto con poco aceite no es lo mismo que un huevo nadando en grasa al lado de tres embutidos.",
+"ini": 100.53,
+"fin": 107.5
+},
+{
+"i": 24,
+"txt": "¿Qué le pasa a tu cuerpo si comes plátano todos los días?",
+"ini": 108.53,
+"fin": 111.76
+},
+{
+"i": 25,
+"txt": "Uno.",
+"ini": 112.33,
+"fin": 112.57
+},
+{
+"i": 26,
+"txt": "Depende de si está verde o maduro, porque son casi dos alimentos distintos.",
+"ini": 113.06,
+"fin": 117.67
+},
+{
+"i": 27,
+"txt": "El plátano verde tiene mucho almidón resistente.",
+"ini": 118.14,
+"fin": 120.83
+},
+{
+"i": 28,
+"txt": "Se llama así porque resiste la digestión: pasa por el estómago y el intestino delgado casi sin cambiar.",
+"ini": 121.2,
+"fin": 127.2
+},
+{
+"i": 29,
+"txt": "Dos.",
+"ini": 127.74,
+"fin": 128.17
+},
+{
+"i": 30,
+"txt": "Ese almidón llega al intestino grueso y se convierte en comida para tus bacterias buenas.",
+"ini": 128.58,
+"fin": 133.34
+},
+{
+"i": 31,
+"txt": "Ellas lo fermentan y producen sustancias que ayudan a cuidar la pared del intestino.",
+"ini": 133.78,
+"fin": 138.27
+},
+{
+"i": 32,
+"txt": "Además, como se digiere despacio, el azúcar en tu sangre sube más lento y te sientes lleno por más tiempo.",
+"ini": 138.84,
+"fin": 145.41
+},
+{
+"i": 33,
+"txt": "Tres.",
+"ini": 145.97,
+"fin": 146.4
+},
+{
+"i": 34,
+"txt": "Cuando el plátano madura, ese almidón se va convirtiendo en azúcar.",
+"ini": 146.76,
+"fin": 150.26
+},
+{
+"i": 35,
+"txt": "Por eso el maduro es dulce.",
+"ini": 150.73,
+"fin": 152.29
+},
+{
+"i": 36,
+"txt": "No es malo, pero sube el azúcar en la sangre más rápido, algo importante si tienes diabetes.",
+"ini": 152.74,
+"fin": 159.6
+},
+{
+"i": 37,
+"txt": "Verde o maduro, el plátano trae potasio, un mineral que ayuda a controlar la presión arterial y que tu corazón y tus músculos necesitan para funcionar.",
+"ini": 160.03,
+"fin": 167.88
+},
+{
+"i": 38,
+"txt": "Pero aquí la forma de cocinarlo lo cambia todo.",
+"ini": 168.49,
+"fin": 171.33
+},
+{
+"i": 39,
+"txt": "Hervido, como en el mangú, conserva sus beneficios sin sumar grasa.",
+"ini": 171.97,
+"fin": 176.11
+},
+{
+"i": 40,
+"txt": "Frito, como en los tostones o los maduros fritos, absorbe mucho aceite, y un plato pequeño puede tener más calorías que una comida completa.",
+"ini": 176.66,
+"fin": 185.01
+},
+{
+"i": 41,
+"txt": "No tienes que dejar de comer tostones.",
+"ini": 185.63,
+"fin": 187.33
+},
+{
+"i": 42,
+"txt": "Pero si comes plátano todos los días, que la mayoría de las veces sea hervido.",
+"ini": 187.74,
+"fin": 192.16
+},
+{
+"i": 43,
+"txt": "¿Qué le pasa a tu cuerpo si comes arroz blanco todos los días?",
+"ini": 193.01,
+"fin": 196.46
+},
+{
+"i": 44,
+"txt": "Uno.",
+"ini": 197.05,
+"fin": 197.28
+},
+{
+"i": 45,
+"txt": "El arroz blanco es arroz al que le quitaron la cáscara y el germen.",
+"ini": 197.84,
+"fin": 201.29
+},
+{
+"i": 46,
+"txt": "Con eso se fue casi toda la fibra y buena parte de las vitaminas.",
+"ini": 201.8,
+"fin": 205.62
+},
+{
+"i": 47,
+"txt": "Lo que queda es almidón, que tu cuerpo convierte en azúcar muy rápido.",
+"ini": 206.02,
+"fin": 210.16
+},
+{
+"i": 48,
+"txt": "Dos.",
+"ini": 210.73,
+"fin": 211.21
+},
+{
+"i": 49,
+"txt": "Por eso, después de un plato grande de arroz blanco, el azúcar en tu sangre sube con fuerza, y el páncreas tiene que soltar mucha insulina para bajarla.",
+"ini": 211.62,
+"fin": 220.02
+},
+{
+"i": 50,
+"txt": "Un análisis de varios estudios publicado en la revista médica BMJ encontró que las personas que comían más arroz blanco tenían más riesgo de desarrollar diabetes tipo dos.",
+"ini": 220.57,
+"fin": 231.03
+},
+{
+"i": 51,
+"txt": "Tres.",
+"ini": 231.55,
+"fin": 231.96
+},
+{
+"i": 52,
+"txt": "Eso no quiere decir que el arroz sea veneno.",
+"ini": 232.34,
+"fin": 234.41
+},
+{
+"i": 53,
+"txt": "Quiere decir que importa cuánto y con qué.",
+"ini": 234.86,
+"fin": 237.3
+},
+{
+"i": 54,
+"txt": "Una taza de arroz cocido no es lo mismo que el plato lleno hasta el borde.",
+"ini": 237.9,
+"fin": 241.77
+},
+{
+"i": 55,
+"txt": "Y comerlo con habichuelas, con ensalada o con una proteína hace que el azúcar suba más despacio.",
+"ini": 242.2,
+"fin": 247.98
+},
+{
+"i": 56,
+"txt": "Hay un dato curioso.",
+"ini": 248.5,
+"fin": 249.44
+},
+{
+"i": 57,
+"txt": "Cuando el arroz cocido se enfría en la nevera, parte de su almidón se transforma en almidón resistente, el mismo del plátano verde.",
+"ini": 249.95,
+"fin": 257.3
+},
+{
+"i": 58,
+"txt": "Recalentado, sube el azúcar un poco menos que recién hecho.",
+"ini": 257.78,
+"fin": 262.19
+},
+{
+"i": 59,
+"txt": "Pero cuidado: el arroz cocido que se deja horas fuera de la nevera puede criar una bacteria que causa intoxicación.",
+"ini": 262.66,
+"fin": 268.47
+},
+{
+"i": 60,
+"txt": "Si va a sobrar, guárdalo en frío lo antes posible.",
+"ini": 268.95,
+"fin": 271.95
+},
+{
+"i": 61,
+"txt": "Si te está gustando este contenido, no olvides compartirlo y seguirnos para llegar a más personas.",
+"ini": 272.54,
+"fin": 277.96
+},
+{
+"i": 62,
+"txt": "¿Qué le pasa a tu cuerpo si comes habichuelas todos los días?",
+"ini": 278.61,
+"fin": 281.89
+},
+{
+"i": 63,
+"txt": "Uno.",
+"ini": 282.39,
+"fin": 282.64
+},
+{
+"i": 64,
+"txt": "Recibes proteína y fibra al mismo tiempo, algo que casi ningún alimento da junto.",
+"ini": 283.1,
+"fin": 288.07
+},
+{
+"i": 65,
+"txt": "Una taza de habichuelas rojas cocidas trae alrededor de quince gramos de proteína y más de diez de fibra.",
+"ini": 288.63,
+"fin": 294.91
+},
+{
+"i": 66,
+"txt": "La fibra baja el colesterol, ayuda al intestino y hace que el azúcar en la sangre suba despacio.",
+"ini": 295.38,
+"fin": 301.05
+},
+{
+"i": 67,
+"txt": "Dos.",
+"ini": 301.56,
+"fin": 302.02
+},
+{
+"i": 68,
+"txt": "Las habichuelas también traen hierro, un mineral que necesitas para que la sangre lleve oxígeno a todo el cuerpo.",
+"ini": 302.44,
+"fin": 308.31
+},
+{
+"i": 69,
+"txt": "Pero el hierro de las plantas cuesta más trabajo absorberlo.",
+"ini": 308.86,
+"fin": 311.87
+},
+{
+"i": 70,
+"txt": "El truco es acompañarlas con algo que tenga vitamina C, como limón, tomate o ají.",
+"ini": 312.33,
+"fin": 318.01
+},
+{
+"i": 71,
+"txt": "Tres.",
+"ini": 318.52,
+"fin": 318.95
+},
+{
+"i": 72,
+"txt": "Los gases.",
+"ini": 319.11,
+"fin": 319.92
+},
+{
+"i": 73,
+"txt": "Pasa porque las habichuelas tienen unos azúcares que tu cuerpo no puede digerir, y las bacterias del intestino los fermentan.",
+"ini": 320.36,
+"fin": 327.41
+},
+{
+"i": 74,
+"txt": "Dejarlas en remojo desde la noche anterior y botar esa agua ayuda bastante.",
+"ini": 328.02,
+"fin": 332.3
+},
+{
+"i": 75,
+"txt": "Y si las comes con frecuencia, el intestino se acostumbra y los gases bajan.",
+"ini": 332.84,
+"fin": 336.8
+},
+{
+"i": 76,
+"txt": "Y aquí está lo más interesante del arroz con habichuelas.",
+"ini": 337.3,
+"fin": 340.44
+},
+{
+"i": 77,
+"txt": "Al arroz le falta un aminoácido que las habichuelas tienen de sobra, y a las habichuelas les falta uno que el arroz sí tiene.",
+"ini": 340.96,
+"fin": 348.05
+},
+{
+"i": 78,
+"txt": "Juntos forman una proteína completa, parecida a la de la carne.",
+"ini": 348.67,
+"fin": 352.4
+},
+{
+"i": 79,
+"txt": "Nuestras abuelas lo hacían sin saberlo.",
+"ini": 352.95,
+"fin": 354.91
+},
+{
+"i": 80,
+"txt": "Una sola advertencia: las habichuelas crudas o mal cocidas tienen una sustancia que puede causar vómitos y diarrea.",
+"ini": 355.43,
+"fin": 362.52
+},
+{
+"i": 81,
+"txt": "Siempre tienen que estar bien blanditas.",
+"ini": 362.98,
+"fin": 365.32
+},
+{
+"i": 82,
+"txt": "¿Qué le pasa a tu cuerpo si comes aguacate todos los días?",
+"ini": 365.89,
+"fin": 369.19
+},
+{
+"i": 83,
+"txt": "Uno.",
+"ini": 369.7,
+"fin": 369.96
+},
+{
+"i": 84,
+"txt": "Comes grasa, pero de la buena.",
+"ini": 370.41,
+"fin": 372.1
+},
+{
+"i": 85,
+"txt": "La mayor parte de la grasa del aguacate es monoinsaturada, la misma del aceite de oliva.",
+"ini": 372.56,
+"fin": 377.8
+},
+{
+"i": 86,
+"txt": "Cuando esta grasa reemplaza a las grasas saturadas, como las de los embutidos y los fritos, ayuda a bajar el colesterol malo.",
+"ini": 378.35,
+"fin": 385.26
+},
+{
+"i": 87,
+"txt": "Dos.",
+"ini": 385.7,
+"fin": 386.17
+},
+{
+"i": 88,
+"txt": "El aguacate tiene mucha fibra y más potasio que un guineo del mismo peso.",
+"ini": 386.51,
+"fin": 390.87
+},
+{
+"i": 89,
+"txt": "Por eso llena, ayuda a la digestión y apoya el control de la presión arterial.",
+"ini": 391.38,
+"fin": 395.99
+},
+{
+"i": 90,
+"txt": "Tres.",
+"ini": 396.45,
+"fin": 396.85
+},
+{
+"i": 91,
+"txt": "Hace que otros alimentos te nutran más.",
+"ini": 397.21,
+"fin": 399.51
+},
+{
+"i": 92,
+"txt": "Hay vitaminas y antioxidantes de los vegetales que solo se absorben bien con un poco de grasa.",
+"ini": 399.87,
+"fin": 405.12
+},
+{
+"i": 93,
+"txt": "Un estudio encontró que añadir aguacate a una ensalada multiplicaba la cantidad de esos antioxidantes que llegaban a la sangre.",
+"ini": 405.71,
+"fin": 412.63
+},
+{
+"i": 94,
+"txt": "Ese pedazo de aguacate al lado del arroz con habichuelas no está ahí solo por el sabor.",
+"ini": 413.06,
+"fin": 417.75
+},
+{
+"i": 95,
+"txt": "Pero hay algo que casi nadie dice.",
+"ini": 418.28,
+"fin": 420.13
+},
+{
+"i": 96,
+"txt": "Que sea sano no significa que puedas comer todo el que quieras.",
+"ini": 420.67,
+"fin": 424.16
+},
+{
+"i": 97,
+"txt": "Un aguacate entero puede tener más de trescientas calorías.",
+"ini": 424.63,
+"fin": 428.02
+},
+{
+"i": 98,
+"txt": "Si estás tratando de bajar de peso, la porción diaria razonable es de medio aguacate o menos.",
+"ini": 428.45,
+"fin": 434.25
+},
+{
+"i": 99,
+"txt": "Y una última cosa: el aguacate no engorda más que otros alimentos.",
+"ini": 434.59,
+"fin": 438.81
+},
+{
+"i": 100,
+"txt": "Lo que engorda es comer más de lo que tu cuerpo gasta, venga de donde venga.",
+"ini": 439.2,
+"fin": 443.66
+},
+{
+"i": 101,
+"txt": "¿Qué le pasa a tu cuerpo si comes avena todos los días?",
+"ini": 444.11,
+"fin": 447.29
+},
+{
+"i": 102,
+"txt": "Uno.",
+"ini": 447.62,
+"fin": 447.88
+},
+{
+"i": 103,
+"txt": "La avena tiene un tipo de fibra llamado betaglucano.",
+"ini": 448.26,
+"fin": 451.29
+},
+{
+"i": 104,
+"txt": "Cuando llega al intestino, forma una especie de gel.",
+"ini": 451.83,
+"fin": 454.55
+},
+{
+"i": 105,
+"txt": "Ese gel atrapa parte del colesterol y lo saca del cuerpo.",
+"ini": 455.1,
+"fin": 458.55
+},
+{
+"i": 106,
+"txt": "Por eso la avena es uno de los pocos alimentos que, comido con frecuencia, puede bajar el colesterol malo.",
+"ini": 459.07,
+"fin": 465.21
+},
+{
+"i": 107,
+"txt": "La cantidad que más se ha estudiado es de unos tres gramos de betaglucano al día.",
+"ini": 465.76,
+"fin": 470.22
+},
+{
+"i": 108,
+"txt": "Dos.",
+"ini": 470.58,
+"fin": 471.04
+},
+{
+"i": 109,
+"txt": "Ese mismo gel hace que la comida salga del estómago más despacio.",
+"ini": 471.38,
+"fin": 477.47
+},
+{
+"i": 110,
+"txt": "Te sientes lleno por más tiempo, y el azúcar en la sangre sube con calma en lugar de dispararse.",
+"ini": 477.9,
+"fin": 481.6
+},
+{
+"i": 111,
+"txt": "Tres.",
+"ini": 482.18,
+"fin": 482.61
+},
+{
+"i": 112,
+"txt": "La fibra de la avena alimenta a las bacterias buenas del intestino y ayuda a ir al baño con regularidad.",
+"ini": 482.96,
+"fin": 489.07
+},
+{
+"i": 113,
+"txt": "Pero hay una trampa en la que cae mucha gente.",
+"ini": 489.55,
+"fin": 492.13
+},
+{
+"i": 114,
+"txt": "La avena caliente que nos criaron tomando, con leche condensada o con varias cucharadas de azúcar, puede tener más azúcar que un refresco.",
+"ini": 492.71,
+"fin": 500.76
+},
+{
+"i": 115,
+"txt": "Y muchas avenas instantáneas de sabores ya vienen cargadas de azúcar desde la fábrica.",
+"ini": 501.27,
+"fin": 505.99
+},
+{
+"i": 116,
+"txt": "La avena sola, en hojuelas, con canela, guineo maduro o un poco de fruta para endulzar, es la que hace todo lo que acabas de escuchar.",
+"ini": 506.48,
+"fin": 514.64
+},
+{
+"i": 117,
+"txt": "Huevo, plátano, arroz, habichuelas, aguacate y avena.",
+"ini": 515.09,
+"fin": 519.46
+},
+{
+"i": 118,
+"txt": "Ninguno es bueno o malo por sí solo.",
+"ini": 519.95,
+"fin": 522.13
+},
+{
+"i": 119,
+"txt": "Lo que cambia todo es cuánto comes y cómo lo preparas.",
+"ini": 522.59,
+"fin": 526.21
+},
+{
+"i": 120,
+"txt": "Y hay uno que está en casi todos los desayunos dominicanos y que la Organización Mundial de la Salud puso en la misma lista que el tabaco.",
+"ini": 526.62,
+"fin": 534.2
+},
+{
+"i": 121,
+"txt": "¿Qué le pasa a tu cuerpo si comes salami?",
+"ini": 534.67,
+"fin": 536.93
+}
+]
+}

@@ -1,0 +1,2341 @@
+{
+ "serie": "nutricion",
+ "titulo": "Qué le pasa a tu cuerpo si comes esto todos los días",
+ "duracion": 543.16,
+ "personajes": {
+  "medica": {
+   "nombre": "Nutricionista",
+   "etiqueta": "Lo que dicen los expertos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "La sabiduría de la abuela",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#FF9F1C",
+   "lentes": true
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "alimentos",
+   "inicio": 0.0,
+   "fin": 3.62,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "etiqueta": "huevo",
+     "t": 1.2
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "¿Huevo *todos los días*?"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 3.62,
+   "fin": 8.2,
+   "alimentos": [
+    {
+     "alimento": "platano_verde",
+     "etiqueta": "plátano verde",
+     "t": 0.58
+    },
+    {
+     "alimento": "arroz",
+     "etiqueta": "arroz",
+     "t": 1.35
+    },
+    {
+     "alimento": "habichuelas",
+     "etiqueta": "habichuelas",
+     "t": 2.12
+    },
+    {
+     "alimento": "aguacate",
+     "etiqueta": "aguacate",
+     "t": 2.89
+    },
+    {
+     "alimento": "avena",
+     "etiqueta": "avena",
+     "t": 3.46
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿Y *plátano*, arroz, habichuelas…?"
+    }
+   ]
+  },
+  {
+   "tipo": "plato",
+   "inicio": 8.2,
+   "fin": 14.73,
+   "porciones": [
+    {
+     "parte": 0.5,
+     "alimento": "arroz",
+     "etiqueta": "Arroz",
+     "t": 0.78
+    },
+    {
+     "parte": 0.25,
+     "alimento": "habichuelas",
+     "etiqueta": "Habichuelas",
+     "t": 1.94
+    },
+    {
+     "parte": 0.25,
+     "alimento": "aguacate",
+     "etiqueta": "Aguacate",
+     "t": 2.81
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo que está en *tu mesa*"
+    },
+    {
+     "t": 3.39,
+     "txt": "cada uno hace algo *distinto*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 14.73,
+   "fin": 18.62,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Cerebro",
+     "t": 0.78,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Corazón",
+     "t": 1.65,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "intestino",
+     "etiqueta": "Intestino",
+     "t": 2.52,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Esto pasa *dentro de ti*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 18.62,
+   "fin": 23.29,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "etiqueta": "huevo",
+     "t": 0.83
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Huevo* todos los días"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 23.29,
+   "fin": 27.07,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Proteína completa",
+     "t": 0.83
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una de las proteínas *más completas*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 27.07,
+   "fin": 34.9,
+   "desde": 0,
+   "hasta": 6,
+   "sufijo": " g",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*6 gramos* de proteína"
+    },
+    {
+     "t": 3.84,
+     "txt": "con todos los *aminoácidos*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 34.9,
+   "fin": 39.42,
+   "items": [
+    {
+     "icono": "rayo",
+     "txt": "Llena más",
+     "t": 0.66
+    },
+    {
+     "icono": "escudo",
+     "txt": "Cuida los músculos",
+     "t": 1.88
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 39.42,
+   "fin": 44.52,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "marca": "si",
+     "etiqueta": "la yema",
+     "t": 1.58
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "La *yema* que muchos botan"
+    },
+    {
+     "t": 2.95,
+     "txt": "tiene *casi todo* lo bueno"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 44.52,
+   "fin": 49.6,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Colina",
+     "t": 1.14,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Colina* para el cerebro"
+    },
+    {
+     "t": 3.01,
+     "txt": "memoria y *neuronas*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 49.6,
+   "fin": 56.49,
+   "organos": [
+    {
+     "id": "ojos",
+     "etiqueta": "Luteína",
+     "t": 1.8,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Luteína* y zeaxantina"
+    },
+    {
+     "t": 3.39,
+     "txt": "protegen tus *ojos*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 56.49,
+   "fin": 61.87,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "¿Peligro?",
+     "t": 0.5,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿Y el *colesterol*?"
+    },
+    {
+     "t": 1.57,
+     "txt": "Nos dijeron que era *peligroso*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 61.87,
+   "fin": 70.27,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Lo que se creía",
+     "valor": 100,
+     "t": 2.56
+    },
+    {
+     "etiqueta": "Lo que se sabe hoy",
+     "valor": 30,
+     "t": 4.93
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "En la mayoría de *personas sanas*"
+    },
+    {
+     "t": 4.53,
+     "txt": "sube *mucho menos* de lo que se creía"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 70.27,
+   "fin": 74.44,
+   "alimentos": [
+    {
+     "alimento": "salami",
+     "marca": "no",
+     "etiqueta": "grasa saturada",
+     "t": 1.29
+    },
+    {
+     "alimento": "aceite",
+     "marca": "no",
+     "etiqueta": "grasa trans",
+     "t": 2.37
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo que más lo sube"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 74.44,
+   "fin": 80.79,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "marca": "si",
+     "etiqueta": "1 al día",
+     "t": 2.81
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Asociación Americana *del Corazón*"
+    },
+    {
+     "t": 3.11,
+     "txt": "*un huevo al día* puede ser sano"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 80.79,
+   "fin": 87.48,
+   "personaje": "medica",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Si tienes *diabetes* o colesterol alto"
+    },
+    {
+     "t": 3.52,
+     "txt": "la cantidad la decide *tu médico*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 87.48,
+   "fin": 93.05,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "marca": "si",
+     "etiqueta": "huevo",
+     "t": 3.5
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Un detalle que *nadie* toma en cuenta"
+    },
+    {
+     "t": 3.04,
+     "txt": "El problema *no es el huevo*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 93.05,
+   "fin": 100.38,
+   "alimentos": [
+    {
+     "alimento": "salami",
+     "marca": "no",
+     "etiqueta": "salami frito",
+     "t": 2.56
+    },
+    {
+     "alimento": "queso",
+     "marca": "no",
+     "etiqueta": "queso frito",
+     "t": 3.91
+    },
+    {
+     "alimento": "aceite",
+     "marca": "no",
+     "etiqueta": "aceite reusado",
+     "t": 5.26
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Es lo que *viene con él*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 100.38,
+   "fin": 108.38,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "marca": "si",
+     "etiqueta": "hervido",
+     "t": 0.9
+    },
+    {
+     "alimento": "aceite",
+     "marca": "no",
+     "etiqueta": "nadando en grasa",
+     "t": 4.38
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Hervido o con *poco aceite*"
+    },
+    {
+     "t": 4.38,
+     "txt": "no es lo mismo"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 108.38,
+   "fin": 112.91,
+   "alimentos": [
+    {
+     "alimento": "platano_verde",
+     "etiqueta": "plátano verde",
+     "t": 0.85
+    },
+    {
+     "alimento": "maduro",
+     "etiqueta": "plátano maduro",
+     "t": 1.82
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿*Plátano* todos los días?"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 112.91,
+   "fin": 117.99,
+   "alimentos": [
+    {
+     "alimento": "platano_verde",
+     "marca": "",
+     "etiqueta": "verde",
+     "t": 1.12
+    },
+    {
+     "alimento": "maduro",
+     "marca": "",
+     "etiqueta": "maduro",
+     "t": 2.27
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Verde* o *maduro*"
+    },
+    {
+     "t": 2.97,
+     "txt": "casi *dos alimentos*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 117.99,
+   "fin": 121.05,
+   "items": [
+    {
+     "icono": "escudo",
+     "txt": "Almidón resistente",
+     "t": 0.87
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El verde tiene *almidón resistente*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 121.05,
+   "fin": 128.43,
+   "organos": [
+    {
+     "id": "estomago",
+     "etiqueta": "Pasa de largo",
+     "t": 2.6,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "intestino",
+     "etiqueta": "Casi sin cambiar",
+     "t": 4.7,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Resiste* la digestión"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 128.43,
+   "fin": 133.63,
+   "organos": [
+    {
+     "id": "intestino",
+     "etiqueta": "Bacterias buenas",
+     "t": 2.1,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Llega al *intestino grueso*"
+    },
+    {
+     "t": 2.82,
+     "txt": "comida para tus *bacterias buenas*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 133.63,
+   "fin": 138.69,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "Lo fermentan",
+     "t": 0.65
+    },
+    {
+     "icono": "escudo",
+     "txt": "Cuidan el intestino",
+     "t": 2.45
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 138.69,
+   "fin": 146.61,
+   "items": [
+    {
+     "icono": "reloj",
+     "txt": "Se digiere despacio",
+     "t": 0.86
+    },
+    {
+     "icono": "gota",
+     "txt": "El azúcar sube lento",
+     "t": 3.16
+    },
+    {
+     "icono": "check",
+     "txt": "Llenas más tiempo",
+     "t": 5.46
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 146.61,
+   "fin": 152.59,
+   "alimentos": [
+    {
+     "alimento": "maduro",
+     "etiqueta": "plátano maduro",
+     "t": 1.25
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Al madurar se vuelve *azúcar*"
+    },
+    {
+     "t": 4.17,
+     "txt": "Por eso el maduro es *dulce*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 152.59,
+   "fin": 159.88,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Verde",
+     "valor": 35,
+     "t": 1.57
+    },
+    {
+     "etiqueta": "Maduro",
+     "valor": 80,
+     "t": 2.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Sube el azúcar *más rápido*"
+    },
+    {
+     "t": 4.32,
+     "txt": "ojo si tienes *diabetes*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 159.88,
+   "fin": 168.34,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "Presión",
+     "t": 2.95,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "rinones",
+     "etiqueta": "Potasio",
+     "t": 5.7,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Verde o maduro: *potasio*"
+    },
+    {
+     "t": 4.12,
+     "txt": "ayuda a controlar la *presión*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 168.34,
+   "fin": 171.82,
+   "alimentos": [
+    {
+     "alimento": "platano_verde",
+     "etiqueta": "plátano verde",
+     "t": 0.77
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Cómo lo cocinas *lo cambia todo*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 171.82,
+   "fin": 176.51,
+   "alimentos": [
+    {
+     "alimento": "mangu",
+     "marca": "si",
+     "etiqueta": "hervido",
+     "t": 1.44
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Hervido, como el *mangú*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 176.51,
+   "fin": 185.48,
+   "alimentos": [
+    {
+     "alimento": "tostones",
+     "marca": "no",
+     "etiqueta": "tostones",
+     "t": 1.87
+    },
+    {
+     "alimento": "maduro",
+     "marca": "no",
+     "etiqueta": "maduros fritos",
+     "t": 3.54
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Frito *absorbe aceite*"
+    },
+    {
+     "t": 4.79,
+     "txt": "*más calorías* que una comida"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 185.48,
+   "fin": 187.59,
+   "alimentos": [
+    {
+     "alimento": "tostones",
+     "marca": "medida",
+     "etiqueta": "tostones",
+     "t": 0.54
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No tienes que *dejarlos*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 187.59,
+   "fin": 192.86,
+   "alimentos": [
+    {
+     "alimento": "mangu",
+     "marca": "si",
+     "etiqueta": "hervido",
+     "t": 1.53
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Todos los días: *casi siempre hervido*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 192.86,
+   "fin": 197.69,
+   "alimentos": [
+    {
+     "alimento": "arroz",
+     "etiqueta": "arroz",
+     "t": 0.89
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿*Arroz blanco* todos los días?"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 197.69,
+   "fin": 201.65,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Sin cáscara",
+     "t": 1.06
+    },
+    {
+     "icono": "x",
+     "txt": "Sin germen",
+     "t": 2.27
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 201.65,
+   "fin": 205.87,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Integral",
+     "valor": 100,
+     "t": 0.96
+    },
+    {
+     "etiqueta": "Blanco",
+     "valor": 25,
+     "t": 1.73
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Se fue casi toda la *fibra*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 205.87,
+   "fin": 211.47,
+   "organos": [
+    {
+     "id": "estomago",
+     "etiqueta": "Almidón → azúcar",
+     "t": 1.65,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Queda *almidón*"
+    },
+    {
+     "t": 2.27,
+     "txt": "se vuelve azúcar *muy rápido*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 211.47,
+   "fin": 220.42,
+   "organos": [
+    {
+     "id": "pancreas",
+     "etiqueta": "Insulina",
+     "t": 4.82,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Plato grande: el azúcar *se dispara*"
+    },
+    {
+     "t": 4.82,
+     "txt": "el páncreas suelta *insulina*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 220.42,
+   "fin": 225.65,
+   "items": [
+    {
+     "icono": "libro",
+     "txt": "Revista médica BMJ",
+     "t": 1.25
+    },
+    {
+     "icono": "libro",
+     "txt": "Varios estudios",
+     "t": 3.34
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 225.65,
+   "fin": 232.19,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Menos arroz",
+     "valor": 40,
+     "t": 0.72
+    },
+    {
+     "etiqueta": "Más arroz",
+     "valor": 80,
+     "t": 2.29
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.72,
+     "txt": "más riesgo de *diabetes tipo 2*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 232.19,
+   "fin": 237.75,
+   "alimentos": [
+    {
+     "alimento": "arroz",
+     "marca": "medida",
+     "etiqueta": "arroz",
+     "t": 0.82
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No es *veneno*"
+    },
+    {
+     "t": 2.72,
+     "txt": "Importa *cuánto* y *con qué*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 237.75,
+   "fin": 242.05,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "1 taza",
+     "valor": 30,
+     "t": 0.97
+    },
+    {
+     "etiqueta": "Plato lleno",
+     "valor": 95,
+     "t": 2.14
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una *taza* no es un plato lleno"
+    }
+   ]
+  },
+  {
+   "tipo": "plato",
+   "inicio": 242.05,
+   "fin": 248.35,
+   "porciones": [
+    {
+     "parte": 0.25,
+     "alimento": "arroz",
+     "etiqueta": "Arroz",
+     "t": 0.78
+    },
+    {
+     "parte": 0.25,
+     "alimento": "habichuelas",
+     "etiqueta": "Habichuelas",
+     "t": 1.64
+    },
+    {
+     "parte": 0.5,
+     "alimento": "brocoli",
+     "etiqueta": "Ensalada",
+     "t": 2.51
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Con *habichuelas* y ensalada"
+    },
+    {
+     "t": 3.67,
+     "txt": "el azúcar sube *más despacio*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 248.35,
+   "fin": 257.63,
+   "items": [
+    {
+     "icono": "luna",
+     "txt": "En la nevera",
+     "t": 3.12
+    },
+    {
+     "icono": "escudo",
+     "txt": "Almidón resistente",
+     "t": 6.43
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Un *dato curioso*"
+    },
+    {
+     "t": 1.65,
+     "txt": "Arroz *frío* en la nevera"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 257.63,
+   "fin": 262.51,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Recién hecho",
+     "valor": 90,
+     "t": 1.08
+    },
+    {
+     "etiqueta": "Recalentado",
+     "valor": 72,
+     "t": 1.96
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Recalentado sube *un poco menos*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 262.51,
+   "fin": 268.8,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Horas fuera de la nevera",
+     "t": 1.65
+    },
+    {
+     "icono": "alerta",
+     "txt": "Puede intoxicar",
+     "t": 3.98
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Cuidado*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 268.8,
+   "fin": 272.39,
+   "items": [
+    {
+     "icono": "reloj",
+     "txt": "Si sobra, a la nevera",
+     "t": 0.8
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Guárdalo *en frío* pronto"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 272.39,
+   "fin": 278.46,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "etiqueta": "huevo",
+     "t": 0.47
+    },
+    {
+     "alimento": "platano_verde",
+     "etiqueta": "plátano verde",
+     "t": 1.28
+    },
+    {
+     "alimento": "arroz",
+     "etiqueta": "arroz",
+     "t": 2.1
+    },
+    {
+     "alimento": "habichuelas",
+     "etiqueta": "habichuelas",
+     "t": 2.91
+    },
+    {
+     "alimento": "aguacate",
+     "etiqueta": "aguacate",
+     "t": 3.72
+    },
+    {
+     "alimento": "avena",
+     "etiqueta": "avena",
+     "t": 4.54
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 278.46,
+   "fin": 282.95,
+   "alimentos": [
+    {
+     "alimento": "habichuelas",
+     "etiqueta": "habichuelas",
+     "t": 0.86
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿*Habichuelas* todos los días?"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 282.95,
+   "fin": 288.48,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Proteína",
+     "t": 1.44
+    },
+    {
+     "icono": "check",
+     "txt": "Fibra",
+     "t": 2.69
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Proteína y fibra* juntas"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 288.48,
+   "fin": 295.23,
+   "desde": 0,
+   "hasta": 15,
+   "sufijo": " g",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una taza de *habichuelas rojas*"
+    },
+    {
+     "t": 3.34,
+     "txt": "*15 g* de proteína, más de 10 de fibra"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 295.23,
+   "fin": 302.29,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "Colesterol",
+     "t": 1.33,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "intestino",
+     "etiqueta": "Intestino",
+     "t": 3.04,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "pancreas",
+     "etiqueta": "Azúcar",
+     "t": 4.74,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Baja el *colesterol*"
+    },
+    {
+     "t": 3.04,
+     "txt": "cuida el *intestino*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 302.29,
+   "fin": 308.71,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "Sangre",
+     "t": 2.25,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "pulmones",
+     "etiqueta": "Oxígeno",
+     "t": 4.02,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "También traen *hierro*"
+    },
+    {
+     "t": 3.13,
+     "txt": "para llevar *oxígeno*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 308.71,
+   "fin": 312.18,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Hierro de la carne",
+     "valor": 85,
+     "t": 0.8
+    },
+    {
+     "etiqueta": "Hierro de plantas",
+     "valor": 40,
+     "t": 1.55
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Cuesta *más absorberlo*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 312.18,
+   "fin": 318.96,
+   "alimentos": [
+    {
+     "alimento": "limon",
+     "marca": "si",
+     "etiqueta": "limón",
+     "t": 2.19
+    },
+    {
+     "alimento": "tomate",
+     "marca": "si",
+     "etiqueta": "tomate",
+     "t": 3.32
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El truco: *vitamina C*"
+    },
+    {
+     "t": 3.61,
+     "txt": "limón, tomate o ají"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 318.96,
+   "fin": 327.87,
+   "organos": [
+    {
+     "id": "intestino",
+     "etiqueta": "Fermentación",
+     "t": 3.92,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Los gases*"
+    },
+    {
+     "t": 1.45,
+     "txt": "Azúcares que *no digieres*"
+    },
+    {
+     "t": 5.68,
+     "txt": "las bacterias los *fermentan*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 327.87,
+   "fin": 332.69,
+   "hitos": [
+    {
+     "anio": "Noche",
+     "txt": "En remojo",
+     "t": 0.63
+    },
+    {
+     "anio": "Mañana",
+     "txt": "Bota esa agua",
+     "t": 2.77
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 332.69,
+   "fin": 337.15,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "El intestino se acostumbra",
+     "t": 1.39
+    },
+    {
+     "icono": "check",
+     "txt": "Menos gases",
+     "t": 3.17
+    }
+   ]
+  },
+  {
+   "tipo": "plato",
+   "inicio": 337.15,
+   "fin": 340.81,
+   "porciones": [
+    {
+     "parte": 0.5,
+     "alimento": "arroz",
+     "etiqueta": "Arroz",
+     "t": 0.83
+    },
+    {
+     "parte": 0.5,
+     "alimento": "habichuelas",
+     "etiqueta": "Habichuelas",
+     "t": 1.77
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El *arroz con habichuelas*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 340.81,
+   "fin": 348.52,
+   "items": [
+    {
+     "icono": "mas",
+     "txt": "Al arroz le falta uno",
+     "t": 0.91
+    },
+    {
+     "icono": "mas",
+     "txt": "La habichuela lo tiene",
+     "t": 2.68
+    },
+    {
+     "icono": "mas",
+     "txt": "Y al revés",
+     "t": 4.81
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 348.52,
+   "fin": 352.8,
+   "alimentos": [
+    {
+     "alimento": "arroz",
+     "etiqueta": "arroz",
+     "t": 0.57
+    },
+    {
+     "alimento": "habichuelas",
+     "etiqueta": "habichuelas",
+     "t": 1.32
+    },
+    {
+     "alimento": "pollo",
+     "marca": "si",
+     "etiqueta": "como la carne",
+     "t": 2.44
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Juntos: *proteína completa*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 352.8,
+   "fin": 355.28,
+   "personaje": "abuela",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Las abuelas lo hacían *sin saberlo*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 355.28,
+   "fin": 362.83,
+   "alimentos": [
+    {
+     "alimento": "habichuelas",
+     "marca": "no",
+     "etiqueta": "crudas",
+     "t": 2.33
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Advertencia*"
+    },
+    {
+     "t": 3.39,
+     "txt": "mal cocidas: *vómitos y diarrea*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 362.83,
+   "fin": 365.74,
+   "alimentos": [
+    {
+     "alimento": "habichuelas",
+     "marca": "si",
+     "etiqueta": "bien blanditas",
+     "t": 0.55
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Siempre *bien cocidas*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 365.74,
+   "fin": 370.26,
+   "alimentos": [
+    {
+     "alimento": "aguacate",
+     "etiqueta": "aguacate",
+     "t": 0.86
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿*Aguacate* todos los días?"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 370.26,
+   "fin": 372.41,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Grasa de la buena",
+     "t": 0.54
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Grasa, pero *de la buena*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 372.41,
+   "fin": 378.2,
+   "alimentos": [
+    {
+     "alimento": "aguacate",
+     "marca": "",
+     "etiqueta": "aguacate",
+     "t": 1.25
+    },
+    {
+     "alimento": "aceite",
+     "marca": "",
+     "etiqueta": "aceite de oliva",
+     "t": 3.34
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Monoinsaturada*"
+    },
+    {
+     "t": 3.34,
+     "txt": "como el *aceite de oliva*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 378.2,
+   "fin": 386.36,
+   "alimentos": [
+    {
+     "alimento": "salami",
+     "marca": "no",
+     "etiqueta": "embutidos",
+     "t": 2.27
+    },
+    {
+     "alimento": "aguacate",
+     "marca": "si",
+     "etiqueta": "aguacate",
+     "t": 4.35
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Si reemplaza a los *embutidos*"
+    },
+    {
+     "t": 4.35,
+     "txt": "baja el *colesterol malo*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 386.36,
+   "fin": 391.23,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Guineo",
+     "valor": 45,
+     "t": 1.94
+    },
+    {
+     "etiqueta": "Aguacate",
+     "valor": 62,
+     "t": 2.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Mucha *fibra*"
+    },
+    {
+     "t": 1.94,
+     "txt": "más *potasio* que un guineo"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 391.23,
+   "fin": 397.06,
+   "organos": [
+    {
+     "id": "estomago",
+     "etiqueta": "Digestión",
+     "t": 1.12,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Presión",
+     "t": 2.97,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Llena y ayuda a la *digestión*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 397.06,
+   "fin": 399.72,
+   "alimentos": [
+    {
+     "alimento": "brocoli",
+     "marca": "",
+     "etiqueta": "vegetales",
+     "t": 0.66
+    },
+    {
+     "alimento": "aguacate",
+     "marca": "",
+     "etiqueta": "aguacate",
+     "t": 1.24
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Hace que otros te *nutran más*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 399.72,
+   "fin": 405.56,
+   "items": [
+    {
+     "icono": "gota",
+     "txt": "Vitaminas",
+     "t": 1.77
+    },
+    {
+     "icono": "estrella",
+     "txt": "Antioxidantes",
+     "t": 3.09
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Se absorben con *un poco de grasa*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 405.56,
+   "fin": 412.91,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Ensalada sola",
+     "valor": 20,
+     "t": 2.28
+    },
+    {
+     "etiqueta": "Con aguacate",
+     "valor": 90,
+     "t": 4.01
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Aguacate en la *ensalada*"
+    },
+    {
+     "t": 4.01,
+     "txt": "*multiplicó* los antioxidantes"
+    }
+   ]
+  },
+  {
+   "tipo": "plato",
+   "inicio": 412.91,
+   "fin": 418.13,
+   "porciones": [
+    {
+     "parte": 0.25,
+     "alimento": "arroz",
+     "etiqueta": "Arroz",
+     "t": 0.67
+    },
+    {
+     "parte": 0.25,
+     "alimento": "habichuelas",
+     "etiqueta": "Habichuelas",
+     "t": 1.37
+    },
+    {
+     "parte": 0.25,
+     "alimento": "aguacate",
+     "etiqueta": "Aguacate",
+     "t": 2.31
+    },
+    {
+     "parte": 0.25,
+     "alimento": "brocoli",
+     "etiqueta": "Ensalada",
+     "t": 3.01
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No está ahí *solo por el sabor*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 418.13,
+   "fin": 424.48,
+   "alimentos": [
+    {
+     "alimento": "aguacate",
+     "marca": "medida",
+     "etiqueta": "aguacate",
+     "t": 3.29
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo que casi nadie dice"
+    },
+    {
+     "t": 2.59,
+     "txt": "Sano *no es ilimitado*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 424.48,
+   "fin": 428.3,
+   "desde": 0,
+   "hasta": 300,
+   "prefijo": "+",
+   "sufijo": " kcal",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Un aguacate *entero*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 428.3,
+   "fin": 434.44,
+   "alimentos": [
+    {
+     "alimento": "aguacate",
+     "marca": "si",
+     "etiqueta": "medio",
+     "t": 2.81
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿Bajando de peso?"
+    },
+    {
+     "t": 3.1,
+     "txt": "*medio aguacate* o menos"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 434.44,
+   "fin": 439.05,
+   "personaje": "medica",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El aguacate *no engorda más*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 439.05,
+   "fin": 443.96,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Lo que comes",
+     "valor": 90,
+     "t": 1.31
+    },
+    {
+     "etiqueta": "Lo que gastas",
+     "valor": 60,
+     "t": 2.43
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Engorda comer *más de lo que gastas*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 443.96,
+   "fin": 448.11,
+   "alimentos": [
+    {
+     "alimento": "avena",
+     "etiqueta": "avena",
+     "t": 0.84
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿*Avena* todos los días?"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 448.11,
+   "fin": 451.68,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "Betaglucano",
+     "t": 1.26
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una fibra: *betaglucano*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 451.68,
+   "fin": 454.95,
+   "organos": [
+    {
+     "id": "intestino",
+     "etiqueta": "Forma un gel",
+     "t": 1.15,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "En el intestino forma un *gel*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 454.95,
+   "fin": 458.92,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Atrapa colesterol",
+     "t": 0.89
+    },
+    {
+     "icono": "check",
+     "txt": "Lo saca del cuerpo",
+     "t": 2.27
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 458.92,
+   "fin": 465.61,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Antes",
+     "valor": 85,
+     "t": 2.04
+    },
+    {
+     "etiqueta": "Con avena",
+     "valor": 65,
+     "t": 3.58
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Puede bajar el *colesterol malo*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 465.61,
+   "fin": 471.23,
+   "desde": 0,
+   "hasta": 3,
+   "sufijo": " g",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo más estudiado"
+    },
+    {
+     "t": 2.43,
+     "txt": "*3 g* de betaglucano al día"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 471.23,
+   "fin": 477.75,
+   "organos": [
+    {
+     "id": "estomago",
+     "etiqueta": "Más despacio",
+     "t": 2.33,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El estómago se vacía *más despacio*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 477.75,
+   "fin": 482.81,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Lleno por más tiempo",
+     "t": 0.57
+    },
+    {
+     "icono": "gota",
+     "txt": "Azúcar con calma",
+     "t": 2.05
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 482.81,
+   "fin": 489.4,
+   "organos": [
+    {
+     "id": "intestino",
+     "etiqueta": "Bacterias buenas",
+     "t": 2.03,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Alimenta tus *bacterias buenas*"
+    },
+    {
+     "t": 3.87,
+     "txt": "y vas al baño *con regularidad*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 489.4,
+   "fin": 492.56,
+   "alimentos": [
+    {
+     "alimento": "avena",
+     "marca": "medida",
+     "etiqueta": "avena",
+     "t": 0.97
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Pero hay una *trampa*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 492.56,
+   "fin": 501.12,
+   "alimentos": [
+    {
+     "alimento": "avena",
+     "etiqueta": "avena",
+     "t": 1.0
+    },
+    {
+     "alimento": "leche_condensada",
+     "marca": "no",
+     "etiqueta": "leche condensada",
+     "t": 2.61
+    },
+    {
+     "alimento": "azucar",
+     "marca": "no",
+     "etiqueta": "azúcar",
+     "t": 4.23
+    }
+   ],
+   "texto": [
+    {
+     "t": 5.03,
+     "txt": "más azúcar que un *refresco*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 501.12,
+   "fin": 506.33,
+   "alimentos": [
+    {
+     "alimento": "avena",
+     "marca": "no",
+     "etiqueta": "instantánea",
+     "t": 1.14
+    },
+    {
+     "alimento": "azucar",
+     "marca": "",
+     "etiqueta": "azúcar",
+     "t": 2.56
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Las de sabores vienen *cargadas*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 506.33,
+   "fin": 514.94,
+   "alimentos": [
+    {
+     "alimento": "avena",
+     "marca": "si",
+     "etiqueta": "en hojuelas",
+     "t": 1.42
+    },
+    {
+     "alimento": "canela",
+     "marca": "",
+     "etiqueta": "canela",
+     "t": 3.06
+    },
+    {
+     "alimento": "guineo",
+     "marca": "",
+     "etiqueta": "guineo maduro",
+     "t": 4.69
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Avena sola*"
+    },
+    {
+     "t": 5.91,
+     "txt": "esa es la que *funciona*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 514.94,
+   "fin": 519.8,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "etiqueta": "huevo",
+     "t": 0.2
+    },
+    {
+     "alimento": "platano_verde",
+     "etiqueta": "plátano verde",
+     "t": 0.86
+    },
+    {
+     "alimento": "arroz",
+     "etiqueta": "arroz",
+     "t": 1.51
+    },
+    {
+     "alimento": "habichuelas",
+     "etiqueta": "habichuelas",
+     "t": 2.17
+    },
+    {
+     "alimento": "aguacate",
+     "etiqueta": "aguacate",
+     "t": 2.82
+    },
+    {
+     "alimento": "avena",
+     "etiqueta": "avena",
+     "t": 3.48
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 519.8,
+   "fin": 522.44,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Cuánto comes",
+     "valor": 70,
+     "t": 0.64
+    },
+    {
+     "etiqueta": "Cómo lo preparas",
+     "valor": 70,
+     "t": 1.18
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Ninguno es *bueno o malo* solo"
+    }
+   ]
+  },
+  {
+   "tipo": "plato",
+   "inicio": 522.44,
+   "fin": 526.47,
+   "porciones": [
+    {
+     "parte": 0.5,
+     "alimento": "brocoli",
+     "etiqueta": "Vegetales",
+     "t": 0.56
+    },
+    {
+     "parte": 0.25,
+     "alimento": "pollo",
+     "etiqueta": "Proteína",
+     "t": 1.29
+    },
+    {
+     "parte": 0.25,
+     "alimento": "arroz",
+     "etiqueta": "Carbohidrato",
+     "t": 2.01
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Cuánto* comes y *cómo* lo preparas"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 526.47,
+   "fin": 534.52,
+   "alimentos": [
+    {
+     "alimento": "salami",
+     "etiqueta": "salami",
+     "t": 1.72
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "En casi todos los *desayunos*"
+    },
+    {
+     "t": 4.37,
+     "txt": "la OMS lo puso junto al *tabaco*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 534.52,
+   "fin": 537.36,
+   "alimentos": [
+    {
+     "alimento": "salami",
+     "marca": "no",
+     "etiqueta": "salami",
+     "t": 0.65
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿Y si comes *salami*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 537.36,
+   "fin": 543.16,
+   "palabra": "Nutrición",
+   "proximo": "¿Qué le pasa a tu cuerpo si comes salami?"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 272.44,
+   "fin": 277.44
+  }
+ ]
+}
