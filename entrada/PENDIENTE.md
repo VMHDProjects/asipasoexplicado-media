@@ -9,8 +9,8 @@ Para seguir: `templates/_motor/herramientas/cola.sh <lista>` renderiza, comprime
 | Nutrición cap 01 | programado 13 nov 10:00 p. m. |
 | Nutrición caps 02–06 | programados 14–18 nov 10:00 p. m. |
 | Biblia largo ángeles (YouTube) | publicado 13 nov |
-| Biblia caps 01–02 | programados 17–18 nov 12:00 m. |
-| Biblia caps 03–07 | falta render → 19–23 nov 12:00 m. |
-| Historia largo Bosch a Balaguer (YouTube) | falta render → publicar en cuanto esté |
+| Biblia caps 01–03 | programados 17–19 nov 12:00 m. |
+| Biblia caps 04–07 | falta render → 20–23 nov 12:00 m. |
+| Historia largo Bosch a Balaguer (YouTube) | programado 13 nov 6:45 p. m. |
 | Historia caps 01–06 | falta render → 20–25 nov 7:00 a. m. |
 | Salud | sin audio nuevo: hay reels hasta el 16 nov |
