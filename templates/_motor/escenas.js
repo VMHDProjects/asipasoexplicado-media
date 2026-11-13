@@ -204,6 +204,9 @@
     const fs = d.tam || (vertical ? 330 : 360);
     const num = U.el('text', { x: cx, y: cy + fs * 0.35, 'text-anchor': 'middle', 'font-family': tema.fuentes.cifra || tema.fuentes.titulo, 'font-weight': 700, 'font-size': fs, fill: C.acento }, g);
     if (tema.contorno) { num.setAttribute('stroke', tema.contorno); num.setAttribute('stroke-width', 10); num.setAttribute('paint-order', 'stroke'); }
+    { const fmt0 = v => (d.prefijo || '') + (d.miles ? Math.round(v).toLocaleString('es-DO') : Math.round(v)) + (d.sufijo || '');
+      num.textContent = fmt0(Math.max(Math.abs(d.desde ?? 0), Math.abs(d.hasta ?? 0)));
+      try { const w = num.getComputedTextLength(), lim = W * 0.84 / 1.2; if (w > lim) { num.setAttribute('font-size', fs * lim / w); num.setAttribute('y', cy + fs * lim / w * 0.35); } } catch (e) {} }
     const t0 = d.tConteo ?? 0.25, t1 = t0 + (d.durConteo ?? 1.8);
     const cam = APE.camara(b.cam, ctx, [{ t: 0, x: cx, y: H / 2, s: 0.9 }, { t: t1, x: cx, y: H / 2, s: 1.0 }, { t: b.dur + 0.6, x: cx, y: H / 2, s: 1.08 }]);
     const fmt = v => (d.prefijo || '') + (d.miles ? Math.round(v).toLocaleString('es-DO') : Math.round(v)) + (d.sufijo || '');

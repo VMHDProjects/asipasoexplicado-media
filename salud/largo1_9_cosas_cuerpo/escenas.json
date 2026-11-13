@@ -1,0 +1,1490 @@
+{
+ "serie": "salud",
+ "titulo": "9 cosas que le pasan a tu cuerpo y nadie te explicó",
+ "duracion": 441.0,
+ "personajes": {
+  "medica": {
+   "nombre": "Médica",
+   "etiqueta": "Lo que dicen los médicos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "hombre": {
+   "nombre": "Hombre",
+   "etiqueta": "",
+   "piel": "#8E5A3A",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#2E6F8E"
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "Adultos mayores",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#C0566B",
+   "lentes": true
+  },
+  "abuelo": {
+   "nombre": "Abuelo",
+   "etiqueta": "Adultos mayores",
+   "piel": "#6E4630",
+   "pelo": "calvo",
+   "colorPelo": "#DCD6CC",
+   "bigote": "grueso",
+   "colorBarba": "#DCD6CC",
+   "edad": "mayor",
+   "ropa": "camisa",
+   "colorRopa": "#3E7C5A"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "cuerpo",
+   "inicio": 0,
+   "fin": 7.85,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Cerebro",
+     "t": 1.0
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Corazón",
+     "t": 2.6
+    },
+    {
+     "id": "higado",
+     "etiqueta": "Hígado",
+     "t": 4.2
+    },
+    {
+     "id": "vejiga",
+     "etiqueta": "Vejiga",
+     "t": 5.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Tu cuerpo *reacciona* a todo"
+    },
+    {
+     "t": 2.9,
+     "txt": "a lo que tomas, a lo que *comes*"
+    },
+    {
+     "t": 5.1,
+     "txt": "a lo que *aguantas*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 7.85,
+   "fin": 13.43,
+   "fondo": "9",
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "*9 cosas* que le pasan a tu cuerpo"
+    },
+    {
+     "t": 3.25,
+     "txt": "y que casi nadie te *explicó*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 13.43,
+   "fin": 17.62,
+   "fondo": "12 h",
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "¿Qué le pasa a tu cuerpo con *12 horas sin comer*?"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 17.62,
+   "fin": 24.12,
+   "hitos": [
+    {
+     "anio": "0 h",
+     "txt": "Última comida",
+     "t": 0.38
+    },
+    {
+     "anio": "2 h",
+     "txt": "Usa ese azúcar",
+     "t": 3.28
+    },
+    {
+     "anio": "6 h",
+     "txt": "Todavía le alcanza",
+     "t": 4.98
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.98,
+     "txt": "Las primeras horas *no cambian nada*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 24.12,
+   "fin": 28.89,
+   "organos": [
+    {
+     "id": "higado",
+     "etiqueta": "Reserva de azúcar",
+     "t": 1.18
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Cuando se acaba…"
+    },
+    {
+     "t": 1.28,
+     "txt": "el *hígado* suelta su reserva"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 28.89,
+   "fin": 35.72,
+   "desde": 0,
+   "hasta": 12,
+   "sufijo": " h",
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "Entre las *10 y 12 horas*"
+    },
+    {
+     "t": 2.11,
+     "txt": "la reserva empieza a *bajar*"
+    },
+    {
+     "t": 4.31,
+     "txt": "*cambio de combustible*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 35.72,
+   "fin": 42.68,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Deja de depender del azúcar",
+     "t": 0.08
+    },
+    {
+     "icono": "fuego",
+     "txt": "Empieza a usar grasa",
+     "t": 1.68
+    }
+   ],
+   "texto": [
+    {
+     "t": 3.58,
+     "txt": "El *interruptor metabólico*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 42.68,
+   "fin": 49.72,
+   "organos": [
+    {
+     "id": "higado",
+     "etiqueta": "Cetonas",
+     "t": 1.12
+    },
+    {
+     "id": "cerebro",
+     "etiqueta": "Energía",
+     "t": 3.72
+    }
+   ],
+   "texto": [
+    {
+     "t": 1.12,
+     "txt": "El hígado produce *cetonas*"
+    },
+    {
+     "t": 3.92,
+     "txt": "y tu cerebro las usa como *energía*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 49.72,
+   "fin": 58.37,
+   "items": [
+    {
+     "icono": "sol",
+     "txt": "Más despiertos",
+     "t": 0.88
+    },
+    {
+     "icono": "alerta",
+     "txt": "Mareo",
+     "t": 5.68
+    },
+    {
+     "icono": "luna",
+     "txt": "Cansancio",
+     "t": 6.58
+    },
+    {
+     "icono": "cerebro",
+     "txt": "Dolor de cabeza",
+     "t": 7.48
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Unos se sienten *más despiertos*"
+    },
+    {
+     "t": 3.68,
+     "txt": "otros, *lo contrario*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 58.37,
+   "fin": 62.63,
+   "fondo": "!",
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "Un dato que casi nadie *menciona*"
+    },
+    {
+     "t": 2.53,
+     "txt": "*Esto ya te pasa*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 62.63,
+   "fin": 67.77,
+   "hitos": [
+    {
+     "anio": "8 p. m.",
+     "txt": "Cenas",
+     "t": 0.17
+    },
+    {
+     "anio": "8 a. m.",
+     "txt": "Desayunas",
+     "t": 1.77
+    }
+   ],
+   "texto": [
+    {
+     "t": 2.87,
+     "txt": "*12 horas* sin comer"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 67.77,
+   "fin": 71.75,
+   "fondo": "1",
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "¿Y si comes *una sola vez* al día?"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 71.75,
+   "fin": 75.22,
+   "desde": 0,
+   "hasta": 20,
+   "prefijo": "+",
+   "sufijo": " h",
+   "texto": [
+    {
+     "t": 0.85,
+     "txt": "Más de *20 horas* sin comer"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 75.22,
+   "fin": 82.64,
+   "organos": [
+    {
+     "id": "higado",
+     "etiqueta": "Reserva agotada",
+     "t": 0.38
+    },
+    {
+     "id": "estomago",
+     "etiqueta": "Usa la grasa",
+     "t": 2.58
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Agota el *azúcar guardada*"
+    },
+    {
+     "t": 2.38,
+     "txt": "y vive de su *grasa*"
+    },
+    {
+     "t": 4.78,
+     "txt": "Por eso muchos *bajan de peso*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 82.64,
+   "fin": 88.25,
+   "personaje": "medica",
+   "texto": [
+    {
+     "t": 1.06,
+     "txt": "Pero la razón *no es mágica*"
+    },
+    {
+     "t": 3.06,
+     "txt": "Universidad *Johns Hopkins*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 88.25,
+   "fin": 98.52,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "No es la hora en que comes",
+     "t": 1.15
+    },
+    {
+     "icono": "check",
+     "txt": "Es cuánto comes",
+     "t": 3.15
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "Lo que más pesa…"
+    },
+    {
+     "t": 5.25,
+     "txt": "Si metes todo el día en una comida"
+    },
+    {
+     "t": 8.25,
+     "txt": "el resultado *cambia poco*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 98.52,
+   "fin": 105.11,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Mareos",
+     "t": 3.18
+    },
+    {
+     "icono": "luna",
+     "txt": "Cansancio",
+     "t": 4.28
+    },
+    {
+     "icono": "cerebro",
+     "txt": "Dolor de cabeza",
+     "t": 5.28
+    }
+   ],
+   "texto": [
+    {
+     "t": 1.08,
+     "txt": "No todos los cuerpos lo *toleran*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 105.11,
+   "fin": 113.09,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Embarazadas",
+     "t": 2.69
+    },
+    {
+     "icono": "x",
+     "txt": "Mujeres lactando",
+     "t": 3.89
+    },
+    {
+     "icono": "x",
+     "txt": "Medicamentos para la diabetes",
+     "t": 5.39
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.09,
+     "txt": "*No se recomienda* para"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 113.09,
+   "fin": 121.38,
+   "personaje": "medica",
+   "texto": [
+    {
+     "t": 0.01,
+     "txt": "Ni *milagro* ni *veneno*"
+    },
+    {
+     "t": 3.61,
+     "txt": "Es un *cambio fuerte*"
+    },
+    {
+     "t": 4.91,
+     "txt": "Háblalo antes con un *médico*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 121.38,
+   "fin": 125.25,
+   "fondo": "café",
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "¿Qué le pasa a tu cuerpo cuando tomas *café*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 125.25,
+   "fin": 130.88,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Adenosina",
+     "t": 0.35
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "En tu cerebro: *adenosina*"
+    },
+    {
+     "t": 3.25,
+     "txt": "la que te da *sueño*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 130.88,
+   "fin": 137.37,
+   "fondo": "zzz",
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "La cafeína le *tapa la entrada*"
+    },
+    {
+     "t": 2.32,
+     "txt": "El café no te da *energía*"
+    },
+    {
+     "t": 4.72,
+     "txt": "te *esconde el cansancio*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 137.37,
+   "fin": 142.78,
+   "desde": 0,
+   "hasta": 60,
+   "prefijo": "< ",
+   "sufijo": " min",
+   "texto": [
+    {
+     "t": 1.03,
+     "txt": "Su punto más alto en la *sangre*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 142.78,
+   "fin": 147.62,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Nervios acelerados",
+     "t": 0.22
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Presión arriba",
+     "t": 1.82
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "Tu sistema nervioso se *acelera*"
+    },
+    {
+     "t": 1.92,
+     "txt": "y la presión *sube*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 147.62,
+   "fin": 156.94,
+   "hitos": [
+    {
+     "anio": "0 h",
+     "txt": "Café",
+     "t": 0.38
+    },
+    {
+     "anio": "4 h",
+     "txt": "Sigue el efecto",
+     "t": 2.18
+    },
+    {
+     "anio": "6 h",
+     "txt": "Todavía",
+     "t": 3.58
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "El efecto *no se va rápido*"
+    },
+    {
+     "t": 5.28,
+     "txt": "El café de la tarde te roba *el sueño*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 156.94,
+   "fin": 164.65,
+   "desde": 0,
+   "hasta": 400,
+   "sufijo": " mg",
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "¿Cuánto es *demasiado*?"
+    },
+    {
+     "t": 2.06,
+     "txt": "Hasta *400 mg* al día"
+    },
+    {
+     "t": 4.86,
+     "txt": "no hacen daño a la *mayoría*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 164.65,
+   "fin": 171.24,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Temblores",
+     "t": 2.25
+    },
+    {
+     "icono": "luna",
+     "txt": "Insomnio",
+     "t": 3.15
+    },
+    {
+     "icono": "cerebro",
+     "txt": "Dolor de cabeza",
+     "t": 4.15
+    },
+    {
+     "icono": "corazon",
+     "txt": "Corazón acelerado",
+     "t": 5.15
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "Si te pasas, el cuerpo *avisa*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 171.24,
+   "fin": 175.24,
+   "fondo": "azúcar",
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "¿Y cuando comes *mucha azúcar*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 175.24,
+   "fin": 181.14,
+   "organos": [
+    {
+     "id": "estomago",
+     "etiqueta": "Se absorbe rápido",
+     "t": 0.26
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Glucosa arriba",
+     "t": 2.76
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "Se absorbe *rápido*"
+    },
+    {
+     "t": 2.66,
+     "txt": "La glucosa en tu sangre *sube*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 181.14,
+   "fin": 188.72,
+   "organos": [
+    {
+     "id": "pancreas",
+     "etiqueta": "Insulina",
+     "t": 0.26
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "El páncreas suelta *insulina*"
+    },
+    {
+     "t": 2.66,
+     "txt": "que mete el azúcar en las *células*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 188.72,
+   "fin": 198.47,
+   "items": [
+    {
+     "icono": "gota",
+     "txt": "Lo que sobra",
+     "t": 1.28
+    },
+    {
+     "icono": "fuego",
+     "txt": "Se guarda como grasa",
+     "t": 3.08
+    },
+    {
+     "icono": "alerta",
+     "txt": "Aumento de peso",
+     "t": 5.88
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Lo que no usas *no se bota*"
+    },
+    {
+     "t": 5.78,
+     "txt": "El exceso se relaciona con *el peso*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 198.47,
+   "fin": 210.23,
+   "hitos": [
+    {
+     "anio": "Hoy",
+     "txt": "Azúcar alta",
+     "t": 0.83
+    },
+    {
+     "anio": "Cada día",
+     "txt": "Peor respuesta",
+     "t": 3.03
+    },
+    {
+     "anio": "Años",
+     "txt": "Diabetes tipo 2",
+     "t": 9.23
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.83,
+     "txt": "Si se repite *todos los días*"
+    },
+    {
+     "t": 6.23,
+     "txt": "*Resistencia a la insulina*"
+    },
+    {
+     "t": 9.23,
+     "txt": "camino a la *diabetes tipo 2*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 210.23,
+   "fin": 217.03,
+   "desde": 0,
+   "hasta": 10,
+   "prefijo": "< ",
+   "sufijo": "%",
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "La *OMS* recomienda"
+    },
+    {
+     "t": 2.27,
+     "txt": "menos del *10%* de las calorías"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 217.03,
+   "fin": 224.72,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Refrescos",
+     "t": 3.57
+    },
+    {
+     "icono": "x",
+     "txt": "Jugos",
+     "t": 4.77
+    },
+    {
+     "icono": "x",
+     "txt": "Productos empacados",
+     "t": 5.77
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "Ojo: no está en la *azucarera*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 224.72,
+   "fin": 228.83,
+   "fondo": "WC",
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "¿Y si aguantas las ganas de *orinar*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 228.83,
+   "fin": 235.87,
+   "organos": [
+    {
+     "id": "vejiga",
+     "etiqueta": "Se estira",
+     "t": 0.37
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "Tu vejiga es un *músculo*"
+    },
+    {
+     "t": 2.57,
+     "txt": "guarda de *1½ a 2 tazas*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 235.87,
+   "fin": 241.98,
+   "organos": [
+    {
+     "id": "vejiga",
+     "etiqueta": "Llena",
+     "t": 0.13
+    },
+    {
+     "id": "cerebro",
+     "etiqueta": "¡Aviso!",
+     "t": 1.53
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "Cuando se llena…"
+    },
+    {
+     "t": 1.43,
+     "txt": "los nervios avisan al *cerebro*"
+    },
+    {
+     "t": 3.43,
+     "txt": "la *primera gana*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 241.98,
+   "fin": 250.66,
+   "fondo": "!",
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "Si aguantas, aprietas una *llave*"
+    },
+    {
+     "t": 4.22,
+     "txt": "la vejiga se sigue *estirando*"
+    },
+    {
+     "t": 6.52,
+     "txt": "y la señal sube *más fuerte*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 250.66,
+   "fin": 255.18,
+   "personaje": "hombre",
+   "etiqueta": "La costumbre",
+   "texto": [
+    {
+     "t": 0.04,
+     "txt": "Una vez *no pasa nada*"
+    },
+    {
+     "t": 1.84,
+     "txt": "El problema es *la costumbre*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 255.18,
+   "fin": 269.92,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Músculos más débiles",
+     "t": 2.82
+    },
+    {
+     "icono": "gota",
+     "txt": "No se vacía completa",
+     "t": 5.42
+    },
+    {
+     "icono": "x",
+     "txt": "Bacterias que crecen",
+     "t": 8.22
+    },
+    {
+     "icono": "alerta",
+     "txt": "Infección urinaria",
+     "t": 12.22
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "Aguantar *con frecuencia*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 269.92,
+   "fin": 275.67,
+   "desde": 0,
+   "hasta": 3,
+   "prefijo": "Cada 2 o ",
+   "sufijo": " h",
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Lo normal"
+    },
+    {
+     "t": 3.48,
+     "txt": "Si tu cuerpo avisa, *hazle caso*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 275.67,
+   "fin": 281.26,
+   "preset": "campo",
+   "semilla": 4,
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "¿Y si *caminas* todos los días?"
+    },
+    {
+     "t": 3.83,
+     "txt": "Tu corazón trabaja *mejor*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 281.26,
+   "fin": 287.92,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "Presión controlada",
+     "t": 0.24
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.04,
+     "txt": "Controla la *presión*"
+    },
+    {
+     "t": 3.24,
+     "txt": "mejora el corazón y los *vasos*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 287.92,
+   "fin": 298.4,
+   "items": [
+    {
+     "icono": "rayo",
+     "txt": "Las piernas usan glucosa",
+     "t": 2.58
+    },
+    {
+     "icono": "check",
+     "txt": "Controla el azúcar",
+     "t": 7.08
+    },
+    {
+     "icono": "check",
+     "txt": "Controla el peso",
+     "t": 8.68
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "Tu *azúcar* en la sangre baja"
+    },
+    {
+     "t": 7.08,
+     "txt": "Ayuda con el azúcar y el *peso*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 298.4,
+   "fin": 310.13,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Endorfinas",
+     "t": 2.1
+    },
+    {
+     "id": "huesos",
+     "etiqueta": "Huesos y músculos",
+     "t": 8.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.7,
+     "txt": "Tu cabeza *cambia*"
+    },
+    {
+     "t": 2.1,
+     "txt": "libera *endorfinas*"
+    },
+    {
+     "t": 5.7,
+     "txt": "menos *estrés*, mejor sueño"
+    },
+    {
+     "t": 8.5,
+     "txt": "y fortalece los *huesos*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 310.13,
+   "fin": 317.14,
+   "desde": 0,
+   "hasta": 150,
+   "sufijo": " min",
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "¿Cuánto hace falta?"
+    },
+    {
+     "t": 1.17,
+     "txt": "*150 minutos* a la semana"
+    },
+    {
+     "t": 4.77,
+     "txt": "media hora, *cinco días*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 317.14,
+   "fin": 324.83,
+   "preset": "pueblo",
+   "semilla": 6,
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "Si hoy no caminas nada"
+    },
+    {
+     "t": 1.66,
+     "txt": "hasta *5 minutos* cuentan"
+    },
+    {
+     "t": 3.86,
+     "txt": "No necesitas *gimnasio*"
+    },
+    {
+     "t": 5.56,
+     "txt": "sal por la *puerta*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 324.83,
+   "fin": 328.58,
+   "fondo": "30",
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "¿Y si dejas el *alcohol* un mes?"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 328.58,
+   "fin": 341.19,
+   "personaje": "hombre",
+   "etiqueta": "Un mes sin alcohol",
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "Duermes *mejor*"
+    },
+    {
+     "t": 1.12,
+     "txt": "El alcohol te *tumba* rápido"
+    },
+    {
+     "t": 3.02,
+     "txt": "pero te despierta en la *noche*"
+    },
+    {
+     "t": 8.52,
+     "txt": "Sin alcohol, sueño más *profundo*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 341.19,
+   "fin": 353.63,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "Presión baja",
+     "t": 2.41
+    },
+    {
+     "id": "pancreas",
+     "etiqueta": "Mejor insulina",
+     "t": 8.81
+    }
+   ],
+   "texto": [
+    {
+     "t": 1.01,
+     "txt": "Tu presión *baja*"
+    },
+    {
+     "t": 2.51,
+     "txt": "Un estudio: un mes sin alcohol"
+    },
+    {
+     "t": 5.61,
+     "txt": "bajó la *presión*"
+    },
+    {
+     "t": 8.71,
+     "txt": "y mejoró la *insulina*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 353.63,
+   "fin": 364.27,
+   "organos": [
+    {
+     "id": "higado",
+     "etiqueta": "Filtra el alcohol",
+     "t": 0.37
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "Tu *hígado* descansa"
+    },
+    {
+     "t": 1.67,
+     "txt": "el que *filtra* el alcohol"
+    },
+    {
+     "t": 3.77,
+     "txt": "acumula *grasa*"
+    },
+    {
+     "t": 7.97,
+     "txt": "una pausa le da *espacio*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 364.27,
+   "fin": 370.82,
+   "fondo": "!",
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "Una *advertencia* importante"
+    },
+    {
+     "t": 1.93,
+     "txt": "Si tomas mucho y a diario"
+    },
+    {
+     "t": 4.23,
+     "txt": "*no lo dejes de golpe* solo"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 370.82,
+   "fin": 375.98,
+   "personaje": "medica",
+   "texto": [
+    {
+     "t": 0.08,
+     "txt": "La abstinencia puede ser *peligrosa*"
+    },
+    {
+     "t": 2.38,
+     "txt": "Habla primero con un *médico*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 375.98,
+   "fin": 379.74,
+   "fondo": "agua",
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "¿Y cuando tomas poca *agua*?"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 379.74,
+   "fin": 392.78,
+   "items": [
+    {
+     "icono": "gota",
+     "txt": "Amarillo claro: vas bien",
+     "t": 4.46
+    },
+    {
+     "icono": "alerta",
+     "txt": "Oscura y poca: falta agua",
+     "t": 6.56
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.06,
+     "txt": "La primera señal *no siempre es la sed*"
+    },
+    {
+     "t": 2.66,
+     "txt": "Mira el *color de tu orina*"
+    },
+    {
+     "t": 8.66,
+     "txt": "Tu cuerpo está *ahorrando* líquido"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 392.78,
+   "fin": 400.63,
+   "organos": [
+    {
+     "id": "piel",
+     "etiqueta": "Piel seca",
+     "t": 3.02
+    },
+    {
+     "id": "cerebro",
+     "etiqueta": "Dolor de cabeza",
+     "t": 5.22
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.02,
+     "txt": "Tu cuerpo empieza a *quejarse*"
+    },
+    {
+     "t": 3.02,
+     "txt": "boca seca, *piel seca*"
+    },
+    {
+     "t": 5.12,
+     "txt": "cansancio y *dolor de cabeza*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 400.63,
+   "fin": 405.19,
+   "fondo": "?",
+   "texto": [
+    {
+     "t": 0.07,
+     "txt": "Crees que tienes *sueño o hambre*"
+    },
+    {
+     "t": 2.87,
+     "txt": "y lo que tienes es *sed*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 405.19,
+   "fin": 415.57,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Confusión",
+     "t": 3.41
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Corazón acelerado",
+     "t": 5.01
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.01,
+     "txt": "Si sigue, llegan los *mareos*"
+    },
+    {
+     "t": 3.41,
+     "txt": "en casos graves, *confusión*"
+    },
+    {
+     "t": 7.01,
+     "txt": "Ya no es un descuido"
+    },
+    {
+     "t": 8.91,
+     "txt": "es una *emergencia*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 415.57,
+   "fin": 427.06,
+   "personaje": "abuela",
+   "personaje2": "abuelo",
+   "t2": 1.43,
+   "texto": [
+    {
+     "t": 0.03,
+     "txt": "Más riesgo: *niños* y *mayores*"
+    },
+    {
+     "t": 4.33,
+     "txt": "con la edad se pierde la *sed*"
+    },
+    {
+     "t": 7.23,
+     "txt": "No esperes a que pida agua"
+    },
+    {
+     "t": 10.38,
+     "txt": "*ofrécesela*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 427.06,
+   "fin": 434.2,
+   "fondo": "9",
+   "texto": [
+    {
+     "t": 0.04,
+     "txt": "Y la *novena* ya la conoces"
+    },
+    {
+     "t": 2.14,
+     "txt": "te pasa cuando te acuestas *tarde*"
+    },
+    {
+     "t": 4.54,
+     "txt": "¿Qué le pasa si *duermes poco*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 434.2,
+   "fin": 441.0,
+   "palabra": "Cuerpo",
+   "proximo": "Lo que tu cuerpo te avisa"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 213.5,
+   "fin": 218.5
+  }
+ ]
+}

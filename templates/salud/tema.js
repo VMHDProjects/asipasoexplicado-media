@@ -125,14 +125,14 @@
       const pth = U.el('path', { d: def.d, fill: o.color || C.organo, stroke: '#FFFFFF', 'stroke-width': 2.5 }, og);
       const [cx, cy] = def.c;
       const lado = o.lado || (vertical ? (i % 2 ? 1 : -1) : 1);
-      const lx = lado < 0 ? -40 : 440;
+      const lx = vertical ? (lado < 0 ? 110 : 300) : (lado < 0 ? -40 : 440);
       const linea = U.el('path', { d: `M${cx} ${cy} L${(cx + lx) / 2} ${cy - 40} L${lx} ${cy - 40}`, fill: 'none', stroke: '#FFFFFF', 'stroke-width': 3, pathLength: 1 }, og);
-      const lbl = U.el('text', { x: lx + lado * 12, y: cy - 28, 'text-anchor': lado < 0 ? 'end' : 'start', 'font-family': 'Poppins', 'font-weight': 700, 'font-size': 40 / k, fill: C.tinta, stroke: C.fondo, 'stroke-width': 8, 'paint-order': 'stroke' }, og);
+      const lbl = U.el('text', { x: lx + lado * 12, y: cy - 28, 'text-anchor': lado < 0 ? 'end' : 'start', 'font-family': 'Poppins', 'font-weight': 700, 'font-size': (vertical ? 36 : 40) / k, fill: C.tinta, stroke: C.fondo, 'stroke-width': 8, 'paint-order': 'stroke' }, og);
       lbl.textContent = o.etiqueta || def.nombre;
       return { o, og, glow, pth, linea, lbl, cx, cy, t: o.t ?? 0.8 + i };
     });
     const keys = [{ t: 0, x: W / 2, y: H / 2, s: 0.95 }, { t: 1.2, x: W / 2, y: H / 2, s: 1 }];
-    organos.forEach(o => { if (o.o.zoom === false) return; const pv = keys[keys.length - 1]; keys.push({ t: Math.max(o.t, pv.t + 0.01), x: pv.x, y: pv.y, s: pv.s }); keys.push({ t: o.t + 0.8, x: vertical ? W / 2 : W / 2 + (ox + o.cx * k - W / 2) * 0.5, y: oy + o.cy * k, s: o.o.escala || 1.45 }); });
+    organos.forEach(o => { if (o.o.zoom === false) return; const pv = keys[keys.length - 1]; keys.push({ t: Math.max(o.t, pv.t + 0.01), x: pv.x, y: pv.y, s: pv.s }); keys.push({ t: o.t + 0.8, x: vertical ? W / 2 : W / 2 + (ox + o.cx * k - W / 2) * 0.5, y: oy + o.cy * k, s: o.o.escala || (vertical ? 1.08 : 1.45) }); });
     const kl = keys[keys.length - 1]; keys.push({ t: b.dur + 0.6, x: kl.x, y: kl.y, s: kl.s * 1.04 });
     const cam = APE.camara(b.cam, ctx, keys);
     const caja = vertical ? { x: W / 2, y: H * 0.8, w: W * 0.86, size: 80 * T.tamTexto, anchor: 'middle', vAnchor: 'middle' } : { x: 130, y: H * 0.5, w: W * 0.36, size: 92 * T.tamTexto, anchor: 'start', vAnchor: 'middle' };
