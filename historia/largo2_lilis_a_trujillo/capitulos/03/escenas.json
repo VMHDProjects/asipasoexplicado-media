@@ -1,0 +1,569 @@
+{
+ "serie": "historia",
+ "titulo": "De Lilís a la caída de Trujillo (1870–1961) · capítulo 3",
+ "duracion": 116.1,
+ "personajes": {
+  "lilis": {
+   "nombre": "Ulises Heureaux",
+   "etiqueta": "Ulises Heureaux · Lilís",
+   "piel": "#5A3826",
+   "pelo": "rizado",
+   "colorPelo": "#17110E",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "baez": {
+   "nombre": "Buenaventura Báez",
+   "etiqueta": "Buenaventura Báez",
+   "piel": "#D9A77C",
+   "pelo": "calvo",
+   "colorPelo": "#3A2A20",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.3
+  },
+  "luperon": {
+   "nombre": "Gregorio Luperón",
+   "etiqueta": "Gregorio Luperón",
+   "piel": "#8A5A3C",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "manubrio",
+   "barba": "perilla",
+   "ropa": "militar",
+   "mirada": 0.4
+  },
+  "caceres": {
+   "nombre": "Ramón Cáceres",
+   "etiqueta": "Ramón Cáceres",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "cejas": "fruncidas"
+  },
+  "jimenes": {
+   "nombre": "Juan Isidro Jimenes",
+   "etiqueta": "Juan Isidro Jimenes",
+   "piel": "#D8A47A",
+   "pelo": "calvo",
+   "colorPelo": "#CFC8BD",
+   "barba": "corta",
+   "colorBarba": "#DCD6CC",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.4
+  },
+  "horacio": {
+   "nombre": "Horacio Vásquez",
+   "etiqueta": "Horacio Vásquez",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#2B211A",
+   "bigote": "manubrio",
+   "ropa": "militar",
+   "mirada": -0.3
+  },
+  "roosevelt": {
+   "nombre": "Theodore Roosevelt",
+   "etiqueta": "Theodore Roosevelt",
+   "piel": "#EFC3A0",
+   "pelo": "corto",
+   "colorPelo": "#6B4A2F",
+   "bigote": "grueso",
+   "lentes": true,
+   "ropa": "levita"
+  },
+  "desiderio": {
+   "nombre": "Desiderio Arias",
+   "etiqueta": "Desiderio Arias",
+   "piel": "#A46D48",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "sombrero": "sombrero",
+   "cejas": "fruncidas"
+  },
+  "knapp": {
+   "nombre": "Harry Knapp",
+   "etiqueta": "Capitán Harry Knapp",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9A48A",
+   "ropa": "militar",
+   "colorRopa": "#E8E6DE",
+   "sombrero": "kepis",
+   "colorSombrero": "#E8E6DE",
+   "edad": "mayor"
+  },
+  "trujillo_joven": {
+   "nombre": "Rafael L. Trujillo",
+   "etiqueta": "Rafael Leónidas Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#5B6B45",
+   "mirada": 0.3
+  },
+  "trujillo": {
+   "nombre": "Trujillo",
+   "etiqueta": "Rafael L. Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas"
+  },
+  "trujillo_gen": {
+   "nombre": "El Generalísimo",
+   "etiqueta": "Trujillo · Generalísimo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "sombrero": "bicornio",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "minerva": {
+   "nombre": "Minerva Mirabal",
+   "etiqueta": "Minerva Mirabal",
+   "mujer": true,
+   "piel": "#D29A72",
+   "pelo": "largo",
+   "colorPelo": "#1D1612",
+   "ropa": "vestido",
+   "colorRopa": "#2F5D8A",
+   "mirada": 0.3
+  },
+  "maria_teresa": {
+   "nombre": "María Teresa Mirabal",
+   "etiqueta": "María Teresa Mirabal",
+   "mujer": true,
+   "piel": "#D8A47E",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "ropa": "vestido",
+   "colorRopa": "#8A3B4F",
+   "mirada": -0.3
+  },
+  "manolo": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo Tavárez Justo",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#7C8A5A"
+  },
+  "betancourt": {
+   "nombre": "Rómulo Betancourt",
+   "etiqueta": "Rómulo Betancourt",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#9A9086",
+   "lentes": true,
+   "ropa": "levita",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "titular",
+   "inicio": 0.0,
+   "fin": 5.4,
+   "fondo": "1918",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Entró como un *desconocido*"
+    },
+    {
+     "t": 2.6,
+     "txt": "12 años después, *dueño del país*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 5.4,
+   "fin": 18.4,
+   "puntos": [
+    {
+     "nombre": "Santo Domingo",
+     "t": 7.0
+    },
+    {
+     "nombre": "Santiago",
+     "t": 9.4
+    }
+   ],
+   "ruta": {
+    "de": "Santo Domingo",
+    "a": "Santiago",
+    "dur": 2.2,
+    "t": 7.6
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1916"
+    },
+    {
+     "t": 2.2,
+     "txt": "Los marines *gobiernan*"
+    },
+    {
+     "t": 5.2,
+     "txt": "Desarman y *censuran*"
+    },
+    {
+     "t": 6.8,
+     "txt": "Carreteras: la capital con el *Cibao*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 18.4,
+   "fin": 24.4,
+   "puntos": [
+    {
+     "nombre": "El Seibo",
+     "t": 3.2
+    },
+    {
+     "nombre": "San Pedro de Macorís",
+     "t": 4.4
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "El Seibo",
+     "escala": 1.9,
+     "t": 2.4
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "No todos se quedan *quietos*"
+    },
+    {
+     "t": 2.2,
+     "txt": "En el Este"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 24.4,
+   "fin": 32.0,
+   "preset": "campo",
+   "semilla": 6,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Campesinos armados les hacen la *guerra*"
+    },
+    {
+     "t": 3.0,
+     "txt": "Los llaman *gavilleros*"
+    },
+    {
+     "t": 5.4,
+     "txt": "La respuesta es *dura*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 32.0,
+   "fin": 38.2,
+   "fondo": "1917",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Para mantener el orden"
+    },
+    {
+     "t": 1.6,
+     "txt": "crean una fuerza nueva"
+    },
+    {
+     "t": 4.0,
+     "txt": "la *Guardia Nacional*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 38.2,
+   "fin": 47.0,
+   "personaje": "trujillo_joven",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1918"
+    },
+    {
+     "t": 1.8,
+     "txt": "Un joven de *San Cristóbal*"
+    },
+    {
+     "t": 4.4,
+     "txt": "27 años"
+    },
+    {
+     "t": 6.2,
+     "txt": "*Rafael Leónidas Trujillo*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 47.0,
+   "fin": 54.4,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Aprende rápido",
+     "t": 0.1
+    },
+    {
+     "icono": "check",
+     "txt": "Disciplinado",
+     "t": 1.4
+    },
+    {
+     "icono": "check",
+     "txt": "Ordenado",
+     "t": 2.4
+    },
+    {
+     "icono": "check",
+     "txt": "Sabe a quién obedecer",
+     "t": 3.4
+    }
+   ],
+   "texto": [
+    {
+     "t": 5.4,
+     "txt": "Sube de rango una y otra vez"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 54.4,
+   "fin": 69.2,
+   "hitos": [
+    {
+     "anio": 1918,
+     "txt": "Entra a la Guardia",
+     "t": 0.1
+    },
+    {
+     "anio": 1924,
+     "txt": "Se van los marines",
+     "t": 1.0
+    },
+    {
+     "anio": 1928,
+     "txt": "General y jefe del Ejército",
+     "t": 9.2
+    }
+   ],
+   "texto": [
+    {
+     "t": 3.4,
+     "txt": "Horacio Vásquez *vuelve*"
+    },
+    {
+     "t": 6.2,
+     "txt": "Confía en Trujillo"
+    },
+    {
+     "t": 8.2,
+     "txt": "Lo *asciende*"
+    },
+    {
+     "t": 11.4,
+     "txt": "General y jefe del *Ejército*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 69.2,
+   "fin": 76.8,
+   "personaje": "horacio",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Vásquez comete un *error*"
+    },
+    {
+     "t": 2.6,
+     "txt": "quiere quedarse más *tiempo*"
+    },
+    {
+     "t": 5.4,
+     "txt": "Febrero de *1930*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 76.8,
+   "fin": 85.0,
+   "puntos": [
+    {
+     "nombre": "Santiago",
+     "t": 0.4
+    },
+    {
+     "nombre": "Santo Domingo",
+     "t": 2.6
+    }
+   ],
+   "ruta": {
+    "de": "Santiago",
+    "a": "Santo Domingo",
+    "dur": 2.4,
+    "t": 0.8
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un movimiento sale de *Santiago*"
+    },
+    {
+     "t": 3.2,
+     "txt": "Vásquez espera al ejército"
+    },
+    {
+     "t": 5.8,
+     "txt": "El ejército *no se mueve*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 85.0,
+   "fin": 90.4,
+   "preset": "pueblo",
+   "semilla": 12,
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Trujillo deja a sus soldados en el *cuartel*"
+    },
+    {
+     "t": 2.8,
+     "txt": "El gobierno cae *sin pelear*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 90.4,
+   "fin": 98.4,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Tres meses después, elecciones",
+     "t": 0.1
+    },
+    {
+     "icono": "x",
+     "txt": "Opositores perseguidos",
+     "t": 2.6
+    },
+    {
+     "icono": "corona",
+     "txt": "Trujillo gana prácticamente solo",
+     "t": 5.6
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 98.4,
+   "fin": 107.0,
+   "personaje": "trujillo",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "16 de agosto de *1930*"
+    },
+    {
+     "t": 2.4,
+     "txt": "Se pone la *banda presidencial*"
+    },
+    {
+     "t": 5.2,
+     "txt": "La tendría *31 años*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 107.0,
+   "fin": 112.6,
+   "fondo": "1930",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "18 días después"
+    },
+    {
+     "t": 2.6,
+     "txt": "un *huracán* le daría la excusa"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 112.6,
+   "fin": 116.1,
+   "palabra": "Historia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 56.3,
+   "fin": 60.8
+  }
+ ]
+}

@@ -1,0 +1,582 @@
+{
+ "serie": "historia",
+ "titulo": "De Lilís a la caída de Trujillo (1870–1961) · capítulo 2",
+ "duracion": 113.3,
+ "personajes": {
+  "lilis": {
+   "nombre": "Ulises Heureaux",
+   "etiqueta": "Ulises Heureaux · Lilís",
+   "piel": "#5A3826",
+   "pelo": "rizado",
+   "colorPelo": "#17110E",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "baez": {
+   "nombre": "Buenaventura Báez",
+   "etiqueta": "Buenaventura Báez",
+   "piel": "#D9A77C",
+   "pelo": "calvo",
+   "colorPelo": "#3A2A20",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.3
+  },
+  "luperon": {
+   "nombre": "Gregorio Luperón",
+   "etiqueta": "Gregorio Luperón",
+   "piel": "#8A5A3C",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "manubrio",
+   "barba": "perilla",
+   "ropa": "militar",
+   "mirada": 0.4
+  },
+  "caceres": {
+   "nombre": "Ramón Cáceres",
+   "etiqueta": "Ramón Cáceres",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "cejas": "fruncidas"
+  },
+  "jimenes": {
+   "nombre": "Juan Isidro Jimenes",
+   "etiqueta": "Juan Isidro Jimenes",
+   "piel": "#D8A47A",
+   "pelo": "calvo",
+   "colorPelo": "#CFC8BD",
+   "barba": "corta",
+   "colorBarba": "#DCD6CC",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.4
+  },
+  "horacio": {
+   "nombre": "Horacio Vásquez",
+   "etiqueta": "Horacio Vásquez",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#2B211A",
+   "bigote": "manubrio",
+   "ropa": "militar",
+   "mirada": -0.3
+  },
+  "roosevelt": {
+   "nombre": "Theodore Roosevelt",
+   "etiqueta": "Theodore Roosevelt",
+   "piel": "#EFC3A0",
+   "pelo": "corto",
+   "colorPelo": "#6B4A2F",
+   "bigote": "grueso",
+   "lentes": true,
+   "ropa": "levita"
+  },
+  "desiderio": {
+   "nombre": "Desiderio Arias",
+   "etiqueta": "Desiderio Arias",
+   "piel": "#A46D48",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "sombrero": "sombrero",
+   "cejas": "fruncidas"
+  },
+  "knapp": {
+   "nombre": "Harry Knapp",
+   "etiqueta": "Capitán Harry Knapp",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9A48A",
+   "ropa": "militar",
+   "colorRopa": "#E8E6DE",
+   "sombrero": "kepis",
+   "colorSombrero": "#E8E6DE",
+   "edad": "mayor"
+  },
+  "trujillo_joven": {
+   "nombre": "Rafael L. Trujillo",
+   "etiqueta": "Rafael Leónidas Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#5B6B45",
+   "mirada": 0.3
+  },
+  "trujillo": {
+   "nombre": "Trujillo",
+   "etiqueta": "Rafael L. Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas"
+  },
+  "trujillo_gen": {
+   "nombre": "El Generalísimo",
+   "etiqueta": "Trujillo · Generalísimo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "sombrero": "bicornio",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "minerva": {
+   "nombre": "Minerva Mirabal",
+   "etiqueta": "Minerva Mirabal",
+   "mujer": true,
+   "piel": "#D29A72",
+   "pelo": "largo",
+   "colorPelo": "#1D1612",
+   "ropa": "vestido",
+   "colorRopa": "#2F5D8A",
+   "mirada": 0.3
+  },
+  "maria_teresa": {
+   "nombre": "María Teresa Mirabal",
+   "etiqueta": "María Teresa Mirabal",
+   "mujer": true,
+   "piel": "#D8A47E",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "ropa": "vestido",
+   "colorRopa": "#8A3B4F",
+   "mirada": -0.3
+  },
+  "manolo": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo Tavárez Justo",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#7C8A5A"
+  },
+  "betancourt": {
+   "nombre": "Rómulo Betancourt",
+   "etiqueta": "Rómulo Betancourt",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#9A9086",
+   "lentes": true,
+   "ropa": "levita",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "titular",
+   "inicio": 0.0,
+   "fin": 6.4,
+   "fondo": "$",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Mataron al dictador"
+    },
+    {
+     "t": 1.6,
+     "txt": "pero nadie mató la *deuda*"
+    },
+    {
+     "t": 3.4,
+     "txt": "Y la deuda trajo *soldados extranjeros*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 6.4,
+   "fin": 11.2,
+   "puntos": [
+    {
+     "nombre": "Moca",
+     "t": 1.8
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "Moca",
+     "escala": 2.1,
+     "t": 2.2
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Julio de *1899*"
+    },
+    {
+     "t": 2.8,
+     "txt": "Lilís cae a tiros en *Moca*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 11.2,
+   "fin": 14.8,
+   "preset": "pueblo",
+   "semilla": 9,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "El país *celebra*"
+    },
+    {
+     "t": 1.2,
+     "txt": "pero las arcas están *vacías*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 14.8,
+   "fin": 19.0,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Deudas con Europa",
+     "t": 0.1
+    },
+    {
+     "icono": "alerta",
+     "txt": "Deudas con Estados Unidos",
+     "t": 1.2
+    },
+    {
+     "icono": "x",
+     "txt": "Y no hay con qué pagar",
+     "t": 2.6
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 19.0,
+   "fin": 26.2,
+   "personaje": "jimenes",
+   "personaje2": "horacio",
+   "t2": 2.2,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Llegan dos *caudillos*"
+    },
+    {
+     "t": 1.8,
+     "txt": "Jimenes y Vásquez"
+    },
+    {
+     "t": 4.4,
+     "txt": "Primero *aliados*"
+    },
+    {
+     "t": 5.6,
+     "txt": "después *enemigos*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 26.2,
+   "fin": 34.0,
+   "fondo": "VS",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "El país, en *dos bandos*"
+    },
+    {
+     "t": 1.4,
+     "txt": "como en una gallera"
+    },
+    {
+     "t": 3.2,
+     "txt": "*Bolos* y *coludos*"
+    },
+    {
+     "t": 5.2,
+     "txt": "Cada pocos meses, una *revolución*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 34.0,
+   "fin": 42.8,
+   "preset": "puerto",
+   "semilla": 3,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Acreedores *europeos*"
+    },
+    {
+     "t": 1.0,
+     "txt": "amenazan con *barcos de guerra*"
+    },
+    {
+     "t": 5.8,
+     "txt": "EE.UU. no quiere europeos en el *Caribe*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 42.8,
+   "fin": 50.2,
+   "personaje": "roosevelt",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1905"
+    },
+    {
+     "t": 2.0,
+     "txt": "*Theodore Roosevelt* hace una oferta"
+    },
+    {
+     "t": 5.0,
+     "txt": "Nosotros cobramos sus *aduanas*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 50.2,
+   "fin": 55.0,
+   "barras": [
+    {
+     "etiqueta": "Deuda",
+     "valor": 55,
+     "sufijo": "%",
+     "t": 0.2
+    },
+    {
+     "etiqueta": "Gobierno",
+     "valor": 45,
+     "sufijo": "%",
+     "t": 2.6
+    }
+   ],
+   "max": 60,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "*55 %* para pagar la deuda"
+    },
+    {
+     "t": 2.6,
+     "txt": "el resto, para el gobierno"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 55.0,
+   "fin": 62.8,
+   "hitos": [
+    {
+     "anio": 1905,
+     "txt": "EE.UU. cobra las aduanas",
+     "t": 0.1
+    },
+    {
+     "anio": 1907,
+     "txt": "Se firma la Convención",
+     "t": 1.0
+    }
+   ],
+   "texto": [
+    {
+     "t": 3.4,
+     "txt": "El dinero de los puertos lo cuenta un *extranjero*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 62.8,
+   "fin": 69.4,
+   "personaje": "caceres",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un respiro con *Ramón Cáceres*"
+    },
+    {
+     "t": 2.2,
+     "txt": "el mismo que le disparó a Lilís"
+    },
+    {
+     "t": 4.6,
+     "txt": "Pone orden y *construye*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 69.4,
+   "fin": 76.8,
+   "desde": 1906,
+   "hasta": 1911,
+   "durConteo": 1.2,
+   "texto": [
+    {
+     "t": 1.6,
+     "txt": "Lo matan a *él también*"
+    },
+    {
+     "t": 4.6,
+     "txt": "Vuelve el *caos*"
+    },
+    {
+     "t": 5.4,
+     "txt": "Varios presidentes en *cinco años*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 76.8,
+   "fin": 85.0,
+   "personaje": "desiderio",
+   "personaje2": "jimenes",
+   "t2": 4.0,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1916"
+    },
+    {
+     "t": 1.6,
+     "txt": "El ministro de Guerra, *Desiderio Arias*"
+    },
+    {
+     "t": 4.0,
+     "txt": "se levanta contra Jimenes"
+    },
+    {
+     "t": 6.6,
+     "txt": "Jimenes *renuncia*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 85.0,
+   "fin": 90.4,
+   "preset": "puerto",
+   "semilla": 5,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Mayo de 1916"
+    },
+    {
+     "t": 1.4,
+     "txt": "Los *marines* toman Santo Domingo"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 90.4,
+   "fin": 99.6,
+   "personaje": "knapp",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "29 de noviembre"
+    },
+    {
+     "t": 1.6,
+     "txt": "El capitán *Harry Knapp*"
+    },
+    {
+     "t": 5.0,
+     "txt": "Gobierno militar de *Estados Unidos*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 99.6,
+   "fin": 105.2,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Sin presidente",
+     "t": 0.1
+    },
+    {
+     "icono": "x",
+     "txt": "Sin congreso",
+     "t": 1.4
+    },
+    {
+     "icono": "alerta",
+     "txt": "Con censura",
+     "t": 2.4
+    },
+    {
+     "icono": "reloj",
+     "txt": "Ocho años de ocupación",
+     "t": 3.4
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 105.2,
+   "fin": 109.8,
+   "personaje": "trujillo_joven",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "De esa ocupación saldría"
+    },
+    {
+     "t": 2.2,
+     "txt": "un joven guardia que lo *controlaría todo*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 109.8,
+   "fin": 113.3,
+   "palabra": "Historia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 54.9,
+   "fin": 59.4
+  }
+ ]
+}

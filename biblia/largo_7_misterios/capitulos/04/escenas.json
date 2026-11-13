@@ -1,0 +1,603 @@
+{
+ "serie": "biblia",
+ "titulo": "7 misterios de la Biblia que casi nadie te explicó · capítulo 4",
+ "duracion": 153.3,
+ "personajes": {
+  "melquisedec": {
+   "nombre": "Melquisedec",
+   "etiqueta": "Melquisedec",
+   "piel": "#B47E55",
+   "pelo": "largo",
+   "colorPelo": "#D8D2C4",
+   "barba": "larga",
+   "colorBarba": "#D8D2C4",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#EFE6D2",
+   "colorManto": "#6B2D5C",
+   "edad": "mayor"
+  },
+  "abraham": {
+   "nombre": "Abraham",
+   "etiqueta": "Abraham",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#8E8A84",
+   "barba": "larga",
+   "colorBarba": "#9A958E",
+   "sombrero": "manto",
+   "colorManto": "#7A5532",
+   "ropa": "tunica",
+   "colorRopa": "#8B5E3C",
+   "edad": "mayor",
+   "mirada": 0.4
+  },
+  "enoc": {
+   "nombre": "Enoc",
+   "etiqueta": "Enoc",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E8E4DA",
+   "barba": "larga",
+   "colorBarba": "#E8E4DA",
+   "sombrero": "manto",
+   "colorManto": "#5A4A3A",
+   "ropa": "tunica",
+   "colorRopa": "#C9B48A",
+   "edad": "mayor"
+  },
+  "elias": {
+   "nombre": "Elías",
+   "etiqueta": "El profeta Elías",
+   "piel": "#9E6A44",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "barba": "larga",
+   "ropa": "tunica",
+   "colorRopa": "#6B4A2F",
+   "colorManto": "#4A3524",
+   "cejas": "fruncidas"
+  },
+  "jacob": {
+   "nombre": "Jacob",
+   "etiqueta": "Jacob",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#3A2618",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#5A6E3A",
+   "colorManto": "#8A6A3A",
+   "mirada": 0.4
+  },
+  "esau": {
+   "nombre": "Esaú",
+   "etiqueta": "Esaú",
+   "piel": "#B47E55",
+   "pelo": "rizado",
+   "colorPelo": "#9A3B1E",
+   "barba": "corta",
+   "colorBarba": "#9A3B1E",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "varon": {
+   "nombre": "El varón",
+   "etiqueta": "El desconocido",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#EADFC4",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#D9B45A"
+  },
+  "josue": {
+   "nombre": "Josué",
+   "etiqueta": "Josué",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "turbante",
+   "colorSombrero": "#C9A46A",
+   "ropa": "tunica",
+   "colorRopa": "#7A2E22",
+   "colorManto": "#4A3524",
+   "mirada": 0.4
+  },
+  "principe": {
+   "nombre": "Príncipe del ejército",
+   "etiqueta": "Príncipe del ejército de Jehová",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#EFE6D2",
+   "colorManto": "#B8862B",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "david": {
+   "nombre": "David",
+   "etiqueta": "David",
+   "piel": "#C08A5E",
+   "pelo": "rizado",
+   "colorPelo": "#3A2618",
+   "ropa": "tunica",
+   "colorRopa": "#9A7B4F",
+   "colorManto": "#6E7F3A",
+   "mirada": 0.4
+  },
+  "goliat": {
+   "nombre": "Goliat",
+   "etiqueta": "Goliat",
+   "piel": "#A8744C",
+   "barba": "corta",
+   "colorPelo": "#1A1410",
+   "sombrero": "kepis",
+   "colorSombrero": "#8C6A3A",
+   "ropa": "militar",
+   "colorRopa": "#6B5A3A",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "juan": {
+   "nombre": "Juan",
+   "etiqueta": "El apóstol Juan",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#B9B2A6",
+   "barba": "larga",
+   "colorBarba": "#B9B2A6",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "moises": {
+   "nombre": "Moisés",
+   "etiqueta": "Moisés",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E0DBD0",
+   "barba": "larga",
+   "colorBarba": "#E0DBD0",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "josias": {
+   "nombre": "Josías",
+   "etiqueta": "El rey Josías",
+   "piel": "#B47E55",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#5B2A6E",
+   "colorManto": "#C9A46A"
+  },
+  "jeremias": {
+   "nombre": "Jeremías",
+   "etiqueta": "El profeta Jeremías",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#4A3A2A",
+   "barba": "larga",
+   "colorBarba": "#4A3A2A",
+   "sombrero": "manto",
+   "colorManto": "#6B5A44",
+   "ropa": "tunica",
+   "colorRopa": "#8B7B5E"
+  },
+  "anciano": {
+   "nombre": "Anciano",
+   "etiqueta": "Uno de los 24 ancianos",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#EEEAE2",
+   "barba": "larga",
+   "colorBarba": "#EEEAE2",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#D9B45A",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "arca",
+   "inicio": 0.0,
+   "fin": 19.2,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "El objeto más sagrado *desapareció*"
+    },
+    {
+     "t": 3.2,
+     "txt": "Y la Biblia nunca dice *cómo*"
+    },
+    {
+     "t": 5.4,
+     "txt": "Un cofre de madera cubierto de *oro*"
+    },
+    {
+     "t": 9.2,
+     "txt": "Adentro, las *tablas de la ley*"
+    },
+    {
+     "t": 11.4,
+     "txt": "Nadie podía *tocarla*"
+    },
+    {
+     "t": 13.2,
+     "txt": "En el lugar santísimo"
+    },
+    {
+     "t": 15.6,
+     "txt": "solo el sumo sacerdote, *una vez al año*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 19.2,
+   "fin": 28.8,
+   "personaje": "josias",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "La última vez, en su lugar:"
+    },
+    {
+     "t": 2.4,
+     "txt": "los días del rey *Josías*"
+    },
+    {
+     "t": 4.6,
+     "txt": "Pocos años después"
+    },
+    {
+     "t": 5.8,
+     "txt": "*Babilonia* invade Jerusalén"
+    },
+    {
+     "t": 8.2,
+     "txt": "Queman el *templo*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 28.8,
+   "fin": 36.8,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "Las columnas de bronce",
+     "t": 3.2
+    },
+    {
+     "icono": "estrella",
+     "txt": "Las palas",
+     "t": 5.0
+    },
+    {
+     "icono": "estrella",
+     "txt": "Las copas",
+     "t": 5.6
+    },
+    {
+     "icono": "fuego",
+     "txt": "Los incensarios",
+     "t": 6.4
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "La lista de lo que se *llevaron*"
+    }
+   ]
+  },
+  {
+   "tipo": "arca",
+   "inicio": 36.8,
+   "fin": 47.8,
+   "desaparece": 6.0,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "El Arca *no está* en la lista"
+    },
+    {
+     "t": 2.2,
+     "txt": "Nadie dice que fue *destruida*"
+    },
+    {
+     "t": 4.4,
+     "txt": "Nadie dice que se la *llevaron*"
+    },
+    {
+     "t": 6.4,
+     "txt": "Simplemente deja de *aparecer*"
+    },
+    {
+     "t": 8.6,
+     "txt": "Con los siglos, las *teorías*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 47.8,
+   "fin": 51.8,
+   "personaje": "jeremias",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un libro antiguo: *Jeremías*"
+    },
+    {
+     "t": 1.8,
+     "txt": "la escondió en una *cueva*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 51.8,
+   "fin": 64.6,
+   "items": [
+    {
+     "icono": "escudo",
+     "txt": "Etiopía: una iglesia dice tenerla",
+     "t": 0.1
+    },
+    {
+     "icono": "x",
+     "txt": "Solo un monje puede verla",
+     "t": 3.2
+    },
+    {
+     "icono": "alerta",
+     "txt": "¿Enterrada bajo Jerusalén?",
+     "t": 5.2
+    }
+   ],
+   "texto": [
+    {
+     "t": 8.0,
+     "txt": "La Biblia la menciona *una vez más*"
+    },
+    {
+     "t": 10.6,
+     "txt": "donde nadie esperaba"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 64.6,
+   "fin": 66.0,
+   "fondo": "11:19",
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "Apocalipsis 11"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 66.0,
+   "fin": 72.0,
+   "cita": "Apocalipsis 11:19 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Y el templo de Dios fue abierto en el cielo, y *el arca de su testamento* fue vista en su templo.",
+   "tInicio": 0.6,
+   "tEscritura": 5.1
+  },
+  {
+   "tipo": "arca",
+   "inicio": 72.0,
+   "fin": 73.8,
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "¿Dónde está el *Arca* hoy?"
+    }
+   ]
+  },
+  {
+   "tipo": "tronos",
+   "inicio": 73.8,
+   "fin": 89.4,
+   "tTronos": 0.8,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Alrededor del trono, *24 tronos* más"
+    },
+    {
+     "t": 4.0,
+     "txt": "¿Quiénes están *sentados* ahí?"
+    },
+    {
+     "t": 7.2,
+     "txt": "Juan lo ve en una *visión*"
+    },
+    {
+     "t": 9.6,
+     "txt": "un trono, y uno sentado en él"
+    },
+    {
+     "t": 12.4,
+     "txt": "y entonces ve algo más"
+    },
+    {
+     "t": 13.8,
+     "txt": "Apocalipsis 4"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 89.4,
+   "fin": 102.8,
+   "cita": "Apocalipsis 4:4 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Y alrededor del trono había veinticuatro sillas: y vi sobre las sillas *veinticuatro ancianos* sentados, vestidos de ropas blancas; y tenían sobre sus cabezas *coronas de oro*.",
+   "tInicio": 0.6,
+   "tEscritura": 12.500000000000034
+  },
+  {
+   "tipo": "lista",
+   "inicio": 102.8,
+   "fin": 111.8,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "No tienen nombre",
+     "t": 5.6
+    },
+    {
+     "icono": "x",
+     "txt": "No se dice de dónde vienen",
+     "t": 7.0
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Ropas blancas y *coronas*"
+    },
+    {
+     "t": 2.4,
+     "txt": "lo que se promete a los que *vencen*"
+    }
+   ]
+  },
+  {
+   "tipo": "tronos",
+   "inicio": 111.8,
+   "fin": 119.2,
+   "tTronos": 0.0,
+   "tCoronas": 4.0,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Cada vez que aparecen"
+    },
+    {
+     "t": 2.8,
+     "txt": "se *postran*"
+    },
+    {
+     "t": 3.8,
+     "txt": "y echan sus *coronas* ante el trono"
+    },
+    {
+     "t": 6.4,
+     "txt": "¿Quiénes *son*?"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 119.2,
+   "fin": 130.8,
+   "barras": [
+    {
+     "etiqueta": "Tribus",
+     "valor": 12,
+     "icono": "escudo",
+     "t": 2.2
+    },
+    {
+     "etiqueta": "Apóstoles",
+     "valor": 12,
+     "icono": "libro",
+     "t": 3.0
+    }
+   ],
+   "max": 14,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "La explicación más conocida"
+    },
+    {
+     "t": 2.0,
+     "txt": "*12 + 12*"
+    },
+    {
+     "t": 4.2,
+     "txt": "12 tribus de Israel y 12 apóstoles"
+    },
+    {
+     "t": 7.4,
+     "txt": "El pueblo de Dios *completo*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 130.8,
+   "fin": 149.8,
+   "personaje": "anciano",
+   "personaje2": "juan",
+   "t2": 9.8,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Otros: seres *celestiales*"
+    },
+    {
+     "t": 2.6,
+     "txt": "una corte alrededor del trono"
+    },
+    {
+     "t": 5.2,
+     "txt": "Otros: la iglesia *redimida*, ya coronada"
+    },
+    {
+     "t": 9.8,
+     "txt": "Juan los vio y *no preguntó*"
+    },
+    {
+     "t": 12.2,
+     "txt": "Solo escribió lo que hacían"
+    },
+    {
+     "t": 13.8,
+     "txt": "tenían coronas… y las *soltaban*"
+    },
+    {
+     "t": 16.2,
+     "txt": "¿Quiénes crees que *son*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 149.8,
+   "fin": 153.3,
+   "palabra": "Biblia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 74.9,
+   "fin": 79.4
+  }
+ ]
+}

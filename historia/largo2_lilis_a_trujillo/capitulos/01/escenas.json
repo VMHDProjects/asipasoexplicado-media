@@ -1,0 +1,626 @@
+{
+ "serie": "historia",
+ "titulo": "De Lilís a la caída de Trujillo (1870–1961) · capítulo 1",
+ "duracion": 114.9,
+ "personajes": {
+  "lilis": {
+   "nombre": "Ulises Heureaux",
+   "etiqueta": "Ulises Heureaux · Lilís",
+   "piel": "#5A3826",
+   "pelo": "rizado",
+   "colorPelo": "#17110E",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "baez": {
+   "nombre": "Buenaventura Báez",
+   "etiqueta": "Buenaventura Báez",
+   "piel": "#D9A77C",
+   "pelo": "calvo",
+   "colorPelo": "#3A2A20",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.3
+  },
+  "luperon": {
+   "nombre": "Gregorio Luperón",
+   "etiqueta": "Gregorio Luperón",
+   "piel": "#8A5A3C",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "manubrio",
+   "barba": "perilla",
+   "ropa": "militar",
+   "mirada": 0.4
+  },
+  "caceres": {
+   "nombre": "Ramón Cáceres",
+   "etiqueta": "Ramón Cáceres",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "cejas": "fruncidas"
+  },
+  "jimenes": {
+   "nombre": "Juan Isidro Jimenes",
+   "etiqueta": "Juan Isidro Jimenes",
+   "piel": "#D8A47A",
+   "pelo": "calvo",
+   "colorPelo": "#CFC8BD",
+   "barba": "corta",
+   "colorBarba": "#DCD6CC",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.4
+  },
+  "horacio": {
+   "nombre": "Horacio Vásquez",
+   "etiqueta": "Horacio Vásquez",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#2B211A",
+   "bigote": "manubrio",
+   "ropa": "militar",
+   "mirada": -0.3
+  },
+  "roosevelt": {
+   "nombre": "Theodore Roosevelt",
+   "etiqueta": "Theodore Roosevelt",
+   "piel": "#EFC3A0",
+   "pelo": "corto",
+   "colorPelo": "#6B4A2F",
+   "bigote": "grueso",
+   "lentes": true,
+   "ropa": "levita"
+  },
+  "desiderio": {
+   "nombre": "Desiderio Arias",
+   "etiqueta": "Desiderio Arias",
+   "piel": "#A46D48",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "sombrero": "sombrero",
+   "cejas": "fruncidas"
+  },
+  "knapp": {
+   "nombre": "Harry Knapp",
+   "etiqueta": "Capitán Harry Knapp",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9A48A",
+   "ropa": "militar",
+   "colorRopa": "#E8E6DE",
+   "sombrero": "kepis",
+   "colorSombrero": "#E8E6DE",
+   "edad": "mayor"
+  },
+  "trujillo_joven": {
+   "nombre": "Rafael L. Trujillo",
+   "etiqueta": "Rafael Leónidas Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#5B6B45",
+   "mirada": 0.3
+  },
+  "trujillo": {
+   "nombre": "Trujillo",
+   "etiqueta": "Rafael L. Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas"
+  },
+  "trujillo_gen": {
+   "nombre": "El Generalísimo",
+   "etiqueta": "Trujillo · Generalísimo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "sombrero": "bicornio",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "minerva": {
+   "nombre": "Minerva Mirabal",
+   "etiqueta": "Minerva Mirabal",
+   "mujer": true,
+   "piel": "#D29A72",
+   "pelo": "largo",
+   "colorPelo": "#1D1612",
+   "ropa": "vestido",
+   "colorRopa": "#2F5D8A",
+   "mirada": 0.3
+  },
+  "maria_teresa": {
+   "nombre": "María Teresa Mirabal",
+   "etiqueta": "María Teresa Mirabal",
+   "mujer": true,
+   "piel": "#D8A47E",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "ropa": "vestido",
+   "colorRopa": "#8A3B4F",
+   "mirada": -0.3
+  },
+  "manolo": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo Tavárez Justo",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#7C8A5A"
+  },
+  "betancourt": {
+   "nombre": "Rómulo Betancourt",
+   "etiqueta": "Rómulo Betancourt",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#9A9086",
+   "lentes": true,
+   "ropa": "levita",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "cifra",
+   "inicio": 0,
+   "fin": 7.4,
+   "desde": 0,
+   "hasta": 15000,
+   "miles": true,
+   "prefijo": "+",
+   "durConteo": 1.4,
+   "texto": [
+    {
+     "t": 1.6,
+     "txt": "dominicanos *votaron*"
+    },
+    {
+     "t": 4.4,
+     "txt": "para unirse a *Estados Unidos*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 7.4,
+   "fin": 10.0,
+   "barras": [
+    {
+     "etiqueta": "A favor",
+     "valor": 15000,
+     "prefijo": "+",
+     "t": 0.1
+    },
+    {
+     "etiqueta": "En contra",
+     "valor": 11,
+     "t": 0.5
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Solo *11* en contra"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 10.0,
+   "fin": 11.6,
+   "fondo": "1870",
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "¿Por qué *nunca* pasó?"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 11.6,
+   "fin": 15.6,
+   "personaje": "lilis",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Lo que vino después fue *peor*"
+    },
+    {
+     "t": 2.6,
+     "txt": "Un dictador que lo *sabía todo*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 15.6,
+   "fin": 20.4,
+   "hitos": [
+    {
+     "anio": 1863,
+     "txt": "Guerra de la Restauración",
+     "t": 0.2
+    },
+    {
+     "anio": 1865,
+     "txt": "Recuperamos la independencia",
+     "t": 2.0
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 20.4,
+   "fin": 26.0,
+   "personaje": "baez",
+   "personaje2": "luperon",
+   "t2": 2.8,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un país *destruido* y dividido"
+    },
+    {
+     "t": 2.8,
+     "txt": "*Rojos* de Báez, *azules* de Luperón"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 26.0,
+   "fin": 34.2,
+   "personaje": "baez",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1868: Báez vuelve al *poder*"
+    },
+    {
+     "t": 3.0,
+     "txt": "Otra vez quiere *entregar* el país"
+    },
+    {
+     "t": 6.0,
+     "txt": "ahora a *Estados Unidos*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 34.2,
+   "fin": 41.6,
+   "preset": "pueblo",
+   "semilla": 7,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un plebiscito *imposible*"
+    },
+    {
+     "t": 3.4,
+     "txt": "+15,000 a favor, solo *11* en contra"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 41.6,
+   "fin": 46.4,
+   "fondo": "NO",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1870: el Senado de EE.UU."
+    },
+    {
+     "t": 2.2,
+     "txt": "*rechaza* la anexión"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 46.4,
+   "fin": 52.4,
+   "puntos": [
+    {
+     "nombre": "Puerto Plata",
+     "t": 3.2
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "Puerto Plata",
+     "escala": 1.8,
+     "t": 3.8
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "La República *sobrevive*"
+    },
+    {
+     "t": 2.6,
+     "txt": "Un joven general de *Puerto Plata*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 52.4,
+   "fin": 59.2,
+   "personaje": "lilis",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Héroe de la *Restauración*"
+    },
+    {
+     "t": 3.2,
+     "txt": "Ulises Heureaux"
+    },
+    {
+     "t": 4.4,
+     "txt": "Todos lo llamaban *Lilís*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 59.2,
+   "fin": 66.0,
+   "hitos": [
+    {
+     "anio": 1882,
+     "txt": "Llega a la presidencia",
+     "t": 0.2
+    },
+    {
+     "anio": 1887,
+     "txt": "Vuelve para no irse más",
+     "t": 3.0
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 66.0,
+   "fin": 74.0,
+   "puntos": [
+    {
+     "nombre": "Santiago",
+     "t": 0.5
+    },
+    {
+     "nombre": "La Vega",
+     "t": 1.05
+    },
+    {
+     "nombre": "Moca",
+     "t": 1.6
+    },
+    {
+     "nombre": "Azua",
+     "t": 2.15
+    },
+    {
+     "nombre": "San Juan",
+     "t": 2.7
+    },
+    {
+     "nombre": "Higüey",
+     "t": 3.25
+    },
+    {
+     "nombre": "Barahona",
+     "t": 3.8
+    },
+    {
+     "nombre": "Samaná",
+     "t": 4.35
+    },
+    {
+     "nombre": "Monte Cristi",
+     "t": 4.9
+    },
+    {
+     "nombre": "San Pedro de Macorís",
+     "t": 5.45
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Espías en *cada pueblo*"
+    },
+    {
+     "t": 1.6,
+     "txt": "A unos los compraba, a otros los exiliaba"
+    },
+    {
+     "t": 5.4,
+     "txt": "y a muchos los mandaba a *matar*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 74.0,
+   "fin": 82.2,
+   "personaje": "luperon",
+   "personaje2": "lilis",
+   "t2": 4.4,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Ni Luperón, su maestro, se *salvó*"
+    },
+    {
+     "t": 2.6,
+     "txt": "Murió en *1897*"
+    },
+    {
+     "t": 6.0,
+     "txt": "enfrentado al hombre que había *formado*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 82.2,
+   "fin": 87.8,
+   "puntos": [
+    {
+     "nombre": "Santiago",
+     "t": 1.2
+    },
+    {
+     "nombre": "Puerto Plata",
+     "t": 2.4
+    }
+   ],
+   "ruta": {
+    "de": "Santiago",
+    "a": "Puerto Plata",
+    "dur": 1.6,
+    "t": 1.6
+   },
+   "enfoques": [
+    {
+     "lugar": "Santiago",
+     "escala": 1.9,
+     "t": 0.8
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Telégrafo"
+    },
+    {
+     "t": 1.6,
+     "txt": "Ferrocarril *Santiago – Puerto Plata*"
+    },
+    {
+     "t": 3.4,
+     "txt": "Auge del *azúcar*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 87.8,
+   "fin": 94.6,
+   "desde": 100,
+   "hasta": 2,
+   "prefijo": "$",
+   "tConteo": 0.4,
+   "durConteo": 4.5,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Préstamos y billetes *sin respaldo*"
+    },
+    {
+     "t": 3.2,
+     "txt": "Las *papeletas* de Lilís casi no valían nada"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 94.6,
+   "fin": 101.0,
+   "preset": "pueblo",
+   "semilla": 4,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "26 de julio de *1899*"
+    },
+    {
+     "t": 2.6,
+     "txt": "*Moca*"
+    },
+    {
+     "t": 3.2,
+     "txt": "Un grupo de jóvenes lo *espera*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 101.0,
+   "fin": 106.2,
+   "personaje": "caceres",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Entre ellos, *Ramón Cáceres*"
+    },
+    {
+     "t": 2.6,
+     "txt": "Los disparos acaban con *Lilís*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 106.2,
+   "fin": 111.4,
+   "fondo": "1899",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Termina la *dictadura*"
+    },
+    {
+     "t": 1.4,
+     "txt": "pero queda una *deuda*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 111.4,
+   "fin": 114.9,
+   "palabra": "Historia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 55.7,
+   "fin": 60.2
+  }
+ ]
+}

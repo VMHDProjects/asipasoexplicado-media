@@ -1,0 +1,592 @@
+{
+ "serie": "biblia",
+ "titulo": "7 misterios de la Biblia que casi nadie te explicó · capítulo 2",
+ "duracion": 159.5,
+ "personajes": {
+  "melquisedec": {
+   "nombre": "Melquisedec",
+   "etiqueta": "Melquisedec",
+   "piel": "#B47E55",
+   "pelo": "largo",
+   "colorPelo": "#D8D2C4",
+   "barba": "larga",
+   "colorBarba": "#D8D2C4",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#EFE6D2",
+   "colorManto": "#6B2D5C",
+   "edad": "mayor"
+  },
+  "abraham": {
+   "nombre": "Abraham",
+   "etiqueta": "Abraham",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#8E8A84",
+   "barba": "larga",
+   "colorBarba": "#9A958E",
+   "sombrero": "manto",
+   "colorManto": "#7A5532",
+   "ropa": "tunica",
+   "colorRopa": "#8B5E3C",
+   "edad": "mayor",
+   "mirada": 0.4
+  },
+  "enoc": {
+   "nombre": "Enoc",
+   "etiqueta": "Enoc",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E8E4DA",
+   "barba": "larga",
+   "colorBarba": "#E8E4DA",
+   "sombrero": "manto",
+   "colorManto": "#5A4A3A",
+   "ropa": "tunica",
+   "colorRopa": "#C9B48A",
+   "edad": "mayor"
+  },
+  "elias": {
+   "nombre": "Elías",
+   "etiqueta": "El profeta Elías",
+   "piel": "#9E6A44",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "barba": "larga",
+   "ropa": "tunica",
+   "colorRopa": "#6B4A2F",
+   "colorManto": "#4A3524",
+   "cejas": "fruncidas"
+  },
+  "jacob": {
+   "nombre": "Jacob",
+   "etiqueta": "Jacob",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#3A2618",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#5A6E3A",
+   "colorManto": "#8A6A3A",
+   "mirada": 0.4
+  },
+  "esau": {
+   "nombre": "Esaú",
+   "etiqueta": "Esaú",
+   "piel": "#B47E55",
+   "pelo": "rizado",
+   "colorPelo": "#9A3B1E",
+   "barba": "corta",
+   "colorBarba": "#9A3B1E",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "varon": {
+   "nombre": "El varón",
+   "etiqueta": "El desconocido",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#EADFC4",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#D9B45A"
+  },
+  "josue": {
+   "nombre": "Josué",
+   "etiqueta": "Josué",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "turbante",
+   "colorSombrero": "#C9A46A",
+   "ropa": "tunica",
+   "colorRopa": "#7A2E22",
+   "colorManto": "#4A3524",
+   "mirada": 0.4
+  },
+  "principe": {
+   "nombre": "Príncipe del ejército",
+   "etiqueta": "Príncipe del ejército de Jehová",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#EFE6D2",
+   "colorManto": "#B8862B",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "david": {
+   "nombre": "David",
+   "etiqueta": "David",
+   "piel": "#C08A5E",
+   "pelo": "rizado",
+   "colorPelo": "#3A2618",
+   "ropa": "tunica",
+   "colorRopa": "#9A7B4F",
+   "colorManto": "#6E7F3A",
+   "mirada": 0.4
+  },
+  "goliat": {
+   "nombre": "Goliat",
+   "etiqueta": "Goliat",
+   "piel": "#A8744C",
+   "barba": "corta",
+   "colorPelo": "#1A1410",
+   "sombrero": "kepis",
+   "colorSombrero": "#8C6A3A",
+   "ropa": "militar",
+   "colorRopa": "#6B5A3A",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "juan": {
+   "nombre": "Juan",
+   "etiqueta": "El apóstol Juan",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#B9B2A6",
+   "barba": "larga",
+   "colorBarba": "#B9B2A6",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "moises": {
+   "nombre": "Moisés",
+   "etiqueta": "Moisés",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E0DBD0",
+   "barba": "larga",
+   "colorBarba": "#E0DBD0",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "josias": {
+   "nombre": "Josías",
+   "etiqueta": "El rey Josías",
+   "piel": "#B47E55",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#5B2A6E",
+   "colorManto": "#C9A46A"
+  },
+  "jeremias": {
+   "nombre": "Jeremías",
+   "etiqueta": "El profeta Jeremías",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#4A3A2A",
+   "barba": "larga",
+   "colorBarba": "#4A3A2A",
+   "sombrero": "manto",
+   "colorManto": "#6B5A44",
+   "ropa": "tunica",
+   "colorRopa": "#8B7B5E"
+  },
+  "anciano": {
+   "nombre": "Anciano",
+   "etiqueta": "Uno de los 24 ancianos",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#EEEAE2",
+   "barba": "larga",
+   "colorBarba": "#EEEAE2",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#D9B45A",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "titular",
+   "inicio": 0.0,
+   "fin": 6.0,
+   "fondo": "2",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un hombre que *nunca murió*"
+    },
+    {
+     "t": 3.0,
+     "txt": "todo lo que se dice de él cabe en *una línea*"
+    }
+   ]
+  },
+  {
+   "tipo": "genealogia",
+   "inicio": 6.0,
+   "fin": 26.2,
+   "nombres": [
+    {
+     "nombre": "Adán",
+     "anos": 930,
+     "t": 8.2
+    },
+    {
+     "nombre": "Set",
+     "anos": 912,
+     "t": 12.2
+    },
+    {
+     "nombre": "Enós",
+     "anos": 905,
+     "t": 12.8
+    },
+    {
+     "nombre": "Cainán",
+     "anos": 910,
+     "t": 13.6
+    },
+    {
+     "nombre": "Mahalaleel",
+     "anos": 895,
+     "t": 14.2
+    },
+    {
+     "nombre": "Jared",
+     "anos": 962,
+     "t": 15.0
+    },
+    {
+     "nombre": "Enoc",
+     "anos": 365,
+     "final": "desapareció",
+     "resaltar": true,
+     "t": 16.4
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Génesis 5 es una *lista*"
+    },
+    {
+     "t": 2.4,
+     "txt": "Cuántos años vivió…"
+    },
+    {
+     "t": 4.8,
+     "txt": "y dos palabras que se *repiten*"
+    },
+    {
+     "t": 18.6,
+     "txt": "Y la fórmula se *rompe*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 26.2,
+   "fin": 31.6,
+   "cita": "Génesis 5:24 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Caminó, pues, *Enoc con Dios*, y desapareció, porque le llevó Dios.",
+   "tInicio": 0.6,
+   "tEscritura": 4.500000000000005
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 31.6,
+   "fin": 48.4,
+   "personaje": "enoc",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "No dice que *murió*"
+    },
+    {
+     "t": 1.4,
+     "txt": "Dice que *desapareció*"
+    },
+    {
+     "t": 3.0,
+     "txt": "Vivió *365 años*"
+    },
+    {
+     "t": 6.2,
+     "txt": "mucho menos que los demás"
+    },
+    {
+     "t": 8.8,
+     "txt": "Su hijo: *Matusalén*"
+    },
+    {
+     "t": 10.6,
+     "txt": "el hombre más viejo de la Biblia"
+    },
+    {
+     "t": 12.8,
+     "txt": "De Enoc solo sabemos que *caminó con Dios*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 48.4,
+   "fin": 51.6,
+   "fondo": "11:5",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "El Nuevo Testamento lo confirma en *Hebreos 11*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 51.6,
+   "fin": 58.4,
+   "cita": "Hebreos 11:5 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Por la fe Enoc fue *traspuesto* para no ver muerte, y no fue hallado, porque lo traspuso Dios.",
+   "tInicio": 0.6,
+   "tEscritura": 5.899999999999983
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 58.4,
+   "fin": 65.6,
+   "personaje": "elias",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Solo otro hombre sale de este mundo *sin morir*"
+    },
+    {
+     "t": 4.2,
+     "txt": "el profeta *Elías*"
+    },
+    {
+     "t": 5.2,
+     "txt": "llevado en un *torbellino*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 65.6,
+   "fin": 79.8,
+   "fondo": "?",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "¿A dónde fue Enoc? ¿Por qué *él*?"
+    },
+    {
+     "t": 2.6,
+     "txt": "El texto no lo *explica*"
+    },
+    {
+     "t": 4.6,
+     "txt": "Ese silencio dio origen a libros que *no entraron* en la Biblia"
+    },
+    {
+     "t": 8.6,
+     "txt": "Si Dios se llevó a un hombre por caminar con él"
+    },
+    {
+     "t": 12.0,
+     "txt": "¿qué significa *caminar con Dios*?"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 79.8,
+   "fin": 87.4,
+   "preset": "ciudad_antigua",
+   "semilla": 5,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Hubo *gigantes* en la tierra"
+    },
+    {
+     "t": 3.0,
+     "txt": "justo antes del *diluvio*"
+    },
+    {
+     "t": 5.4,
+     "txt": "Génesis 6, versículo 4"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 87.4,
+   "fin": 101.8,
+   "cita": "Génesis 6:4 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Había *gigantes* en la tierra en aquellos días, y también después que entraron *los hijos de Dios* a las hijas de los hombres, y les engendraron hijos: éstos fueron los valientes que desde la antigüedad fueron varones de nombre.",
+   "tInicio": 0.6,
+   "tEscritura": 13.500000000000005
+  },
+  {
+   "tipo": "titular",
+   "inicio": 101.8,
+   "fin": 109.2,
+   "fondo": "נפלים",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "En hebreo: *nefilim*"
+    },
+    {
+     "t": 2.4,
+     "txt": "La pregunta abierta desde hace siglos"
+    },
+    {
+     "t": 5.4,
+     "txt": "¿Quiénes eran los *hijos de Dios*?"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 109.2,
+   "fin": 124.6,
+   "items": [
+    {
+     "icono": "rayo",
+     "txt": "Ángeles caídos que se unieron con mujeres",
+     "t": 1.8
+    },
+    {
+     "icono": "alerta",
+     "txt": "De esa unión, los gigantes",
+     "t": 5.8
+    },
+    {
+     "icono": "libro",
+     "txt": "O descendientes de Set, la línea fiel",
+     "t": 8.8
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Hay *dos respuestas*"
+    },
+    {
+     "t": 13.2,
+     "txt": "que se mezclaron con la línea de *Caín*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 124.6,
+   "fin": 134.8,
+   "region": "levante",
+   "puntos": [
+    {
+     "nombre": "Hebrón",
+     "t": 5.8
+    },
+    {
+     "nombre": "Beerseba",
+     "t": 6.6
+    }
+   ],
+   "enfoque": {
+    "lugar": "Hebrón",
+    "escala": 2.2,
+    "t": 6.2
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Después viene el *diluvio*"
+    },
+    {
+     "t": 2.4,
+     "txt": "Pero los gigantes *vuelven*"
+    },
+    {
+     "t": 5.2,
+     "txt": "Moisés manda espías a la tierra prometida"
+    },
+    {
+     "t": 8.0,
+     "txt": "y regresan *asustados*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 134.8,
+   "fin": 143.6,
+   "cita": "Números 13:33 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "También vimos allí *gigantes*, hijos de Anac, raza de los gigantes: y éramos nosotros, a nuestro parecer, como *langostas*.",
+   "tInicio": 0.6,
+   "tEscritura": 7.900000000000011
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 143.6,
+   "fin": 150.6,
+   "personaje": "david",
+   "personaje2": "goliat",
+   "t2": 3.0,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Más adelante, un pastor: *David*"
+    },
+    {
+     "t": 3.4,
+     "txt": "contra *Goliat*"
+    },
+    {
+     "t": 4.4,
+     "txt": "seis codos y un palmo de altura"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 150.6,
+   "fin": 156.0,
+   "fondo": "?",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "¿Ángeles caídos o una línea de *hombres*?"
+    },
+    {
+     "t": 3.2,
+     "txt": "¿Cuál te *convence*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 156.0,
+   "fin": 159.5,
+   "palabra": "Biblia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 78.0,
+   "fin": 82.5
+  }
+ ]
+}

@@ -64,12 +64,12 @@
     const dos = d.personaje2 ? Object.assign({ nombre: d.personaje2 }, ctx.personajes[d.personaje2] || {}) : null;
     const g = U.el('g', {}, b.cam);
     const R = dos ? (vertical ? 260 : 290) : (vertical ? 380 : 360);
-    const cx = vertical ? W / 2 : (dos ? W * 0.52 : W * 0.7), cy = vertical ? (dos ? H * 0.2 : H * 0.34) : H * 0.48;
+    const cx = vertical ? W / 2 : (dos ? W * 0.52 : W * 0.7), cy = vertical ? (dos ? H * 0.23 : H * 0.34) : H * 0.48;
     const marcoF = APE.marcos[d.marco || tema.marcoRetrato || 'medallon'];
     const m1 = marcoF(ctx, g, cx, cy, R, def, d);
     let m2 = null, def2 = dos;
     if (dos) {
-      const c2x = vertical ? W / 2 : W * 0.8, c2y = vertical ? H * 0.47 : H * 0.48;
+      const c2x = vertical ? W / 2 : W * 0.8, c2y = vertical ? H * 0.49 : H * 0.48;
       m2 = marcoF(ctx, g, c2x, c2y, R, def2, Object.assign({}, d, { etiqueta: d.etiqueta2 }));
     }
     const tc = d.tCambio ?? b.dur * 0.5;

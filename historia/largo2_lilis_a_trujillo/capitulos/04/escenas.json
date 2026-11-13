@@ -1,0 +1,518 @@
+{
+ "serie": "historia",
+ "titulo": "De Lilís a la caída de Trujillo (1870–1961) · capítulo 4",
+ "duracion": 100.9,
+ "personajes": {
+  "lilis": {
+   "nombre": "Ulises Heureaux",
+   "etiqueta": "Ulises Heureaux · Lilís",
+   "piel": "#5A3826",
+   "pelo": "rizado",
+   "colorPelo": "#17110E",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "baez": {
+   "nombre": "Buenaventura Báez",
+   "etiqueta": "Buenaventura Báez",
+   "piel": "#D9A77C",
+   "pelo": "calvo",
+   "colorPelo": "#3A2A20",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.3
+  },
+  "luperon": {
+   "nombre": "Gregorio Luperón",
+   "etiqueta": "Gregorio Luperón",
+   "piel": "#8A5A3C",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "manubrio",
+   "barba": "perilla",
+   "ropa": "militar",
+   "mirada": 0.4
+  },
+  "caceres": {
+   "nombre": "Ramón Cáceres",
+   "etiqueta": "Ramón Cáceres",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "cejas": "fruncidas"
+  },
+  "jimenes": {
+   "nombre": "Juan Isidro Jimenes",
+   "etiqueta": "Juan Isidro Jimenes",
+   "piel": "#D8A47A",
+   "pelo": "calvo",
+   "colorPelo": "#CFC8BD",
+   "barba": "corta",
+   "colorBarba": "#DCD6CC",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.4
+  },
+  "horacio": {
+   "nombre": "Horacio Vásquez",
+   "etiqueta": "Horacio Vásquez",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#2B211A",
+   "bigote": "manubrio",
+   "ropa": "militar",
+   "mirada": -0.3
+  },
+  "roosevelt": {
+   "nombre": "Theodore Roosevelt",
+   "etiqueta": "Theodore Roosevelt",
+   "piel": "#EFC3A0",
+   "pelo": "corto",
+   "colorPelo": "#6B4A2F",
+   "bigote": "grueso",
+   "lentes": true,
+   "ropa": "levita"
+  },
+  "desiderio": {
+   "nombre": "Desiderio Arias",
+   "etiqueta": "Desiderio Arias",
+   "piel": "#A46D48",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "sombrero": "sombrero",
+   "cejas": "fruncidas"
+  },
+  "knapp": {
+   "nombre": "Harry Knapp",
+   "etiqueta": "Capitán Harry Knapp",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9A48A",
+   "ropa": "militar",
+   "colorRopa": "#E8E6DE",
+   "sombrero": "kepis",
+   "colorSombrero": "#E8E6DE",
+   "edad": "mayor"
+  },
+  "trujillo_joven": {
+   "nombre": "Rafael L. Trujillo",
+   "etiqueta": "Rafael Leónidas Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#5B6B45",
+   "mirada": 0.3
+  },
+  "trujillo": {
+   "nombre": "Trujillo",
+   "etiqueta": "Rafael L. Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas"
+  },
+  "trujillo_gen": {
+   "nombre": "El Generalísimo",
+   "etiqueta": "Trujillo · Generalísimo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "sombrero": "bicornio",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "minerva": {
+   "nombre": "Minerva Mirabal",
+   "etiqueta": "Minerva Mirabal",
+   "mujer": true,
+   "piel": "#D29A72",
+   "pelo": "largo",
+   "colorPelo": "#1D1612",
+   "ropa": "vestido",
+   "colorRopa": "#2F5D8A",
+   "mirada": 0.3
+  },
+  "maria_teresa": {
+   "nombre": "María Teresa Mirabal",
+   "etiqueta": "María Teresa Mirabal",
+   "mujer": true,
+   "piel": "#D8A47E",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "ropa": "vestido",
+   "colorRopa": "#8A3B4F",
+   "mirada": -0.3
+  },
+  "manolo": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo Tavárez Justo",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#7C8A5A"
+  },
+  "betancourt": {
+   "nombre": "Rómulo Betancourt",
+   "etiqueta": "Rómulo Betancourt",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#9A9086",
+   "lentes": true,
+   "ropa": "levita",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "escenario",
+   "inicio": 0.0,
+   "fin": 6.6,
+   "preset": "pueblo",
+   "semilla": 14,
+   "colores": {
+    "cielo": [
+     "#1B2233",
+     "#4A5468"
+    ],
+    "sol": "#9AA5B8",
+    "nube": "#5B6578",
+    "lejos": "#2A3245"
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un huracán *destruye* la capital"
+    },
+    {
+     "t": 2.6,
+     "txt": "y un hombre se queda con *todo*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 6.6,
+   "fin": 16.0,
+   "desde": 1,
+   "hasta": 18,
+   "sufijo": " días",
+   "durConteo": 2.5,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "3 de septiembre de 1930"
+    },
+    {
+     "t": 3.0,
+     "txt": "Trujillo lleva 18 días en el poder"
+    },
+    {
+     "t": 6.0,
+     "txt": "Ciclón de *San Zenón*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 16.0,
+   "fin": 22.0,
+   "preset": "pueblo",
+   "semilla": 15,
+   "colores": {
+    "cielo": [
+     "#1B2233",
+     "#4A5468"
+    ],
+    "sol": "#9AA5B8",
+    "nube": "#5B6578",
+    "lejos": "#2A3245"
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Barrios enteros *desaparecen*"
+    },
+    {
+     "t": 2.2,
+     "txt": "Muertos por *miles*"
+    },
+    {
+     "t": 4.4,
+     "txt": "En medio del desastre"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 22.0,
+   "fin": 34.0,
+   "personaje": "trujillo",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Poderes de *emergencia*"
+    },
+    {
+     "t": 2.8,
+     "txt": "Organiza la reconstrucción"
+    },
+    {
+     "t": 5.2,
+     "txt": "Aparece en *todas partes*"
+    },
+    {
+     "t": 8.2,
+     "txt": "Termina la emergencia"
+    },
+    {
+     "t": 10.0,
+     "txt": "Los poderes *no se devuelven*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 34.0,
+   "fin": 48.0,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Los partidos desaparecen",
+     "t": 0.1
+    },
+    {
+     "icono": "check",
+     "txt": "Queda uno: el Partido Dominicano",
+     "t": 3.0
+    },
+    {
+     "icono": "alerta",
+     "txt": "Para trabajar, hay que estar inscrito",
+     "t": 6.4
+    },
+    {
+     "icono": "alerta",
+     "txt": "10 % del sueldo para el partido",
+     "t": 9.2
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 48.0,
+   "fin": 53.8,
+   "fondo": "3",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Los opositores: *tres caminos*"
+    },
+    {
+     "t": 2.6,
+     "txt": "*Callar*"
+    },
+    {
+     "t": 3.6,
+     "txt": "*Irse* o *desaparecer*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 53.8,
+   "fin": 64.0,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "La sal",
+     "t": 1.6
+    },
+    {
+     "icono": "gota",
+     "txt": "La leche",
+     "t": 2.2
+    },
+    {
+     "icono": "fuego",
+     "txt": "La carne",
+     "t": 2.8
+    },
+    {
+     "icono": "estrella",
+     "txt": "El tabaco",
+     "t": 3.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Después, los *negocios*"
+    },
+    {
+     "t": 4.4,
+     "txt": "Poco a poco, todo pasa"
+    },
+    {
+     "t": 7.2,
+     "txt": "por las manos de *una sola familia*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 64.0,
+   "fin": 72.4,
+   "personaje": "trujillo_gen",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Después, los *nombres*"
+    },
+    {
+     "t": 2.0,
+     "txt": "*Benefactor* de la Patria"
+    },
+    {
+     "t": 6.4,
+     "txt": "Luego, *Generalísimo*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 72.4,
+   "fin": 85.0,
+   "puntos": [
+    {
+     "lugar": "Santo Domingo",
+     "etiqueta": "Ciudad Trujillo",
+     "t": 6.0
+    },
+    {
+     "lugar": [
+      -70.99,
+      19.03
+     ],
+     "etiqueta": "Pico Trujillo",
+     "t": 10.6
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "Santo Domingo",
+     "escala": 1.8,
+     "t": 3.4
+    },
+    {
+     "lugar": [
+      -70.99,
+      19.03
+     ],
+     "escala": 1.8,
+     "t": 8.4
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1936"
+    },
+    {
+     "t": 2.0,
+     "txt": "La ciudad más antigua de América"
+    },
+    {
+     "t": 4.0,
+     "txt": "deja de llamarse Santo Domingo"
+    },
+    {
+     "t": 6.0,
+     "txt": "*Ciudad Trujillo*"
+    },
+    {
+     "t": 8.4,
+     "txt": "La montaña más alta del Caribe"
+    },
+    {
+     "t": 10.6,
+     "txt": "*Pico Trujillo*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 85.0,
+   "fin": 94.2,
+   "fondo": "JEFE",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "En las casas, una placa"
+    },
+    {
+     "t": 3.4,
+     "txt": "«En este hogar, *Trujillo es el jefe*»"
+    },
+    {
+     "t": 7.0,
+     "txt": "En las calles, un letrero"
+    },
+    {
+     "t": 8.2,
+     "txt": "«Dios y *Trujillo*»"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 94.2,
+   "fin": 97.4,
+   "desde": 0,
+   "hasta": 6,
+   "sufijo": " años",
+   "durConteo": 0.8,
+   "texto": [
+    {
+     "t": 0.6,
+     "txt": "para ponerle su *nombre* al país"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 97.4,
+   "fin": 100.9,
+   "palabra": "Historia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 48.7,
+   "fin": 53.2
+  }
+ ]
+}

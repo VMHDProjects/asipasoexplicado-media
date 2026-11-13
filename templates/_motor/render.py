@@ -32,13 +32,15 @@ def iniciar(p, serie, formato, data):
     return p.evaluate('([s,f,d]) => APE.init({serie:s, formato:f, escenas:d})', [serie, formato, data])
 
 
-def trabajador(serie, formato, data, W, H, fps, f0, f1, salida, crf):
+def trabajador(serie, formato, data, W, H, fps, f0, f1, salida, crf, esc=1.0):
     from playwright.sync_api import sync_playwright
     with sync_playwright() as pw:
-        b, p = abrir(pw, W, H)
+        b, p = abrir(pw, round(W * esc), round(H * esc))
         iniciar(p, serie, formato, data)
+        if esc != 1.0:
+            p.evaluate('([w,h]) => { const s=document.querySelector("svg"); s.setAttribute("width", w); s.setAttribute("height", h); document.body.style.width=w+"px"; document.body.style.height=h+"px"; }', [round(W * esc), round(H * esc)])
         ff = subprocess.Popen(['ffmpeg', '-v', 'error', '-y', '-f', 'image2pipe', '-c:v', 'mjpeg', '-framerate', str(fps), '-i', '-',
-                               '-c:v', 'libx264', '-preset', 'veryfast', '-crf', str(crf), '-pix_fmt', 'yuv420p', salida], stdin=subprocess.PIPE)
+                               '-c:v', 'libx264', '-preset', 'veryfast', '-crf', str(crf), '-pix_fmt', 'yuv420p'] + (['-vf', f'scale={W}:{H}:flags=lanczos'] if esc != 1.0 else []) + [salida], stdin=subprocess.PIPE)
         for f in range(f0, f1):
             p.evaluate('t => APE.seek(t)', f / fps)
             ff.stdin.write(p.screenshot(type='jpeg', quality=93))
@@ -56,6 +58,7 @@ def main():
     ap.add_argument('--hasta', type=float)
     ap.add_argument('--workers', type=int, default=max(1, min(4, (os.cpu_count() or 2) // 2)))
     ap.add_argument('--crf', type=int, default=20)
+    ap.add_argument('--escala', type=float, default=1.0, help='renderiza más pequeño y reescala (más rápido)')
     ap.add_argument('--cuadros', type=int, default=0, help='solo guarda N cuadros PNG de muestra')
     ap.add_argument('--en', type=str, help='segundos separados por coma para los cuadros de muestra')
     a = ap.parse_args()
@@ -97,7 +100,7 @@ def main():
         s0, s1 = f0 + i * paso, min(f1, f0 + (i + 1) * paso)
         if s0 >= s1: continue
         out = os.path.join(tmp, f'p{i:03d}.mp4'); partes.append(out)
-        pr = Process(target=trabajador, args=(serie, a.formato, data, W, H, a.fps, s0, s1, out, a.crf)); pr.start(); procs.append(pr)
+        pr = Process(target=trabajador, args=(serie, a.formato, data, W, H, a.fps, s0, s1, out, a.crf, a.escala)); pr.start(); procs.append(pr)
     for pr in procs: pr.join()
     lst = os.path.join(tmp, 'lista.txt')
     open(lst, 'w').write(''.join(f"file '{x}'\n" for x in partes))

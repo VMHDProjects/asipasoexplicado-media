@@ -1,0 +1,593 @@
+{
+ "serie": "biblia",
+ "titulo": "7 misterios de la Biblia que casi nadie te explicó · capítulo 3",
+ "duracion": 156.1,
+ "personajes": {
+  "melquisedec": {
+   "nombre": "Melquisedec",
+   "etiqueta": "Melquisedec",
+   "piel": "#B47E55",
+   "pelo": "largo",
+   "colorPelo": "#D8D2C4",
+   "barba": "larga",
+   "colorBarba": "#D8D2C4",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#EFE6D2",
+   "colorManto": "#6B2D5C",
+   "edad": "mayor"
+  },
+  "abraham": {
+   "nombre": "Abraham",
+   "etiqueta": "Abraham",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#8E8A84",
+   "barba": "larga",
+   "colorBarba": "#9A958E",
+   "sombrero": "manto",
+   "colorManto": "#7A5532",
+   "ropa": "tunica",
+   "colorRopa": "#8B5E3C",
+   "edad": "mayor",
+   "mirada": 0.4
+  },
+  "enoc": {
+   "nombre": "Enoc",
+   "etiqueta": "Enoc",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E8E4DA",
+   "barba": "larga",
+   "colorBarba": "#E8E4DA",
+   "sombrero": "manto",
+   "colorManto": "#5A4A3A",
+   "ropa": "tunica",
+   "colorRopa": "#C9B48A",
+   "edad": "mayor"
+  },
+  "elias": {
+   "nombre": "Elías",
+   "etiqueta": "El profeta Elías",
+   "piel": "#9E6A44",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "barba": "larga",
+   "ropa": "tunica",
+   "colorRopa": "#6B4A2F",
+   "colorManto": "#4A3524",
+   "cejas": "fruncidas"
+  },
+  "jacob": {
+   "nombre": "Jacob",
+   "etiqueta": "Jacob",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#3A2618",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#5A6E3A",
+   "colorManto": "#8A6A3A",
+   "mirada": 0.4
+  },
+  "esau": {
+   "nombre": "Esaú",
+   "etiqueta": "Esaú",
+   "piel": "#B47E55",
+   "pelo": "rizado",
+   "colorPelo": "#9A3B1E",
+   "barba": "corta",
+   "colorBarba": "#9A3B1E",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "varon": {
+   "nombre": "El varón",
+   "etiqueta": "El desconocido",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#EADFC4",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#D9B45A"
+  },
+  "josue": {
+   "nombre": "Josué",
+   "etiqueta": "Josué",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "turbante",
+   "colorSombrero": "#C9A46A",
+   "ropa": "tunica",
+   "colorRopa": "#7A2E22",
+   "colorManto": "#4A3524",
+   "mirada": 0.4
+  },
+  "principe": {
+   "nombre": "Príncipe del ejército",
+   "etiqueta": "Príncipe del ejército de Jehová",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#EFE6D2",
+   "colorManto": "#B8862B",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "david": {
+   "nombre": "David",
+   "etiqueta": "David",
+   "piel": "#C08A5E",
+   "pelo": "rizado",
+   "colorPelo": "#3A2618",
+   "ropa": "tunica",
+   "colorRopa": "#9A7B4F",
+   "colorManto": "#6E7F3A",
+   "mirada": 0.4
+  },
+  "goliat": {
+   "nombre": "Goliat",
+   "etiqueta": "Goliat",
+   "piel": "#A8744C",
+   "barba": "corta",
+   "colorPelo": "#1A1410",
+   "sombrero": "kepis",
+   "colorSombrero": "#8C6A3A",
+   "ropa": "militar",
+   "colorRopa": "#6B5A3A",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "juan": {
+   "nombre": "Juan",
+   "etiqueta": "El apóstol Juan",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#B9B2A6",
+   "barba": "larga",
+   "colorBarba": "#B9B2A6",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "moises": {
+   "nombre": "Moisés",
+   "etiqueta": "Moisés",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E0DBD0",
+   "barba": "larga",
+   "colorBarba": "#E0DBD0",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "josias": {
+   "nombre": "Josías",
+   "etiqueta": "El rey Josías",
+   "piel": "#B47E55",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#5B2A6E",
+   "colorManto": "#C9A46A"
+  },
+  "jeremias": {
+   "nombre": "Jeremías",
+   "etiqueta": "El profeta Jeremías",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#4A3A2A",
+   "barba": "larga",
+   "colorBarba": "#4A3A2A",
+   "sombrero": "manto",
+   "colorManto": "#6B5A44",
+   "ropa": "tunica",
+   "colorRopa": "#8B7B5E"
+  },
+  "anciano": {
+   "nombre": "Anciano",
+   "etiqueta": "Uno de los 24 ancianos",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#EEEAE2",
+   "barba": "larga",
+   "colorBarba": "#EEEAE2",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#D9B45A",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "escenario",
+   "inicio": 0.0,
+   "fin": 9.6,
+   "preset": "desierto",
+   "semilla": 8,
+   "colores": {
+    "cielo": [
+     "#14203D",
+     "#4A3E6A"
+    ],
+    "sol": "#F2EBD3",
+    "nube": "#3B3A5E",
+    "lejos": "#3A3550",
+    "medio": "#5A4A55",
+    "tierra": "#7A6248"
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Peleó toda una noche con un *desconocido*"
+    },
+    {
+     "t": 3.6,
+     "txt": "y dijo que vio a Dios *cara a cara*"
+    },
+    {
+     "t": 7.2,
+     "txt": "Jacob vuelve a su tierra"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 9.6,
+   "fin": 20.8,
+   "personaje": "esau",
+   "personaje2": "jacob",
+   "t2": 6.6,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Lo espera su hermano *Esaú*"
+    },
+    {
+     "t": 2.2,
+     "txt": "al que engañó años atrás"
+    },
+    {
+     "t": 4.2,
+     "txt": "con *400 hombres*"
+    },
+    {
+     "t": 6.6,
+     "txt": "Jacob manda a su familia adelante"
+    },
+    {
+     "t": 8.0,
+     "txt": "y se queda *solo*"
+    },
+    {
+     "t": 9.6,
+     "txt": "Génesis 32"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 20.8,
+   "fin": 26.0,
+   "cita": "Génesis 32:24 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Y quedóse Jacob solo, y luchó con él *un varón* hasta que rayaba el alba.",
+   "tInicio": 0.6,
+   "tEscritura": 4.299999999999988
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 26.0,
+   "fin": 35.2,
+   "personaje": "jacob",
+   "personaje2": "varon",
+   "t2": 2.2,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "No dice de dónde *salió*"
+    },
+    {
+     "t": 1.6,
+     "txt": "No dice por qué *pelean*"
+    },
+    {
+     "t": 3.6,
+     "txt": "Le toca el muslo y se lo *descoyunta*"
+    },
+    {
+     "t": 7.8,
+     "txt": "Jacob *no lo suelta*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 35.2,
+   "fin": 41.8,
+   "cita": "Génesis 32:26 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Y dijo: Déjame, que raya el alba. Y él dijo: *No te dejaré*, si no me bendices.",
+   "tInicio": 0.6,
+   "tEscritura": 5.700000000000022
+  },
+  {
+   "tipo": "titular",
+   "inicio": 41.8,
+   "fin": 44.0,
+   "fondo": "?",
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "El varón le cambia el *nombre*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 44.0,
+   "fin": 51.6,
+   "cita": "Génesis 32:28 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "No se dirá más tu nombre Jacob, sino *Israel*: porque has peleado con Dios y con los hombres, y has vencido.",
+   "tInicio": 0.6,
+   "tEscritura": 6.700000000000022
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 51.6,
+   "fin": 63.8,
+   "personaje": "varon",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Jacob le pregunta su *nombre*"
+    },
+    {
+     "t": 2.2,
+     "txt": "El varón *no responde*"
+    },
+    {
+     "t": 3.6,
+     "txt": "Lo bendice y se va"
+    },
+    {
+     "t": 5.2,
+     "txt": "Jacob llama al lugar *Peniel*"
+    },
+    {
+     "t": 7.6,
+     "txt": "«Vi a Dios *cara a cara*»"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 63.8,
+   "fin": 75.8,
+   "items": [
+    {
+     "icono": "libro",
+     "txt": "Oseas: luchó con un ángel",
+     "t": 0.1
+    },
+    {
+     "icono": "estrella",
+     "txt": "Jacob: vio a Dios",
+     "t": 3.0
+    },
+    {
+     "icono": "alerta",
+     "txt": "Salió cojeando",
+     "t": 5.0
+    },
+    {
+     "icono": "corona",
+     "txt": "y con el nombre de una nación",
+     "t": 7.2
+    }
+   ],
+   "texto": [
+    {
+     "t": 10.0,
+     "txt": "¿Con quién luchó Jacob *esa noche*?"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 75.8,
+   "fin": 84.2,
+   "region": "levante",
+   "puntos": [
+    {
+     "nombre": "Jericó",
+     "t": 0.6
+    }
+   ],
+   "enfoque": {
+    "lugar": "Jericó",
+    "escala": 2.6,
+    "t": 1.2
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Antes de la batalla de *Jericó*"
+    },
+    {
+     "t": 2.0,
+     "txt": "un guerrero con la espada *desenvainada*"
+    },
+    {
+     "t": 5.6,
+     "txt": "Y no era de *ningún bando*"
+    },
+    {
+     "t": 7.0,
+     "txt": "Josué 5"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 84.2,
+   "fin": 100.3,
+   "cita": "Josué 5:13 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Y estando Josué cerca de Jericó, alzó sus ojos, y vio un varón que estaba delante de él, el cual tenía *una espada desnuda* en su mano. Y Josué yéndose hacia él, le dijo: ¿Eres de los nuestros, o de nuestros enemigos?",
+   "tInicio": 0.6,
+   "tEscritura": 15.200000000000022
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 100.3,
+   "fin": 105.0,
+   "cita": "Josué 5:14 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Y él respondió: No; mas *Príncipe del ejército de Jehová*, ahora he venido.",
+   "tInicio": 0.6,
+   "tEscritura": 3.7999999999999887
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 105.0,
+   "fin": 113.0,
+   "personaje": "josue",
+   "personaje2": "principe",
+   "t2": 1.2,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Josué pregunta de qué lado *está*"
+    },
+    {
+     "t": 2.4,
+     "txt": "No vino a ponerse de un *lado*"
+    },
+    {
+     "t": 6.4,
+     "txt": "Vino a tomar el *mando*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 113.0,
+   "fin": 117.6,
+   "cita": "Josué 5:14 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Entonces Josué postrándose sobre su rostro en tierra *le adoró*.",
+   "tInicio": 0.6,
+   "tEscritura": 3.700000000000023
+  },
+  {
+   "tipo": "titular",
+   "inicio": 117.6,
+   "fin": 130.2,
+   "fondo": "?",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Aquí está el *misterio*"
+    },
+    {
+     "t": 1.4,
+     "txt": "En Apocalipsis, un ángel *detiene* a Juan"
+    },
+    {
+     "t": 4.8,
+     "txt": "y le dice que adore a *Dios*"
+    },
+    {
+     "t": 8.0,
+     "txt": "Este varón *acepta* la adoración"
+    },
+    {
+     "t": 11.6,
+     "txt": "Y le dice"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 130.2,
+   "fin": 134.8,
+   "cita": "Josué 5:15 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Quita tus zapatos de tus pies; porque el lugar donde estás *es santo*.",
+   "tInicio": 0.6,
+   "tEscritura": 3.700000000000023
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 134.8,
+   "fin": 145.6,
+   "personaje": "moises",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Las mismas palabras que oyó *Moisés*"
+    },
+    {
+     "t": 2.2,
+     "txt": "frente a la zarza ardiente"
+    },
+    {
+     "t": 4.2,
+     "txt": "¿No era un ángel común"
+    },
+    {
+     "t": 7.2,
+     "txt": "sino el mismo *Señor*?"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 145.6,
+   "fin": 152.6,
+   "preset": "ciudad_antigua",
+   "semilla": 11,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Otros: el arcángel *Miguel*"
+    },
+    {
+     "t": 2.4,
+     "txt": "Después, los muros de Jericó *cayeron*"
+    },
+    {
+     "t": 5.8,
+     "txt": "¿Quién crees que *era*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 152.6,
+   "fin": 156.1,
+   "palabra": "Biblia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 76.3,
+   "fin": 80.8
+  }
+ ]
+}

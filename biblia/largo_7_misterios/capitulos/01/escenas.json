@@ -1,0 +1,431 @@
+{
+ "serie": "biblia",
+ "titulo": "7 misterios de la Biblia que casi nadie te explicó · capítulo 1",
+ "duracion": 103.7,
+ "personajes": {
+  "melquisedec": {
+   "nombre": "Melquisedec",
+   "etiqueta": "Melquisedec",
+   "piel": "#B47E55",
+   "pelo": "largo",
+   "colorPelo": "#D8D2C4",
+   "barba": "larga",
+   "colorBarba": "#D8D2C4",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#EFE6D2",
+   "colorManto": "#6B2D5C",
+   "edad": "mayor"
+  },
+  "abraham": {
+   "nombre": "Abraham",
+   "etiqueta": "Abraham",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#8E8A84",
+   "barba": "larga",
+   "colorBarba": "#9A958E",
+   "sombrero": "manto",
+   "colorManto": "#7A5532",
+   "ropa": "tunica",
+   "colorRopa": "#8B5E3C",
+   "edad": "mayor",
+   "mirada": 0.4
+  },
+  "enoc": {
+   "nombre": "Enoc",
+   "etiqueta": "Enoc",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E8E4DA",
+   "barba": "larga",
+   "colorBarba": "#E8E4DA",
+   "sombrero": "manto",
+   "colorManto": "#5A4A3A",
+   "ropa": "tunica",
+   "colorRopa": "#C9B48A",
+   "edad": "mayor"
+  },
+  "elias": {
+   "nombre": "Elías",
+   "etiqueta": "El profeta Elías",
+   "piel": "#9E6A44",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "barba": "larga",
+   "ropa": "tunica",
+   "colorRopa": "#6B4A2F",
+   "colorManto": "#4A3524",
+   "cejas": "fruncidas"
+  },
+  "jacob": {
+   "nombre": "Jacob",
+   "etiqueta": "Jacob",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#3A2618",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#5A6E3A",
+   "colorManto": "#8A6A3A",
+   "mirada": 0.4
+  },
+  "esau": {
+   "nombre": "Esaú",
+   "etiqueta": "Esaú",
+   "piel": "#B47E55",
+   "pelo": "rizado",
+   "colorPelo": "#9A3B1E",
+   "barba": "corta",
+   "colorBarba": "#9A3B1E",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "varon": {
+   "nombre": "El varón",
+   "etiqueta": "El desconocido",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#EADFC4",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#D9B45A"
+  },
+  "josue": {
+   "nombre": "Josué",
+   "etiqueta": "Josué",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "turbante",
+   "colorSombrero": "#C9A46A",
+   "ropa": "tunica",
+   "colorRopa": "#7A2E22",
+   "colorManto": "#4A3524",
+   "mirada": 0.4
+  },
+  "principe": {
+   "nombre": "Príncipe del ejército",
+   "etiqueta": "Príncipe del ejército de Jehová",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#EFE6D2",
+   "colorManto": "#B8862B",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "david": {
+   "nombre": "David",
+   "etiqueta": "David",
+   "piel": "#C08A5E",
+   "pelo": "rizado",
+   "colorPelo": "#3A2618",
+   "ropa": "tunica",
+   "colorRopa": "#9A7B4F",
+   "colorManto": "#6E7F3A",
+   "mirada": 0.4
+  },
+  "goliat": {
+   "nombre": "Goliat",
+   "etiqueta": "Goliat",
+   "piel": "#A8744C",
+   "barba": "corta",
+   "colorPelo": "#1A1410",
+   "sombrero": "kepis",
+   "colorSombrero": "#8C6A3A",
+   "ropa": "militar",
+   "colorRopa": "#6B5A3A",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "juan": {
+   "nombre": "Juan",
+   "etiqueta": "El apóstol Juan",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#B9B2A6",
+   "barba": "larga",
+   "colorBarba": "#B9B2A6",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "moises": {
+   "nombre": "Moisés",
+   "etiqueta": "Moisés",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E0DBD0",
+   "barba": "larga",
+   "colorBarba": "#E0DBD0",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "josias": {
+   "nombre": "Josías",
+   "etiqueta": "El rey Josías",
+   "piel": "#B47E55",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#5B2A6E",
+   "colorManto": "#C9A46A"
+  },
+  "jeremias": {
+   "nombre": "Jeremías",
+   "etiqueta": "El profeta Jeremías",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#4A3A2A",
+   "barba": "larga",
+   "colorBarba": "#4A3A2A",
+   "sombrero": "manto",
+   "colorManto": "#6B5A44",
+   "ropa": "tunica",
+   "colorRopa": "#8B7B5E"
+  },
+  "anciano": {
+   "nombre": "Anciano",
+   "etiqueta": "Uno de los 24 ancianos",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#EEEAE2",
+   "barba": "larga",
+   "colorBarba": "#EEEAE2",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#D9B45A",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "escenario",
+   "inicio": 0,
+   "fin": 7.0,
+   "preset": "desierto",
+   "semilla": 3,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Aparecen una vez y *desaparecen*"
+    },
+    {
+     "t": 4.4,
+     "txt": "Objetos que nadie ha vuelto a *ver*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 7.0,
+   "fin": 16.4,
+   "fondo": "7",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Escenas sin una explicación que *convenza*"
+    },
+    {
+     "t": 4.6,
+     "txt": "*7 misterios* de la Biblia"
+    },
+    {
+     "t": 6.6,
+     "txt": "que casi nadie te *explicó*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 16.4,
+   "fin": 24.2,
+   "personaje": "melquisedec",
+   "personaje2": "abraham",
+   "t2": 5.2,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Un hombre *sin padre*"
+    },
+    {
+     "t": 2.4,
+     "txt": "sin madre y sin fecha de *muerte*"
+    },
+    {
+     "t": 5.2,
+     "txt": "Y Abraham se *inclinó* ante él"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 24.2,
+   "fin": 33.6,
+   "region": "levante",
+   "puntos": [
+    {
+     "nombre": "Salem",
+     "t": 3.2
+    },
+    {
+     "nombre": "Hebrón",
+     "t": 0.8
+    }
+   ],
+   "enfoque": {
+    "lugar": "Salem",
+    "escala": 2.4,
+    "t": 4.2
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Abraham viene de ganar una *batalla*"
+    },
+    {
+     "t": 2.6,
+     "txt": "y le sale al encuentro un *rey*"
+    },
+    {
+     "t": 4.8,
+     "txt": "que nadie había mencionado antes"
+    },
+    {
+     "t": 7.4,
+     "txt": "Génesis 14 lo cuenta así"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 33.6,
+   "fin": 51.0,
+   "cita": "Génesis 14:18-20 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Entonces *Melquisedec*, rey de Salem, sacó pan y vino; el cual era *sacerdote del Dios alto*. Y bendíjole, y dijo: Bendito sea Abram del Dios alto, poseedor de los cielos y de la tierra. Y dióle Abram *los diezmos* de todo.",
+   "tInicio": 0.6,
+   "tEscritura": 16.5
+  },
+  {
+   "tipo": "lista",
+   "inicio": 51.0,
+   "fin": 64.2,
+   "items": [
+    {
+     "icono": "corona",
+     "txt": "Rey y sacerdote a la vez",
+     "t": 1.2
+    },
+    {
+     "icono": "libro",
+     "txt": "Sirve al Dios de Abraham, sin ser de su familia",
+     "t": 4.2
+    },
+    {
+     "icono": "estrella",
+     "txt": "Saca pan y vino",
+     "t": 7.4
+    },
+    {
+     "icono": "check",
+     "txt": "Abraham le da el diezmo",
+     "t": 9.4
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Fíjate en lo *raro*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 64.2,
+   "fin": 76.4,
+   "fondo": "?",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Tres versículos y *desaparece*"
+    },
+    {
+     "t": 3.0,
+     "txt": "*Sin genealogía*"
+    },
+    {
+     "t": 4.4,
+     "txt": "en un libro que le pone genealogía a *todos*"
+    },
+    {
+     "t": 7.6,
+     "txt": "Siglos después, la carta a los *Hebreos*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 76.4,
+   "fin": 87.6,
+   "cita": "Hebreos 7:3 · Reina-Valera 1909",
+   "version": false,
+   "versiculo": "Sin padre, sin madre, sin linaje; que ni tiene principio de días, ni fin de vida, mas hecho *semejante al Hijo de Dios*, permanece sacerdote *para siempre*.",
+   "tInicio": 0.6,
+   "tEscritura": 10.299999999999988
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 87.6,
+   "fin": 100.2,
+   "personaje": "melquisedec",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "¿Un rey real de *Jerusalén*?"
+    },
+    {
+     "t": 2.6,
+     "txt": "figura de Cristo"
+    },
+    {
+     "t": 4.8,
+     "txt": "¿O el mismo *Cristo*, antes de nacer?"
+    },
+    {
+     "t": 9.0,
+     "txt": "La Biblia no lo *aclara*"
+    },
+    {
+     "t": 11.0,
+     "txt": "¿Tú qué crees que *era*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 100.2,
+   "fin": 103.7,
+   "palabra": "Biblia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 50.1,
+   "fin": 54.6
+  }
+ ]
+}

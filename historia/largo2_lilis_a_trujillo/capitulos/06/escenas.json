@@ -1,0 +1,513 @@
+{
+ "serie": "historia",
+ "titulo": "De Lilís a la caída de Trujillo (1870–1961) · capítulo 6",
+ "duracion": 101.9,
+ "personajes": {
+  "lilis": {
+   "nombre": "Ulises Heureaux",
+   "etiqueta": "Ulises Heureaux · Lilís",
+   "piel": "#5A3826",
+   "pelo": "rizado",
+   "colorPelo": "#17110E",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "baez": {
+   "nombre": "Buenaventura Báez",
+   "etiqueta": "Buenaventura Báez",
+   "piel": "#D9A77C",
+   "pelo": "calvo",
+   "colorPelo": "#3A2A20",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.3
+  },
+  "luperon": {
+   "nombre": "Gregorio Luperón",
+   "etiqueta": "Gregorio Luperón",
+   "piel": "#8A5A3C",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "manubrio",
+   "barba": "perilla",
+   "ropa": "militar",
+   "mirada": 0.4
+  },
+  "caceres": {
+   "nombre": "Ramón Cáceres",
+   "etiqueta": "Ramón Cáceres",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "bigote": "grueso",
+   "ropa": "levita",
+   "cejas": "fruncidas"
+  },
+  "jimenes": {
+   "nombre": "Juan Isidro Jimenes",
+   "etiqueta": "Juan Isidro Jimenes",
+   "piel": "#D8A47A",
+   "pelo": "calvo",
+   "colorPelo": "#CFC8BD",
+   "barba": "corta",
+   "colorBarba": "#DCD6CC",
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": 0.4
+  },
+  "horacio": {
+   "nombre": "Horacio Vásquez",
+   "etiqueta": "Horacio Vásquez",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#2B211A",
+   "bigote": "manubrio",
+   "ropa": "militar",
+   "mirada": -0.3
+  },
+  "roosevelt": {
+   "nombre": "Theodore Roosevelt",
+   "etiqueta": "Theodore Roosevelt",
+   "piel": "#EFC3A0",
+   "pelo": "corto",
+   "colorPelo": "#6B4A2F",
+   "bigote": "grueso",
+   "lentes": true,
+   "ropa": "levita"
+  },
+  "desiderio": {
+   "nombre": "Desiderio Arias",
+   "etiqueta": "Desiderio Arias",
+   "piel": "#A46D48",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "sombrero": "sombrero",
+   "cejas": "fruncidas"
+  },
+  "knapp": {
+   "nombre": "Harry Knapp",
+   "etiqueta": "Capitán Harry Knapp",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9A48A",
+   "ropa": "militar",
+   "colorRopa": "#E8E6DE",
+   "sombrero": "kepis",
+   "colorSombrero": "#E8E6DE",
+   "edad": "mayor"
+  },
+  "trujillo_joven": {
+   "nombre": "Rafael L. Trujillo",
+   "etiqueta": "Rafael Leónidas Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#5B6B45",
+   "mirada": 0.3
+  },
+  "trujillo": {
+   "nombre": "Trujillo",
+   "etiqueta": "Rafael L. Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas"
+  },
+  "trujillo_gen": {
+   "nombre": "El Generalísimo",
+   "etiqueta": "Trujillo · Generalísimo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "sombrero": "bicornio",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "minerva": {
+   "nombre": "Minerva Mirabal",
+   "etiqueta": "Minerva Mirabal",
+   "mujer": true,
+   "piel": "#D29A72",
+   "pelo": "largo",
+   "colorPelo": "#1D1612",
+   "ropa": "vestido",
+   "colorRopa": "#2F5D8A",
+   "mirada": 0.3
+  },
+  "maria_teresa": {
+   "nombre": "María Teresa Mirabal",
+   "etiqueta": "María Teresa Mirabal",
+   "mujer": true,
+   "piel": "#D8A47E",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "ropa": "vestido",
+   "colorRopa": "#8A3B4F",
+   "mirada": -0.3
+  },
+  "manolo": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo Tavárez Justo",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#7C8A5A"
+  },
+  "betancourt": {
+   "nombre": "Rómulo Betancourt",
+   "etiqueta": "Rómulo Betancourt",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#9A9086",
+   "lentes": true,
+   "ropa": "levita",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "mapa",
+   "inicio": 0.0,
+   "fin": 15.6,
+   "puntos": [
+    {
+     "lugar": [
+      -70.75,
+      18.91
+     ],
+     "etiqueta": "Constanza",
+     "t": 4.4
+    },
+    {
+     "lugar": [
+      -70.98,
+      19.86
+     ],
+     "etiqueta": "Maimón",
+     "t": 8.8
+    },
+    {
+     "lugar": [
+      -71.22,
+      19.82
+     ],
+     "etiqueta": "Estero Hondo",
+     "lado": -1,
+     "t": 9.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "14 de junio de *1959*"
+    },
+    {
+     "t": 3.2,
+     "txt": "Exiliados llegan por aire a *Constanza*"
+    },
+    {
+     "t": 8.0,
+     "txt": "Otros desembarcan en *Maimón* y *Estero Hondo*"
+    },
+    {
+     "t": 11.0,
+     "txt": "Vienen a tumbar a Trujillo"
+    },
+    {
+     "t": 12.8,
+     "txt": "Casi todos *mueren*"
+    },
+    {
+     "t": 14.2,
+     "txt": "Pero la fecha *queda*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 15.6,
+   "fin": 26.0,
+   "personaje": "manolo",
+   "personaje2": "minerva",
+   "t2": 7.4,
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Nace un movimiento *clandestino*"
+    },
+    {
+     "t": 4.0,
+     "txt": "El *14 de Junio*"
+    },
+    {
+     "t": 5.8,
+     "txt": "Manolo Tavárez Justo"
+    },
+    {
+     "t": 7.4,
+     "txt": "y su esposa, *Minerva Mirabal*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 26.0,
+   "fin": 37.2,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Cientos de jóvenes van a la cárcel",
+     "t": 3.4
+    },
+    {
+     "icono": "alerta",
+     "txt": "Muchos, de familias conocidas",
+     "t": 5.8
+    },
+    {
+     "icono": "libro",
+     "txt": "Hasta la Iglesia protesta",
+     "t": 8.4
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "1960: el régimen los *descubre*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 37.2,
+   "fin": 48.2,
+   "personaje": "betancourt",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Ese mismo año"
+    },
+    {
+     "t": 1.0,
+     "txt": "manda a matar a *Rómulo Betancourt*"
+    },
+    {
+     "t": 3.8,
+     "txt": "presidente de Venezuela"
+    },
+    {
+     "t": 5.2,
+     "txt": "El atentado *falla*"
+    },
+    {
+     "t": 6.6,
+     "txt": "América le *rompe relaciones*"
+    },
+    {
+     "t": 9.4,
+     "txt": "El régimen queda *solo*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 48.2,
+   "fin": 57.6,
+   "personaje": "minerva",
+   "personaje2": "maria_teresa",
+   "t2": 2.6,
+   "etiqueta": "Minerva Mirabal",
+   "etiqueta2": "María Teresa Mirabal",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "25 de noviembre de *1960*"
+    },
+    {
+     "t": 2.6,
+     "txt": "Minerva y María Teresa"
+    },
+    {
+     "t": 6.4,
+     "txt": "regresan de ver a sus esposos presos"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 57.6,
+   "fin": 68.4,
+   "preset": "campo",
+   "semilla": 30,
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   },
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "En la carretera las *detienen*"
+    },
+    {
+     "t": 2.0,
+     "txt": "Las matan, junto a su chofer"
+    },
+    {
+     "t": 4.4,
+     "txt": "*Rufino de la Cruz*"
+    },
+    {
+     "t": 5.4,
+     "txt": "Quieren que parezca un *accidente*"
+    },
+    {
+     "t": 9.4,
+     "txt": "Nadie lo *creyó*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 68.4,
+   "fin": 80.2,
+   "puntos": [
+    {
+     "nombre": "Santo Domingo",
+     "lado": 1,
+     "t": 5.0
+    },
+    {
+     "nombre": "San Cristóbal",
+     "lado": -1,
+     "t": 6.6
+    }
+   ],
+   "ruta": {
+    "de": "Santo Domingo",
+    "a": "San Cristóbal",
+    "dur": 2.2,
+    "t": 5.5
+   },
+   "enfoques": [
+    {
+     "lugar": "San Cristóbal",
+     "escala": 2.4,
+     "t": 7.6
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Seis meses después"
+    },
+    {
+     "t": 1.6,
+     "txt": "30 de mayo de *1961*"
+    },
+    {
+     "t": 5.4,
+     "txt": "Rumbo a *San Cristóbal*"
+    },
+    {
+     "t": 8.0,
+     "txt": "casi sin escolta"
+    },
+    {
+     "t": 9.6,
+     "txt": "Lo están *esperando*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 80.2,
+   "fin": 84.4,
+   "desde": 1930,
+   "hasta": 1961,
+   "durConteo": 1.2,
+   "texto": [
+    {
+     "t": 1.4,
+     "txt": "31 años de dictadura *terminan*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 84.4,
+   "fin": 91.4,
+   "personaje": "minerva",
+   "personaje2": "maria_teresa",
+   "t2": 1.6,
+   "etiqueta": "Minerva Mirabal",
+   "etiqueta2": "María Teresa Mirabal",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "Hoy, cada *25 de noviembre*"
+    },
+    {
+     "t": 3.6,
+     "txt": "el mundo recuerda a las *Mirabal*"
+    }
+   ]
+  },
+  {
+   "tipo": "titular",
+   "inicio": 91.4,
+   "fin": 98.4,
+   "fondo": "1962",
+   "texto": [
+    {
+     "t": 0.1,
+     "txt": "El país por fin vota *libremente*"
+    },
+    {
+     "t": 3.4,
+     "txt": "y el elegido duró *siete meses*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 98.4,
+   "fin": 101.9,
+   "palabra": "Historia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 49.2,
+   "fin": 53.7
+  }
+ ]
+}
