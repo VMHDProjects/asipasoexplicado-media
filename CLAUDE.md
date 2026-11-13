@@ -4,6 +4,14 @@ Repositorio de medios y producción para @asipasoexplicado (Instagram, Facebook,
 Victor sube los audios de ElevenLabs; Claude produce, corta, sube y programa sin pedir aprobación
 (títulos, descripciones, etiquetas y programación incluidos).
 
+## Regla principal: no pedirle a Victor que haga nada
+Victor solo entrega el audio. Todo lo demás lo hace Claude de punta a punta: render, subida a YouTube
+(vía Metricool, que tiene el canal conectado), cortes para redes, programación, y ocultar o borrar
+videos viejos. Si una herramienta falla (créditos de vidIQ, límites de tamaño, etc.), buscar otra vía
+(Metricool, navegador, GitHub) y resolverlo. Al final solo se le informa qué quedó hecho.
+Para subir por Metricool el video debe estar en un enlace público de menos de 100 MB
+(raw.githubusercontent.com de este repo); comprimir con 2 pasadas si hace falta.
+
 ## Series (diarias, sin pausa)
 | Serie | Hora (RD, UTC-4) | Palabra ManyChat | Carpeta |
 |---|---|---|---|
