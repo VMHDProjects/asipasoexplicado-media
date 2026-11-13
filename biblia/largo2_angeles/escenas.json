@@ -1,0 +1,1885 @@
+{
+ "serie": "biblia",
+ "titulo": "Los ángeles de la Biblia que casi nadie te explicó",
+ "duracion": 766.35,
+ "personajes": {
+  "querubin": {
+   "nombre": "Querubín",
+   "etiqueta": "Querubín · guardián",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#E8C66A",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "adan": {
+   "nombre": "Adán",
+   "etiqueta": "Adán",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#8A6A3E",
+   "mirada": 0.3
+  },
+  "eva": {
+   "nombre": "Eva",
+   "etiqueta": "Eva",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#3A2414",
+   "mujer": true,
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "mirada": -0.3
+  },
+  "moises": {
+   "nombre": "Moisés",
+   "etiqueta": "Moisés",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E0DBD0",
+   "barba": "larga",
+   "colorBarba": "#E0DBD0",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "ezequiel": {
+   "nombre": "Ezequiel",
+   "etiqueta": "El profeta Ezequiel",
+   "piel": "#A06C46",
+   "pelo": "largo",
+   "colorPelo": "#2E2018",
+   "barba": "larga",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#5E4A7A",
+   "colorManto": "#C9A46A"
+  },
+  "isaias": {
+   "nombre": "Isaías",
+   "etiqueta": "El profeta Isaías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#9A9184",
+   "barba": "larga",
+   "colorBarba": "#9A9184",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#B8862B"
+  },
+  "serafin": {
+   "nombre": "Serafín",
+   "etiqueta": "Serafín · \"los que arden\"",
+   "piel": "#F2C27A",
+   "pelo": "largo",
+   "colorPelo": "#F28C28",
+   "ropa": "tunica",
+   "colorRopa": "#FFE2A8",
+   "colorManto": "#D9481E",
+   "mirada": 0.2
+  },
+  "miguel": {
+   "nombre": "Miguel",
+   "etiqueta": "El arcángel Miguel",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "ropa": "militar",
+   "colorRopa": "#8C2F2F",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "daniel": {
+   "nombre": "Daniel",
+   "etiqueta": "El profeta Daniel",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#7A2E4A",
+   "colorManto": "#D9B45A"
+  },
+  "gabriel": {
+   "nombre": "Gabriel",
+   "etiqueta": "El ángel Gabriel",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#C9A46A",
+   "ropa": "tunica",
+   "colorRopa": "#FAF6EC",
+   "colorManto": "#6C8EBF",
+   "mirada": 0.3
+  },
+  "zacarias": {
+   "nombre": "Zacarías",
+   "etiqueta": "El sacerdote Zacarías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#EEEAE2",
+   "barba": "larga",
+   "colorBarba": "#EEEAE2",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D5A80",
+   "edad": "mayor"
+  },
+  "maria": {
+   "nombre": "María",
+   "etiqueta": "María de Nazaret",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "sombrero": "manto",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D6FA8",
+   "mirada": -0.2
+  },
+  "lucero": {
+   "nombre": "Lucero",
+   "etiqueta": "Lucero, hijo de la mañana",
+   "piel": "#C9A27E",
+   "pelo": "largo",
+   "colorPelo": "#1A1410",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#2B2B3A",
+   "colorManto": "#8C2F2F",
+   "cejas": "fruncidas",
+   "mirada": -0.5
+  },
+  "rey": {
+   "nombre": "Rey de Babilonia",
+   "etiqueta": "El rey de Babilonia",
+   "piel": "#A8744C",
+   "pelo": "rizado",
+   "colorPelo": "#1A1410",
+   "barba": "larga",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#6B2E2E",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas"
+  },
+  "eliseo": {
+   "nombre": "Eliseo",
+   "etiqueta": "El profeta Eliseo",
+   "piel": "#9E6A44",
+   "pelo": "calvo",
+   "barba": "larga",
+   "colorBarba": "#3A2A20",
+   "ropa": "tunica",
+   "colorRopa": "#6B4A2F",
+   "colorManto": "#4A3524"
+  },
+  "criado": {
+   "nombre": "El criado",
+   "etiqueta": "El criado de Eliseo",
+   "piel": "#B07A50",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "cejas": "fruncidas",
+   "mirada": 0.4
+  },
+  "juan": {
+   "nombre": "Juan",
+   "etiqueta": "El apóstol Juan",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#B9B2A6",
+   "barba": "larga",
+   "colorBarba": "#B9B2A6",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "retrato",
+   "inicio": 0.0,
+   "fin": 5.01,
+   "personaje": "serafin",
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "*Seis* alas"
+    },
+    {
+     "t": 1.53,
+     "txt": "*Cuatro* caras"
+    },
+    {
+     "t": 2.85,
+     "txt": "Ruedas llenas de *ojos*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 5.01,
+   "fin": 10.38,
+   "personaje": "querubin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Nada que ver con los *cuadros*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 10.38,
+   "fin": 16.98,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Tan extraños que el profeta"
+    },
+    {
+     "t": 3.48,
+     "txt": "no encontraba *palabras*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 16.98,
+   "fin": 22.12,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "Querubines",
+     "t": 1.02
+    },
+    {
+     "icono": "fuego",
+     "txt": "Serafines",
+     "t": 1.84
+    },
+    {
+     "icono": "espada",
+     "txt": "Miguel",
+     "t": 2.66
+    },
+    {
+     "icono": "libro",
+     "txt": "Gabriel",
+     "t": 3.48
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*7 ángeles* que casi nadie te explicó"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 22.12,
+   "fin": 27.69,
+   "personaje": "querubin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El primer ángel *no trae un mensaje*"
+    },
+    {
+     "t": 3.89,
+     "txt": "Trae una *espada*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 27.69,
+   "fin": 32.27,
+   "personaje": "adan",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Adán y Eva *desobedecen*"
+    }
+   ],
+   "personaje2": "eva",
+   "t2": 1.4
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 32.27,
+   "fin": 35.45,
+   "preset": "campo",
+   "semilla": 7,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Génesis *3:24*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 35.45,
+   "fin": 47.17,
+   "cita": "Génesis 3:24 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Echó, pues, fuera al hombre, y puso al oriente del huerto de Edén *querubines*, y una *espada encendida* que se revolvía por todos lados, para guardar el camino del *árbol de la vida*.",
+   "tInicio": 0.4,
+   "tEscritura": 10.61
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 47.17,
+   "fin": 54.17,
+   "personaje": "querubin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No es un *bebé con alas*"
+    },
+    {
+     "t": 3.68,
+     "txt": "Esa imagen viene del *arte europeo*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 54.17,
+   "fin": 60.37,
+   "personaje": "querubin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Los querubines son *guardianes*"
+    },
+    {
+     "t": 3.31,
+     "txt": "cerca de la *presencia de Dios*"
+    }
+   ],
+   "etiqueta": "Guardianes"
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 60.37,
+   "fin": 69.36,
+   "personaje": "moises",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Siglos después, *Moisés*"
+    },
+    {
+     "t": 6.2,
+     "txt": "instrucciones para el *Arca*"
+    }
+   ]
+  },
+  {
+   "tipo": "arca",
+   "inicio": 69.36,
+   "fin": 76.02,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Dos querubines de oro*"
+    },
+    {
+     "t": 3.95,
+     "txt": "alas arriba, caras *mirándose*"
+    }
+   ]
+  },
+  {
+   "tipo": "arca",
+   "inicio": 76.02,
+   "fin": 79.78,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Éxodo *25:22*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 79.78,
+   "fin": 86.8,
+   "cita": "Éxodo 25:22 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y de allí me declararé a ti, y hablaré contigo de sobre el propiciatorio, *de entre los dos querubines*.",
+   "tInicio": 0.4,
+   "tEscritura": 6.07
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 86.8,
+   "fin": 100.54,
+   "hitos": [
+    {
+     "anio": "Edén",
+     "txt": "Cierra el camino",
+     "t": 7.47
+    },
+    {
+     "anio": "Arca",
+     "txt": "Lugar de encuentro",
+     "t": 9.63
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Del Edén al *Arca*"
+    },
+    {
+     "t": 3.52,
+     "txt": "la *frontera* entre lo humano y lo santo"
+    }
+   ]
+  },
+  {
+   "tipo": "arca",
+   "inicio": 100.54,
+   "fin": 106.22,
+   "desaparece": 0.5,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El Arca *desapareció*"
+    },
+    {
+     "t": 2.55,
+     "txt": "y los querubines con ella"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 106.22,
+   "fin": 113.11,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Un hombre vio *querubines vivos*"
+    },
+    {
+     "t": 3.94,
+     "txt": "y no se parecen a *nada*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 113.11,
+   "fin": 115.5,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Ezequiel*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 115.5,
+   "fin": 121.86,
+   "preset": "ciudad_antigua",
+   "semilla": 4,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Prisionero en *Babilonia*"
+    },
+    {
+     "t": 3.64,
+     "txt": "lejos del *templo*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 121.86,
+   "fin": 125.66,
+   "preset": "desierto",
+   "semilla": 9,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Junto al río *Quebar*"
+    },
+    {
+     "t": 2.14,
+     "txt": "el cielo *se abrió*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 125.66,
+   "fin": 132.19,
+   "preset": "desierto",
+   "semilla": 11,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una nube con *fuego por dentro*"
+    },
+    {
+     "t": 3.4,
+     "txt": "*cuatro* seres vivientes"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 132.19,
+   "fin": 135.82,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "Cuatro caras",
+     "t": 0.81
+    },
+    {
+     "icono": "estrella",
+     "txt": "Cuatro alas",
+     "t": 2.03
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 135.82,
+   "fin": 138.79,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Ezequiel *1:10*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 138.79,
+   "fin": 150.75,
+   "cita": "Ezequiel 1:10 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y el aspecto de sus caras era *cara de hombre*, y *cara de león* al lado derecho de los cuatro, y *cara de buey* a la izquierda en los cuatro; asimismo había en los cuatro *cara de águila*.",
+   "tInicio": 0.4,
+   "tEscritura": 11.06
+  },
+  {
+   "tipo": "lista",
+   "inicio": 150.75,
+   "fin": 154.76,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "Hombre",
+     "t": 0.05
+    },
+    {
+     "icono": "corona",
+     "txt": "León",
+     "t": 0.8
+    },
+    {
+     "icono": "escudo",
+     "txt": "Buey",
+     "t": 1.41
+    },
+    {
+     "icono": "sol",
+     "txt": "Águila",
+     "t": 2.01
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Y aparecen las *ruedas*"
+    },
+    {
+     "t": 2.5,
+     "txt": "Versículo *16*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 154.76,
+   "fin": 166.59,
+   "cita": "Ezequiel 1:16 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "El aspecto de las ruedas y su obra era semejante al color del crisólito. Y las cuatro tenían una misma semejanza; su apariencia y su obra eran como *rueda en medio de rueda*.",
+   "tInicio": 0.4,
+   "tEscritura": 11.53
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 166.59,
+   "fin": 171.68,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El versículo *18*"
+    },
+    {
+     "t": 2.45,
+     "txt": "todavía pone a *pensar*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 171.68,
+   "fin": 177.75,
+   "cita": "Ezequiel 1:18 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y sus aros eran altos y espantosos, y *llenos de ojos* alrededor en las cuatro.",
+   "tInicio": 0.4,
+   "tEscritura": 5.56
+  },
+  {
+   "tipo": "lista",
+   "inicio": 177.75,
+   "fin": 184.85,
+   "items": [
+    {
+     "icono": "sol",
+     "txt": "Ruedas dentro de ruedas",
+     "t": 0.86
+    },
+    {
+     "icono": "play",
+     "txt": "Van a cualquier lado",
+     "t": 3.17
+    },
+    {
+     "icono": "estrella",
+     "txt": "Cubiertas de ojos",
+     "t": 5.49
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 184.85,
+   "fin": 191.42,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Siglos de *discusión*"
+    },
+    {
+     "t": 3.44,
+     "txt": "Él mismo da la *respuesta*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 191.42,
+   "fin": 194.25,
+   "preset": "desierto",
+   "semilla": 11,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Ezequiel *10:20*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 194.25,
+   "fin": 200.0,
+   "cita": "Ezequiel 10:20 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Estos eran los mismos seres vivientes que vi debajo del Dios de Israel junto al río Quebar; y conocí que *eran querubines*.",
+   "tInicio": 0.4,
+   "tEscritura": 5.27
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 200.0,
+   "fin": 207.45,
+   "preset": "ciudad_antigua",
+   "semilla": 2,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "La *clave*"
+    },
+    {
+     "t": 2.52,
+     "txt": "Creían que Dios vivía en *Jerusalén*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 207.45,
+   "fin": 214.79,
+   "region": "levante",
+   "puntos": [
+    {
+     "nombre": "Jerusalén",
+     "t": 0.88
+    },
+    {
+     "nombre": "Damasco",
+     "t": 2.9,
+     "etiqueta": "rumbo a Babilonia"
+    }
+   ],
+   "ruta": {
+    "de": "Jerusalén",
+    "a": "Damasco",
+    "t": 2.23,
+    "dur": 2.5
+   },
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Pero lo ve llegar a *Babilonia*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 214.79,
+   "fin": 221.23,
+   "personaje": "ezequiel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El mensaje era claro"
+    },
+    {
+     "t": 1.89,
+     "txt": "Dios *no se quedó atrás*"
+    },
+    {
+     "t": 3.86,
+     "txt": "fue a buscar a su pueblo"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 221.23,
+   "fin": 228.67,
+   "personaje": "serafin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No son los únicos *con alas*"
+    },
+    {
+     "t": 4.34,
+     "txt": "Aparecen *una sola vez*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 228.67,
+   "fin": 234.71,
+   "personaje": "isaias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El profeta *Isaías*"
+    },
+    {
+     "t": 2.83,
+     "txt": "Isaías *6:1-3*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 234.71,
+   "fin": 252.79,
+   "cita": "Isaías 6:1-3 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "En el año que murió el rey Uzías vi yo al Señor sentado sobre un trono alto y sublime, y sus faldas llenaban el templo. Por encima de él había *serafines*; cada uno tenía *seis alas*; con dos cubrían sus rostros, con dos cubrían sus pies, y con dos volaban.",
+   "tInicio": 0.4,
+   "tEscritura": 17.47
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 252.79,
+   "fin": 262.49,
+   "cita": "Isaías 6:3 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y el uno al otro daba voces, diciendo: *Santo, santo, santo*, Jehová de los ejércitos; toda la tierra está llena de su gloria.",
+   "tInicio": 0.4,
+   "tEscritura": 9.22
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 262.49,
+   "fin": 268.56,
+   "personaje": "serafin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Serafín: *\"los que arden\"*"
+    },
+    {
+     "t": 4.6,
+     "txt": "Seres de *fuego*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 268.56,
+   "fin": 274.06,
+   "personaje": "serafin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Aun siendo santos"
+    },
+    {
+     "t": 2.71,
+     "txt": "se *tapan la cara*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 274.06,
+   "fin": 281.61,
+   "personaje": "isaias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Isaías *se derrumba*"
+    },
+    {
+     "t": 2.78,
+     "txt": "\"Soy de *labios impuros*\""
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 281.61,
+   "fin": 285.27,
+   "personaje": "serafin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Y entonces pasa *esto*"
+    },
+    {
+     "t": 2.03,
+     "txt": "Versículos *6 y 7*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 285.27,
+   "fin": 300.55,
+   "cita": "Isaías 6:6-7 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y voló hacia mí uno de los serafines, teniendo en su mano un *carbón encendido*, tomado del altar con unas tenazas; y tocando con él sobre mi boca, dijo: He aquí que esto tocó tus labios, y es quitada tu culpa, y *limpio tu pecado*.",
+   "tInicio": 0.4,
+   "tEscritura": 14.89
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 300.55,
+   "fin": 307.96,
+   "personaje": "serafin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una *brasa* en la boca"
+    },
+    {
+     "t": 4.94,
+     "txt": "no para quemarlo: para *limpiarlo*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 307.96,
+   "fin": 315.29,
+   "personaje": "isaias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "\"¿A quién *enviaré*?\""
+    },
+    {
+     "t": 3.74,
+     "txt": "\"*Heme aquí*, envíame a mí\""
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 315.29,
+   "fin": 321.81,
+   "personaje": "isaias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El que se sentía *indigno*"
+    },
+    {
+     "t": 3.19,
+     "txt": "uno de los *profetas más grandes*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 321.81,
+   "fin": 327.45,
+   "items": [
+    {
+     "icono": "compartir",
+     "txt": "Comparte",
+     "t": 1.25
+    },
+    {
+     "icono": "corazon",
+     "txt": "Síguenos",
+     "t": 2.81
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 327.45,
+   "fin": 333.68,
+   "personaje": "miguel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Solo uno es *arcángel* con nombre"
+    },
+    {
+     "t": 5.74,
+     "txt": "*Miguel*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 333.68,
+   "fin": 340.16,
+   "personaje": "miguel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Casi siempre está *peleando*"
+    },
+    {
+     "t": 3.4,
+     "txt": "Primera vez: el libro de *Daniel*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 340.16,
+   "fin": 349.62,
+   "personaje": "daniel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Tres semanas* orando y ayunando"
+    },
+    {
+     "t": 4.54,
+     "txt": "un ser *resplandeciente*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 349.62,
+   "fin": 353.03,
+   "personaje": "daniel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Daniel *10:12-13*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 353.03,
+   "fin": 367.26,
+   "cita": "Daniel 10:12 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Entonces me dijo: Daniel, no temas; porque desde el *primer día* que dispusiste tu corazón a entender y a humillarte en la presencia de tu Dios, *fueron oídas tus palabras*; y a causa de tus palabras yo he venido.",
+   "tInicio": 0.4,
+   "tEscritura": 13.45
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 367.26,
+   "fin": 379.4,
+   "cita": "Daniel 10:13 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Mas el príncipe del reino de Persia se me opuso durante *veintiún días*; pero he aquí *Miguel*, uno de los principales príncipes, vino para ayudarme, y quedé allí con los reyes de Persia.",
+   "tInicio": 0.4,
+   "tEscritura": 11.4
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 379.4,
+   "fin": 383.63,
+   "desde": 0,
+   "hasta": 21,
+   "sufijo": " días",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Veintiún días*"
+    },
+    {
+     "t": 1.84,
+     "txt": "lo mismo que esperó Daniel"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 383.63,
+   "fin": 392.12,
+   "personaje": "miguel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Escuchada *el primer día*"
+    },
+    {
+     "t": 3.3,
+     "txt": "pero había una *batalla*"
+    },
+    {
+     "t": 6.32,
+     "txt": "Miguel *intervino*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 392.12,
+   "fin": 400.32,
+   "personaje": "juan",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Siglos después, la carta de *Judas*"
+    },
+    {
+     "t": 6.27,
+     "txt": "Judas, versículo *9*"
+    }
+   ],
+   "etiqueta": "La carta de Judas"
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 400.32,
+   "fin": 412.4,
+   "cita": "Judas 9 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Pero cuando el arcángel Miguel contendía con el diablo, disputando con él por el *cuerpo de Moisés*, no se atrevió a proferir juicio de maldición contra él, sino que dijo: *El Señor te reprenda*.",
+   "tInicio": 0.4,
+   "tEscritura": 11.58
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 412.4,
+   "fin": 421.73,
+   "personaje": "moises",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿Por qué peleaban por su *cuerpo*?"
+    },
+    {
+     "t": 4.37,
+     "txt": "Nadie conoce su *sepultura*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 421.73,
+   "fin": 431.91,
+   "personaje": "miguel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Mira la *actitud* de Miguel"
+    },
+    {
+     "t": 3.81,
+     "txt": "No insulta al diablo"
+    },
+    {
+     "t": 8.42,
+     "txt": "le deja el juicio a *Dios*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 431.91,
+   "fin": 438.09,
+   "personaje": "gabriel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Miguel es el guerrero"
+    },
+    {
+     "t": 1.67,
+     "txt": "Gabriel, el *mensajero*"
+    },
+    {
+     "t": 3.61,
+     "txt": "Cada vez que aparece, *todo cambia*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 438.09,
+   "fin": 444.01,
+   "personaje": "daniel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Primera visita: otra vez *Daniel*"
+    },
+    {
+     "t": 2.99,
+     "txt": "Daniel *9:21*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 444.01,
+   "fin": 454.16,
+   "cita": "Daniel 9:21 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "aún estaba hablando en oración, cuando *el varón Gabriel*, a quien había visto en la visión al principio, *volando con presteza*, vino a mí como a la hora del sacrificio de la tarde.",
+   "tInicio": 0.4,
+   "tEscritura": 9.48
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 454.16,
+   "fin": 460.27,
+   "hitos": [
+    {
+     "anio": "70",
+     "txt": "semanas",
+     "t": 1.89
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "La profecía de las *setenta semanas*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 460.27,
+   "fin": 466.36,
+   "desde": 0,
+   "hasta": 500,
+   "prefijo": "+",
+   "sufijo": " años",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Y después, *silencio*"
+    },
+    {
+     "t": 2.37,
+     "txt": "sin que Gabriel *vuelva*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 466.36,
+   "fin": 473.46,
+   "personaje": "zacarias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El sacerdote *Zacarías*"
+    },
+    {
+     "t": 3.47,
+     "txt": "un ángel junto al *altar*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 473.46,
+   "fin": 479.46,
+   "personaje": "zacarias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Isabel, ya anciana, tendrá *un hijo*"
+    },
+    {
+     "t": 4.5,
+     "txt": "Zacarías *no lo cree*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 479.46,
+   "fin": 483.65,
+   "personaje": "gabriel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lucas *1:19*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 483.65,
+   "fin": 492.88,
+   "cita": "Lucas 1:19 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Respondiendo el ángel, le dijo: *Yo soy Gabriel*, que estoy delante de Dios; y he sido enviado a hablarte, y darte estas *buenas nuevas*.",
+   "tInicio": 0.4,
+   "tEscritura": 8.64
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 492.88,
+   "fin": 499.23,
+   "personaje": "zacarias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Se queda *mudo*"
+    },
+    {
+     "t": 3.89,
+     "txt": "Ese niño: *Juan el Bautista*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 499.23,
+   "fin": 508.46,
+   "personaje": "gabriel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Seis meses después"
+    },
+    {
+     "t": 2.42,
+     "txt": "el viaje *más importante*"
+    },
+    {
+     "t": 5.34,
+     "txt": "Lucas *1:26-28*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 508.46,
+   "fin": 522.11,
+   "cita": "Lucas 1:26-27 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Al sexto mes el ángel Gabriel fue enviado por Dios a una ciudad de Galilea, llamada *Nazaret*, a una virgen desposada con un varón que se llamaba José, de la casa de David; y el nombre de la virgen era *María*.",
+   "tInicio": 0.4,
+   "tEscritura": 12.81
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 522.11,
+   "fin": 531.3,
+   "cita": "Lucas 1:28 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y entrando el ángel en donde ella estaba, dijo: *¡Salve, muy favorecida!* El Señor es contigo; bendita tú entre las mujeres.",
+   "tInicio": 0.4,
+   "tEscritura": 8.78
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 531.3,
+   "fin": 538.64,
+   "personaje": "maria",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El que anunció a Daniel un *Mesías*"
+    },
+    {
+     "t": 3.84,
+     "txt": "anunció que *ya venía*"
+    }
+   ],
+   "personaje2": "gabriel",
+   "t2": 2.18
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 538.64,
+   "fin": 543.93,
+   "personaje": "lucero",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Todos han oído de él"
+    },
+    {
+     "t": 2.59,
+     "txt": "pero su nombre *casi no aparece*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 543.93,
+   "fin": 547.96,
+   "personaje": "lucero",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Isaías *14:12-14*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 547.96,
+   "fin": 556.38,
+   "cita": "Isaías 14:12 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "¡Cómo caíste del cielo, oh *Lucero*, hijo de la mañana! Cortado fuiste por tierra, tú que debilitabas a las naciones.",
+   "tInicio": 0.4,
+   "tEscritura": 7.99
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 556.38,
+   "fin": 572.42,
+   "cita": "Isaías 14:13-14 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Tú que decías en tu corazón: *Subiré al cielo*; en lo alto, junto a las estrellas de Dios, levantaré mi trono, y en el monte del testimonio me sentaré, a los lados del norte; sobre las alturas de las nubes subiré, y *seré semejante al Altísimo*.",
+   "tInicio": 0.4,
+   "tEscritura": 15.33
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 572.42,
+   "fin": 579.95,
+   "max": 10,
+   "barras": [
+    {
+     "etiqueta": "Reina-Valera: Lucero",
+     "valor": 8,
+     "icono": "libro",
+     "t": 1.09
+    },
+    {
+     "etiqueta": "Latín: Lucifer",
+     "valor": 8,
+     "icono": "libro",
+     "t": 5.1
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No dice *Lucifer*"
+    },
+    {
+     "t": 2.86,
+     "txt": "Dice *Lucero*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 579.95,
+   "fin": 585.98,
+   "personaje": "rey",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Un *debate* que casi nadie cuenta"
+    },
+    {
+     "t": 3.21,
+     "txt": "empieza hablando del *rey de Babilonia*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 585.98,
+   "fin": 595.12,
+   "personaje": "rey",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Unos: es sobre ese *rey orgulloso*"
+    },
+    {
+     "t": 4.52,
+     "txt": "Otros: la caída de *Satanás*"
+    }
+   ],
+   "personaje2": "lucero",
+   "t2": 4.52
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 595.12,
+   "fin": 603.07,
+   "personaje": "miguel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo que sí es claro"
+    },
+    {
+     "t": 2.02,
+     "txt": "una *guerra en el cielo*"
+    },
+    {
+     "t": 4.35,
+     "txt": "Apocalipsis *12:7-9*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 603.07,
+   "fin": 615.34,
+   "cita": "Apocalipsis 12:7-8 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Después hubo una gran *batalla en el cielo*: Miguel y sus ángeles luchaban contra el dragón; y luchaban el dragón y sus ángeles; pero no prevalecieron, ni se halló ya lugar para ellos en el cielo.",
+   "tInicio": 0.4,
+   "tEscritura": 11.66
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 615.34,
+   "fin": 627.3,
+   "cita": "Apocalipsis 12:9 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y fue lanzado fuera el gran dragón, la serpiente antigua, que se llama *diablo y Satanás*, el cual engaña al mundo entero; fue arrojado a la tierra, y sus ángeles fueron arrojados con él.",
+   "tInicio": 0.4,
+   "tEscritura": 11.31
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 627.3,
+   "fin": 635.08,
+   "hitos": [
+    {
+     "anio": "Daniel",
+     "txt": "Persia",
+     "t": 2.28
+    },
+    {
+     "anio": "Judas",
+     "txt": "Cuerpo de Moisés",
+     "t": 3.99
+    },
+    {
+     "anio": "Apocalipsis",
+     "txt": "Batalla final",
+     "t": 5.7
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Otra vez *Miguel*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 635.08,
+   "fin": 640.27,
+   "personaje": "juan",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Judas menciona a otros que *cayeron*"
+    },
+    {
+     "t": 3.4,
+     "txt": "Judas, versículo *6*"
+    }
+   ],
+   "etiqueta": "La carta de Judas"
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 640.27,
+   "fin": 650.86,
+   "cita": "Judas 6 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y a los ángeles que *no guardaron su dignidad*, sino que abandonaron su propia morada, los ha guardado bajo oscuridad, en prisiones eternas, para el juicio del gran día.",
+   "tInicio": 0.4,
+   "tEscritura": 10.02
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 650.86,
+   "fin": 654.39,
+   "personaje": "lucero",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Tenían un lugar"
+    },
+    {
+     "t": 1.72,
+     "txt": "y decidieron *dejarlo*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 654.39,
+   "fin": 658.96,
+   "personaje": "eliseo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El último no es *uno solo*"
+    },
+    {
+     "t": 3.23,
+     "txt": "Es un *ejército entero*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 658.96,
+   "fin": 667.56,
+   "region": "levante",
+   "puntos": [
+    {
+     "nombre": "Damasco",
+     "t": 1.04,
+     "etiqueta": "Siria"
+    },
+    {
+     "nombre": "Dotán",
+     "t": 3.98
+    }
+   ],
+   "ruta": {
+    "de": "Damasco",
+    "a": "Dotán",
+    "t": 2.72,
+    "dur": 2.5
+   },
+   "enfoque": {
+    "lugar": "Dotán",
+    "escala": 2.2,
+    "t": 6.08
+   },
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Siria quiere atrapar a *Eliseo*"
+    },
+    {
+     "t": 4.82,
+     "txt": "rodean *Dotán*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 667.56,
+   "fin": 675.5,
+   "preset": "pueblo",
+   "semilla": 5,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Al amanecer, *el ejército*"
+    },
+    {
+     "t": 4.34,
+     "txt": "\"¡Ah, señor mío! ¿Qué *haremos*?\""
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 675.5,
+   "fin": 680.32,
+   "personaje": "eliseo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "2 Reyes *6:16*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 680.32,
+   "fin": 685.84,
+   "cita": "2 Reyes 6:16 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "No tengas miedo, porque *más son los que están con nosotros* que los que están con ellos.",
+   "tInicio": 0.4,
+   "tEscritura": 5.01
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 685.84,
+   "fin": 689.61,
+   "personaje": "criado",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El criado *no ve a nadie*"
+    },
+    {
+     "t": 2.52,
+     "txt": "Solo *enemigos*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 689.61,
+   "fin": 694.1,
+   "personaje": "eliseo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Eliseo hace una *oración*"
+    },
+    {
+     "t": 3.04,
+     "txt": "Versículo *17*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 694.1,
+   "fin": 700.26,
+   "cita": "2 Reyes 6:17 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y oró Eliseo, y dijo: Te ruego, oh Jehová, que *abras sus ojos* para que vea.",
+   "tInicio": 0.4,
+   "tEscritura": 5.63
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 700.26,
+   "fin": 711.12,
+   "cita": "2 Reyes 6:17 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Entonces Jehová abrió los ojos del criado, y miró; y he aquí que el monte estaba lleno de gente de a caballo, y de *carros de fuego* alrededor de Eliseo.",
+   "tInicio": 0.4,
+   "tEscritura": 10.08
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 711.12,
+   "fin": 717.44,
+   "personaje": "criado",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Siempre habían *estado ahí*"
+    },
+    {
+     "t": 2.15,
+     "txt": "No cambió la situación"
+    },
+    {
+     "t": 4.46,
+     "txt": "cambiaron *sus ojos*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 717.44,
+   "fin": 723.81,
+   "personaje": "eliseo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No es solo una historia *del pasado*"
+    },
+    {
+     "t": 3.99,
+     "txt": "Salmo *91:11*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 723.81,
+   "fin": 729.1,
+   "cita": "Salmo 91:11 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Pues a sus ángeles mandará acerca de ti, que te *guarden en todos tus caminos*.",
+   "tInicio": 0.4,
+   "tEscritura": 4.8
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 729.1,
+   "fin": 735.37,
+   "personaje": "juan",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una idea para *pensar*"
+    },
+    {
+     "t": 3.6,
+     "txt": "Hebreos *13:2*"
+    }
+   ],
+   "etiqueta": "La carta a los Hebreos"
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 735.37,
+   "fin": 742.29,
+   "cita": "Hebreos 13:2 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "No os olvidéis de la hospitalidad, porque por ella algunos, sin saberlo, *hospedaron ángeles*.",
+   "tInicio": 0.4,
+   "tEscritura": 6.37
+  },
+  {
+   "tipo": "lista",
+   "inicio": 742.29,
+   "fin": 752.23,
+   "items": [
+    {
+     "icono": "escudo",
+     "txt": "Querubines que guardan",
+     "t": 0.68
+    },
+    {
+     "icono": "fuego",
+     "txt": "Serafines que limpian",
+     "t": 2.1
+    },
+    {
+     "icono": "espada",
+     "txt": "Un guerrero",
+     "t": 3.81
+    },
+    {
+     "icono": "libro",
+     "txt": "Un mensajero",
+     "t": 5.15
+    },
+    {
+     "icono": "alerta",
+     "txt": "Ángeles que cayeron",
+     "t": 6.67
+    },
+    {
+     "icono": "estrella",
+     "txt": "Un ejército invisible",
+     "t": 8.28
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 752.23,
+   "fin": 760.55,
+   "personaje": "lucero",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Si los caídos *existen*…"
+    },
+    {
+     "t": 3.8,
+     "txt": "¿quiénes eran los *demonios*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 760.55,
+   "fin": 766.35,
+   "palabra": "Biblia",
+   "proximo": "¿Quiénes eran los demonios que Jesús echaba fuera?"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 321.86,
+   "fin": 326.86
+  }
+ ]
+}
