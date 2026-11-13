@@ -1,0 +1,504 @@
+{
+ "serie": "nutricion",
+ "titulo": "Qué le pasa a tu cuerpo si comes esto todos los días · capítulo 1",
+ "duracion": 111.88,
+ "personajes": {
+  "medica": {
+   "nombre": "Nutricionista",
+   "etiqueta": "Lo que dicen los expertos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "La sabiduría de la abuela",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#FF9F1C",
+   "lentes": true
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "alimentos",
+   "inicio": 0.0,
+   "fin": 3.62,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "etiqueta": "huevo",
+     "t": 1.2
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "¿Huevo *todos los días*?"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 3.62,
+   "fin": 8.2,
+   "alimentos": [
+    {
+     "alimento": "platano_verde",
+     "etiqueta": "plátano verde",
+     "t": 0.58
+    },
+    {
+     "alimento": "arroz",
+     "etiqueta": "arroz",
+     "t": 1.35
+    },
+    {
+     "alimento": "habichuelas",
+     "etiqueta": "habichuelas",
+     "t": 2.12
+    },
+    {
+     "alimento": "aguacate",
+     "etiqueta": "aguacate",
+     "t": 2.89
+    },
+    {
+     "alimento": "avena",
+     "etiqueta": "avena",
+     "t": 3.46
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿Y *plátano*, arroz, habichuelas…?"
+    }
+   ]
+  },
+  {
+   "tipo": "plato",
+   "inicio": 8.2,
+   "fin": 14.73,
+   "porciones": [
+    {
+     "parte": 0.5,
+     "alimento": "arroz",
+     "etiqueta": "Arroz",
+     "t": 0.78
+    },
+    {
+     "parte": 0.25,
+     "alimento": "habichuelas",
+     "etiqueta": "Habichuelas",
+     "t": 1.94
+    },
+    {
+     "parte": 0.25,
+     "alimento": "aguacate",
+     "etiqueta": "Aguacate",
+     "t": 2.81
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo que está en *tu mesa*"
+    },
+    {
+     "t": 3.39,
+     "txt": "cada uno hace algo *distinto*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 14.73,
+   "fin": 18.62,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Cerebro",
+     "t": 0.78,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "corazon",
+     "etiqueta": "Corazón",
+     "t": 1.65,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "intestino",
+     "etiqueta": "Intestino",
+     "t": 2.52,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Esto pasa *dentro de ti*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 18.62,
+   "fin": 23.29,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "etiqueta": "huevo",
+     "t": 0.83
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Huevo* todos los días"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 23.29,
+   "fin": 27.07,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Proteína completa",
+     "t": 0.83
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una de las proteínas *más completas*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 27.07,
+   "fin": 34.9,
+   "desde": 0,
+   "hasta": 6,
+   "sufijo": " g",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*6 gramos* de proteína"
+    },
+    {
+     "t": 3.84,
+     "txt": "con todos los *aminoácidos*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 34.9,
+   "fin": 39.42,
+   "items": [
+    {
+     "icono": "rayo",
+     "txt": "Llena más",
+     "t": 0.66
+    },
+    {
+     "icono": "escudo",
+     "txt": "Cuida los músculos",
+     "t": 1.88
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 39.42,
+   "fin": 44.52,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "marca": "si",
+     "etiqueta": "la yema",
+     "t": 1.58
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "La *yema* que muchos botan"
+    },
+    {
+     "t": 2.95,
+     "txt": "tiene *casi todo* lo bueno"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 44.52,
+   "fin": 49.6,
+   "organos": [
+    {
+     "id": "cerebro",
+     "etiqueta": "Colina",
+     "t": 1.14,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Colina* para el cerebro"
+    },
+    {
+     "t": 3.01,
+     "txt": "memoria y *neuronas*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 49.6,
+   "fin": 56.49,
+   "organos": [
+    {
+     "id": "ojos",
+     "etiqueta": "Luteína",
+     "t": 1.8,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Luteína* y zeaxantina"
+    },
+    {
+     "t": 3.39,
+     "txt": "protegen tus *ojos*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 56.49,
+   "fin": 61.87,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "¿Peligro?",
+     "t": 0.5,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿Y el *colesterol*?"
+    },
+    {
+     "t": 1.57,
+     "txt": "Nos dijeron que era *peligroso*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 61.87,
+   "fin": 70.27,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Lo que se creía",
+     "valor": 100,
+     "t": 2.56
+    },
+    {
+     "etiqueta": "Lo que se sabe hoy",
+     "valor": 30,
+     "t": 4.93
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "En la mayoría de *personas sanas*"
+    },
+    {
+     "t": 4.53,
+     "txt": "sube *mucho menos* de lo que se creía"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 70.27,
+   "fin": 74.44,
+   "alimentos": [
+    {
+     "alimento": "salami",
+     "marca": "no",
+     "etiqueta": "grasa saturada",
+     "t": 1.29
+    },
+    {
+     "alimento": "aceite",
+     "marca": "no",
+     "etiqueta": "grasa trans",
+     "t": 2.37
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo que más lo sube"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 74.44,
+   "fin": 80.79,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "marca": "si",
+     "etiqueta": "1 al día",
+     "t": 2.81
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Asociación Americana *del Corazón*"
+    },
+    {
+     "t": 3.11,
+     "txt": "*un huevo al día* puede ser sano"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 80.79,
+   "fin": 87.48,
+   "personaje": "medica",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Si tienes *diabetes* o colesterol alto"
+    },
+    {
+     "t": 3.52,
+     "txt": "la cantidad la decide *tu médico*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 87.48,
+   "fin": 93.05,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "marca": "si",
+     "etiqueta": "huevo",
+     "t": 3.5
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Un detalle que *nadie* toma en cuenta"
+    },
+    {
+     "t": 3.04,
+     "txt": "El problema *no es el huevo*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 93.05,
+   "fin": 100.38,
+   "alimentos": [
+    {
+     "alimento": "salami",
+     "marca": "no",
+     "etiqueta": "salami frito",
+     "t": 2.56
+    },
+    {
+     "alimento": "queso",
+     "marca": "no",
+     "etiqueta": "queso frito",
+     "t": 3.91
+    },
+    {
+     "alimento": "aceite",
+     "marca": "no",
+     "etiqueta": "aceite reusado",
+     "t": 5.26
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Es lo que *viene con él*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 100.38,
+   "fin": 108.38,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "marca": "si",
+     "etiqueta": "hervido",
+     "t": 0.9
+    },
+    {
+     "alimento": "aceite",
+     "marca": "no",
+     "etiqueta": "nadando en grasa",
+     "t": 4.38
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Hervido o con *poco aceite*"
+    },
+    {
+     "t": 4.38,
+     "txt": "no es lo mismo"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 108.38,
+   "fin": 111.88,
+   "palabra": "Nutrición"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 54.19,
+   "fin": 58.69
+  }
+ ]
+}
