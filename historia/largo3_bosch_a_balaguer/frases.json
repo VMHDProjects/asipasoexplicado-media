@@ -1,0 +1,677 @@
+{
+"duracion": 580.91,
+"frases": [
+{
+"i": 0,
+"txt": "Treinta y un años esperando para votar en libertad.",
+"ini": 0.0,
+"fin": 2.89
+},
+{
+"i": 1,
+"txt": "Y cuando por fin votaron, el presidente que eligieron duró siete meses.",
+"ini": 3.48,
+"fin": 7.88
+},
+{
+"i": 2,
+"txt": "Lo que vino después fue un golpe de Estado, una guerrilla en las montañas, una guerra en las calles de Santo Domingo y cuarenta mil soldados extranjeros otra vez en suelo dominicano.",
+"ini": 8.45,
+"fin": 19.65
+},
+{
+"i": 3,
+"txt": "Trujillo cayó la noche del treinta de mayo de mil novecientos sesenta y uno.",
+"ini": 20.41,
+"fin": 24.47
+},
+{
+"i": 4,
+"txt": "Pero la dictadura no desapareció con él.",
+"ini": 24.99,
+"fin": 27.08
+},
+{
+"i": 5,
+"txt": "Su hijo Ramfis regresó de Europa y tomó el control del ejército.",
+"ini": 27.65,
+"fin": 31.48
+},
+{
+"i": 6,
+"txt": "Los hombres que participaron en el ajusticiamiento fueron perseguidos, y casi todos terminaron muertos.",
+"ini": 32.09,
+"fin": 37.83
+},
+{
+"i": 7,
+"txt": "Joaquín Balaguer, el último presidente que había nombrado Trujillo, seguía en el Palacio.",
+"ini": 38.42,
+"fin": 43.19
+},
+{
+"i": 8,
+"txt": "En noviembre de ese año, presionada por Estados Unidos y por el pueblo en las calles, la familia Trujillo salió del país para siempre.",
+"ini": 43.89,
+"fin": 51.48
+},
+{
+"i": 9,
+"txt": "Y entonces empezó a regresar gente que llevaba años fuera.",
+"ini": 52.06,
+"fin": 55.64
+},
+{
+"i": 10,
+"txt": "Uno de ellos era un escritor de cuentos que había vivido más de veinte años en el exilio:",
+"ini": 56.27,
+"fin": 61.11
+},
+{
+"i": 11,
+"txt": "Juan Bosch.",
+"ini": 61.7,
+"fin": 62.39
+},
+{
+"i": 12,
+"txt": "Bosch no tenía dinero ni ejército.",
+"ini": 62.98,
+"fin": 65.25
+},
+{
+"i": 13,
+"txt": "Tenía una radio y una forma de hablar que nadie había escuchado en política.",
+"ini": 65.7,
+"fin": 69.87
+},
+{
+"i": 14,
+"txt": "Le hablaba al campesino como campesino.",
+"ini": 70.42,
+"fin": 72.62
+},
+{
+"i": 15,
+"txt": "Le explicaba al pueblo, con palabras sencillas, por qué era pobre.",
+"ini": 73.1,
+"fin": 76.88
+},
+{
+"i": 16,
+"txt": "Recorría el país pueblo por pueblo con su partido, el Partido Revolucionario Dominicano.",
+"ini": 77.49,
+"fin": 82.79
+},
+{
+"i": 17,
+"txt": "El veinte de diciembre de mil novecientos sesenta y dos, la República Dominicana tuvo sus primeras elecciones libres en más de treinta años.",
+"ini": 83.43,
+"fin": 91.67
+},
+{
+"i": 18,
+"txt": "Bosch ganó con casi seis de cada diez votos.",
+"ini": 92.2,
+"fin": 95.18
+},
+{
+"i": 19,
+"txt": "El veintisiete de febrero de mil novecientos sesenta y tres, el día de la Independencia, se juró presidente.",
+"ini": 95.7,
+"fin": 101.86
+},
+{
+"i": 20,
+"txt": "Para muchos dominicanos, la noche de Trujillo por fin había terminado.",
+"ini": 102.44,
+"fin": 106.63
+},
+{
+"i": 21,
+"txt": "Bosch empezó rápido.",
+"ini": 107.22,
+"fin": 108.55
+},
+{
+"i": 22,
+"txt": "En abril de mil novecientos sesenta y tres se aprobó una nueva Constitución, una de las más avanzadas de América Latina en ese momento.",
+"ini": 109.05,
+"fin": 116.79
+},
+{
+"i": 23,
+"txt": "Protegía la libertad de expresión, los derechos de los trabajadores y ponía límites a los grandes terrenos en manos de unos pocos.",
+"ini": 117.36,
+"fin": 124.86
+},
+{
+"i": 24,
+"txt": "Bosch también se negó a perseguir a nadie por sus ideas.",
+"ini": 125.39,
+"fin": 128.71
+},
+{
+"i": 25,
+"txt": "Y ahí empezó su problema.",
+"ini": 129.21,
+"fin": 130.74
+},
+{
+"i": 26,
+"txt": "Los militares formados por Trujillo, los grandes terratenientes y parte de la Iglesia empezaron a acusarlo de comunista.",
+"ini": 131.28,
+"fin": 138.31
+},
+{
+"i": 27,
+"txt": "Era mil novecientos sesenta y tres, la Revolución cubana tenía apenas cuatro años, y esa palabra bastaba para tumbar a un gobierno.",
+"ini": 138.91,
+"fin": 146.78
+},
+{
+"i": 28,
+"txt": "Los periódicos lo atacaban.",
+"ini": 147.31,
+"fin": 148.71
+},
+{
+"i": 29,
+"txt": "En los cuarteles se conspiraba.",
+"ini": 149.12,
+"fin": 150.72
+},
+{
+"i": 30,
+"txt": "Bosch lo sabía, y aun así se negó a usar la fuerza contra sus enemigos.",
+"ini": 151.21,
+"fin": 155.87
+},
+{
+"i": 31,
+"txt": "En la madrugada del veinticinco de septiembre de mil novecientos sesenta y tres, un grupo de militares entró al Palacio Nacional y lo arrestó.",
+"ini": 156.11,
+"fin": 164.16
+},
+{
+"i": 32,
+"txt": "Días después lo montaron en un barco rumbo al exilio.",
+"ini": 164.87,
+"fin": 168.04
+},
+{
+"i": 33,
+"txt": "Había gobernado siete meses.",
+"ini": 168.69,
+"fin": 170.76
+},
+{
+"i": 34,
+"txt": "En su lugar pusieron a tres civiles escogidos por los militares, que el pueblo llamó el Triunvirato.",
+"ini": 171.37,
+"fin": 177.21
+},
+{
+"i": 35,
+"txt": "La democracia que había costado treinta y un años de dictadura duró menos que un embarazo.",
+"ini": 177.97,
+"fin": 183.23
+},
+{
+"i": 36,
+"txt": "Y no todos aceptaron el golpe en silencio.",
+"ini": 184.08,
+"fin": 186.31
+},
+{
+"i": 37,
+"txt": "Un abogado de Montecristi decidió que, si no había democracia en las ciudades, había que buscarla en las montañas.",
+"ini": 186.91,
+"fin": 193.67
+},
+{
+"i": 38,
+"txt": "Ese abogado se llamaba Manolo Tavárez Justo.",
+"ini": 194.26,
+"fin": 197.26
+},
+{
+"i": 39,
+"txt": "Era el líder del Movimiento Catorce de Junio, la organización que había nacido para luchar contra Trujillo.",
+"ini": 197.84,
+"fin": 203.69
+},
+{
+"i": 40,
+"txt": "Y era el viudo de Minerva Mirabal.",
+"ini": 204.39,
+"fin": 206.23
+},
+{
+"i": 41,
+"txt": "Su esposa había sido asesinada por la dictadura tres años antes, junto a sus hermanas.",
+"ini": 206.83,
+"fin": 212.05
+},
+{
+"i": 42,
+"txt": "Manolo había salido de la cárcel con la muerte de Trujillo, y se había convertido en uno de los hombres más queridos del país.",
+"ini": 212.66,
+"fin": 219.73
+},
+{
+"i": 43,
+"txt": "Cuando tumbaron a Bosch, Manolo hizo un anuncio desde un mitin que muchos recordaron después: si se cerraban los caminos de la democracia, el pueblo tenía derecho a tomar las armas.",
+"ini": 220.43,
+"fin": 231.33
+},
+{
+"i": 44,
+"txt": "El veintiocho de noviembre de mil novecientos sesenta y tres, Manolo y varios grupos de jóvenes del Catorce de Junio subieron a las montañas en distintos puntos del país.",
+"ini": 232.16,
+"fin": 241.97
+},
+{
+"i": 45,
+"txt": "Eran estudiantes y profesionales, casi ninguno con experiencia militar.",
+"ini": 242.54,
+"fin": 246.7
+},
+{
+"i": 46,
+"txt": "Las lluvias, el hambre y el ejército los fueron cercando.",
+"ini": 247.32,
+"fin": 251.02
+},
+{
+"i": 47,
+"txt": "A finales de diciembre, el grupo de Manolo estaba agotado en un lugar llamado Las Manaclas, en la cordillera Central.",
+"ini": 251.69,
+"fin": 258.52
+},
+{
+"i": 48,
+"txt": "Según los sobrevivientes y la versión más aceptada por los historiadores, aceptaron rendirse con la promesa de que respetarían sus vidas.",
+"ini": 259.19,
+"fin": 266.99
+},
+{
+"i": 49,
+"txt": "El veintiuno de diciembre de mil novecientos sesenta y tres, Manolo Tavárez Justo y catorce de sus compañeros fueron fusilados.",
+"ini": 267.67,
+"fin": 275.48
+},
+{
+"i": 50,
+"txt": "Tenía treinta y dos años.",
+"ini": 276.01,
+"fin": 277.56
+},
+{
+"i": 51,
+"txt": "El país quedó en shock.",
+"ini": 278.18,
+"fin": 279.5
+},
+{
+"i": 52,
+"txt": "La familia Mirabal había perdido a las tres hermanas, y ahora al esposo de Minerva.",
+"ini": 280.02,
+"fin": 284.89
+},
+{
+"i": 53,
+"txt": "Pero el Triunvirato no iba a durar mucho.",
+"ini": 285.64,
+"fin": 287.77
+},
+{
+"i": 54,
+"txt": "Dentro del mismo ejército había militares que querían devolverle el poder a Bosch.",
+"ini": 288.35,
+"fin": 292.97
+},
+{
+"i": 55,
+"txt": "Si te está gustando este contenido, no olvides compartirlo y seguirnos para llegar a más personas.",
+"ini": 293.52,
+"fin": 298.94
+},
+{
+"i": 56,
+"txt": "El veinticuatro de abril de mil novecientos sesenta y cinco, un grupo de oficiales jóvenes se levantó contra el Triunvirato.",
+"ini": 299.46,
+"fin": 306.02
+},
+{
+"i": 57,
+"txt": "Querían una sola cosa: que volviera la Constitución de mil novecientos sesenta y tres y que regresara Bosch.",
+"ini": 306.58,
+"fin": 313.16
+},
+{
+"i": 58,
+"txt": "Por eso los llamaron los constitucionalistas.",
+"ini": 313.69,
+"fin": 316.7
+},
+{
+"i": 59,
+"txt": "La noticia corrió por la radio y el pueblo se tiró a las calles.",
+"ini": 316.87,
+"fin": 320.63
+},
+{
+"i": 60,
+"txt": "Les repartieron armas a los civiles.",
+"ini": 321.1,
+"fin": 323.05
+},
+{
+"i": 61,
+"txt": "En pocas horas, el gobierno del Triunvirato se cayó.",
+"ini": 323.6,
+"fin": 326.53
+},
+{
+"i": 62,
+"txt": "Pero otro grupo de militares, los de la base de San Isidro, no quería a Bosch de vuelta.",
+"ini": 327.17,
+"fin": 332.4
+},
+{
+"i": 63,
+"txt": "Y el país se partió en dos.",
+"ini": 332.95,
+"fin": 334.77
+},
+{
+"i": 64,
+"txt": "De un lado, los constitucionalistas y el pueblo de la capital.",
+"ini": 335.36,
+"fin": 338.78
+},
+{
+"i": 65,
+"txt": "Del otro, los tanques y los aviones de San Isidro.",
+"ini": 339.36,
+"fin": 342.35
+},
+{
+"i": 66,
+"txt": "Los aviones bombardearon la ciudad.",
+"ini": 342.89,
+"fin": 344.87
+},
+{
+"i": 67,
+"txt": "El veintisiete de abril, los tanques intentaron cruzar el puente Duarte para entrar a Santo Domingo.",
+"ini": 345.52,
+"fin": 350.77
+},
+{
+"i": 68,
+"txt": "Y los civiles, con fusiles, botellas y lo que tenían a mano, los detuvieron.",
+"ini": 351.33,
+"fin": 356.19
+},
+{
+"i": 69,
+"txt": "Al frente de los constitucionalistas estaba un coronel de treinta y dos años que hasta ese momento casi nadie conocía:",
+"ini": 356.75,
+"fin": 363.37
+},
+{
+"i": 70,
+"txt": "Francisco Alberto Caamaño Deñó.",
+"ini": 364.0,
+"fin": 366.14
+},
+{
+"i": 71,
+"txt": "Su padre había sido uno de los generales de Trujillo.",
+"ini": 366.79,
+"fin": 369.56
+},
+{
+"i": 72,
+"txt": "Y él, el hijo de un trujillista, terminó convertido en el símbolo de la revolución.",
+"ini": 370.05,
+"fin": 374.94
+},
+{
+"i": 73,
+"txt": "Los constitucionalistas estaban a punto de ganar.",
+"ini": 375.47,
+"fin": 378.13
+},
+{
+"i": 74,
+"txt": "Pero al día siguiente, desde el mar, llegó algo que nadie en las calles esperaba.",
+"ini": 378.71,
+"fin": 383.52
+},
+{
+"i": 75,
+"txt": "El veintiocho de abril de mil novecientos sesenta y cinco, el presidente de Estados Unidos, Lyndon Johnson, mandó a los marines a Santo Domingo.",
+"ini": 384.03,
+"fin": 392.22
+},
+{
+"i": 76,
+"txt": "La razón oficial era proteger a los ciudadanos norteamericanos.",
+"ini": 392.87,
+"fin": 396.22
+},
+{
+"i": 77,
+"txt": "La verdadera razón, como él mismo dijo después, era evitar una segunda Cuba en el Caribe.",
+"ini": 396.76,
+"fin": 402.24
+},
+{
+"i": 78,
+"txt": "Casi cincuenta años después de la ocupación de mil novecientos dieciséis, los marines volvían a pisar suelo dominicano.",
+"ini": 402.75,
+"fin": 409.71
+},
+{
+"i": 79,
+"txt": "Y esta vez llegaron a ser más de cuarenta mil soldados.",
+"ini": 410.28,
+"fin": 413.88
+},
+{
+"i": 80,
+"txt": "Rodearon a los constitucionalistas en la Ciudad Colonial y en una parte del centro de la capital.",
+"ini": 414.41,
+"fin": 419.42
+},
+{
+"i": 81,
+"txt": "Caamaño fue nombrado presidente constitucional por el Congreso, pero gobernaba unas cuantas cuadras rodeadas de tropas extranjeras.",
+"ini": 419.89,
+"fin": 427.34
+},
+{
+"i": 82,
+"txt": "Durante meses, la ciudad estuvo dividida por un corredor militar.",
+"ini": 427.75,
+"fin": 431.5
+},
+{
+"i": 83,
+"txt": "De un lado, el pueblo armado.",
+"ini": 432.14,
+"fin": 433.83
+},
+{
+"i": 84,
+"txt": "Del otro, los norteamericanos y los militares de San Isidro.",
+"ini": 434.3,
+"fin": 437.7
+},
+{
+"i": 85,
+"txt": "Murieron miles de personas, la mayoría civiles.",
+"ini": 438.29,
+"fin": 441.38
+},
+{
+"i": 86,
+"txt": "La Organización de Estados Americanos envió tropas de otros países para darle a la ocupación otra cara.",
+"ini": 441.81,
+"fin": 447.48
+},
+{
+"i": 87,
+"txt": "Al final, sin forma de ganar contra un ejército así, los dos bandos firmaron un acuerdo.",
+"ini": 448.02,
+"fin": 453.34
+},
+{
+"i": 88,
+"txt": "En septiembre de mil novecientos sesenta y cinco asumió un gobierno provisional y se convocaron elecciones.",
+"ini": 453.82,
+"fin": 459.82
+},
+{
+"i": 89,
+"txt": "Caamaño entregó el mando y fue enviado fuera del país como agregado militar en Londres.",
+"ini": 460.36,
+"fin": 465.32
+},
+{
+"i": 90,
+"txt": "Bosch regresó para ser candidato.",
+"ini": 465.81,
+"fin": 467.81
+},
+{
+"i": 91,
+"txt": "Y del otro lado apareció un nombre que muchos creían enterrado con Trujillo.",
+"ini": 468.32,
+"fin": 472.64
+},
+{
+"i": 92,
+"txt": "El primero de junio de mil novecientos sesenta y seis, Joaquín Balaguer ganó las elecciones.",
+"ini": 472.86,
+"fin": 478.29
+},
+{
+"i": 93,
+"txt": "Bosch casi no salió a hacer campaña por miedo a que lo mataran, y las tropas extranjeras todavía estaban en el país.",
+"ini": 478.85,
+"fin": 486.22
+},
+{
+"i": 94,
+"txt": "Balaguer, el hombre que había sido presidente de Trujillo, volvía al poder.",
+"ini": 486.83,
+"fin": 491.55
+},
+{
+"i": 95,
+"txt": "Y no lo soltó.",
+"ini": 492.23,
+"fin": 493.1
+},
+{
+"i": 96,
+"txt": "Ganó otra vez en mil novecientos setenta y otra vez en mil novecientos setenta y cuatro.",
+"ini": 493.67,
+"fin": 499.26
+},
+{
+"i": 97,
+"txt": "A ese tiempo se le conoce como los doce años.",
+"ini": 499.84,
+"fin": 502.92
+},
+{
+"i": 98,
+"txt": "Balaguer construyó carreteras, presas, viviendas y edificios públicos.",
+"ini": 503.45,
+"fin": 508.26
+},
+{
+"i": 99,
+"txt": "Pero también fueron años de miedo.",
+"ini": 508.8,
+"fin": 510.86
+},
+{
+"i": 100,
+"txt": "Periodistas, estudiantes y dirigentes de la oposición fueron perseguidos, asesinados o desaparecidos.",
+"ini": 511.55,
+"fin": 518.78
+},
+{
+"i": 101,
+"txt": "En febrero de mil novecientos setenta y tres, Caamaño, que había desaparecido de Londres años antes, regresó en secreto por Playa Caracoles con un pequeño grupo de hombres armados.",
+"ini": 519.28,
+"fin": 530.17
+},
+{
+"i": 102,
+"txt": "Quería repetir la revolución desde las montañas.",
+"ini": 530.75,
+"fin": 533.44
+},
+{
+"i": 103,
+"txt": "El dieciséis de febrero lo capturaron herido y lo mataron.",
+"ini": 534.04,
+"fin": 537.49
+},
+{
+"i": 104,
+"txt": "Tenía cuarenta años.",
+"ini": 538.1,
+"fin": 539.63
+},
+{
+"i": 105,
+"txt": "En mayo de mil novecientos setenta y ocho hubo elecciones otra vez.",
+"ini": 540.08,
+"fin": 543.99
+},
+{
+"i": 106,
+"txt": "Cuando el conteo mostraba que Balaguer iba perdiendo contra Antonio Guzmán, del partido de Bosch, soldados entraron a la Junta Central Electoral y detuvieron el conteo.",
+"ini": 544.58,
+"fin": 554.17
+},
+{
+"i": 107,
+"txt": "Hubo presión dentro y fuera del país, sobre todo desde Estados Unidos.",
+"ini": 554.85,
+"fin": 559.35
+},
+{
+"i": 108,
+"txt": "Y Balaguer terminó aceptando.",
+"ini": 559.86,
+"fin": 561.6
+},
+{
+"i": 109,
+"txt": "El dieciséis de agosto de mil novecientos setenta y ocho, por primera vez en la historia dominicana, un presidente le entregó el poder en paz a un opositor elegido por el pueblo.",
+"ini": 562.08,
+"fin": 572.46
+},
+{
+"i": 110,
+"txt": "Parecía que la democracia había llegado para quedarse.",
+"ini": 573.07,
+"fin": 575.95
+},
+{
+"i": 111,
+"txt": "Pero los gobiernos que vinieron después traerían sus propias tragedias.",
+"ini": 576.6,
+"fin": 580.71
+}
+]
+}

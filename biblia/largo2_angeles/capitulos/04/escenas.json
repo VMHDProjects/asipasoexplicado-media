@@ -1,0 +1,408 @@
+{
+ "serie": "biblia",
+ "titulo": "Los ángeles de la Biblia que casi nadie te explicó · capítulo 4",
+ "duracion": 107.96,
+ "personajes": {
+  "querubin": {
+   "nombre": "Querubín",
+   "etiqueta": "Querubín · guardián",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#E8C66A",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "adan": {
+   "nombre": "Adán",
+   "etiqueta": "Adán",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#8A6A3E",
+   "mirada": 0.3
+  },
+  "eva": {
+   "nombre": "Eva",
+   "etiqueta": "Eva",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#3A2414",
+   "mujer": true,
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "mirada": -0.3
+  },
+  "moises": {
+   "nombre": "Moisés",
+   "etiqueta": "Moisés",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E0DBD0",
+   "barba": "larga",
+   "colorBarba": "#E0DBD0",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "ezequiel": {
+   "nombre": "Ezequiel",
+   "etiqueta": "El profeta Ezequiel",
+   "piel": "#A06C46",
+   "pelo": "largo",
+   "colorPelo": "#2E2018",
+   "barba": "larga",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#5E4A7A",
+   "colorManto": "#C9A46A"
+  },
+  "isaias": {
+   "nombre": "Isaías",
+   "etiqueta": "El profeta Isaías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#9A9184",
+   "barba": "larga",
+   "colorBarba": "#9A9184",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#B8862B"
+  },
+  "serafin": {
+   "nombre": "Serafín",
+   "etiqueta": "Serafín · \"los que arden\"",
+   "piel": "#F2C27A",
+   "pelo": "largo",
+   "colorPelo": "#F28C28",
+   "ropa": "tunica",
+   "colorRopa": "#FFE2A8",
+   "colorManto": "#D9481E",
+   "mirada": 0.2
+  },
+  "miguel": {
+   "nombre": "Miguel",
+   "etiqueta": "El arcángel Miguel",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "ropa": "militar",
+   "colorRopa": "#8C2F2F",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "daniel": {
+   "nombre": "Daniel",
+   "etiqueta": "El profeta Daniel",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#7A2E4A",
+   "colorManto": "#D9B45A"
+  },
+  "gabriel": {
+   "nombre": "Gabriel",
+   "etiqueta": "El ángel Gabriel",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#C9A46A",
+   "ropa": "tunica",
+   "colorRopa": "#FAF6EC",
+   "colorManto": "#6C8EBF",
+   "mirada": 0.3
+  },
+  "zacarias": {
+   "nombre": "Zacarías",
+   "etiqueta": "El sacerdote Zacarías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#EEEAE2",
+   "barba": "larga",
+   "colorBarba": "#EEEAE2",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D5A80",
+   "edad": "mayor"
+  },
+  "maria": {
+   "nombre": "María",
+   "etiqueta": "María de Nazaret",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "sombrero": "manto",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D6FA8",
+   "mirada": -0.2
+  },
+  "lucero": {
+   "nombre": "Lucero",
+   "etiqueta": "Lucero, hijo de la mañana",
+   "piel": "#C9A27E",
+   "pelo": "largo",
+   "colorPelo": "#1A1410",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#2B2B3A",
+   "colorManto": "#8C2F2F",
+   "cejas": "fruncidas",
+   "mirada": -0.5
+  },
+  "rey": {
+   "nombre": "Rey de Babilonia",
+   "etiqueta": "El rey de Babilonia",
+   "piel": "#A8744C",
+   "pelo": "rizado",
+   "colorPelo": "#1A1410",
+   "barba": "larga",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#6B2E2E",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas"
+  },
+  "eliseo": {
+   "nombre": "Eliseo",
+   "etiqueta": "El profeta Eliseo",
+   "piel": "#9E6A44",
+   "pelo": "calvo",
+   "barba": "larga",
+   "colorBarba": "#3A2A20",
+   "ropa": "tunica",
+   "colorRopa": "#6B4A2F",
+   "colorManto": "#4A3524"
+  },
+  "criado": {
+   "nombre": "El criado",
+   "etiqueta": "El criado de Eliseo",
+   "piel": "#B07A50",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "cejas": "fruncidas",
+   "mirada": 0.4
+  },
+  "juan": {
+   "nombre": "Juan",
+   "etiqueta": "El apóstol Juan",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#B9B2A6",
+   "barba": "larga",
+   "colorBarba": "#B9B2A6",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "retrato",
+   "inicio": 0.0,
+   "fin": 6.23,
+   "personaje": "miguel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Solo uno es *arcángel* con nombre"
+    },
+    {
+     "t": 5.74,
+     "txt": "*Miguel*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 6.23,
+   "fin": 12.71,
+   "personaje": "miguel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Casi siempre está *peleando*"
+    },
+    {
+     "t": 3.4,
+     "txt": "Primera vez: el libro de *Daniel*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 12.71,
+   "fin": 22.17,
+   "personaje": "daniel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Tres semanas* orando y ayunando"
+    },
+    {
+     "t": 4.54,
+     "txt": "un ser *resplandeciente*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 22.17,
+   "fin": 25.58,
+   "personaje": "daniel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Daniel *10:12-13*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 25.58,
+   "fin": 39.81,
+   "cita": "Daniel 10:12 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Entonces me dijo: Daniel, no temas; porque desde el *primer día* que dispusiste tu corazón a entender y a humillarte en la presencia de tu Dios, *fueron oídas tus palabras*; y a causa de tus palabras yo he venido.",
+   "tInicio": 0.4,
+   "tEscritura": 13.45
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 39.81,
+   "fin": 51.95,
+   "cita": "Daniel 10:13 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Mas el príncipe del reino de Persia se me opuso durante *veintiún días*; pero he aquí *Miguel*, uno de los principales príncipes, vino para ayudarme, y quedé allí con los reyes de Persia.",
+   "tInicio": 0.4,
+   "tEscritura": 11.4
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 51.95,
+   "fin": 56.18,
+   "desde": 0,
+   "hasta": 21,
+   "sufijo": " días",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Veintiún días*"
+    },
+    {
+     "t": 1.84,
+     "txt": "lo mismo que esperó Daniel"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 56.18,
+   "fin": 64.67,
+   "personaje": "miguel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Escuchada *el primer día*"
+    },
+    {
+     "t": 3.3,
+     "txt": "pero había una *batalla*"
+    },
+    {
+     "t": 6.32,
+     "txt": "Miguel *intervino*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 64.67,
+   "fin": 72.87,
+   "personaje": "juan",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Siglos después, la carta de *Judas*"
+    },
+    {
+     "t": 6.27,
+     "txt": "Judas, versículo *9*"
+    }
+   ],
+   "etiqueta": "La carta de Judas"
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 72.87,
+   "fin": 84.95,
+   "cita": "Judas 9 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Pero cuando el arcángel Miguel contendía con el diablo, disputando con él por el *cuerpo de Moisés*, no se atrevió a proferir juicio de maldición contra él, sino que dijo: *El Señor te reprenda*.",
+   "tInicio": 0.4,
+   "tEscritura": 11.58
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 84.95,
+   "fin": 94.28,
+   "personaje": "moises",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿Por qué peleaban por su *cuerpo*?"
+    },
+    {
+     "t": 4.37,
+     "txt": "Nadie conoce su *sepultura*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 94.28,
+   "fin": 104.46,
+   "personaje": "miguel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Mira la *actitud* de Miguel"
+    },
+    {
+     "t": 3.81,
+     "txt": "No insulta al diablo"
+    },
+    {
+     "t": 8.42,
+     "txt": "le deja el juicio a *Dios*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 104.46,
+   "fin": 107.96,
+   "palabra": "Biblia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 52.23,
+   "fin": 56.73
+  }
+ ]
+}

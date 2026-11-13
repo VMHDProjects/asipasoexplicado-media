@@ -1,0 +1,450 @@
+{
+ "serie": "biblia",
+ "titulo": "Los ángeles de la Biblia que casi nadie te explicó · capítulo 6",
+ "duracion": 119.25,
+ "personajes": {
+  "querubin": {
+   "nombre": "Querubín",
+   "etiqueta": "Querubín · guardián",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#E8C66A",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "adan": {
+   "nombre": "Adán",
+   "etiqueta": "Adán",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#8A6A3E",
+   "mirada": 0.3
+  },
+  "eva": {
+   "nombre": "Eva",
+   "etiqueta": "Eva",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#3A2414",
+   "mujer": true,
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "mirada": -0.3
+  },
+  "moises": {
+   "nombre": "Moisés",
+   "etiqueta": "Moisés",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E0DBD0",
+   "barba": "larga",
+   "colorBarba": "#E0DBD0",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "ezequiel": {
+   "nombre": "Ezequiel",
+   "etiqueta": "El profeta Ezequiel",
+   "piel": "#A06C46",
+   "pelo": "largo",
+   "colorPelo": "#2E2018",
+   "barba": "larga",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#5E4A7A",
+   "colorManto": "#C9A46A"
+  },
+  "isaias": {
+   "nombre": "Isaías",
+   "etiqueta": "El profeta Isaías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#9A9184",
+   "barba": "larga",
+   "colorBarba": "#9A9184",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#B8862B"
+  },
+  "serafin": {
+   "nombre": "Serafín",
+   "etiqueta": "Serafín · \"los que arden\"",
+   "piel": "#F2C27A",
+   "pelo": "largo",
+   "colorPelo": "#F28C28",
+   "ropa": "tunica",
+   "colorRopa": "#FFE2A8",
+   "colorManto": "#D9481E",
+   "mirada": 0.2
+  },
+  "miguel": {
+   "nombre": "Miguel",
+   "etiqueta": "El arcángel Miguel",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "ropa": "militar",
+   "colorRopa": "#8C2F2F",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "daniel": {
+   "nombre": "Daniel",
+   "etiqueta": "El profeta Daniel",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#7A2E4A",
+   "colorManto": "#D9B45A"
+  },
+  "gabriel": {
+   "nombre": "Gabriel",
+   "etiqueta": "El ángel Gabriel",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#C9A46A",
+   "ropa": "tunica",
+   "colorRopa": "#FAF6EC",
+   "colorManto": "#6C8EBF",
+   "mirada": 0.3
+  },
+  "zacarias": {
+   "nombre": "Zacarías",
+   "etiqueta": "El sacerdote Zacarías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#EEEAE2",
+   "barba": "larga",
+   "colorBarba": "#EEEAE2",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D5A80",
+   "edad": "mayor"
+  },
+  "maria": {
+   "nombre": "María",
+   "etiqueta": "María de Nazaret",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "sombrero": "manto",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D6FA8",
+   "mirada": -0.2
+  },
+  "lucero": {
+   "nombre": "Lucero",
+   "etiqueta": "Lucero, hijo de la mañana",
+   "piel": "#C9A27E",
+   "pelo": "largo",
+   "colorPelo": "#1A1410",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#2B2B3A",
+   "colorManto": "#8C2F2F",
+   "cejas": "fruncidas",
+   "mirada": -0.5
+  },
+  "rey": {
+   "nombre": "Rey de Babilonia",
+   "etiqueta": "El rey de Babilonia",
+   "piel": "#A8744C",
+   "pelo": "rizado",
+   "colorPelo": "#1A1410",
+   "barba": "larga",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#6B2E2E",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas"
+  },
+  "eliseo": {
+   "nombre": "Eliseo",
+   "etiqueta": "El profeta Eliseo",
+   "piel": "#9E6A44",
+   "pelo": "calvo",
+   "barba": "larga",
+   "colorBarba": "#3A2A20",
+   "ropa": "tunica",
+   "colorRopa": "#6B4A2F",
+   "colorManto": "#4A3524"
+  },
+  "criado": {
+   "nombre": "El criado",
+   "etiqueta": "El criado de Eliseo",
+   "piel": "#B07A50",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "cejas": "fruncidas",
+   "mirada": 0.4
+  },
+  "juan": {
+   "nombre": "Juan",
+   "etiqueta": "El apóstol Juan",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#B9B2A6",
+   "barba": "larga",
+   "colorBarba": "#B9B2A6",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "retrato",
+   "inicio": 0.0,
+   "fin": 5.29,
+   "personaje": "lucero",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Todos han oído de él"
+    },
+    {
+     "t": 2.59,
+     "txt": "pero su nombre *casi no aparece*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 5.29,
+   "fin": 9.32,
+   "personaje": "lucero",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Isaías *14:12-14*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 9.32,
+   "fin": 17.74,
+   "cita": "Isaías 14:12 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "¡Cómo caíste del cielo, oh *Lucero*, hijo de la mañana! Cortado fuiste por tierra, tú que debilitabas a las naciones.",
+   "tInicio": 0.4,
+   "tEscritura": 7.99
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 17.74,
+   "fin": 33.78,
+   "cita": "Isaías 14:13-14 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Tú que decías en tu corazón: *Subiré al cielo*; en lo alto, junto a las estrellas de Dios, levantaré mi trono, y en el monte del testimonio me sentaré, a los lados del norte; sobre las alturas de las nubes subiré, y *seré semejante al Altísimo*.",
+   "tInicio": 0.4,
+   "tEscritura": 15.33
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 33.78,
+   "fin": 41.31,
+   "max": 10,
+   "barras": [
+    {
+     "etiqueta": "Reina-Valera: Lucero",
+     "valor": 8,
+     "icono": "libro",
+     "t": 1.09
+    },
+    {
+     "etiqueta": "Latín: Lucifer",
+     "valor": 8,
+     "icono": "libro",
+     "t": 5.1
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No dice *Lucifer*"
+    },
+    {
+     "t": 2.86,
+     "txt": "Dice *Lucero*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 41.31,
+   "fin": 47.34,
+   "personaje": "rey",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Un *debate* que casi nadie cuenta"
+    },
+    {
+     "t": 3.21,
+     "txt": "empieza hablando del *rey de Babilonia*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 47.34,
+   "fin": 56.48,
+   "personaje": "rey",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Unos: es sobre ese *rey orgulloso*"
+    },
+    {
+     "t": 4.52,
+     "txt": "Otros: la caída de *Satanás*"
+    }
+   ],
+   "personaje2": "lucero",
+   "t2": 4.52
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 56.48,
+   "fin": 64.43,
+   "personaje": "miguel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo que sí es claro"
+    },
+    {
+     "t": 2.02,
+     "txt": "una *guerra en el cielo*"
+    },
+    {
+     "t": 4.35,
+     "txt": "Apocalipsis *12:7-9*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 64.43,
+   "fin": 76.7,
+   "cita": "Apocalipsis 12:7-8 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Después hubo una gran *batalla en el cielo*: Miguel y sus ángeles luchaban contra el dragón; y luchaban el dragón y sus ángeles; pero no prevalecieron, ni se halló ya lugar para ellos en el cielo.",
+   "tInicio": 0.4,
+   "tEscritura": 11.66
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 76.7,
+   "fin": 88.66,
+   "cita": "Apocalipsis 12:9 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y fue lanzado fuera el gran dragón, la serpiente antigua, que se llama *diablo y Satanás*, el cual engaña al mundo entero; fue arrojado a la tierra, y sus ángeles fueron arrojados con él.",
+   "tInicio": 0.4,
+   "tEscritura": 11.31
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 88.66,
+   "fin": 96.44,
+   "hitos": [
+    {
+     "anio": "Daniel",
+     "txt": "Persia",
+     "t": 2.28
+    },
+    {
+     "anio": "Judas",
+     "txt": "Cuerpo de Moisés",
+     "t": 3.99
+    },
+    {
+     "anio": "Apocalipsis",
+     "txt": "Batalla final",
+     "t": 5.7
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Otra vez *Miguel*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 96.44,
+   "fin": 101.63,
+   "personaje": "juan",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Judas menciona a otros que *cayeron*"
+    },
+    {
+     "t": 3.4,
+     "txt": "Judas, versículo *6*"
+    }
+   ],
+   "etiqueta": "La carta de Judas"
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 101.63,
+   "fin": 112.22,
+   "cita": "Judas 6 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y a los ángeles que *no guardaron su dignidad*, sino que abandonaron su propia morada, los ha guardado bajo oscuridad, en prisiones eternas, para el juicio del gran día.",
+   "tInicio": 0.4,
+   "tEscritura": 10.02
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 112.22,
+   "fin": 115.75,
+   "personaje": "lucero",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Tenían un lugar"
+    },
+    {
+     "t": 1.72,
+     "txt": "y decidieron *dejarlo*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 115.75,
+   "fin": 119.25,
+   "palabra": "Biblia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 57.88,
+   "fin": 62.38
+  }
+ ]
+}

@@ -1,0 +1,1931 @@
+{
+ "serie": "historia",
+ "titulo": "De Bosch a Balaguer (1961–1978)",
+ "duracion": 586.91,
+ "personajes": {
+  "trujillo": {
+   "nombre": "Trujillo",
+   "etiqueta": "Rafael L. Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas"
+  },
+  "ramfis": {
+   "nombre": "Ramfis Trujillo",
+   "etiqueta": "Ramfis Trujillo",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "lentes": true,
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "balaguer": {
+   "nombre": "Joaquín Balaguer",
+   "etiqueta": "Joaquín Balaguer",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "lentes": true,
+   "ropa": "levita",
+   "mirada": 0.2
+  },
+  "balaguer_mayor": {
+   "nombre": "Joaquín Balaguer",
+   "etiqueta": "Joaquín Balaguer",
+   "piel": "#D8A47A",
+   "pelo": "calvo",
+   "colorPelo": "#9A9086",
+   "lentes": true,
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": -0.2
+  },
+  "bosch": {
+   "nombre": "Juan Bosch",
+   "etiqueta": "Juan Bosch",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#E6E1D8",
+   "ropa": "levita",
+   "colorRopa": "#3A3F4A",
+   "mirada": 0.3
+  },
+  "manolo": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo Tavárez Justo",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#7C8A5A"
+  },
+  "manolo_guerrilla": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo · 14 de Junio",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "barba": "corta",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#5B6B45"
+  },
+  "minerva": {
+   "nombre": "Minerva Mirabal",
+   "etiqueta": "Minerva Mirabal",
+   "mujer": true,
+   "piel": "#D29A72",
+   "pelo": "largo",
+   "colorPelo": "#1D1612",
+   "ropa": "vestido",
+   "colorRopa": "#2F5D8A",
+   "mirada": 0.3
+  },
+  "triunviro": {
+   "nombre": "El Triunvirato",
+   "etiqueta": "El Triunvirato",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "bigote": "grueso",
+   "lentes": true,
+   "ropa": "levita",
+   "colorRopa": "#2B2B3A",
+   "cejas": "fruncidas"
+  },
+  "general": {
+   "nombre": "San Isidro",
+   "etiqueta": "Los militares de San Isidro",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#4A5A3A",
+   "sombrero": "kepis",
+   "colorSombrero": "#4A5A3A",
+   "medallas": true,
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "caamano": {
+   "nombre": "Francisco Caamaño",
+   "etiqueta": "Coronel Francisco A. Caamaño Deñó",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#6B7A4A",
+   "cejas": "fruncidas",
+   "mirada": 0.3
+  },
+  "johnson": {
+   "nombre": "Lyndon Johnson",
+   "etiqueta": "Lyndon B. Johnson · EE. UU.",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9B2A6",
+   "ropa": "levita",
+   "colorRopa": "#2B3A55",
+   "edad": "mayor",
+   "mirada": -0.3
+  },
+  "marine": {
+   "nombre": "Marine",
+   "etiqueta": "Marines de EE. UU.",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9A48A",
+   "ropa": "militar",
+   "colorRopa": "#6B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#6B6B45"
+  },
+  "guzman": {
+   "nombre": "Antonio Guzmán",
+   "etiqueta": "Antonio Guzmán",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#CFC8BD",
+   "ropa": "levita",
+   "colorRopa": "#3A3F4A",
+   "lentes": true,
+   "edad": "mayor",
+   "mirada": 0.3
+  },
+  "campesino": {
+   "nombre": "Campesino",
+   "etiqueta": "",
+   "piel": "#8E5A3A",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#C9B48A",
+   "sombrero": "sombrero"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "cifra",
+   "inicio": 0.0,
+   "fin": 3.33,
+   "desde": 0,
+   "hasta": 31,
+   "sufijo": " años",
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "Esperando para *votar libres*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 3.33,
+   "fin": 8.3,
+   "personaje": "bosch",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Y el presidente que eligieron"
+    },
+    {
+     "t": 2.62,
+     "txt": "duró *siete meses*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 8.3,
+   "fin": 20.26,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo que vino *después*"
+    }
+   ],
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Un golpe de Estado",
+     "t": 3.0
+    },
+    {
+     "icono": "fuego",
+     "txt": "Una guerrilla en las montañas",
+     "t": 5.24
+    },
+    {
+     "icono": "espada",
+     "txt": "Una guerra en las calles",
+     "t": 7.48
+    },
+    {
+     "icono": "escudo",
+     "txt": "40,000 soldados extranjeros",
+     "t": 9.72
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 20.26,
+   "fin": 27.5,
+   "personaje": "trujillo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "30 de mayo de *1961*"
+    },
+    {
+     "t": 4.78,
+     "txt": "Pero la dictadura *no se fue* con él"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 27.5,
+   "fin": 31.94,
+   "personaje": "ramfis",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Ramfis vuelve de Europa"
+    },
+    {
+     "t": 2.11,
+     "txt": "y toma el *ejército*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 31.94,
+   "fin": 38.27,
+   "preset": "pueblo",
+   "semilla": 12,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Los del ajusticiamiento: *perseguidos*"
+    },
+    {
+     "t": 3.36,
+     "txt": "casi todos terminaron *muertos*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   }
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 38.27,
+   "fin": 43.74,
+   "personaje": "balaguer",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Balaguer seguía en el *Palacio*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 43.74,
+   "fin": 51.91,
+   "preset": "puerto",
+   "semilla": 8,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Noviembre de *1961*"
+    },
+    {
+     "t": 4.0,
+     "txt": "los Trujillo se van *para siempre*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 51.91,
+   "fin": 61.55,
+   "preset": "puerto",
+   "semilla": 3,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Empiezan a *regresar*"
+    },
+    {
+     "t": 4.41,
+     "txt": "un escritor de cuentos"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 61.55,
+   "fin": 65.55,
+   "personaje": "bosch",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Juan Bosch*"
+    },
+    {
+     "t": 1.48,
+     "txt": "Sin dinero ni *ejército*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 65.55,
+   "fin": 70.27,
+   "items": [
+    {
+     "icono": "libro",
+     "txt": "Una radio",
+     "t": 1.03
+    },
+    {
+     "icono": "comentario",
+     "txt": "Una forma de hablar nueva",
+     "t": 2.49
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Tenía otra cosa"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 70.27,
+   "fin": 77.34,
+   "personaje": "campesino",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Le hablaba al campesino *como campesino*"
+    },
+    {
+     "t": 2.88,
+     "txt": "le explicaba *por qué era pobre*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 77.34,
+   "fin": 83.28,
+   "region": "hispaniola",
+   "puntos": [
+    {
+     "nombre": "Santiago",
+     "t": 1.26
+    },
+    {
+     "nombre": "La Vega",
+     "t": 2.06
+    },
+    {
+     "nombre": "San Juan",
+     "t": 2.85
+    },
+    {
+     "nombre": "Higüey",
+     "t": 3.64
+    },
+    {
+     "nombre": "Barahona",
+     "t": 4.44
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Pueblo por pueblo con el *PRD*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 83.28,
+   "fin": 92.05,
+   "preset": "pueblo",
+   "semilla": 7,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "20 de diciembre de *1962*"
+    },
+    {
+     "t": 4.32,
+     "txt": "primeras elecciones libres en *30 años*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 92.05,
+   "fin": 95.55,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Bosch",
+     "valor": 60,
+     "sufijo": "%",
+     "t": 0.8
+    },
+    {
+     "etiqueta": "Los demás",
+     "valor": 40,
+     "sufijo": "%",
+     "t": 1.69
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Casi *6 de cada 10* votos"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 95.55,
+   "fin": 102.29,
+   "personaje": "bosch",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "27 de febrero de *1963*"
+    },
+    {
+     "t": 3.28,
+     "txt": "se jura *presidente*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 102.29,
+   "fin": 107.07,
+   "preset": "pueblo",
+   "semilla": 4,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "La noche de Trujillo"
+    },
+    {
+     "t": 2.29,
+     "txt": "por fin había *terminado*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 107.07,
+   "fin": 108.9,
+   "personaje": "bosch",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Bosch empezó *rápido*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 108.9,
+   "fin": 117.21,
+   "hitos": [
+    {
+     "anio": "1963",
+     "txt": "Nueva Constitución",
+     "t": 2.52
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Abril de *1963*"
+    },
+    {
+     "t": 4.46,
+     "txt": "de las más *avanzadas* de América Latina"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 117.21,
+   "fin": 125.24,
+   "items": [
+    {
+     "icono": "comentario",
+     "txt": "Libertad de expresión",
+     "t": 0.95
+    },
+    {
+     "icono": "escudo",
+     "txt": "Derechos de los trabajadores",
+     "t": 3.2
+    },
+    {
+     "icono": "alerta",
+     "txt": "Límites a los grandes terrenos",
+     "t": 5.45
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 125.24,
+   "fin": 131.13,
+   "personaje": "bosch",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No persiguió a nadie *por sus ideas*"
+    },
+    {
+     "t": 4.02,
+     "txt": "Y ahí empezó su *problema*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 131.13,
+   "fin": 138.76,
+   "personaje": "general",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Militares, terratenientes"
+    },
+    {
+     "t": 3.72,
+     "txt": "lo acusan de *comunista*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 138.76,
+   "fin": 147.16,
+   "hitos": [
+    {
+     "anio": "1959",
+     "txt": "Revolución cubana",
+     "t": 1.77
+    },
+    {
+     "anio": "1963",
+     "txt": "Esa palabra tumba gobiernos",
+     "t": 4.92
+    }
+   ],
+   "texto": []
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 147.16,
+   "fin": 151.06,
+   "preset": "ciudad_antigua",
+   "semilla": 6,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Los periódicos *atacan*"
+    },
+    {
+     "t": 2.01,
+     "txt": "En los cuarteles se *conspira*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#1B2233",
+     "#4A5468"
+    ],
+    "sol": "#9AA5B8",
+    "nube": "#5B6578",
+    "lejos": "#2A3245"
+   }
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 151.06,
+   "fin": 155.96,
+   "personaje": "bosch",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo sabía"
+    },
+    {
+     "t": 2.3,
+     "txt": "y no usó *la fuerza*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 155.96,
+   "fin": 164.72,
+   "preset": "pueblo",
+   "semilla": 12,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "25 de septiembre de *1963*"
+    },
+    {
+     "t": 4.22,
+     "txt": "militares entran al *Palacio*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   }
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 164.72,
+   "fin": 171.22,
+   "preset": "puerto",
+   "semilla": 5,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "En un barco, al *exilio*"
+    },
+    {
+     "t": 4.02,
+     "txt": "Gobernó *siete meses*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#1B2233",
+     "#4A5468"
+    ],
+    "sol": "#9AA5B8",
+    "nube": "#5B6578",
+    "lejos": "#2A3245"
+   }
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 171.22,
+   "fin": 177.82,
+   "personaje": "triunviro",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Tres civiles escogidos por los militares"
+    },
+    {
+     "t": 3.7,
+     "txt": "el *Triunvirato*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 177.82,
+   "fin": 183.93,
+   "max": 31,
+   "barras": [
+    {
+     "etiqueta": "Dictadura",
+     "valor": 31,
+     "sufijo": " años",
+     "t": 1.25
+    },
+    {
+     "etiqueta": "Democracia",
+     "valor": 0.6,
+     "sufijo": " años",
+     "t": 2.83
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Duró *menos que un embarazo*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 183.93,
+   "fin": 194.11,
+   "region": "hispaniola",
+   "puntos": [
+    {
+     "nombre": "Monte Cristi",
+     "t": 3.71
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No todos *aceptaron*"
+    },
+    {
+     "t": 3.03,
+     "txt": "Un abogado de *Montecristi*"
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "Monte Cristi",
+     "escala": 1.9,
+     "t": 5.06
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 194.11,
+   "fin": 197.69,
+   "personaje": "manolo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Manolo Tavárez Justo*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 197.69,
+   "fin": 204.24,
+   "hitos": [
+    {
+     "anio": "1959",
+     "txt": "Nace el 14 de Junio",
+     "t": 1.37
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Líder del *14 de Junio*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 204.24,
+   "fin": 212.51,
+   "personaje": "minerva",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El viudo de *Minerva Mirabal*"
+    },
+    {
+     "t": 2.64,
+     "txt": "asesinada *tres años antes*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 212.51,
+   "fin": 220.28,
+   "personaje": "manolo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Sale de la *cárcel*"
+    },
+    {
+     "t": 3.74,
+     "txt": "uno de los hombres *más queridos*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 220.28,
+   "fin": 232.01,
+   "personaje": "manolo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Cuando tumban a Bosch"
+    },
+    {
+     "t": 5.65,
+     "txt": "si se cierran los caminos *de la democracia*"
+    },
+    {
+     "t": 8.92,
+     "txt": "el pueblo puede *tomar las armas*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 232.01,
+   "fin": 242.39,
+   "region": "hispaniola",
+   "puntos": [
+    {
+     "lugar": [
+      -71.05,
+      19.22
+     ],
+     "t": 3.14,
+     "etiqueta": "Cordillera Central"
+    },
+    {
+     "nombre": "San Juan",
+     "t": 5.11
+    },
+    {
+     "nombre": "Santiago",
+     "t": 6.58
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "28 de noviembre de *1963*"
+    },
+    {
+     "t": 5.11,
+     "txt": "suben a *las montañas*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 242.39,
+   "fin": 251.54,
+   "preset": "campo",
+   "semilla": 21,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Estudiantes y *profesionales*"
+    },
+    {
+     "t": 4.98,
+     "txt": "Lluvia, hambre y *el ejército*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   }
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 251.54,
+   "fin": 259.04,
+   "region": "hispaniola",
+   "puntos": [
+    {
+     "lugar": [
+      -71.05,
+      19.22
+     ],
+     "t": 2.93,
+     "etiqueta": "Las Manaclas"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Finales de diciembre"
+    },
+    {
+     "t": 3.61,
+     "txt": "agotados en *Las Manaclas*"
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": [
+      -71.05,
+      19.22
+     ],
+     "escala": 2.4,
+     "t": 3.61
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 259.04,
+   "fin": 267.52,
+   "personaje": "manolo_guerrilla",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Aceptaron *rendirse*"
+    },
+    {
+     "t": 4.49,
+     "txt": "con la promesa de *respetar sus vidas*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 267.52,
+   "fin": 275.86,
+   "preset": "campo",
+   "semilla": 30,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "21 de diciembre de *1963*"
+    },
+    {
+     "t": 4.5,
+     "txt": "Manolo y 14 compañeros: *fusilados*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   }
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 275.86,
+   "fin": 279.87,
+   "personaje": "manolo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Tenía *32 años*"
+    },
+    {
+     "t": 2.37,
+     "txt": "El país, en *shock*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 279.87,
+   "fin": 285.49,
+   "personaje": "minerva",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Las tres hermanas"
+    },
+    {
+     "t": 2.63,
+     "txt": "y ahora el esposo de *Minerva*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 285.49,
+   "fin": 293.37,
+   "personaje": "triunviro",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El Triunvirato *no iba a durar*"
+    },
+    {
+     "t": 2.91,
+     "txt": "militares que querían a *Bosch* de vuelta"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 293.37,
+   "fin": 299.31,
+   "items": [
+    {
+     "icono": "compartir",
+     "txt": "Comparte",
+     "t": 1.28
+    },
+    {
+     "icono": "corazon",
+     "txt": "Síguenos",
+     "t": 2.91
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 299.31,
+   "fin": 306.43,
+   "preset": "ciudad_antigua",
+   "semilla": 9,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "24 de abril de *1965*"
+    },
+    {
+     "t": 3.48,
+     "txt": "oficiales jóvenes se *levantan*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 306.43,
+   "fin": 313.54,
+   "hitos": [
+    {
+     "anio": "1963",
+     "txt": "La Constitución",
+     "t": 2.17
+    },
+    {
+     "anio": "1965",
+     "txt": "Que vuelva Bosch",
+     "t": 4.81
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Querían *una sola cosa*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 313.54,
+   "fin": 316.72,
+   "personaje": "caamano",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Los *constitucionalistas*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 316.72,
+   "fin": 323.45,
+   "preset": "ciudad_antigua",
+   "semilla": 10,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "La noticia por la *radio*"
+    },
+    {
+     "t": 2.08,
+     "txt": "el pueblo a las *calles*"
+    },
+    {
+     "t": 4.43,
+     "txt": "armas para los *civiles*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 323.45,
+   "fin": 327.02,
+   "personaje": "triunviro",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "En pocas horas"
+    },
+    {
+     "t": 1.67,
+     "txt": "el Triunvirato *se cae*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 327.02,
+   "fin": 332.8,
+   "personaje": "general",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Pero en *San Isidro*"
+    },
+    {
+     "t": 2.81,
+     "txt": "no querían a Bosch"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 332.8,
+   "fin": 342.74,
+   "region": "hispaniola",
+   "puntos": [
+    {
+     "nombre": "Santo Domingo",
+     "t": 0.75,
+     "etiqueta": "La capital",
+     "lado": -1
+    },
+    {
+     "lugar": [
+      -69.67,
+      18.5
+     ],
+     "t": 6.61,
+     "etiqueta": "San Isidro",
+     "lado": 1
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El país *se parte en dos*"
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "Santo Domingo",
+     "escala": 2.3,
+     "t": 1.11
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 342.74,
+   "fin": 345.37,
+   "preset": "ciudad_antigua",
+   "semilla": 14,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Los aviones *bombardean*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#1B2233",
+     "#4A5468"
+    ],
+    "sol": "#9AA5B8",
+    "nube": "#5B6578",
+    "lejos": "#2A3245"
+   }
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 345.37,
+   "fin": 351.18,
+   "region": "hispaniola",
+   "puntos": [
+    {
+     "lugar": [
+      -69.67,
+      18.5
+     ],
+     "t": 1.25,
+     "etiqueta": "San Isidro",
+     "lado": 1
+    },
+    {
+     "nombre": "Santo Domingo",
+     "t": 2.82,
+     "etiqueta": "Puente Duarte",
+     "lado": -1
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "27 de abril: el *puente Duarte*"
+    }
+   ],
+   "ruta": {
+    "de": [
+     -69.67,
+     18.5
+    ],
+    "a": "Santo Domingo",
+    "t": 1.77,
+    "dur": 2.2
+   },
+   "enfoques": [
+    {
+     "lugar": "Santo Domingo",
+     "escala": 2.6,
+     "t": 3.35
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 351.18,
+   "fin": 356.6,
+   "preset": "ciudad_antigua",
+   "semilla": 15,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Fusiles, botellas"
+    },
+    {
+     "t": 2.63,
+     "txt": "los civiles los *detienen*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 356.6,
+   "fin": 366.64,
+   "personaje": "caamano",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Un coronel de *32 años*"
+    },
+    {
+     "t": 7.45,
+     "txt": "*Francisco Alberto Caamaño Deñó*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 366.64,
+   "fin": 375.32,
+   "personaje": "caamano",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Hijo de un general de *Trujillo*"
+    },
+    {
+     "t": 3.46,
+     "txt": "convertido en *símbolo*"
+    }
+   ],
+   "personaje2": "trujillo",
+   "t2": 0.48
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 375.32,
+   "fin": 383.88,
+   "personaje": "caamano",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "A punto de *ganar*"
+    },
+    {
+     "t": 3.44,
+     "txt": "Pero desde el mar…"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 383.88,
+   "fin": 392.72,
+   "personaje": "johnson",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "28 de abril de *1965*"
+    },
+    {
+     "t": 4.3,
+     "txt": "Johnson manda a los *marines*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 392.72,
+   "fin": 402.6,
+   "personaje": "johnson",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Oficial: proteger a sus ciudadanos"
+    },
+    {
+     "t": 4.09,
+     "txt": "Real: evitar *otra Cuba*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 402.6,
+   "fin": 410.13,
+   "hitos": [
+    {
+     "anio": "1916",
+     "txt": "Primera ocupación",
+     "t": 1.59
+    },
+    {
+     "anio": "1965",
+     "txt": "Vuelven los marines",
+     "t": 4.38
+    }
+   ],
+   "texto": []
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 410.13,
+   "fin": 414.26,
+   "desde": 0,
+   "hasta": 40000,
+   "prefijo": "+",
+   "miles": true,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "soldados *extranjeros*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 414.26,
+   "fin": 419.74,
+   "region": "hispaniola",
+   "puntos": [
+    {
+     "nombre": "Santo Domingo",
+     "t": 1.7,
+     "etiqueta": "Ciudad Colonial"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Rodean la *Ciudad Colonial*"
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": "Santo Domingo",
+     "escala": 3.0,
+     "t": 2.2
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 419.74,
+   "fin": 427.6,
+   "personaje": "caamano",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Presidente *constitucional*"
+    },
+    {
+     "t": 3.92,
+     "txt": "de unas cuantas *cuadras*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 427.6,
+   "fin": 438.14,
+   "preset": "ciudad_antigua",
+   "semilla": 16,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Un corredor militar"
+    },
+    {
+     "t": 4.59,
+     "txt": "el pueblo *armado*"
+    },
+    {
+     "t": 6.75,
+     "txt": "contra los *norteamericanos*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#1B2233",
+     "#4A5468"
+    ],
+    "sol": "#9AA5B8",
+    "nube": "#5B6578",
+    "lejos": "#2A3245"
+   }
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 438.14,
+   "fin": 441.66,
+   "preset": "ciudad_antigua",
+   "semilla": 17,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Murieron *miles*"
+    },
+    {
+     "t": 1.75,
+     "txt": "la mayoría *civiles*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   }
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 441.66,
+   "fin": 447.87,
+   "personaje": "marine",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "La OEA manda *tropas de otros países*"
+    },
+    {
+     "t": 3.6,
+     "txt": "otra cara para la *ocupación*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 447.87,
+   "fin": 453.67,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Sin forma de ganar",
+     "t": 1.26
+    },
+    {
+     "icono": "libro",
+     "txt": "Firman un acuerdo",
+     "t": 3.39
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 453.67,
+   "fin": 460.21,
+   "hitos": [
+    {
+     "anio": "1965",
+     "txt": "Gobierno provisional",
+     "t": 2.0
+    },
+    {
+     "anio": "1966",
+     "txt": "Elecciones",
+     "t": 4.4
+    }
+   ],
+   "texto": []
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 460.21,
+   "fin": 465.66,
+   "personaje": "caamano",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Caamaño entrega el mando"
+    },
+    {
+     "t": 2.68,
+     "txt": "enviado a *Londres*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 465.66,
+   "fin": 472.71,
+   "personaje": "bosch",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Bosch vuelve como *candidato*"
+    },
+    {
+     "t": 2.71,
+     "txt": "Y del otro lado…"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 472.71,
+   "fin": 478.7,
+   "personaje": "balaguer",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "1 de junio de *1966*"
+    },
+    {
+     "t": 2.92,
+     "txt": "gana *Balaguer*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 478.7,
+   "fin": 486.68,
+   "personaje": "bosch",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Bosch casi no hizo campaña"
+    },
+    {
+     "t": 3.89,
+     "txt": "por *miedo a que lo mataran*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 486.68,
+   "fin": 493.52,
+   "personaje": "balaguer",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El presidente de Trujillo"
+    },
+    {
+     "t": 2.56,
+     "txt": "*vuelve al poder*"
+    },
+    {
+     "t": 5.6,
+     "txt": "Y no lo *soltó*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 493.52,
+   "fin": 499.69,
+   "hitos": [
+    {
+     "anio": "1966",
+     "txt": "Gana",
+     "t": 0.76
+    },
+    {
+     "anio": "1970",
+     "txt": "Gana otra vez",
+     "t": 2.16
+    },
+    {
+     "anio": "1974",
+     "txt": "Y otra vez",
+     "t": 4.11
+    }
+   ],
+   "texto": []
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 499.69,
+   "fin": 503.3,
+   "desde": 0,
+   "hasta": 12,
+   "sufijo": " años",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Los *doce años*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 503.3,
+   "fin": 508.65,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Carreteras",
+     "t": 1.16
+    },
+    {
+     "icono": "check",
+     "txt": "Presas",
+     "t": 2.12
+    },
+    {
+     "icono": "check",
+     "txt": "Viviendas",
+     "t": 3.09
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 508.65,
+   "fin": 519.13,
+   "preset": "pueblo",
+   "semilla": 18,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Pero también: *años de miedo*"
+    },
+    {
+     "t": 2.95,
+     "txt": "perseguidos, asesinados, *desaparecidos*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   }
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 519.13,
+   "fin": 530.6,
+   "region": "hispaniola",
+   "puntos": [
+    {
+     "lugar": [
+      -70.55,
+      18.3
+     ],
+     "t": 5.64,
+     "etiqueta": "Playa Caracoles"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Febrero de *1973*"
+    },
+    {
+     "t": 4.01,
+     "txt": "Caamaño vuelve *en secreto*"
+    },
+    {
+     "t": 7.82,
+     "txt": "por *Playa Caracoles*"
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": [
+      -70.55,
+      18.3
+     ],
+     "escala": 2.4,
+     "t": 6.73
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 530.6,
+   "fin": 533.89,
+   "personaje": "caamano",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Repetir la revolución"
+    },
+    {
+     "t": 1.55,
+     "txt": "desde *las montañas*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 533.89,
+   "fin": 539.93,
+   "preset": "campo",
+   "semilla": 31,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "16 de febrero"
+    },
+    {
+     "t": 1.93,
+     "txt": "capturado *y asesinado*"
+    },
+    {
+     "t": 4.26,
+     "txt": "Tenía *40 años*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   }
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 539.93,
+   "fin": 544.43,
+   "personaje": "guzman",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Mayo de *1978*"
+    },
+    {
+     "t": 2.16,
+     "txt": "elecciones otra vez"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 544.43,
+   "fin": 554.7,
+   "personaje": "balaguer_mayor",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Balaguer va *perdiendo*"
+    },
+    {
+     "t": 5.0,
+     "txt": "soldados *detienen el conteo*"
+    }
+   ],
+   "personaje2": "guzman",
+   "t2": 2.12
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 554.7,
+   "fin": 561.93,
+   "personaje": "balaguer_mayor",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Presión dentro y fuera"
+    },
+    {
+     "t": 5.21,
+     "txt": "Balaguer termina *aceptando*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 561.93,
+   "fin": 572.92,
+   "hitos": [
+    {
+     "anio": "1978",
+     "txt": "16 de agosto",
+     "t": 2.28
+    }
+   ],
+   "texto": [
+    {
+     "t": 3.31,
+     "txt": "Primera vez: el poder *en paz*"
+    },
+    {
+     "t": 6.95,
+     "txt": "a un *opositor elegido*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 572.92,
+   "fin": 581.11,
+   "personaje": "guzman",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "La democracia *para quedarse*"
+    },
+    {
+     "t": 3.73,
+     "txt": "pero vendrían *nuevas tragedias*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 581.11,
+   "fin": 586.91,
+   "palabra": "Historia",
+   "proximo": "Los gobiernos después de 1978"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 293.42,
+   "fin": 298.42
+  }
+ ]
+}

@@ -1,0 +1,418 @@
+{
+ "serie": "biblia",
+ "titulo": "Los ángeles de la Biblia que casi nadie te explicó · capítulo 3",
+ "duracion": 109.72,
+ "personajes": {
+  "querubin": {
+   "nombre": "Querubín",
+   "etiqueta": "Querubín · guardián",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#E8C66A",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "adan": {
+   "nombre": "Adán",
+   "etiqueta": "Adán",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#8A6A3E",
+   "mirada": 0.3
+  },
+  "eva": {
+   "nombre": "Eva",
+   "etiqueta": "Eva",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#3A2414",
+   "mujer": true,
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "mirada": -0.3
+  },
+  "moises": {
+   "nombre": "Moisés",
+   "etiqueta": "Moisés",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E0DBD0",
+   "barba": "larga",
+   "colorBarba": "#E0DBD0",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "ezequiel": {
+   "nombre": "Ezequiel",
+   "etiqueta": "El profeta Ezequiel",
+   "piel": "#A06C46",
+   "pelo": "largo",
+   "colorPelo": "#2E2018",
+   "barba": "larga",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#5E4A7A",
+   "colorManto": "#C9A46A"
+  },
+  "isaias": {
+   "nombre": "Isaías",
+   "etiqueta": "El profeta Isaías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#9A9184",
+   "barba": "larga",
+   "colorBarba": "#9A9184",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#B8862B"
+  },
+  "serafin": {
+   "nombre": "Serafín",
+   "etiqueta": "Serafín · \"los que arden\"",
+   "piel": "#F2C27A",
+   "pelo": "largo",
+   "colorPelo": "#F28C28",
+   "ropa": "tunica",
+   "colorRopa": "#FFE2A8",
+   "colorManto": "#D9481E",
+   "mirada": 0.2
+  },
+  "miguel": {
+   "nombre": "Miguel",
+   "etiqueta": "El arcángel Miguel",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "ropa": "militar",
+   "colorRopa": "#8C2F2F",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "daniel": {
+   "nombre": "Daniel",
+   "etiqueta": "El profeta Daniel",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#7A2E4A",
+   "colorManto": "#D9B45A"
+  },
+  "gabriel": {
+   "nombre": "Gabriel",
+   "etiqueta": "El ángel Gabriel",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#C9A46A",
+   "ropa": "tunica",
+   "colorRopa": "#FAF6EC",
+   "colorManto": "#6C8EBF",
+   "mirada": 0.3
+  },
+  "zacarias": {
+   "nombre": "Zacarías",
+   "etiqueta": "El sacerdote Zacarías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#EEEAE2",
+   "barba": "larga",
+   "colorBarba": "#EEEAE2",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D5A80",
+   "edad": "mayor"
+  },
+  "maria": {
+   "nombre": "María",
+   "etiqueta": "María de Nazaret",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "sombrero": "manto",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D6FA8",
+   "mirada": -0.2
+  },
+  "lucero": {
+   "nombre": "Lucero",
+   "etiqueta": "Lucero, hijo de la mañana",
+   "piel": "#C9A27E",
+   "pelo": "largo",
+   "colorPelo": "#1A1410",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#2B2B3A",
+   "colorManto": "#8C2F2F",
+   "cejas": "fruncidas",
+   "mirada": -0.5
+  },
+  "rey": {
+   "nombre": "Rey de Babilonia",
+   "etiqueta": "El rey de Babilonia",
+   "piel": "#A8744C",
+   "pelo": "rizado",
+   "colorPelo": "#1A1410",
+   "barba": "larga",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#6B2E2E",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas"
+  },
+  "eliseo": {
+   "nombre": "Eliseo",
+   "etiqueta": "El profeta Eliseo",
+   "piel": "#9E6A44",
+   "pelo": "calvo",
+   "barba": "larga",
+   "colorBarba": "#3A2A20",
+   "ropa": "tunica",
+   "colorRopa": "#6B4A2F",
+   "colorManto": "#4A3524"
+  },
+  "criado": {
+   "nombre": "El criado",
+   "etiqueta": "El criado de Eliseo",
+   "piel": "#B07A50",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "cejas": "fruncidas",
+   "mirada": 0.4
+  },
+  "juan": {
+   "nombre": "Juan",
+   "etiqueta": "El apóstol Juan",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#B9B2A6",
+   "barba": "larga",
+   "colorBarba": "#B9B2A6",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "retrato",
+   "inicio": 0.0,
+   "fin": 7.44,
+   "personaje": "serafin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No son los únicos *con alas*"
+    },
+    {
+     "t": 4.34,
+     "txt": "Aparecen *una sola vez*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 7.44,
+   "fin": 13.48,
+   "personaje": "isaias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El profeta *Isaías*"
+    },
+    {
+     "t": 2.83,
+     "txt": "Isaías *6:1-3*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 13.48,
+   "fin": 31.56,
+   "cita": "Isaías 6:1-3 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "En el año que murió el rey Uzías vi yo al Señor sentado sobre un trono alto y sublime, y sus faldas llenaban el templo. Por encima de él había *serafines*; cada uno tenía *seis alas*; con dos cubrían sus rostros, con dos cubrían sus pies, y con dos volaban.",
+   "tInicio": 0.4,
+   "tEscritura": 17.47
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 31.56,
+   "fin": 41.26,
+   "cita": "Isaías 6:3 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y el uno al otro daba voces, diciendo: *Santo, santo, santo*, Jehová de los ejércitos; toda la tierra está llena de su gloria.",
+   "tInicio": 0.4,
+   "tEscritura": 9.22
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 41.26,
+   "fin": 47.33,
+   "personaje": "serafin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Serafín: *\"los que arden\"*"
+    },
+    {
+     "t": 4.6,
+     "txt": "Seres de *fuego*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 47.33,
+   "fin": 52.83,
+   "personaje": "serafin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Aun siendo santos"
+    },
+    {
+     "t": 2.71,
+     "txt": "se *tapan la cara*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 52.83,
+   "fin": 60.38,
+   "personaje": "isaias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Isaías *se derrumba*"
+    },
+    {
+     "t": 2.78,
+     "txt": "\"Soy de *labios impuros*\""
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 60.38,
+   "fin": 64.04,
+   "personaje": "serafin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Y entonces pasa *esto*"
+    },
+    {
+     "t": 2.03,
+     "txt": "Versículos *6 y 7*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 64.04,
+   "fin": 79.32,
+   "cita": "Isaías 6:6-7 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y voló hacia mí uno de los serafines, teniendo en su mano un *carbón encendido*, tomado del altar con unas tenazas; y tocando con él sobre mi boca, dijo: He aquí que esto tocó tus labios, y es quitada tu culpa, y *limpio tu pecado*.",
+   "tInicio": 0.4,
+   "tEscritura": 14.89
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 79.32,
+   "fin": 86.73,
+   "personaje": "serafin",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una *brasa* en la boca"
+    },
+    {
+     "t": 4.94,
+     "txt": "no para quemarlo: para *limpiarlo*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 86.73,
+   "fin": 94.06,
+   "personaje": "isaias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "\"¿A quién *enviaré*?\""
+    },
+    {
+     "t": 3.74,
+     "txt": "\"*Heme aquí*, envíame a mí\""
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 94.06,
+   "fin": 100.58,
+   "personaje": "isaias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El que se sentía *indigno*"
+    },
+    {
+     "t": 3.19,
+     "txt": "uno de los *profetas más grandes*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 100.58,
+   "fin": 106.22,
+   "items": [
+    {
+     "icono": "compartir",
+     "txt": "Comparte",
+     "t": 1.25
+    },
+    {
+     "icono": "corazon",
+     "txt": "Síguenos",
+     "t": 2.81
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 106.22,
+   "fin": 109.72,
+   "palabra": "Biblia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 100.63,
+   "fin": 105.63
+  }
+ ]
+}

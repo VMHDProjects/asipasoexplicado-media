@@ -1,0 +1,438 @@
+{
+ "serie": "biblia",
+ "titulo": "Los ángeles de la Biblia que casi nadie te explicó · capítulo 5",
+ "duracion": 110.23,
+ "personajes": {
+  "querubin": {
+   "nombre": "Querubín",
+   "etiqueta": "Querubín · guardián",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#E8C66A",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "adan": {
+   "nombre": "Adán",
+   "etiqueta": "Adán",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#8A6A3E",
+   "mirada": 0.3
+  },
+  "eva": {
+   "nombre": "Eva",
+   "etiqueta": "Eva",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#3A2414",
+   "mujer": true,
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "mirada": -0.3
+  },
+  "moises": {
+   "nombre": "Moisés",
+   "etiqueta": "Moisés",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E0DBD0",
+   "barba": "larga",
+   "colorBarba": "#E0DBD0",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "ezequiel": {
+   "nombre": "Ezequiel",
+   "etiqueta": "El profeta Ezequiel",
+   "piel": "#A06C46",
+   "pelo": "largo",
+   "colorPelo": "#2E2018",
+   "barba": "larga",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#5E4A7A",
+   "colorManto": "#C9A46A"
+  },
+  "isaias": {
+   "nombre": "Isaías",
+   "etiqueta": "El profeta Isaías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#9A9184",
+   "barba": "larga",
+   "colorBarba": "#9A9184",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#B8862B"
+  },
+  "serafin": {
+   "nombre": "Serafín",
+   "etiqueta": "Serafín · \"los que arden\"",
+   "piel": "#F2C27A",
+   "pelo": "largo",
+   "colorPelo": "#F28C28",
+   "ropa": "tunica",
+   "colorRopa": "#FFE2A8",
+   "colorManto": "#D9481E",
+   "mirada": 0.2
+  },
+  "miguel": {
+   "nombre": "Miguel",
+   "etiqueta": "El arcángel Miguel",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "ropa": "militar",
+   "colorRopa": "#8C2F2F",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "daniel": {
+   "nombre": "Daniel",
+   "etiqueta": "El profeta Daniel",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#7A2E4A",
+   "colorManto": "#D9B45A"
+  },
+  "gabriel": {
+   "nombre": "Gabriel",
+   "etiqueta": "El ángel Gabriel",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#C9A46A",
+   "ropa": "tunica",
+   "colorRopa": "#FAF6EC",
+   "colorManto": "#6C8EBF",
+   "mirada": 0.3
+  },
+  "zacarias": {
+   "nombre": "Zacarías",
+   "etiqueta": "El sacerdote Zacarías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#EEEAE2",
+   "barba": "larga",
+   "colorBarba": "#EEEAE2",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D5A80",
+   "edad": "mayor"
+  },
+  "maria": {
+   "nombre": "María",
+   "etiqueta": "María de Nazaret",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "sombrero": "manto",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D6FA8",
+   "mirada": -0.2
+  },
+  "lucero": {
+   "nombre": "Lucero",
+   "etiqueta": "Lucero, hijo de la mañana",
+   "piel": "#C9A27E",
+   "pelo": "largo",
+   "colorPelo": "#1A1410",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#2B2B3A",
+   "colorManto": "#8C2F2F",
+   "cejas": "fruncidas",
+   "mirada": -0.5
+  },
+  "rey": {
+   "nombre": "Rey de Babilonia",
+   "etiqueta": "El rey de Babilonia",
+   "piel": "#A8744C",
+   "pelo": "rizado",
+   "colorPelo": "#1A1410",
+   "barba": "larga",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#6B2E2E",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas"
+  },
+  "eliseo": {
+   "nombre": "Eliseo",
+   "etiqueta": "El profeta Eliseo",
+   "piel": "#9E6A44",
+   "pelo": "calvo",
+   "barba": "larga",
+   "colorBarba": "#3A2A20",
+   "ropa": "tunica",
+   "colorRopa": "#6B4A2F",
+   "colorManto": "#4A3524"
+  },
+  "criado": {
+   "nombre": "El criado",
+   "etiqueta": "El criado de Eliseo",
+   "piel": "#B07A50",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "cejas": "fruncidas",
+   "mirada": 0.4
+  },
+  "juan": {
+   "nombre": "Juan",
+   "etiqueta": "El apóstol Juan",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#B9B2A6",
+   "barba": "larga",
+   "colorBarba": "#B9B2A6",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "retrato",
+   "inicio": 0.0,
+   "fin": 6.18,
+   "personaje": "gabriel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Miguel es el guerrero"
+    },
+    {
+     "t": 1.67,
+     "txt": "Gabriel, el *mensajero*"
+    },
+    {
+     "t": 3.61,
+     "txt": "Cada vez que aparece, *todo cambia*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 6.18,
+   "fin": 12.1,
+   "personaje": "daniel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Primera visita: otra vez *Daniel*"
+    },
+    {
+     "t": 2.99,
+     "txt": "Daniel *9:21*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 12.1,
+   "fin": 22.25,
+   "cita": "Daniel 9:21 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "aún estaba hablando en oración, cuando *el varón Gabriel*, a quien había visto en la visión al principio, *volando con presteza*, vino a mí como a la hora del sacrificio de la tarde.",
+   "tInicio": 0.4,
+   "tEscritura": 9.48
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 22.25,
+   "fin": 28.36,
+   "hitos": [
+    {
+     "anio": "70",
+     "txt": "semanas",
+     "t": 1.89
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "La profecía de las *setenta semanas*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 28.36,
+   "fin": 34.45,
+   "desde": 0,
+   "hasta": 500,
+   "prefijo": "+",
+   "sufijo": " años",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Y después, *silencio*"
+    },
+    {
+     "t": 2.37,
+     "txt": "sin que Gabriel *vuelva*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 34.45,
+   "fin": 41.55,
+   "personaje": "zacarias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El sacerdote *Zacarías*"
+    },
+    {
+     "t": 3.47,
+     "txt": "un ángel junto al *altar*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 41.55,
+   "fin": 47.55,
+   "personaje": "zacarias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Isabel, ya anciana, tendrá *un hijo*"
+    },
+    {
+     "t": 4.5,
+     "txt": "Zacarías *no lo cree*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 47.55,
+   "fin": 51.74,
+   "personaje": "gabriel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lucas *1:19*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 51.74,
+   "fin": 60.97,
+   "cita": "Lucas 1:19 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Respondiendo el ángel, le dijo: *Yo soy Gabriel*, que estoy delante de Dios; y he sido enviado a hablarte, y darte estas *buenas nuevas*.",
+   "tInicio": 0.4,
+   "tEscritura": 8.64
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 60.97,
+   "fin": 67.32,
+   "personaje": "zacarias",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Se queda *mudo*"
+    },
+    {
+     "t": 3.89,
+     "txt": "Ese niño: *Juan el Bautista*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 67.32,
+   "fin": 76.55,
+   "personaje": "gabriel",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Seis meses después"
+    },
+    {
+     "t": 2.42,
+     "txt": "el viaje *más importante*"
+    },
+    {
+     "t": 5.34,
+     "txt": "Lucas *1:26-28*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 76.55,
+   "fin": 90.2,
+   "cita": "Lucas 1:26-27 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Al sexto mes el ángel Gabriel fue enviado por Dios a una ciudad de Galilea, llamada *Nazaret*, a una virgen desposada con un varón que se llamaba José, de la casa de David; y el nombre de la virgen era *María*.",
+   "tInicio": 0.4,
+   "tEscritura": 12.81
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 90.2,
+   "fin": 99.39,
+   "cita": "Lucas 1:28 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y entrando el ángel en donde ella estaba, dijo: *¡Salve, muy favorecida!* El Señor es contigo; bendita tú entre las mujeres.",
+   "tInicio": 0.4,
+   "tEscritura": 8.78
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 99.39,
+   "fin": 106.73,
+   "personaje": "maria",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El que anunció a Daniel un *Mesías*"
+    },
+    {
+     "t": 3.84,
+     "txt": "anunció que *ya venía*"
+    }
+   ],
+   "personaje2": "gabriel",
+   "t2": 2.18
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 106.73,
+   "fin": 110.23,
+   "palabra": "Biblia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 53.37,
+   "fin": 57.87
+  }
+ ]
+}

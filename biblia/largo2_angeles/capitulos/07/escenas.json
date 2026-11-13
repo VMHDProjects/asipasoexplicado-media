@@ -1,0 +1,498 @@
+{
+ "serie": "biblia",
+ "titulo": "Los ángeles de la Biblia que casi nadie te explicó · capítulo 7",
+ "duracion": 109.66,
+ "personajes": {
+  "querubin": {
+   "nombre": "Querubín",
+   "etiqueta": "Querubín · guardián",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#E8C66A",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "adan": {
+   "nombre": "Adán",
+   "etiqueta": "Adán",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "ropa": "tunica",
+   "colorRopa": "#8A6A3E",
+   "mirada": 0.3
+  },
+  "eva": {
+   "nombre": "Eva",
+   "etiqueta": "Eva",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#3A2414",
+   "mujer": true,
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "mirada": -0.3
+  },
+  "moises": {
+   "nombre": "Moisés",
+   "etiqueta": "Moisés",
+   "piel": "#A8744C",
+   "pelo": "largo",
+   "colorPelo": "#E0DBD0",
+   "barba": "larga",
+   "colorBarba": "#E0DBD0",
+   "ropa": "tunica",
+   "colorRopa": "#7A4B2E",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  },
+  "ezequiel": {
+   "nombre": "Ezequiel",
+   "etiqueta": "El profeta Ezequiel",
+   "piel": "#A06C46",
+   "pelo": "largo",
+   "colorPelo": "#2E2018",
+   "barba": "larga",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#5E4A7A",
+   "colorManto": "#C9A46A"
+  },
+  "isaias": {
+   "nombre": "Isaías",
+   "etiqueta": "El profeta Isaías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#9A9184",
+   "barba": "larga",
+   "colorBarba": "#9A9184",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#B8862B"
+  },
+  "serafin": {
+   "nombre": "Serafín",
+   "etiqueta": "Serafín · \"los que arden\"",
+   "piel": "#F2C27A",
+   "pelo": "largo",
+   "colorPelo": "#F28C28",
+   "ropa": "tunica",
+   "colorRopa": "#FFE2A8",
+   "colorManto": "#D9481E",
+   "mirada": 0.2
+  },
+  "miguel": {
+   "nombre": "Miguel",
+   "etiqueta": "El arcángel Miguel",
+   "piel": "#C49A72",
+   "pelo": "largo",
+   "colorPelo": "#3A2A20",
+   "ropa": "militar",
+   "colorRopa": "#8C2F2F",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "daniel": {
+   "nombre": "Daniel",
+   "etiqueta": "El profeta Daniel",
+   "piel": "#A8744C",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "barba": "corta",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#7A2E4A",
+   "colorManto": "#D9B45A"
+  },
+  "gabriel": {
+   "nombre": "Gabriel",
+   "etiqueta": "El ángel Gabriel",
+   "piel": "#D9B48A",
+   "pelo": "largo",
+   "colorPelo": "#C9A46A",
+   "ropa": "tunica",
+   "colorRopa": "#FAF6EC",
+   "colorManto": "#6C8EBF",
+   "mirada": 0.3
+  },
+  "zacarias": {
+   "nombre": "Zacarías",
+   "etiqueta": "El sacerdote Zacarías",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#EEEAE2",
+   "barba": "larga",
+   "colorBarba": "#EEEAE2",
+   "sombrero": "turbante",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D5A80",
+   "edad": "mayor"
+  },
+  "maria": {
+   "nombre": "María",
+   "etiqueta": "María de Nazaret",
+   "piel": "#B98258",
+   "pelo": "largo",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "sombrero": "manto",
+   "ropa": "tunica",
+   "colorRopa": "#F4EEE0",
+   "colorManto": "#3D6FA8",
+   "mirada": -0.2
+  },
+  "lucero": {
+   "nombre": "Lucero",
+   "etiqueta": "Lucero, hijo de la mañana",
+   "piel": "#C9A27E",
+   "pelo": "largo",
+   "colorPelo": "#1A1410",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#2B2B3A",
+   "colorManto": "#8C2F2F",
+   "cejas": "fruncidas",
+   "mirada": -0.5
+  },
+  "rey": {
+   "nombre": "Rey de Babilonia",
+   "etiqueta": "El rey de Babilonia",
+   "piel": "#A8744C",
+   "pelo": "rizado",
+   "colorPelo": "#1A1410",
+   "barba": "larga",
+   "sombrero": "corona",
+   "ropa": "tunica",
+   "colorRopa": "#6B2E2E",
+   "colorManto": "#C9962B",
+   "cejas": "fruncidas"
+  },
+  "eliseo": {
+   "nombre": "Eliseo",
+   "etiqueta": "El profeta Eliseo",
+   "piel": "#9E6A44",
+   "pelo": "calvo",
+   "barba": "larga",
+   "colorBarba": "#3A2A20",
+   "ropa": "tunica",
+   "colorRopa": "#6B4A2F",
+   "colorManto": "#4A3524"
+  },
+  "criado": {
+   "nombre": "El criado",
+   "etiqueta": "El criado de Eliseo",
+   "piel": "#B07A50",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "ropa": "tunica",
+   "colorRopa": "#9C7A46",
+   "cejas": "fruncidas",
+   "mirada": 0.4
+  },
+  "juan": {
+   "nombre": "Juan",
+   "etiqueta": "El apóstol Juan",
+   "piel": "#B07A50",
+   "pelo": "largo",
+   "colorPelo": "#B9B2A6",
+   "barba": "larga",
+   "colorBarba": "#B9B2A6",
+   "ropa": "tunica",
+   "colorRopa": "#3D5A80",
+   "colorManto": "#C9A46A",
+   "edad": "mayor"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "retrato",
+   "inicio": 0.0,
+   "fin": 4.57,
+   "personaje": "eliseo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El último no es *uno solo*"
+    },
+    {
+     "t": 3.23,
+     "txt": "Es un *ejército entero*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 4.57,
+   "fin": 13.17,
+   "region": "levante",
+   "puntos": [
+    {
+     "nombre": "Damasco",
+     "t": 1.04,
+     "etiqueta": "Siria"
+    },
+    {
+     "nombre": "Dotán",
+     "t": 3.98
+    }
+   ],
+   "ruta": {
+    "de": "Damasco",
+    "a": "Dotán",
+    "t": 2.72,
+    "dur": 2.5
+   },
+   "enfoque": {
+    "lugar": "Dotán",
+    "escala": 2.2,
+    "t": 6.08
+   },
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Siria quiere atrapar a *Eliseo*"
+    },
+    {
+     "t": 4.82,
+     "txt": "rodean *Dotán*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 13.17,
+   "fin": 21.11,
+   "preset": "pueblo",
+   "semilla": 5,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Al amanecer, *el ejército*"
+    },
+    {
+     "t": 4.34,
+     "txt": "\"¡Ah, señor mío! ¿Qué *haremos*?\""
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 21.11,
+   "fin": 25.93,
+   "personaje": "eliseo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "2 Reyes *6:16*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 25.93,
+   "fin": 31.45,
+   "cita": "2 Reyes 6:16 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "No tengas miedo, porque *más son los que están con nosotros* que los que están con ellos.",
+   "tInicio": 0.4,
+   "tEscritura": 5.01
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 31.45,
+   "fin": 35.22,
+   "personaje": "criado",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El criado *no ve a nadie*"
+    },
+    {
+     "t": 2.52,
+     "txt": "Solo *enemigos*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 35.22,
+   "fin": 39.71,
+   "personaje": "eliseo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Eliseo hace una *oración*"
+    },
+    {
+     "t": 3.04,
+     "txt": "Versículo *17*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 39.71,
+   "fin": 45.87,
+   "cita": "2 Reyes 6:17 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Y oró Eliseo, y dijo: Te ruego, oh Jehová, que *abras sus ojos* para que vea.",
+   "tInicio": 0.4,
+   "tEscritura": 5.63
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 45.87,
+   "fin": 56.73,
+   "cita": "2 Reyes 6:17 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Entonces Jehová abrió los ojos del criado, y miró; y he aquí que el monte estaba lleno de gente de a caballo, y de *carros de fuego* alrededor de Eliseo.",
+   "tInicio": 0.4,
+   "tEscritura": 10.08
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 56.73,
+   "fin": 63.05,
+   "personaje": "criado",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Siempre habían *estado ahí*"
+    },
+    {
+     "t": 2.15,
+     "txt": "No cambió la situación"
+    },
+    {
+     "t": 4.46,
+     "txt": "cambiaron *sus ojos*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 63.05,
+   "fin": 69.42,
+   "personaje": "eliseo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No es solo una historia *del pasado*"
+    },
+    {
+     "t": 3.99,
+     "txt": "Salmo *91:11*"
+    }
+   ]
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 69.42,
+   "fin": 74.71,
+   "cita": "Salmo 91:11 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "Pues a sus ángeles mandará acerca de ti, que te *guarden en todos tus caminos*.",
+   "tInicio": 0.4,
+   "tEscritura": 4.8
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 74.71,
+   "fin": 80.98,
+   "personaje": "juan",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una idea para *pensar*"
+    },
+    {
+     "t": 3.6,
+     "txt": "Hebreos *13:2*"
+    }
+   ],
+   "etiqueta": "La carta a los Hebreos"
+  },
+  {
+   "tipo": "versiculo",
+   "inicio": 80.98,
+   "fin": 87.9,
+   "cita": "Hebreos 13:2 · Reina-Valera 1960",
+   "version": false,
+   "versiculo": "No os olvidéis de la hospitalidad, porque por ella algunos, sin saberlo, *hospedaron ángeles*.",
+   "tInicio": 0.4,
+   "tEscritura": 6.37
+  },
+  {
+   "tipo": "lista",
+   "inicio": 87.9,
+   "fin": 97.84,
+   "items": [
+    {
+     "icono": "escudo",
+     "txt": "Querubines que guardan",
+     "t": 0.68
+    },
+    {
+     "icono": "fuego",
+     "txt": "Serafines que limpian",
+     "t": 2.1
+    },
+    {
+     "icono": "espada",
+     "txt": "Un guerrero",
+     "t": 3.81
+    },
+    {
+     "icono": "libro",
+     "txt": "Un mensajero",
+     "t": 5.15
+    },
+    {
+     "icono": "alerta",
+     "txt": "Ángeles que cayeron",
+     "t": 6.67
+    },
+    {
+     "icono": "estrella",
+     "txt": "Un ejército invisible",
+     "t": 8.28
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 97.84,
+   "fin": 106.16,
+   "personaje": "lucero",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Si los caídos *existen*…"
+    },
+    {
+     "t": 3.8,
+     "txt": "¿quiénes eran los *demonios*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 106.16,
+   "fin": 109.66,
+   "palabra": "Biblia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 53.08,
+   "fin": 57.58
+  }
+ ]
+}

@@ -1,0 +1,485 @@
+{
+ "serie": "historia",
+ "titulo": "De Bosch a Balaguer (1961–1978) · capítulo 3",
+ "duracion": 108.7,
+ "personajes": {
+  "trujillo": {
+   "nombre": "Trujillo",
+   "etiqueta": "Rafael L. Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas"
+  },
+  "ramfis": {
+   "nombre": "Ramfis Trujillo",
+   "etiqueta": "Ramfis Trujillo",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "lentes": true,
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "balaguer": {
+   "nombre": "Joaquín Balaguer",
+   "etiqueta": "Joaquín Balaguer",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "lentes": true,
+   "ropa": "levita",
+   "mirada": 0.2
+  },
+  "balaguer_mayor": {
+   "nombre": "Joaquín Balaguer",
+   "etiqueta": "Joaquín Balaguer",
+   "piel": "#D8A47A",
+   "pelo": "calvo",
+   "colorPelo": "#9A9086",
+   "lentes": true,
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": -0.2
+  },
+  "bosch": {
+   "nombre": "Juan Bosch",
+   "etiqueta": "Juan Bosch",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#E6E1D8",
+   "ropa": "levita",
+   "colorRopa": "#3A3F4A",
+   "mirada": 0.3
+  },
+  "manolo": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo Tavárez Justo",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#7C8A5A"
+  },
+  "manolo_guerrilla": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo · 14 de Junio",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "barba": "corta",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#5B6B45"
+  },
+  "minerva": {
+   "nombre": "Minerva Mirabal",
+   "etiqueta": "Minerva Mirabal",
+   "mujer": true,
+   "piel": "#D29A72",
+   "pelo": "largo",
+   "colorPelo": "#1D1612",
+   "ropa": "vestido",
+   "colorRopa": "#2F5D8A",
+   "mirada": 0.3
+  },
+  "triunviro": {
+   "nombre": "El Triunvirato",
+   "etiqueta": "El Triunvirato",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "bigote": "grueso",
+   "lentes": true,
+   "ropa": "levita",
+   "colorRopa": "#2B2B3A",
+   "cejas": "fruncidas"
+  },
+  "general": {
+   "nombre": "San Isidro",
+   "etiqueta": "Los militares de San Isidro",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#4A5A3A",
+   "sombrero": "kepis",
+   "colorSombrero": "#4A5A3A",
+   "medallas": true,
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "caamano": {
+   "nombre": "Francisco Caamaño",
+   "etiqueta": "Coronel Francisco A. Caamaño Deñó",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#6B7A4A",
+   "cejas": "fruncidas",
+   "mirada": 0.3
+  },
+  "johnson": {
+   "nombre": "Lyndon Johnson",
+   "etiqueta": "Lyndon B. Johnson · EE. UU.",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9B2A6",
+   "ropa": "levita",
+   "colorRopa": "#2B3A55",
+   "edad": "mayor",
+   "mirada": -0.3
+  },
+  "marine": {
+   "nombre": "Marine",
+   "etiqueta": "Marines de EE. UU.",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9A48A",
+   "ropa": "militar",
+   "colorRopa": "#6B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#6B6B45"
+  },
+  "guzman": {
+   "nombre": "Antonio Guzmán",
+   "etiqueta": "Antonio Guzmán",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#CFC8BD",
+   "ropa": "levita",
+   "colorRopa": "#3A3F4A",
+   "lentes": true,
+   "edad": "mayor",
+   "mirada": 0.3
+  },
+  "campesino": {
+   "nombre": "Campesino",
+   "etiqueta": "",
+   "piel": "#8E5A3A",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#C9B48A",
+   "sombrero": "sombrero"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "retrato",
+   "inicio": 0.0,
+   "fin": 3.58,
+   "personaje": "manolo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Manolo Tavárez Justo*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 3.58,
+   "fin": 10.13,
+   "hitos": [
+    {
+     "anio": "1959",
+     "txt": "Nace el 14 de Junio",
+     "t": 1.37
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Líder del *14 de Junio*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 10.13,
+   "fin": 18.4,
+   "personaje": "minerva",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El viudo de *Minerva Mirabal*"
+    },
+    {
+     "t": 2.64,
+     "txt": "asesinada *tres años antes*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 18.4,
+   "fin": 26.17,
+   "personaje": "manolo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Sale de la *cárcel*"
+    },
+    {
+     "t": 3.74,
+     "txt": "uno de los hombres *más queridos*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 26.17,
+   "fin": 37.9,
+   "personaje": "manolo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Cuando tumban a Bosch"
+    },
+    {
+     "t": 5.65,
+     "txt": "si se cierran los caminos *de la democracia*"
+    },
+    {
+     "t": 8.92,
+     "txt": "el pueblo puede *tomar las armas*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 37.9,
+   "fin": 48.28,
+   "region": "hispaniola",
+   "puntos": [
+    {
+     "lugar": [
+      -71.05,
+      19.22
+     ],
+     "t": 3.14,
+     "etiqueta": "Cordillera Central"
+    },
+    {
+     "nombre": "San Juan",
+     "t": 5.11
+    },
+    {
+     "nombre": "Santiago",
+     "t": 6.58
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "28 de noviembre de *1963*"
+    },
+    {
+     "t": 5.11,
+     "txt": "suben a *las montañas*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 48.28,
+   "fin": 57.43,
+   "preset": "campo",
+   "semilla": 21,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Estudiantes y *profesionales*"
+    },
+    {
+     "t": 4.98,
+     "txt": "Lluvia, hambre y *el ejército*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   }
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 57.43,
+   "fin": 64.93,
+   "region": "hispaniola",
+   "puntos": [
+    {
+     "lugar": [
+      -71.05,
+      19.22
+     ],
+     "t": 2.93,
+     "etiqueta": "Las Manaclas"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Finales de diciembre"
+    },
+    {
+     "t": 3.61,
+     "txt": "agotados en *Las Manaclas*"
+    }
+   ],
+   "enfoques": [
+    {
+     "lugar": [
+      -71.05,
+      19.22
+     ],
+     "escala": 2.4,
+     "t": 3.61
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 64.93,
+   "fin": 73.41,
+   "personaje": "manolo_guerrilla",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Aceptaron *rendirse*"
+    },
+    {
+     "t": 4.49,
+     "txt": "con la promesa de *respetar sus vidas*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 73.41,
+   "fin": 81.75,
+   "preset": "campo",
+   "semilla": 30,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "21 de diciembre de *1963*"
+    },
+    {
+     "t": 4.5,
+     "txt": "Manolo y 14 compañeros: *fusilados*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   }
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 81.75,
+   "fin": 85.76,
+   "personaje": "manolo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Tenía *32 años*"
+    },
+    {
+     "t": 2.37,
+     "txt": "El país, en *shock*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 85.76,
+   "fin": 91.38,
+   "personaje": "minerva",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Las tres hermanas"
+    },
+    {
+     "t": 2.63,
+     "txt": "y ahora el esposo de *Minerva*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 91.38,
+   "fin": 99.26,
+   "personaje": "triunviro",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El Triunvirato *no iba a durar*"
+    },
+    {
+     "t": 2.91,
+     "txt": "militares que querían a *Bosch* de vuelta"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 99.26,
+   "fin": 105.2,
+   "items": [
+    {
+     "icono": "compartir",
+     "txt": "Comparte",
+     "t": 1.28
+    },
+    {
+     "icono": "corazon",
+     "txt": "Síguenos",
+     "t": 2.91
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 105.2,
+   "fin": 108.7,
+   "palabra": "Historia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 99.31,
+   "fin": 104.31
+  }
+ ]
+}

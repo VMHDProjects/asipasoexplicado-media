@@ -1,0 +1,530 @@
+{
+ "serie": "historia",
+ "titulo": "De Bosch a Balaguer (1961–1978) · capítulo 1",
+ "duracion": 110.57,
+ "personajes": {
+  "trujillo": {
+   "nombre": "Trujillo",
+   "etiqueta": "Rafael L. Trujillo",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "banda": true,
+   "medallas": true,
+   "cejas": "fruncidas"
+  },
+  "ramfis": {
+   "nombre": "Ramfis Trujillo",
+   "etiqueta": "Ramfis Trujillo",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "lentes": true,
+   "cejas": "fruncidas",
+   "mirada": -0.3
+  },
+  "balaguer": {
+   "nombre": "Joaquín Balaguer",
+   "etiqueta": "Joaquín Balaguer",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "lentes": true,
+   "ropa": "levita",
+   "mirada": 0.2
+  },
+  "balaguer_mayor": {
+   "nombre": "Joaquín Balaguer",
+   "etiqueta": "Joaquín Balaguer",
+   "piel": "#D8A47A",
+   "pelo": "calvo",
+   "colorPelo": "#9A9086",
+   "lentes": true,
+   "ropa": "levita",
+   "edad": "mayor",
+   "mirada": -0.2
+  },
+  "bosch": {
+   "nombre": "Juan Bosch",
+   "etiqueta": "Juan Bosch",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#E6E1D8",
+   "ropa": "levita",
+   "colorRopa": "#3A3F4A",
+   "mirada": 0.3
+  },
+  "manolo": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo Tavárez Justo",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#7C8A5A"
+  },
+  "manolo_guerrilla": {
+   "nombre": "Manolo Tavárez Justo",
+   "etiqueta": "Manolo · 14 de Junio",
+   "piel": "#D4A07A",
+   "pelo": "corto",
+   "colorPelo": "#1F1712",
+   "bigote": "grueso",
+   "barba": "corta",
+   "ropa": "militar",
+   "colorRopa": "#5B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#5B6B45"
+  },
+  "minerva": {
+   "nombre": "Minerva Mirabal",
+   "etiqueta": "Minerva Mirabal",
+   "mujer": true,
+   "piel": "#D29A72",
+   "pelo": "largo",
+   "colorPelo": "#1D1612",
+   "ropa": "vestido",
+   "colorRopa": "#2F5D8A",
+   "mirada": 0.3
+  },
+  "triunviro": {
+   "nombre": "El Triunvirato",
+   "etiqueta": "El Triunvirato",
+   "piel": "#E0B08A",
+   "pelo": "corto",
+   "colorPelo": "#2A1D14",
+   "bigote": "grueso",
+   "lentes": true,
+   "ropa": "levita",
+   "colorRopa": "#2B2B3A",
+   "cejas": "fruncidas"
+  },
+  "general": {
+   "nombre": "San Isidro",
+   "etiqueta": "Los militares de San Isidro",
+   "piel": "#C48E65",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#4A5A3A",
+   "sombrero": "kepis",
+   "colorSombrero": "#4A5A3A",
+   "medallas": true,
+   "cejas": "fruncidas",
+   "mirada": -0.4
+  },
+  "caamano": {
+   "nombre": "Francisco Caamaño",
+   "etiqueta": "Coronel Francisco A. Caamaño Deñó",
+   "piel": "#C99367",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "militar",
+   "colorRopa": "#6B7A4A",
+   "cejas": "fruncidas",
+   "mirada": 0.3
+  },
+  "johnson": {
+   "nombre": "Lyndon Johnson",
+   "etiqueta": "Lyndon B. Johnson · EE. UU.",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9B2A6",
+   "ropa": "levita",
+   "colorRopa": "#2B3A55",
+   "edad": "mayor",
+   "mirada": -0.3
+  },
+  "marine": {
+   "nombre": "Marine",
+   "etiqueta": "Marines de EE. UU.",
+   "piel": "#F0C7A4",
+   "pelo": "corto",
+   "colorPelo": "#B9A48A",
+   "ropa": "militar",
+   "colorRopa": "#6B6B45",
+   "sombrero": "kepis",
+   "colorSombrero": "#6B6B45"
+  },
+  "guzman": {
+   "nombre": "Antonio Guzmán",
+   "etiqueta": "Antonio Guzmán",
+   "piel": "#D8A47A",
+   "pelo": "corto",
+   "colorPelo": "#CFC8BD",
+   "ropa": "levita",
+   "colorRopa": "#3A3F4A",
+   "lentes": true,
+   "edad": "mayor",
+   "mirada": 0.3
+  },
+  "campesino": {
+   "nombre": "Campesino",
+   "etiqueta": "",
+   "piel": "#8E5A3A",
+   "pelo": "corto",
+   "colorPelo": "#1A1410",
+   "bigote": "grueso",
+   "ropa": "camisa",
+   "colorRopa": "#C9B48A",
+   "sombrero": "sombrero"
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "cifra",
+   "inicio": 0.0,
+   "fin": 3.33,
+   "desde": 0,
+   "hasta": 31,
+   "sufijo": " años",
+   "texto": [
+    {
+     "t": 0.05,
+     "txt": "Esperando para *votar libres*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 3.33,
+   "fin": 8.3,
+   "personaje": "bosch",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Y el presidente que eligieron"
+    },
+    {
+     "t": 2.62,
+     "txt": "duró *siete meses*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 8.3,
+   "fin": 20.26,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo que vino *después*"
+    }
+   ],
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Un golpe de Estado",
+     "t": 3.0
+    },
+    {
+     "icono": "fuego",
+     "txt": "Una guerrilla en las montañas",
+     "t": 5.24
+    },
+    {
+     "icono": "espada",
+     "txt": "Una guerra en las calles",
+     "t": 7.48
+    },
+    {
+     "icono": "escudo",
+     "txt": "40,000 soldados extranjeros",
+     "t": 9.72
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 20.26,
+   "fin": 27.5,
+   "personaje": "trujillo",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "30 de mayo de *1961*"
+    },
+    {
+     "t": 4.78,
+     "txt": "Pero la dictadura *no se fue* con él"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 27.5,
+   "fin": 31.94,
+   "personaje": "ramfis",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Ramfis vuelve de Europa"
+    },
+    {
+     "t": 2.11,
+     "txt": "y toma el *ejército*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 31.94,
+   "fin": 38.27,
+   "preset": "pueblo",
+   "semilla": 12,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Los del ajusticiamiento: *perseguidos*"
+    },
+    {
+     "t": 3.36,
+     "txt": "casi todos terminaron *muertos*"
+    }
+   ],
+   "colores": {
+    "cielo": [
+     "#0B1430",
+     "#24345E"
+    ],
+    "sol": "#E8E4D0",
+    "nube": "#2E3B60",
+    "lejos": "#18223F",
+    "tierra": "#2A2018",
+    "hojas": "#1D3A28"
+   }
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 38.27,
+   "fin": 43.74,
+   "personaje": "balaguer",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Balaguer seguía en el *Palacio*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 43.74,
+   "fin": 51.91,
+   "preset": "puerto",
+   "semilla": 8,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Noviembre de *1961*"
+    },
+    {
+     "t": 4.0,
+     "txt": "los Trujillo se van *para siempre*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 51.91,
+   "fin": 61.55,
+   "preset": "puerto",
+   "semilla": 3,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Empiezan a *regresar*"
+    },
+    {
+     "t": 4.41,
+     "txt": "un escritor de cuentos"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 61.55,
+   "fin": 65.55,
+   "personaje": "bosch",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Juan Bosch*"
+    },
+    {
+     "t": 1.48,
+     "txt": "Sin dinero ni *ejército*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 65.55,
+   "fin": 70.27,
+   "items": [
+    {
+     "icono": "libro",
+     "txt": "Una radio",
+     "t": 1.03
+    },
+    {
+     "icono": "comentario",
+     "txt": "Una forma de hablar nueva",
+     "t": 2.49
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Tenía otra cosa"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 70.27,
+   "fin": 77.34,
+   "personaje": "campesino",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Le hablaba al campesino *como campesino*"
+    },
+    {
+     "t": 2.88,
+     "txt": "le explicaba *por qué era pobre*"
+    }
+   ]
+  },
+  {
+   "tipo": "mapa",
+   "inicio": 77.34,
+   "fin": 83.28,
+   "region": "hispaniola",
+   "puntos": [
+    {
+     "nombre": "Santiago",
+     "t": 1.26
+    },
+    {
+     "nombre": "La Vega",
+     "t": 2.06
+    },
+    {
+     "nombre": "San Juan",
+     "t": 2.85
+    },
+    {
+     "nombre": "Higüey",
+     "t": 3.64
+    },
+    {
+     "nombre": "Barahona",
+     "t": 4.44
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Pueblo por pueblo con el *PRD*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 83.28,
+   "fin": 92.05,
+   "preset": "pueblo",
+   "semilla": 7,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "20 de diciembre de *1962*"
+    },
+    {
+     "t": 4.32,
+     "txt": "primeras elecciones libres en *30 años*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 92.05,
+   "fin": 95.55,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Bosch",
+     "valor": 60,
+     "sufijo": "%",
+     "t": 0.8
+    },
+    {
+     "etiqueta": "Los demás",
+     "valor": 40,
+     "sufijo": "%",
+     "t": 1.69
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Casi *6 de cada 10* votos"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 95.55,
+   "fin": 102.29,
+   "personaje": "bosch",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "27 de febrero de *1963*"
+    },
+    {
+     "t": 3.28,
+     "txt": "se jura *presidente*"
+    }
+   ]
+  },
+  {
+   "tipo": "escenario",
+   "inicio": 102.29,
+   "fin": 107.07,
+   "preset": "pueblo",
+   "semilla": 4,
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "La noche de Trujillo"
+    },
+    {
+     "t": 2.29,
+     "txt": "por fin había *terminado*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 107.07,
+   "fin": 110.57,
+   "palabra": "Historia"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 53.53,
+   "fin": 58.03
+  }
+ ]
+}
