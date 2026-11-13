@@ -42,7 +42,25 @@ templates/<serie>/      plantilla de animación de cada serie (se hace una vez y
    La versión de YouTube lleva un cierre distinto.
 5. Subir al repo y programar en Metricool a la hora de la serie, un capítulo por día.
 
+## Prioridad de trabajo (por si se acaba el tiempo de la sesión)
+Trabajar siempre en este orden y dejar publicado/programado cada pieza apenas esté lista (no acumular):
+1. Lo que sale primero en el calendario: llenar el hueco más cercano (hoy, mañana) antes que lo lejano.
+   Una serie sin nada programado va antes que una que ya tiene días cubiertos.
+2. Dentro de una serie: primero el largo de YouTube (los reels dependen de él para ManyChat), luego el reel
+   del día más cercano, luego los demás en orden.
+3. Cada video terminado: comprimir → commit y push → programar en Metricool, enseguida. Nunca dejar varios
+   renders listos sin subir.
+4. Al empezar, mover los audios de `entrada/` a su carpeta y hacer push (así otra corrida no los duplica).
+5. Dejar `entrada/PENDIENTE.md` al día con lo que falta (serie, capítulo, paso) para que la próxima sesión
+   siga desde ahí sin repetir trabajo. Borrarlo cuando no quede nada.
+6. Ahorro de tiempo: reels con `--escala 0.6667 --workers 2`; largos con `--escala 0.6667` (se reescala a 1080p).
+   Revisar 3–4 cuadros de muestra antes del render completo, no el video entero.
+
 ## Reglas de animación (obligatorias)
+- Los videos NO pueden ser solo texto. Cada frase de la narración tiene una imagen en movimiento que la
+  acompaña (retrato, mapa, escenario, cuerpo, alimentos, cifra que cuenta, versículo que se escribe):
+  el motion graphic cuenta lo mismo que la voz y en el mismo momento, para retener al público.
+  Si una escena solo tendría texto, cambiarla por un tipo visual (titular solo como recurso puntual).
 - Nada de texto quieto. El texto en pantalla es corto y entra y sale al ritmo de la voz.
 - Cambio visual cada 3 a 5 segundos: retratos ilustrados en movimiento (bustos estilizados, nunca fotos),
   mapas que se trazan, escenas que se construyen, líneas de tiempo, transiciones.
