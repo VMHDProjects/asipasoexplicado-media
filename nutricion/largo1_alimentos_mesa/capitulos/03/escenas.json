@@ -1,0 +1,401 @@
+{
+ "serie": "nutricion",
+ "titulo": "Qué le pasa a tu cuerpo si comes esto todos los días · capítulo 3",
+ "duracion": 89.1,
+ "personajes": {
+  "medica": {
+   "nombre": "Nutricionista",
+   "etiqueta": "Lo que dicen los expertos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "La sabiduría de la abuela",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#FF9F1C",
+   "lentes": true
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "alimentos",
+   "inicio": 0.0,
+   "fin": 4.83,
+   "alimentos": [
+    {
+     "alimento": "arroz",
+     "etiqueta": "arroz",
+     "t": 0.89
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿*Arroz blanco* todos los días?"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 4.83,
+   "fin": 8.79,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Sin cáscara",
+     "t": 1.06
+    },
+    {
+     "icono": "x",
+     "txt": "Sin germen",
+     "t": 2.27
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 8.79,
+   "fin": 13.01,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Integral",
+     "valor": 100,
+     "t": 0.96
+    },
+    {
+     "etiqueta": "Blanco",
+     "valor": 25,
+     "t": 1.73
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Se fue casi toda la *fibra*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 13.01,
+   "fin": 18.61,
+   "organos": [
+    {
+     "id": "estomago",
+     "etiqueta": "Almidón → azúcar",
+     "t": 1.65,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Queda *almidón*"
+    },
+    {
+     "t": 2.27,
+     "txt": "se vuelve azúcar *muy rápido*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 18.61,
+   "fin": 27.56,
+   "organos": [
+    {
+     "id": "pancreas",
+     "etiqueta": "Insulina",
+     "t": 4.82,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Plato grande: el azúcar *se dispara*"
+    },
+    {
+     "t": 4.82,
+     "txt": "el páncreas suelta *insulina*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 27.56,
+   "fin": 32.79,
+   "items": [
+    {
+     "icono": "libro",
+     "txt": "Revista médica BMJ",
+     "t": 1.25
+    },
+    {
+     "icono": "libro",
+     "txt": "Varios estudios",
+     "t": 3.34
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 32.79,
+   "fin": 39.33,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Menos arroz",
+     "valor": 40,
+     "t": 0.72
+    },
+    {
+     "etiqueta": "Más arroz",
+     "valor": 80,
+     "t": 2.29
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.72,
+     "txt": "más riesgo de *diabetes tipo 2*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 39.33,
+   "fin": 44.89,
+   "alimentos": [
+    {
+     "alimento": "arroz",
+     "marca": "medida",
+     "etiqueta": "arroz",
+     "t": 0.82
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "No es *veneno*"
+    },
+    {
+     "t": 2.72,
+     "txt": "Importa *cuánto* y *con qué*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 44.89,
+   "fin": 49.19,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "1 taza",
+     "valor": 30,
+     "t": 0.97
+    },
+    {
+     "etiqueta": "Plato lleno",
+     "valor": 95,
+     "t": 2.14
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una *taza* no es un plato lleno"
+    }
+   ]
+  },
+  {
+   "tipo": "plato",
+   "inicio": 49.19,
+   "fin": 55.49,
+   "porciones": [
+    {
+     "parte": 0.25,
+     "alimento": "arroz",
+     "etiqueta": "Arroz",
+     "t": 0.78
+    },
+    {
+     "parte": 0.25,
+     "alimento": "habichuelas",
+     "etiqueta": "Habichuelas",
+     "t": 1.64
+    },
+    {
+     "parte": 0.5,
+     "alimento": "brocoli",
+     "etiqueta": "Ensalada",
+     "t": 2.51
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Con *habichuelas* y ensalada"
+    },
+    {
+     "t": 3.67,
+     "txt": "el azúcar sube *más despacio*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 55.49,
+   "fin": 64.77,
+   "items": [
+    {
+     "icono": "luna",
+     "txt": "En la nevera",
+     "t": 3.12
+    },
+    {
+     "icono": "escudo",
+     "txt": "Almidón resistente",
+     "t": 6.43
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Un *dato curioso*"
+    },
+    {
+     "t": 1.65,
+     "txt": "Arroz *frío* en la nevera"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 64.77,
+   "fin": 69.65,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Recién hecho",
+     "valor": 90,
+     "t": 1.08
+    },
+    {
+     "etiqueta": "Recalentado",
+     "valor": 72,
+     "t": 1.96
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Recalentado sube *un poco menos*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 69.65,
+   "fin": 75.94,
+   "items": [
+    {
+     "icono": "alerta",
+     "txt": "Horas fuera de la nevera",
+     "t": 1.65
+    },
+    {
+     "icono": "alerta",
+     "txt": "Puede intoxicar",
+     "t": 3.98
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Cuidado*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 75.94,
+   "fin": 79.53,
+   "items": [
+    {
+     "icono": "reloj",
+     "txt": "Si sobra, a la nevera",
+     "t": 0.8
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Guárdalo *en frío* pronto"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 79.53,
+   "fin": 85.6,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "etiqueta": "huevo",
+     "t": 0.47
+    },
+    {
+     "alimento": "platano_verde",
+     "etiqueta": "plátano verde",
+     "t": 1.28
+    },
+    {
+     "alimento": "arroz",
+     "etiqueta": "arroz",
+     "t": 2.1
+    },
+    {
+     "alimento": "habichuelas",
+     "etiqueta": "habichuelas",
+     "t": 2.91
+    },
+    {
+     "alimento": "aguacate",
+     "etiqueta": "aguacate",
+     "t": 3.72
+    },
+    {
+     "alimento": "avena",
+     "etiqueta": "avena",
+     "t": 4.54
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 85.6,
+   "fin": 89.1,
+   "palabra": "Nutrición"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 79.58,
+   "fin": 84.58
+  }
+ ]
+}
