@@ -1,0 +1,459 @@
+{
+ "serie": "nutricion",
+ "titulo": "Qué le pasa a tu cuerpo si comes esto todos los días · capítulo 6",
+ "duracion": 96.9,
+ "personajes": {
+  "medica": {
+   "nombre": "Nutricionista",
+   "etiqueta": "Lo que dicen los expertos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "La sabiduría de la abuela",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#FF9F1C",
+   "lentes": true
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "alimentos",
+   "inicio": 0.0,
+   "fin": 4.15,
+   "alimentos": [
+    {
+     "alimento": "avena",
+     "etiqueta": "avena",
+     "t": 0.84
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿*Avena* todos los días?"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 4.15,
+   "fin": 7.72,
+   "items": [
+    {
+     "icono": "estrella",
+     "txt": "Betaglucano",
+     "t": 1.26
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una fibra: *betaglucano*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 7.72,
+   "fin": 10.99,
+   "organos": [
+    {
+     "id": "intestino",
+     "etiqueta": "Forma un gel",
+     "t": 1.15,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "En el intestino forma un *gel*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 10.99,
+   "fin": 14.96,
+   "items": [
+    {
+     "icono": "x",
+     "txt": "Atrapa colesterol",
+     "t": 0.89
+    },
+    {
+     "icono": "check",
+     "txt": "Lo saca del cuerpo",
+     "t": 2.27
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 14.96,
+   "fin": 21.65,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Antes",
+     "valor": 85,
+     "t": 2.04
+    },
+    {
+     "etiqueta": "Con avena",
+     "valor": 65,
+     "t": 3.58
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Puede bajar el *colesterol malo*"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 21.65,
+   "fin": 27.27,
+   "desde": 0,
+   "hasta": 3,
+   "sufijo": " g",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Lo más estudiado"
+    },
+    {
+     "t": 2.43,
+     "txt": "*3 g* de betaglucano al día"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 27.27,
+   "fin": 33.79,
+   "organos": [
+    {
+     "id": "estomago",
+     "etiqueta": "Más despacio",
+     "t": 2.33,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El estómago se vacía *más despacio*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 33.79,
+   "fin": 38.85,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Lleno por más tiempo",
+     "t": 0.57
+    },
+    {
+     "icono": "gota",
+     "txt": "Azúcar con calma",
+     "t": 2.05
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 38.85,
+   "fin": 45.44,
+   "organos": [
+    {
+     "id": "intestino",
+     "etiqueta": "Bacterias buenas",
+     "t": 2.03,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Alimenta tus *bacterias buenas*"
+    },
+    {
+     "t": 3.87,
+     "txt": "y vas al baño *con regularidad*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 45.44,
+   "fin": 48.6,
+   "alimentos": [
+    {
+     "alimento": "avena",
+     "marca": "medida",
+     "etiqueta": "avena",
+     "t": 0.97
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Pero hay una *trampa*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 48.6,
+   "fin": 57.16,
+   "alimentos": [
+    {
+     "alimento": "avena",
+     "etiqueta": "avena",
+     "t": 1.0
+    },
+    {
+     "alimento": "leche_condensada",
+     "marca": "no",
+     "etiqueta": "leche condensada",
+     "t": 2.61
+    },
+    {
+     "alimento": "azucar",
+     "marca": "no",
+     "etiqueta": "azúcar",
+     "t": 4.23
+    }
+   ],
+   "texto": [
+    {
+     "t": 5.03,
+     "txt": "más azúcar que un *refresco*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 57.16,
+   "fin": 62.37,
+   "alimentos": [
+    {
+     "alimento": "avena",
+     "marca": "no",
+     "etiqueta": "instantánea",
+     "t": 1.14
+    },
+    {
+     "alimento": "azucar",
+     "marca": "",
+     "etiqueta": "azúcar",
+     "t": 2.56
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Las de sabores vienen *cargadas*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 62.37,
+   "fin": 70.98,
+   "alimentos": [
+    {
+     "alimento": "avena",
+     "marca": "si",
+     "etiqueta": "en hojuelas",
+     "t": 1.42
+    },
+    {
+     "alimento": "canela",
+     "marca": "",
+     "etiqueta": "canela",
+     "t": 3.06
+    },
+    {
+     "alimento": "guineo",
+     "marca": "",
+     "etiqueta": "guineo maduro",
+     "t": 4.69
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Avena sola*"
+    },
+    {
+     "t": 5.91,
+     "txt": "esa es la que *funciona*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 70.98,
+   "fin": 75.84,
+   "alimentos": [
+    {
+     "alimento": "huevo",
+     "etiqueta": "huevo",
+     "t": 0.2
+    },
+    {
+     "alimento": "platano_verde",
+     "etiqueta": "plátano verde",
+     "t": 0.86
+    },
+    {
+     "alimento": "arroz",
+     "etiqueta": "arroz",
+     "t": 1.51
+    },
+    {
+     "alimento": "habichuelas",
+     "etiqueta": "habichuelas",
+     "t": 2.17
+    },
+    {
+     "alimento": "aguacate",
+     "etiqueta": "aguacate",
+     "t": 2.82
+    },
+    {
+     "alimento": "avena",
+     "etiqueta": "avena",
+     "t": 3.48
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 75.84,
+   "fin": 78.48,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Cuánto comes",
+     "valor": 70,
+     "t": 0.64
+    },
+    {
+     "etiqueta": "Cómo lo preparas",
+     "valor": 70,
+     "t": 1.18
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Ninguno es *bueno o malo* solo"
+    }
+   ]
+  },
+  {
+   "tipo": "plato",
+   "inicio": 78.48,
+   "fin": 82.51,
+   "porciones": [
+    {
+     "parte": 0.5,
+     "alimento": "brocoli",
+     "etiqueta": "Vegetales",
+     "t": 0.56
+    },
+    {
+     "parte": 0.25,
+     "alimento": "pollo",
+     "etiqueta": "Proteína",
+     "t": 1.29
+    },
+    {
+     "parte": 0.25,
+     "alimento": "arroz",
+     "etiqueta": "Carbohidrato",
+     "t": 2.01
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Cuánto* comes y *cómo* lo preparas"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 82.51,
+   "fin": 90.56,
+   "alimentos": [
+    {
+     "alimento": "salami",
+     "etiqueta": "salami",
+     "t": 1.72
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "En casi todos los *desayunos*"
+    },
+    {
+     "t": 4.37,
+     "txt": "la OMS lo puso junto al *tabaco*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 90.56,
+   "fin": 93.4,
+   "alimentos": [
+    {
+     "alimento": "salami",
+     "marca": "no",
+     "etiqueta": "salami",
+     "t": 0.65
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿Y si comes *salami*?"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 93.4,
+   "fin": 96.9,
+   "palabra": "Nutrición"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 46.7,
+   "fin": 51.2
+  }
+ ]
+}
