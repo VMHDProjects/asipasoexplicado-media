@@ -1,0 +1,411 @@
+{
+ "serie": "nutricion",
+ "titulo": "Qué le pasa a tu cuerpo si comes esto todos los días · capítulo 4",
+ "duracion": 90.78,
+ "personajes": {
+  "medica": {
+   "nombre": "Nutricionista",
+   "etiqueta": "Lo que dicen los expertos",
+   "piel": "#B47E55",
+   "pelo": "recogido",
+   "colorPelo": "#2A1D14",
+   "mujer": true,
+   "ropa": "bata",
+   "lentes": true
+  },
+  "abuela": {
+   "nombre": "Abuela",
+   "etiqueta": "La sabiduría de la abuela",
+   "piel": "#A8744C",
+   "pelo": "recogido",
+   "colorPelo": "#E6E1D8",
+   "mujer": true,
+   "edad": "mayor",
+   "ropa": "vestido",
+   "colorRopa": "#FF9F1C",
+   "lentes": true
+  }
+ },
+ "escenas": [
+  {
+   "tipo": "alimentos",
+   "inicio": 0.0,
+   "fin": 4.49,
+   "alimentos": [
+    {
+     "alimento": "habichuelas",
+     "etiqueta": "habichuelas",
+     "t": 0.86
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "¿*Habichuelas* todos los días?"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 4.49,
+   "fin": 10.02,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "Proteína",
+     "t": 1.44
+    },
+    {
+     "icono": "check",
+     "txt": "Fibra",
+     "t": 2.69
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Proteína y fibra* juntas"
+    }
+   ]
+  },
+  {
+   "tipo": "cifra",
+   "inicio": 10.02,
+   "fin": 16.77,
+   "desde": 0,
+   "hasta": 15,
+   "sufijo": " g",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Una taza de *habichuelas rojas*"
+    },
+    {
+     "t": 3.34,
+     "txt": "*15 g* de proteína, más de 10 de fibra"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 16.77,
+   "fin": 23.83,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "Colesterol",
+     "t": 1.33,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "intestino",
+     "etiqueta": "Intestino",
+     "t": 3.04,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "pancreas",
+     "etiqueta": "Azúcar",
+     "t": 4.74,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Baja el *colesterol*"
+    },
+    {
+     "t": 3.04,
+     "txt": "cuida el *intestino*"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 23.83,
+   "fin": 30.25,
+   "organos": [
+    {
+     "id": "corazon",
+     "etiqueta": "Sangre",
+     "t": 2.25,
+     "color": "#FF9F1C"
+    },
+    {
+     "id": "pulmones",
+     "etiqueta": "Oxígeno",
+     "t": 4.02,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "También traen *hierro*"
+    },
+    {
+     "t": 3.13,
+     "txt": "para llevar *oxígeno*"
+    }
+   ]
+  },
+  {
+   "tipo": "comparar",
+   "inicio": 30.25,
+   "fin": 33.72,
+   "max": 100,
+   "barras": [
+    {
+     "etiqueta": "Hierro de la carne",
+     "valor": 85,
+     "t": 0.8
+    },
+    {
+     "etiqueta": "Hierro de plantas",
+     "valor": 40,
+     "t": 1.55
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Cuesta *más absorberlo*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 33.72,
+   "fin": 40.5,
+   "alimentos": [
+    {
+     "alimento": "limon",
+     "marca": "si",
+     "etiqueta": "limón",
+     "t": 2.19
+    },
+    {
+     "alimento": "tomate",
+     "marca": "si",
+     "etiqueta": "tomate",
+     "t": 3.32
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El truco: *vitamina C*"
+    },
+    {
+     "t": 3.61,
+     "txt": "limón, tomate o ají"
+    }
+   ]
+  },
+  {
+   "tipo": "cuerpo",
+   "inicio": 40.5,
+   "fin": 49.41,
+   "organos": [
+    {
+     "id": "intestino",
+     "etiqueta": "Fermentación",
+     "t": 3.92,
+     "color": "#FF9F1C"
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Los gases*"
+    },
+    {
+     "t": 1.45,
+     "txt": "Azúcares que *no digieres*"
+    },
+    {
+     "t": 5.68,
+     "txt": "las bacterias los *fermentan*"
+    }
+   ]
+  },
+  {
+   "tipo": "linea_tiempo",
+   "inicio": 49.41,
+   "fin": 54.23,
+   "hitos": [
+    {
+     "anio": "Noche",
+     "txt": "En remojo",
+     "t": 0.63
+    },
+    {
+     "anio": "Mañana",
+     "txt": "Bota esa agua",
+     "t": 2.77
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 54.23,
+   "fin": 58.69,
+   "items": [
+    {
+     "icono": "check",
+     "txt": "El intestino se acostumbra",
+     "t": 1.39
+    },
+    {
+     "icono": "check",
+     "txt": "Menos gases",
+     "t": 3.17
+    }
+   ]
+  },
+  {
+   "tipo": "plato",
+   "inicio": 58.69,
+   "fin": 62.35,
+   "porciones": [
+    {
+     "parte": 0.5,
+     "alimento": "arroz",
+     "etiqueta": "Arroz",
+     "t": 0.83
+    },
+    {
+     "parte": 0.5,
+     "alimento": "habichuelas",
+     "etiqueta": "Habichuelas",
+     "t": 1.77
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "El *arroz con habichuelas*"
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "inicio": 62.35,
+   "fin": 70.06,
+   "items": [
+    {
+     "icono": "mas",
+     "txt": "Al arroz le falta uno",
+     "t": 0.91
+    },
+    {
+     "icono": "mas",
+     "txt": "La habichuela lo tiene",
+     "t": 2.68
+    },
+    {
+     "icono": "mas",
+     "txt": "Y al revés",
+     "t": 4.81
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 70.06,
+   "fin": 74.34,
+   "alimentos": [
+    {
+     "alimento": "arroz",
+     "etiqueta": "arroz",
+     "t": 0.57
+    },
+    {
+     "alimento": "habichuelas",
+     "etiqueta": "habichuelas",
+     "t": 1.32
+    },
+    {
+     "alimento": "pollo",
+     "marca": "si",
+     "etiqueta": "como la carne",
+     "t": 2.44
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Juntos: *proteína completa*"
+    }
+   ]
+  },
+  {
+   "tipo": "retrato",
+   "inicio": 74.34,
+   "fin": 76.82,
+   "personaje": "abuela",
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Las abuelas lo hacían *sin saberlo*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 76.82,
+   "fin": 84.37,
+   "alimentos": [
+    {
+     "alimento": "habichuelas",
+     "marca": "no",
+     "etiqueta": "crudas",
+     "t": 2.33
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "*Advertencia*"
+    },
+    {
+     "t": 3.39,
+     "txt": "mal cocidas: *vómitos y diarrea*"
+    }
+   ]
+  },
+  {
+   "tipo": "alimentos",
+   "inicio": 84.37,
+   "fin": 87.28,
+   "alimentos": [
+    {
+     "alimento": "habichuelas",
+     "marca": "si",
+     "etiqueta": "bien blanditas",
+     "t": 0.55
+    }
+   ],
+   "texto": [
+    {
+     "t": 0.2,
+     "txt": "Siempre *bien cocidas*"
+    }
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "inicio": 87.28,
+   "fin": 90.78,
+   "palabra": "Nutrición"
+  }
+ ],
+ "superpuestos": [
+  {
+   "tipo": "compartir",
+   "inicio": 43.64,
+   "fin": 48.14
+  }
+ ]
+}
