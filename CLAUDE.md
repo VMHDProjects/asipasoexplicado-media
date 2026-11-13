@@ -32,6 +32,9 @@ templates/<serie>/      plantilla de animación de cada serie (se hace una vez y
 ```
 
 ## Flujo por episodio
+0. Los audios llegan a `entrada/` (historia.mp3, biblia.mp3, salud.mp3, nutricion.mp3). Una tarea programada revisa
+   cada 3 horas; al procesar un audio se mueve a `<serie>/<episodio>/audio.mp3`. El guion está en el documento del plan
+   (Claude Docs, doc id d0a86059-4a85-42d5-a16a-0e01dc939d1a); se guarda como `guion.txt`.
 1. Leer `guion.txt` y `audio.mp3`; marcar los tiempos de cada frase y armar `escenas.json`.
 2. Renderizar el largo con la plantilla de la serie → `largo_youtube.mp4`. Se sube a YouTube PRIMERO.
 3. Cortar en capítulos verticales de 1:50 a 2:30 → `capitulos/`.
