@@ -1,0 +1,2606 @@
+{
+ "serie": "gta",
+ "titulo": "GTA 6: Lo que NADIE te ha contado antes del lanzamiento",
+ "duracion": 440.03,
+ "escenas": [
+  {
+   "inicio": 0.0,
+   "fondo": "franjas",
+   "tipo": "telefono",
+   "variante": "martillo",
+   "txt": "1er TRÁILER · ¿LO NOTASTE?"
+  },
+  {
+   "inicio": 4.59,
+   "fondo": "ciudad",
+   "tipo": "telefono",
+   "variante": "martillo",
+   "txt": "LA MUJER DEL MARTILLO"
+  },
+  {
+   "inicio": 8.89,
+   "fondo": "tech",
+   "tipo": "icono",
+   "icono": "mando",
+   "txt": "¿INVENTADA PARA EL JUEGO?"
+  },
+  {
+   "inicio": 11.28,
+   "fondo": "rayos",
+   "tipo": "titulo",
+   "txt": "*NO* LO ES",
+   "paleta": [
+    [
+     120,
+     0,
+     20
+    ],
+    [
+     240,
+     40,
+     60
+    ]
+   ]
+  },
+  {
+   "inicio": 12.68,
+   "fondo": "ciudad",
+   "tipo": "telefono",
+   "variante": "martillo",
+   "txt": "VIDA REAL · FLORIDA",
+   "rot": 4
+  },
+  {
+   "inicio": 15.3,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "foco": "todo",
+   "titulo": "FLORIDA",
+   "marcar": [
+    "vicecity"
+   ]
+  },
+  {
+   "inicio": 17.8,
+   "fondo": "circuitos",
+   "tipo": "icono",
+   "icono": "candado",
+   "txt": "SECRETO Nº 1"
+  },
+  {
+   "inicio": 21.79,
+   "fondo": "grid",
+   "tipo": "icono",
+   "icono": "pin",
+   "txt": "¿DÓNDE OCURRE?"
+  },
+  {
+   "inicio": 25.1,
+   "fondo": "anillos",
+   "tipo": "pareja",
+   "medio": "pregunta",
+   "a": "¿?",
+   "b": "¿?",
+   "txt": "¿QUIÉNES SON?"
+  },
+  {
+   "inicio": 28.41,
+   "fondo": "tech",
+   "tipo": "icono",
+   "icono": "arena",
+   "txt": "¿POR QUÉ TANTA ESPERA?"
+  },
+  {
+   "inicio": 31.13,
+   "fondo": "rayos",
+   "tipo": "icono",
+   "icono": "ojo",
+   "txt": "LO QUE ESCONDEN"
+  },
+  {
+   "inicio": 34.15,
+   "fondo": "franjas",
+   "tipo": "titulo",
+   "txt": "QUÉDATE HASTA EL *FINAL*",
+   "icono": "reloj"
+  },
+  {
+   "inicio": 38.29,
+   "fondo": "tech",
+   "tipo": "icono",
+   "icono": "reloj",
+   "txt": "VOLVAMOS ATRÁS"
+  },
+  {
+   "inicio": 41.0,
+   "fondo": "grid",
+   "tipo": "fecha",
+   "mes": "SEP",
+   "dia": 17,
+   "anio": 2013,
+   "txt": "SALE GTA V"
+  },
+  {
+   "inicio": 43.57,
+   "fondo": "ciudad",
+   "tipo": "icono",
+   "icono": "mando",
+   "txt": "GTA V · 2013"
+  },
+  {
+   "inicio": 46.51,
+   "fondo": "rayos",
+   "tipo": "contador",
+   "desde": 0,
+   "hasta": 1000,
+   "prefijo": "$",
+   "sufijo": " M",
+   "txt": "EN SOLO 3 DÍAS",
+   "icono": "dinero"
+  },
+  {
+   "inicio": 50.33,
+   "fondo": "franjas",
+   "tipo": "icono",
+   "icono": "trofeo",
+   "txt": "EL MAYOR ESTRENO DE SU ÉPOCA"
+  },
+  {
+   "inicio": 53.98,
+   "fondo": "tech",
+   "tipo": "icono",
+   "icono": "pelicula",
+   "txt": "MÁS QUE CUALQUIER PELÍCULA"
+  },
+  {
+   "inicio": 55.65,
+   "fondo": "anillos",
+   "tipo": "icono",
+   "icono": "vinilo",
+   "txt": "MÁS QUE CUALQUIER DISCO"
+  },
+  {
+   "inicio": 57.38,
+   "fondo": "rayos",
+   "tipo": "titulo",
+   "txt": "LO QUE *NADIE* ESPERABA"
+  },
+  {
+   "inicio": 60.68,
+   "fondo": "circuitos",
+   "tipo": "icono",
+   "icono": "silencio",
+   "txt": "SILENCIO TOTAL"
+  },
+  {
+   "inicio": 62.57,
+   "fondo": "grid",
+   "tipo": "linea_tiempo",
+   "hitos": [
+    {
+     "anio": "1 AÑO",
+     "txt": "2014",
+     "t": 0.1
+    },
+    {
+     "anio": "5 AÑOS",
+     "txt": "2018",
+     "t": 1.0
+    },
+    {
+     "anio": "10 AÑOS",
+     "txt": "2023",
+     "t": 2.0
+    }
+   ]
+  },
+  {
+   "inicio": 66.16,
+   "fondo": "ciudad",
+   "tipo": "galeria",
+   "items": [
+    {
+     "silueta": "hombre"
+    },
+    {
+     "silueta": "mujer"
+    },
+    {
+     "silueta": "gorra"
+    },
+    {
+     "silueta": "hombre"
+    },
+    {
+     "silueta": "mujer"
+    }
+   ],
+   "txt": "UNA GENERACIÓN ENTERA"
+  },
+  {
+   "inicio": 69.35,
+   "fondo": "anillos",
+   "tipo": "titulo",
+   "txt": "¿Y EL *SEIS*?",
+   "icono": "pregunta"
+  },
+  {
+   "inicio": 72.26,
+   "fondo": "tech",
+   "tipo": "icono",
+   "icono": "reloj",
+   "txt": "POR FIN... PERO NO ASÍ"
+  },
+  {
+   "inicio": 76.63,
+   "fondo": "grid",
+   "tipo": "fecha",
+   "mes": "DIC",
+   "dia": 5,
+   "anio": 2023,
+   "txt": "TRÁILER 1 · PLANEADO"
+  },
+  {
+   "inicio": 81.29,
+   "fondo": "circuitos",
+   "tipo": "icono",
+   "icono": "laptop",
+   "txt": "¡FILTRADO!",
+   "paleta": [
+    [
+     240,
+     40,
+     60
+    ],
+    [
+     255,
+     138,
+     0
+    ]
+   ]
+  },
+  {
+   "inicio": 84.49,
+   "fondo": "franjas",
+   "tipo": "icono",
+   "icono": "reloj",
+   "txt": "HORAS ANTES DE LO PREVISTO"
+  },
+  {
+   "inicio": 88.59,
+   "fondo": "rayos",
+   "tipo": "titulo",
+   "txt": "¿Y SABES QUÉ *PASÓ*?"
+  },
+  {
+   "inicio": 89.88,
+   "fondo": "anillos",
+   "tipo": "icono",
+   "icono": "cohete",
+   "txt": "NADA LO FRENÓ"
+  },
+  {
+   "inicio": 91.78,
+   "fondo": "tech",
+   "tipo": "icono",
+   "icono": "play",
+   "txt": "TRÁILER 1"
+  },
+  {
+   "inicio": 95.33,
+   "fondo": "rayos",
+   "tipo": "contador",
+   "desde": 0,
+   "hasta": 200,
+   "prefijo": "+",
+   "sufijo": " M",
+   "txt": "REPRODUCCIONES",
+   "icono": "ojo",
+   "dur": 2.2
+  },
+  {
+   "inicio": 98.43,
+   "fondo": "franjas",
+   "tipo": "icono",
+   "icono": "trofeo",
+   "txt": "DE LOS MÁS VISTOS DE LA HISTORIA"
+  },
+  {
+   "inicio": 100.48,
+   "fondo": "ciudad",
+   "tipo": "icono",
+   "icono": "arena",
+   "txt": "LA ESPERA SIGUE"
+  },
+  {
+   "inicio": 103.19,
+   "fondo": "grid",
+   "tipo": "linea_tiempo",
+   "hitos": [
+    {
+     "anio": "2025",
+     "txt": "PROMETIDO",
+     "t": 0.1,
+     "tachado": 1.6
+    },
+    {
+     "anio": "MAY 2026",
+     "txt": "RETRASO",
+     "t": 2.47,
+     "tachado": 4.07
+    },
+    {
+     "anio": "19 NOV 2026",
+     "txt": "LA FECHA",
+     "t": 5.66
+    }
+   ]
+  },
+  {
+   "inicio": 111.72,
+   "fondo": "rayos",
+   "tipo": "fecha",
+   "mes": "NOV",
+   "dia": 19,
+   "anio": 2026,
+   "txt": "EL DÍA",
+   "sello": "CONFIRMADO",
+   "tsello": 2.6
+  },
+  {
+   "inicio": 115.37,
+   "fondo": "franjas",
+   "tipo": "titulo",
+   "txt": "19.11.2026",
+   "sub": "ESTA VEZ VA EN SERIO",
+   "tsub": 1.3
+  },
+  {
+   "inicio": 119.53,
+   "fondo": "circuitos",
+   "tipo": "icono",
+   "icono": "pin",
+   "txt": "¿A DÓNDE NOS LLEVA?"
+  },
+  {
+   "inicio": 121.54,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "foco": "todo",
+   "revelar": 2.5,
+   "titulo": "UNA FLORIDA MÁS LOCA",
+   "ttitulo": 2.6
+  },
+  {
+   "inicio": 127.05,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "foco": "todo",
+   "titulo": "*LEONIDA*",
+   "ttitulo": 0.1
+  },
+  {
+   "inicio": 128.66,
+   "fondo": "ciudad",
+   "tipo": "icono",
+   "icono": "palmera",
+   "txt": "SU CORAZÓN..."
+  },
+  {
+   "inicio": 132.41,
+   "fondo": "ciudad",
+   "tipo": "titulo",
+   "txt": "*VICE CITY*",
+   "paleta": [
+    [
+     255,
+     46,
+     136
+    ],
+    [
+     25,
+     227,
+     255
+    ]
+   ],
+   "size": 120
+  },
+  {
+   "inicio": 133.64,
+   "fondo": "grid",
+   "tipo": "linea_tiempo",
+   "hitos": [
+    {
+     "anio": "2002",
+     "txt": "VICE CITY",
+     "t": 0.1
+    },
+    {
+     "anio": "2026",
+     "txt": "GIGANTE Y MODERNA",
+     "t": 1.6
+    }
+   ]
+  },
+  {
+   "inicio": 137.1,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "desde": "todo",
+   "foco": "vicecity",
+   "zoom": 2.6
+  },
+  {
+   "inicio": 140.88,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "desde": "vicecity",
+   "foco": "todo",
+   "titulo": "UN ESTADO COMPLETO",
+   "ttitulo": 1.2
+  },
+  {
+   "inicio": 144.1,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "desde": "todo",
+   "foco": "cayos",
+   "zoom": 2.4
+  },
+  {
+   "inicio": 146.89,
+   "fondo": "franjas",
+   "tipo": "icono",
+   "icono": "sol",
+   "txt": "AGUAS TURQUESA"
+  },
+  {
+   "inicio": 149.41,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "desde": "cayos",
+   "foco": "grassrivers"
+  },
+  {
+   "inicio": 152.49,
+   "fondo": "circuitos",
+   "tipo": "icono",
+   "icono": "caiman",
+   "txt": "LOS CAIMANES NO SON DECORACIÓN"
+  },
+  {
+   "inicio": 155.32,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "desde": "grassrivers",
+   "foco": "portgellhorn"
+  },
+  {
+   "inicio": 160.02,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "desde": "portgellhorn",
+   "foco": "ambrosia"
+  },
+  {
+   "inicio": 163.86,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "desde": "ambrosia",
+   "foco": "kalaga"
+  },
+  {
+   "inicio": 166.76,
+   "fondo": "franjas",
+   "tipo": "icono",
+   "icono": "montana",
+   "txt": "BOSQUES Y MONTAÑAS"
+  },
+  {
+   "inicio": 168.99,
+   "fondo": "anillos",
+   "tipo": "iconos",
+   "items": [
+    {
+     "icono": "ciudad",
+     "txt": "CIUDAD",
+     "t": 0
+    },
+    {
+     "icono": "sol",
+     "txt": "PLAYA",
+     "t": 0.35
+    },
+    {
+     "icono": "caiman",
+     "txt": "PANTANO",
+     "t": 0.75
+    },
+    {
+     "icono": "campo",
+     "txt": "CAMPO",
+     "t": 1.2
+    },
+    {
+     "icono": "montana",
+     "txt": "MONTAÑA",
+     "t": 1.65
+    }
+   ]
+  },
+  {
+   "inicio": 171.5,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "desde": "kalaga",
+   "foco": "todo",
+   "marcar": [
+    "kalaga",
+    "portgellhorn",
+    "ambrosia",
+    "grassrivers",
+    "vicecity",
+    "cayos"
+   ],
+   "paso": 0.12,
+   "titulo": "TODO *TUYO*",
+   "ttitulo": 1.7
+  },
+  {
+   "inicio": 174.63,
+   "fondo": "rayos",
+   "tipo": "compartir",
+   "t2": 2.6
+  },
+  {
+   "inicio": 181.29,
+   "fondo": "franjas",
+   "tipo": "titulo",
+   "txt": "LO QUE *CAMBIA* TODO"
+  },
+  {
+   "inicio": 183.45,
+   "fondo": "anillos",
+   "tipo": "ficha",
+   "silueta": "mujer",
+   "nombre": "¿QUIÉN ES?",
+   "rol": "1ª PROTAGONISTA MUJER",
+   "color": [
+    255,
+    46,
+    136
+   ],
+   "extra": "pregunta"
+  },
+  {
+   "inicio": 188.36,
+   "fondo": "ciudad",
+   "tipo": "ficha",
+   "silueta": "mujer",
+   "nombre": "LUCIA CAMINOS",
+   "rol": "PROTAGONISTA",
+   "color": [
+    255,
+    46,
+    136
+   ]
+  },
+  {
+   "inicio": 190.53,
+   "fondo": "franjas",
+   "tipo": "icono",
+   "icono": "guantes",
+   "txt": "PELEA DESDE NIÑA"
+  },
+  {
+   "inicio": 193.32,
+   "fondo": "tech",
+   "tipo": "icono",
+   "icono": "rejas",
+   "txt": "TERMINÓ EN PRISIÓN",
+   "paleta": [
+    [
+     240,
+     40,
+     60
+    ],
+    [
+     123,
+     44,
+     255
+    ]
+   ]
+  },
+  {
+   "inicio": 196.47,
+   "fondo": "grid",
+   "tipo": "ficha",
+   "silueta": "mujer",
+   "nombre": "LUCIA CAMINOS",
+   "rol": "META: NO VOLVER A CAER",
+   "color": [
+    255,
+    46,
+    136
+   ],
+   "datos": [
+    {
+     "t": 1.6,
+     "txt": "SALE DE PRISIÓN"
+    }
+   ]
+  },
+  {
+   "inicio": 200.63,
+   "fondo": "circuitos",
+   "tipo": "ficha",
+   "silueta": "hombre",
+   "nombre": "???",
+   "rol": "OTROS PLANES",
+   "color": [
+    25,
+    227,
+    255
+   ],
+   "extra": "pregunta"
+  },
+  {
+   "inicio": 204.6,
+   "fondo": "ciudad",
+   "tipo": "ficha",
+   "silueta": "hombre",
+   "nombre": "JASON DUVAL",
+   "rol": "PROTAGONISTA",
+   "color": [
+    25,
+    227,
+    255
+   ]
+  },
+  {
+   "inicio": 205.92,
+   "fondo": "tech",
+   "tipo": "iconos",
+   "items": [
+    {
+     "icono": "cartas",
+     "txt": "ESTAFADORES",
+     "t": 0
+    },
+    {
+     "icono": "estrella",
+     "txt": "EJÉRCITO",
+     "t": 2.0
+    },
+    {
+     "icono": "palmera",
+     "txt": "LOS CAYOS",
+     "t": 3.6
+    },
+    {
+     "icono": "maletin",
+     "txt": "TRABAJOS SUCIOS",
+     "t": 5.2
+    }
+   ]
+  },
+  {
+   "inicio": 213.64,
+   "fondo": "anillos",
+   "tipo": "pareja",
+   "txt": "DOS PERSONAS *ROTAS*",
+   "medio": "corazon"
+  },
+  {
+   "inicio": 216.15,
+   "fondo": "ciudad",
+   "tipo": "icono",
+   "icono": "maletin",
+   "txt": "UN TRABAJO SENCILLO..."
+  },
+  {
+   "inicio": 219.53,
+   "fondo": "rayos",
+   "tipo": "icono",
+   "icono": "sirena",
+   "txt": "...SALE MAL",
+   "paleta": [
+    [
+     120,
+     0,
+     20
+    ],
+    [
+     240,
+     40,
+     60
+    ]
+   ]
+  },
+  {
+   "inicio": 223.23,
+   "fondo": "franjas",
+   "tipo": "pareja",
+   "a": "BONNIE",
+   "b": "CLYDE",
+   "txt": "LA PAREJA CRIMINAL MÁS FAMOSA",
+   "medio": "rayo"
+  },
+  {
+   "inicio": 226.25,
+   "fondo": "grid",
+   "tipo": "icono",
+   "icono": "dinero",
+   "txt": "ROBOS EN LOS AÑOS 30"
+  },
+  {
+   "inicio": 228.53,
+   "fondo": "tech",
+   "tipo": "icono",
+   "icono": "lapida",
+   "txt": "NO TERMINÓ BIEN"
+  },
+  {
+   "inicio": 232.03,
+   "fondo": "anillos",
+   "tipo": "pareja",
+   "txt": "¿TERMINARÁ *IGUAL*?",
+   "medio": "pregunta"
+  },
+  {
+   "inicio": 233.81,
+   "fondo": "grid",
+   "tipo": "pareja",
+   "txt": "NO ESTÁN *SOLOS*",
+   "medio": "rayo"
+  },
+  {
+   "inicio": 236.37,
+   "fondo": "tech",
+   "tipo": "galeria",
+   "items": [
+    {
+     "silueta": "gorra",
+     "txt": "CAL"
+    },
+    {
+     "silueta": "hombre",
+     "txt": "BOOBIE"
+    },
+    {
+     "silueta": "hombre",
+     "txt": "DRE'QUAN"
+    },
+    {
+     "silueta": "dos_mujeres",
+     "txt": "REAL DIMEZ"
+    },
+    {
+     "silueta": "hombre",
+     "txt": "RAUL"
+    },
+    {
+     "silueta": "gorra",
+     "txt": "BRIAN"
+    }
+   ],
+   "paso": 0.7,
+   "txt": "CADA UNO ESCONDE ALGO"
+  },
+  {
+   "inicio": 241.43,
+   "fondo": "circuitos",
+   "tipo": "ficha",
+   "silueta": "gorra",
+   "nombre": "CAL HAMPTON",
+   "rol": "AMIGO DE JASON",
+   "color": [
+    60,
+    240,
+    140
+   ],
+   "datos": [
+    {
+     "t": 2.2,
+     "txt": "ESCUCHA LA RADIO DE LA POLICÍA"
+    },
+    {
+     "t": 4.6,
+     "txt": "NO CONFÍA NI EN SU SOMBRA"
+    }
+   ]
+  },
+  {
+   "inicio": 248.63,
+   "fondo": "ciudad",
+   "tipo": "ficha",
+   "silueta": "hombre",
+   "nombre": "BOOBIE IKE",
+   "rol": "DUEÑO DE MEDIO VICE CITY",
+   "color": [
+    255,
+    212,
+    0
+   ]
+  },
+  {
+   "inicio": 251.86,
+   "fondo": "franjas",
+   "tipo": "iconos",
+   "items": [
+    {
+     "icono": "club",
+     "txt": "CLUB",
+     "t": 0
+    },
+    {
+     "icono": "microfono",
+     "txt": "ESTUDIO",
+     "t": 0.7
+    },
+    {
+     "icono": "edificios",
+     "txt": "PROPIEDADES",
+     "t": 1.5
+    }
+   ]
+  },
+  {
+   "inicio": 256.01,
+   "fondo": "tech",
+   "tipo": "ficha",
+   "silueta": "hombre",
+   "nombre": "DRE'QUAN PRIEST",
+   "rol": "PRODUCTOR",
+   "color": [
+    123,
+    44,
+    255
+   ],
+   "datos": [
+    {
+     "t": 2.6,
+     "txt": "QUIERE UNA MÁQUINA DE ÉXITOS"
+    }
+   ]
+  },
+  {
+   "inicio": 261.5,
+   "fondo": "anillos",
+   "tipo": "ficha",
+   "silueta": "dos_mujeres",
+   "nombre": "REAL DIMEZ",
+   "rol": "DÚO DE RAPERAS",
+   "color": [
+    255,
+    46,
+    136
+   ],
+   "datos": [
+    {
+     "t": 2.2,
+     "txt": "A CUALQUIER PRECIO"
+    }
+   ]
+  },
+  {
+   "inicio": 266.1,
+   "fondo": "grid",
+   "tipo": "ficha",
+   "silueta": "hombre",
+   "nombre": "RAUL BAUTISTA",
+   "rol": "LADRÓN DE BANCOS",
+   "color": [
+    255,
+    138,
+    0
+   ],
+   "datos": [
+    {
+     "t": 2.0,
+     "txt": "EL MÁS EXPERIMENTADO"
+    }
+   ]
+  },
+  {
+   "inicio": 270.26,
+   "fondo": "circuitos",
+   "tipo": "ficha",
+   "silueta": "gorra",
+   "nombre": "BRIAN HEDER",
+   "rol": "TRAFICANTE VETERANO",
+   "color": [
+    240,
+    40,
+    60
+   ],
+   "datos": [
+    {
+     "t": 2.4,
+     "txt": "JASON TRABAJA PARA ÉL"
+    }
+   ]
+  },
+  {
+   "inicio": 275.64,
+   "fondo": "rayos",
+   "tipo": "titulo",
+   "txt": "¿EL *ALIADO*...",
+   "paleta": [
+    [
+     123,
+     44,
+     255
+    ],
+    [
+     255,
+     46,
+     136
+    ]
+   ]
+  },
+  {
+   "inicio": 278.91,
+   "fondo": "rayos",
+   "tipo": "titulo",
+   "txt": "...ES EL *TRAIDOR*?",
+   "paleta": [
+    [
+     120,
+     0,
+     20
+    ],
+    [
+     240,
+     40,
+     60
+    ]
+   ]
+  },
+  {
+   "inicio": 281.95,
+   "fondo": "anillos",
+   "tipo": "galeria",
+   "items": [
+    {
+     "silueta": "gorra"
+    },
+    {
+     "silueta": "hombre"
+    },
+    {
+     "silueta": "hombre"
+    },
+    {
+     "silueta": "dos_mujeres"
+    },
+    {
+     "silueta": "hombre"
+    },
+    {
+     "silueta": "gorra"
+    }
+   ],
+   "paso": 0.08,
+   "preguntas": 0.8,
+   "txt": "MIRA BIEN ESTAS CARAS"
+  },
+  {
+   "inicio": 284.54,
+   "fondo": "ciudad",
+   "tipo": "telefono",
+   "variante": "martillo",
+   "txt": "¿RECUERDAS ESTO?"
+  },
+  {
+   "inicio": 288.14,
+   "fondo": "tech",
+   "tipo": "telefono",
+   "variantes": [
+    "pelea",
+    "martillo",
+    "fiesta"
+   ],
+   "txt": "VIDEOS VERTICALES EN EL TRÁILER"
+  },
+  {
+   "inicio": 291.84,
+   "fondo": "franjas",
+   "tipo": "iconos",
+   "items": [
+    {
+     "icono": "corazon",
+     "txt": "LIKES",
+     "t": 0
+    },
+    {
+     "icono": "comentario",
+     "txt": "COMENTARIOS",
+     "t": 0.5
+    },
+    {
+     "icono": "compartir",
+     "txt": "VIRAL",
+     "t": 1.0
+    }
+   ]
+  },
+  {
+   "inicio": 295.81,
+   "fondo": "grid",
+   "tipo": "telefono",
+   "variante": "pelea",
+   "txt": "PELEAS EN LA CALLE"
+  },
+  {
+   "inicio": 300.25,
+   "fondo": "circuitos",
+   "tipo": "telefono",
+   "variante": "caiman",
+   "txt": "ANIMALES EXÓTICOS"
+  },
+  {
+   "inicio": 303.14,
+   "fondo": "rayos",
+   "tipo": "telefono",
+   "variante": "fiesta",
+   "txt": "FIESTAS EN LA PLAYA"
+  },
+  {
+   "inicio": 306.04,
+   "fondo": "ciudad",
+   "tipo": "telefono",
+   "variantes": [
+    "martillo",
+    "martillo"
+   ],
+   "etiquetas": [
+    "REAL",
+    "JUEGO"
+   ],
+   "txt": "CASI CUADRO POR CUADRO"
+  },
+  {
+   "inicio": 309.77,
+   "fondo": "grid",
+   "tipo": "fecha",
+   "mes": "VIDEO",
+   "dia": "2017",
+   "anio": "VIRAL",
+   "txt": "EL VIDEO ORIGINAL"
+  },
+  {
+   "inicio": 312.62,
+   "fondo": "mapa",
+   "tipo": "mapa",
+   "foco": "todo",
+   "titulo": "NO SOLO UN MAPA",
+   "ttitulo": 0.1
+  },
+  {
+   "inicio": 314.77,
+   "fondo": "anillos",
+   "tipo": "telefono",
+   "variantes": [
+    "fiesta",
+    "pelea",
+    "caiman"
+   ],
+   "txt": "UN ESPEJO DE TUS REDES"
+  },
+  {
+   "inicio": 319.53,
+   "fondo": "tech",
+   "tipo": "icono",
+   "icono": "play",
+   "txt": "TRÁILER 2"
+  },
+  {
+   "inicio": 323.01,
+   "fondo": "grid",
+   "tipo": "fecha",
+   "mes": "MAYO",
+   "dia": "2025",
+   "anio": "TRÁILER 2",
+   "txt": "CUENTA NUEVA EN TIKTOK"
+  },
+  {
+   "inicio": 325.6,
+   "fondo": "rayos",
+   "tipo": "contador",
+   "desde": 0,
+   "hasta": 1000000,
+   "txt": "SEGUIDORES CON UN SOLO VIDEO",
+   "icono": "seguir",
+   "dur": 2.2
+  },
+  {
+   "inicio": 329.67,
+   "fondo": "franjas",
+   "tipo": "icono",
+   "icono": "billetera",
+   "txt": "EL BOLSILLO"
+  },
+  {
+   "inicio": 332.69,
+   "fondo": "ciudad",
+   "tipo": "precio",
+   "items": [
+    {
+     "txt": "$79.99",
+     "sub": "ESTÁNDAR",
+     "t": 0.2
+    }
+   ]
+  },
+  {
+   "inicio": 337.15,
+   "fondo": "tech",
+   "tipo": "barras",
+   "barras": [
+    {
+     "etiqueta": "La mayoría",
+     "valor": 69.99,
+     "prefijo": "$",
+     "dec": 2,
+     "t": 0
+    },
+    {
+     "etiqueta": "GTA 6",
+     "valor": 79.99,
+     "prefijo": "$",
+     "dec": 2,
+     "t": 0.4,
+     "color": [
+      255,
+      212,
+      0
+     ]
+    }
+   ],
+   "max": 85,
+   "txt": "+$10",
+   "ttxt": 1.4
+  },
+  {
+   "inicio": 340.38,
+   "fondo": "grid",
+   "tipo": "precio",
+   "items": [
+    {
+     "txt": "$79.99",
+     "sub": "ESTÁNDAR",
+     "t": 0
+    },
+    {
+     "txt": "$99.99",
+     "sub": "ULTIMATE",
+     "t": 0.5,
+     "color": [
+      255,
+      46,
+      136
+     ]
+    }
+   ]
+  },
+  {
+   "inicio": 343.88,
+   "fondo": "rayos",
+   "tipo": "icono",
+   "icono": "prohibido",
+   "txt": "NO HABRÁ MÁS EDICIONES",
+   "paleta": [
+    [
+     120,
+     0,
+     20
+    ],
+    [
+     240,
+     40,
+     60
+    ]
+   ]
+  },
+  {
+   "inicio": 347.59,
+   "fondo": "franjas",
+   "tipo": "iconos",
+   "items": [
+    {
+     "icono": "trofeo",
+     "txt": "ESPECIAL",
+     "t": 0,
+     "tachado": 0.5
+    },
+    {
+     "icono": "caja",
+     "txt": "COLECCIONISTA",
+     "t": 0.35,
+     "tachado": 0.9
+    }
+   ]
+  },
+  {
+   "inicio": 349.9,
+   "fondo": "circuitos",
+   "tipo": "icono",
+   "icono": "caja",
+   "txt": "VERSIÓN FÍSICA"
+  },
+  {
+   "inicio": 354.01,
+   "fondo": "franjas",
+   "tipo": "icono",
+   "icono": "disco",
+   "txt": "SIN DISCO",
+   "tachado": 0.5
+  },
+  {
+   "inicio": 357.61,
+   "fondo": "tech",
+   "tipo": "icono",
+   "icono": "codigo",
+   "txt": "SOLO UN CÓDIGO"
+  },
+  {
+   "inicio": 358.93,
+   "fondo": "grid",
+   "tipo": "descarga",
+   "icono": "mando",
+   "txt": "PRECARGA DESDE EL 12 NOV",
+   "dur": 3.2
+  },
+  {
+   "inicio": 363.24,
+   "fondo": "ciudad",
+   "tipo": "icono",
+   "icono": "mando",
+   "txt": "JUEGAS DESDE EL MINUTO 1"
+  },
+  {
+   "inicio": 367.7,
+   "fondo": "circuitos",
+   "tipo": "titulo",
+   "txt": "LO QUE *ESCONDEN*",
+   "icono": "candado"
+  },
+  {
+   "inicio": 370.18,
+   "fondo": "rayos",
+   "tipo": "icono",
+   "icono": "ojo",
+   "txt": "3 SECRETOS"
+  },
+  {
+   "inicio": 372.54,
+   "fondo": "tech",
+   "tipo": "titulo",
+   "txt": "1 · LA *COMPUTADORA*",
+   "icono": "pc"
+  },
+  {
+   "inicio": 374.52,
+   "fondo": "grid",
+   "tipo": "iconos",
+   "items": [
+    {
+     "icono": "consola",
+     "txt": "PLAYSTATION 5",
+     "t": 0.3
+    },
+    {
+     "icono": "consola2",
+     "txt": "XBOX SERIES",
+     "t": 1.6
+    }
+   ]
+  },
+  {
+   "inicio": 378.76,
+   "fondo": "rayos",
+   "tipo": "icono",
+   "icono": "pc",
+   "txt": "PC: NI UNA PALABRA",
+   "tachado": 0.6,
+   "paleta": [
+    [
+     120,
+     0,
+     20
+    ],
+    [
+     240,
+     40,
+     60
+    ]
+   ]
+  },
+  {
+   "inicio": 380.93,
+   "fondo": "grid",
+   "tipo": "linea_tiempo",
+   "hitos": [
+    {
+     "anio": "2013",
+     "txt": "GTA V CONSOLAS",
+     "t": 0.3
+    },
+    {
+     "anio": "2015",
+     "txt": "GTA V EN PC",
+     "t": 1.8
+    },
+    {
+     "anio": "2018",
+     "txt": "RDR 2 CONSOLAS",
+     "t": 3.6
+    },
+    {
+     "anio": "2019",
+     "txt": "RDR 2 EN PC",
+     "t": 5.0
+    }
+   ]
+  },
+  {
+   "inicio": 389.31,
+   "fondo": "anillos",
+   "tipo": "titulo",
+   "txt": "2 · MODO EN *LÍNEA*",
+   "icono": "globo"
+  },
+  {
+   "inicio": 391.56,
+   "fondo": "ciudad",
+   "tipo": "icono",
+   "icono": "dinero",
+   "txt": "MÁQUINA DE HACER DINERO"
+  },
+  {
+   "inicio": 394.42,
+   "fondo": "tech",
+   "tipo": "contador",
+   "desde": 0,
+   "hasta": 10,
+   "prefijo": "+",
+   "sufijo": " AÑOS",
+   "txt": "GTA ONLINE"
+  },
+  {
+   "inicio": 397.46,
+   "fondo": "circuitos",
+   "tipo": "iconos",
+   "items": [
+    {
+     "icono": "reloj",
+     "txt": "¿CUÁNDO?",
+     "t": 0.3
+    },
+    {
+     "icono": "globo",
+     "txt": "¿CÓMO?",
+     "t": 1.6
+    }
+   ]
+  },
+  {
+   "inicio": 402.82,
+   "fondo": "anillos",
+   "tipo": "icono",
+   "icono": "silencio",
+   "txt": "ESE SILENCIO DICE MUCHO"
+  },
+  {
+   "inicio": 404.7,
+   "fondo": "rayos",
+   "tipo": "titulo",
+   "txt": "3 · EL *FINAL*",
+   "icono": "lapida"
+  },
+  {
+   "inicio": 407.16,
+   "fondo": "grid",
+   "tipo": "pareja",
+   "txt": "¿CÓMO TERMINA?",
+   "medio": "pregunta"
+  },
+  {
+   "inicio": 410.36,
+   "fondo": "franjas",
+   "tipo": "titulo",
+   "txt": "*NADIE* LO SABE"
+  },
+  {
+   "inicio": 412.7,
+   "fondo": "rayos",
+   "tipo": "fecha",
+   "mes": "NOV",
+   "dia": 19,
+   "anio": 2026,
+   "txt": "EMPIEZA UNA NUEVA ERA",
+   "sello": "YA LLEGA",
+   "tsello": 2.0,
+   "colorSello": [
+    255,
+    212,
+    0
+   ]
+  },
+  {
+   "inicio": 417.94,
+   "fondo": "tech",
+   "tipo": "iconos",
+   "items": [
+    {
+     "icono": "candado",
+     "txt": "SECRETOS",
+     "t": 0
+    },
+    {
+     "icono": "mando",
+     "txt": "TRUCOS",
+     "t": 0.9
+    },
+    {
+     "icono": "pin",
+     "txt": "LUGARES",
+     "t": 2.0
+    },
+    {
+     "icono": "libro",
+     "txt": "HISTORIAS",
+     "t": 3.2
+    }
+   ]
+  },
+  {
+   "inicio": 423.72,
+   "fondo": "grid",
+   "tipo": "titulo",
+   "txt": "GTA 6 *EXPLICADO*",
+   "sub": "CADA DÍA",
+   "tsub": 0.8
+  },
+  {
+   "inicio": 427.86,
+   "fondo": "rayos",
+   "tipo": "cierre",
+   "tclick": 1.6
+  },
+  {
+   "inicio": 431.99,
+   "fondo": "circuitos",
+   "tipo": "icono",
+   "icono": "comentario",
+   "txt": "DÉJAME TU RESPUESTA"
+  },
+  {
+   "inicio": 434.32,
+   "fondo": "anillos",
+   "tipo": "pareja",
+   "txt": "¿JUNTOS O *TRAICIÓN*?",
+   "medio": "pregunta"
+  },
+  {
+   "inicio": 438.07,
+   "fondo": "grid",
+   "tipo": "titulo",
+   "txt": "NOS VEMOS EN EL *PRÓXIMO*",
+   "icono": "mando"
+  }
+ ],
+ "subs": [
+  {
+   "ini": 0.0,
+   "fin": 2.13,
+   "txt": "Hay un detalle en el primer tráiler"
+  },
+  {
+   "ini": 2.13,
+   "fin": 4.42,
+   "txt": "de *GTA seis* que casi *nadie* notó."
+  },
+  {
+   "ini": 4.71,
+   "fin": 6.49,
+   "txt": "Una *mujer,* en medio de la calle,"
+  },
+  {
+   "ini": 6.49,
+   "fin": 8.79,
+   "txt": "persigue a alguien con un *martillo.*"
+  },
+  {
+   "ini": 9.01,
+   "fin": 11.21,
+   "txt": "Parece una escena inventada para el juego."
+  },
+  {
+   "ini": 11.4,
+   "fin": 12.62,
+   "txt": "Pero no lo es."
+  },
+  {
+   "ini": 12.8,
+   "fin": 14.82,
+   "txt": "Esa escena ya pasó en la vida *real,*"
+  },
+  {
+   "ini": 14.82,
+   "fin": 16.72,
+   "txt": "y la grabó alguien con su celular"
+  },
+  {
+   "ini": 16.72,
+   "fin": 17.7,
+   "txt": "en *Florida.*"
+  },
+  {
+   "ini": 17.92,
+   "fin": 19.56,
+   "txt": "Y ese es solo el primero de los"
+  },
+  {
+   "ini": 19.56,
+   "fin": 21.66,
+   "txt": "*secretos* que te voy a contar hoy."
+  },
+  {
+   "ini": 21.91,
+   "fin": 24.15,
+   "txt": "En los próximos minutos vas a saber"
+  },
+  {
+   "ini": 24.15,
+   "fin": 25.55,
+   "txt": "dónde ocurre *GTA seis,*"
+  },
+  {
+   "ini": 25.55,
+   "fin": 28.11,
+   "txt": "quiénes son de verdad sus protagonistas,"
+  },
+  {
+   "ini": 28.11,
+   "fin": 30.22,
+   "txt": "por qué *Rockstar* nos hizo esperar"
+  },
+  {
+   "ini": 30.22,
+   "fin": 32.45,
+   "txt": "tanto, y lo que la compañía todavía"
+  },
+  {
+   "ini": 32.45,
+   "fin": 34.08,
+   "txt": "no quiere que sepas."
+  },
+  {
+   "ini": 34.27,
+   "fin": 35.61,
+   "txt": "Quédate hasta el *final,*"
+  },
+  {
+   "ini": 35.61,
+   "fin": 38.18,
+   "txt": "porque lo último es lo más *importante.*"
+  },
+  {
+   "ini": 38.41,
+   "fin": 40.13,
+   "txt": "Para entender la locura que viene,"
+  },
+  {
+   "ini": 40.13,
+   "fin": 41.7,
+   "txt": "hay que volver al *diecisiete* de"
+  },
+  {
+   "ini": 41.7,
+   "fin": 43.47,
+   "txt": "*septiembre* de *dos mil trece.*"
+  },
+  {
+   "ini": 43.69,
+   "fin": 45.42,
+   "txt": "Ese día salió *GTA cinco,*"
+  },
+  {
+   "ini": 45.42,
+   "fin": 48.01,
+   "txt": "y en solo *tres* días vendió alrededor"
+  },
+  {
+   "ini": 48.01,
+   "fin": 50.3,
+   "txt": "de *mil millones* de *dólares.*"
+  },
+  {
+   "ini": 50.45,
+   "fin": 52.45,
+   "txt": "Fue el lanzamiento de entretenimiento"
+  },
+  {
+   "ini": 52.45,
+   "fin": 54.04,
+   "txt": "más grande de su época."
+  },
+  {
+   "ini": 54.1,
+   "fin": 55.74,
+   "txt": "Más que cualquier película."
+  },
+  {
+   "ini": 55.77,
+   "fin": 57.29,
+   "txt": "Más que cualquier *disco.*"
+  },
+  {
+   "ini": 57.5,
+   "fin": 59.51,
+   "txt": "Y después de eso, *Rockstar* hizo"
+  },
+  {
+   "ini": 59.51,
+   "fin": 61.07,
+   "txt": "algo que *nadie* esperaba:"
+  },
+  {
+   "ini": 61.07,
+   "fin": 62.52,
+   "txt": "se quedó *callada.*"
+  },
+  {
+   "ini": 62.69,
+   "fin": 65.0,
+   "txt": "Pasaron un año, *cinco* años,"
+  },
+  {
+   "ini": 65.0,
+   "fin": 66.2,
+   "txt": "*diez* años."
+  },
+  {
+   "ini": 66.28,
+   "fin": 68.2,
+   "txt": "Una generación completa creció"
+  },
+  {
+   "ini": 68.2,
+   "fin": 70.13,
+   "txt": "jugando *GTA cinco* sin saber si"
+  },
+  {
+   "ini": 70.13,
+   "fin": 72.21,
+   "txt": "algún día llegaría el *seis.*"
+  },
+  {
+   "ini": 72.38,
+   "fin": 74.17,
+   "txt": "Y cuando por fin llegó el momento,"
+  },
+  {
+   "ini": 74.17,
+   "fin": 76.57,
+   "txt": "ni siquiera salió como *Rockstar* quería."
+  },
+  {
+   "ini": 76.75,
+   "fin": 78.48,
+   "txt": "El primer tráiler estaba planeado"
+  },
+  {
+   "ini": 78.48,
+   "fin": 80.2,
+   "txt": "para el *cinco* de *diciembre* de *dos*"
+  },
+  {
+   "ini": 80.2,
+   "fin": 81.34,
+   "txt": "*mil veintitrés.*"
+  },
+  {
+   "ini": 81.41,
+   "fin": 83.08,
+   "txt": "Pero la noche antes, alguien lo"
+  },
+  {
+   "ini": 83.08,
+   "fin": 84.46,
+   "txt": "*filtró* en internet."
+  },
+  {
+   "ini": 84.61,
+   "fin": 86.66,
+   "txt": "*Rockstar* tuvo que correr y publicarlo"
+  },
+  {
+   "ini": 86.66,
+   "fin": 88.51,
+   "txt": "horas antes de lo previsto."
+  },
+  {
+   "ini": 88.71,
+   "fin": 89.87,
+   "txt": "¿Y sabes qué pasó?"
+  },
+  {
+   "ini": 90.0,
+   "fin": 91.74,
+   "txt": "Ni la filtración lo frenó."
+  },
+  {
+   "ini": 91.9,
+   "fin": 93.7,
+   "txt": "Ese video se convirtió en uno de"
+  },
+  {
+   "ini": 93.7,
+   "fin": 95.5,
+   "txt": "los tráileres de videojuegos más"
+  },
+  {
+   "ini": 95.5,
+   "fin": 97.36,
+   "txt": "vistos de la historia de *YouTube,*"
+  },
+  {
+   "ini": 97.36,
+   "fin": 99.05,
+   "txt": "con más de *doscientos millones*"
+  },
+  {
+   "ini": 99.05,
+   "fin": 100.41,
+   "txt": "de reproducciones."
+  },
+  {
+   "ini": 100.6,
+   "fin": 103.1,
+   "txt": "Eso sí, la espera no terminó ahí."
+  },
+  {
+   "ini": 103.31,
+   "fin": 105.68,
+   "txt": "Primero prometieron *dos mil veinticinco.*"
+  },
+  {
+   "ini": 105.78,
+   "fin": 107.64,
+   "txt": "Luego lo movieron a *mayo* de *dos*"
+  },
+  {
+   "ini": 107.64,
+   "fin": 108.89,
+   "txt": "*mil veintiséis.*"
+  },
+  {
+   "ini": 108.97,
+   "fin": 111.15,
+   "txt": "Y en *noviembre* de *dos mil veinticinco*"
+  },
+  {
+   "ini": 111.15,
+   "fin": 113.03,
+   "txt": "llegó el golpe *final: diecinueve*"
+  },
+  {
+   "ini": 113.03,
+   "fin": 115.44,
+   "txt": "de *noviembre* de *dos mil veintiséis.*"
+  },
+  {
+   "ini": 115.49,
+   "fin": 116.69,
+   "txt": "Esa es la *fecha.*"
+  },
+  {
+   "ini": 116.8,
+   "fin": 119.43,
+   "txt": "Y esta vez, todo indica que va en *serio.*"
+  },
+  {
+   "ini": 119.65,
+   "fin": 121.5,
+   "txt": "Ahora, ¿a dónde nos lleva?"
+  },
+  {
+   "ini": 121.66,
+   "fin": 123.61,
+   "txt": "Imagínate que te sueltan en *Florida,*"
+  },
+  {
+   "ini": 123.61,
+   "fin": 125.24,
+   "txt": "pero en una *Florida* donde todo"
+  },
+  {
+   "ini": 125.24,
+   "fin": 126.94,
+   "txt": "está un poquito más *loco.*"
+  },
+  {
+   "ini": 127.17,
+   "fin": 128.69,
+   "txt": "Eso es *Leonida.*"
+  },
+  {
+   "ini": 128.78,
+   "fin": 130.38,
+   "txt": "Y su corazón es una ciudad que"
+  },
+  {
+   "ini": 130.38,
+   "fin": 132.48,
+   "txt": "los veteranos conocen de memoria:"
+  },
+  {
+   "ini": 132.53,
+   "fin": 133.59,
+   "txt": "*Vice City.*"
+  },
+  {
+   "ini": 133.76,
+   "fin": 135.93,
+   "txt": "La misma ciudad de *neón* y *palmeras*"
+  },
+  {
+   "ini": 135.93,
+   "fin": 137.52,
+   "txt": "que vimos en *dos mil dos,*"
+  },
+  {
+   "ini": 137.52,
+   "fin": 138.92,
+   "txt": "pero ahora gigantesca,"
+  },
+  {
+   "ini": 138.92,
+   "fin": 140.8,
+   "txt": "moderna y llena de vida."
+  },
+  {
+   "ini": 141.0,
+   "fin": 142.38,
+   "txt": "Y no es solo una ciudad."
+  },
+  {
+   "ini": 142.46,
+   "fin": 144.09,
+   "txt": "Es un *estado* completo."
+  },
+  {
+   "ini": 144.22,
+   "fin": 146.21,
+   "txt": "Al sur, los *Cayos* de *Leonida,*"
+  },
+  {
+   "ini": 146.21,
+   "fin": 149.43,
+   "txt": "con islas, puentes y aguas color *turquesa.*"
+  },
+  {
+   "ini": 149.53,
+   "fin": 151.45,
+   "txt": "En el centro, los *Grassrivers,*"
+  },
+  {
+   "ini": 151.45,
+   "fin": 153.76,
+   "txt": "un pantano enorme donde los *caimanes*"
+  },
+  {
+   "ini": 153.76,
+   "fin": 155.26,
+   "txt": "no son decoración."
+  },
+  {
+   "ini": 155.44,
+   "fin": 157.02,
+   "txt": "Más allá, Port *Gellhorn,*"
+  },
+  {
+   "ini": 157.02,
+   "fin": 160.14,
+   "txt": "una ciudad costera que vivió tiempos mejores."
+  },
+  {
+   "ini": 160.14,
+   "fin": 162.27,
+   "txt": "Luego *Ambrosia,* con sus fábricas"
+  },
+  {
+   "ini": 162.27,
+   "fin": 163.75,
+   "txt": "y su aire pesado."
+  },
+  {
+   "ini": 163.98,
+   "fin": 165.94,
+   "txt": "Y al norte, el parque nacional"
+  },
+  {
+   "ini": 165.94,
+   "fin": 168.97,
+   "txt": "del monte *Kalaga,* con bosques y montañas."
+  },
+  {
+   "ini": 169.11,
+   "fin": 170.38,
+   "txt": "Ciudad, playa, pantano,"
+  },
+  {
+   "ini": 170.38,
+   "fin": 171.62,
+   "txt": "campo y montaña."
+  },
+  {
+   "ini": 171.62,
+   "fin": 173.15,
+   "txt": "Todo conectado."
+  },
+  {
+   "ini": 173.39,
+   "fin": 174.58,
+   "txt": "Todo tuyo."
+  },
+  {
+   "ini": 174.75,
+   "fin": 177.04,
+   "txt": "Si te está gustando este contenido,"
+  },
+  {
+   "ini": 177.04,
+   "fin": 179.26,
+   "txt": "no olvides compartirlo y seguirnos"
+  },
+  {
+   "ini": 179.26,
+   "fin": 181.38,
+   "txt": "para llegar a más personas."
+  },
+  {
+   "ini": 181.41,
+   "fin": 183.39,
+   "txt": "Y aquí viene lo que cambia todo."
+  },
+  {
+   "ini": 183.57,
+   "fin": 185.63,
+   "txt": "Por primera vez en la *era* moderna"
+  },
+  {
+   "ini": 185.63,
+   "fin": 188.29,
+   "txt": "de *GTA,* la protagonista es una *mujer.*"
+  },
+  {
+   "ini": 188.48,
+   "fin": 190.54,
+   "txt": "Se llama *Lucia Caminos.*"
+  },
+  {
+   "ini": 190.65,
+   "fin": 192.5,
+   "txt": "Su padre le enseñó a pelear desde"
+  },
+  {
+   "ini": 192.5,
+   "fin": 194.3,
+   "txt": "pequeña, y la vida la empujó tan"
+  },
+  {
+   "ini": 194.3,
+   "fin": 196.34,
+   "txt": "fuerte que terminó en *prisión.*"
+  },
+  {
+   "ini": 196.59,
+   "fin": 198.91,
+   "txt": "Cuando sale, solo quiere una cosa:"
+  },
+  {
+   "ini": 198.91,
+   "fin": 200.42,
+   "txt": "no volver a *caer.*"
+  },
+  {
+   "ini": 200.75,
+   "fin": 202.72,
+   "txt": "Pero el destino tiene otros planes,"
+  },
+  {
+   "ini": 202.72,
+   "fin": 204.65,
+   "txt": "y esos planes tienen nombre:"
+  },
+  {
+   "ini": 204.72,
+   "fin": 205.99,
+   "txt": "*Jason Duval.*"
+  },
+  {
+   "ini": 206.04,
+   "fin": 208.19,
+   "txt": "*Jason* creció rodeado de estafadores,"
+  },
+  {
+   "ini": 208.19,
+   "fin": 210.04,
+   "txt": "pasó por el ejército, y terminó"
+  },
+  {
+   "ini": 210.04,
+   "fin": 211.83,
+   "txt": "en los *Cayos* haciendo trabajos"
+  },
+  {
+   "ini": 211.83,
+   "fin": 213.61,
+   "txt": "sucios para traficantes."
+  },
+  {
+   "ini": 213.76,
+   "fin": 216.09,
+   "txt": "*Dos* personas *rotas* que se encuentran."
+  },
+  {
+   "ini": 216.27,
+   "fin": 218.34,
+   "txt": "Y entonces ocurre lo que siempre"
+  },
+  {
+   "ini": 218.34,
+   "fin": 220.53,
+   "txt": "ocurre en *GTA:* un trabajo sencillo"
+  },
+  {
+   "ini": 220.53,
+   "fin": 223.14,
+   "txt": "sale mal, y ya no hay vuelta atrás."
+  },
+  {
+   "ini": 223.35,
+   "fin": 225.04,
+   "txt": "Muchos los comparan con *Bonnie*"
+  },
+  {
+   "ini": 225.04,
+   "fin": 226.78,
+   "txt": "y *Clyde,* la pareja criminal más"
+  },
+  {
+   "ini": 226.78,
+   "fin": 228.54,
+   "txt": "famosa de Estados Unidos."
+  },
+  {
+   "ini": 228.65,
+   "fin": 230.11,
+   "txt": "Y si conoces esa historia,"
+  },
+  {
+   "ini": 230.11,
+   "fin": 231.91,
+   "txt": "sabes que no terminó bien."
+  },
+  {
+   "ini": 232.15,
+   "fin": 233.91,
+   "txt": "¿Terminará igual la de ellos?"
+  },
+  {
+   "ini": 233.93,
+   "fin": 236.38,
+   "txt": "Pero *Lucia* y *Jason* no están solos."
+  },
+  {
+   "ini": 236.49,
+   "fin": 238.31,
+   "txt": "*Rockstar* ya presentó a la gente"
+  },
+  {
+   "ini": 238.31,
+   "fin": 240.18,
+   "txt": "que los rodea, y cada uno parece"
+  },
+  {
+   "ini": 240.18,
+   "fin": 241.35,
+   "txt": "esconder algo."
+  },
+  {
+   "ini": 241.55,
+   "fin": 243.35,
+   "txt": "*Cal Hampton,* el amigo de *Jason,*"
+  },
+  {
+   "ini": 243.35,
+   "fin": 245.32,
+   "txt": "un tipo que pasa el día escuchando"
+  },
+  {
+   "ini": 245.32,
+   "fin": 247.29,
+   "txt": "la radio de la policía y no confía"
+  },
+  {
+   "ini": 247.29,
+   "fin": 248.57,
+   "txt": "ni en su sombra."
+  },
+  {
+   "ini": 248.75,
+   "fin": 251.03,
+   "txt": "*Boobie Ike,* el dueño de medio *Vice*"
+  },
+  {
+   "ini": 251.03,
+   "fin": 253.58,
+   "txt": "*City:* un club, un estudio de grabación"
+  },
+  {
+   "ini": 253.58,
+   "fin": 256.01,
+   "txt": "y propiedades por todas partes."
+  },
+  {
+   "ini": 256.13,
+   "fin": 258.08,
+   "txt": "Dre'Quan *Priest,* el productor que"
+  },
+  {
+   "ini": 258.08,
+   "fin": 259.91,
+   "txt": "quiere convertir ese estudio en"
+  },
+  {
+   "ini": 259.91,
+   "fin": 261.56,
+   "txt": "una máquina de éxitos."
+  },
+  {
+   "ini": 261.62,
+   "fin": 263.69,
+   "txt": "*Real Dimez, dos* raperas que buscan"
+  },
+  {
+   "ini": 263.69,
+   "fin": 266.11,
+   "txt": "su oportunidad a cualquier precio."
+  },
+  {
+   "ini": 266.22,
+   "fin": 268.19,
+   "txt": "*Raul Bautista,* un ladrón de bancos"
+  },
+  {
+   "ini": 268.19,
+   "fin": 270.28,
+   "txt": "con más experiencia que *nadie.*"
+  },
+  {
+   "ini": 270.38,
+   "fin": 273.29,
+   "txt": "Y *Brian Heder,* el traficante veterano"
+  },
+  {
+   "ini": 273.29,
+   "fin": 275.61,
+   "txt": "para quien trabaja *Jason.*"
+  },
+  {
+   "ini": 275.76,
+   "fin": 277.35,
+   "txt": "Ahora piensa esto: en la historia"
+  },
+  {
+   "ini": 277.35,
+   "fin": 278.88,
+   "txt": "de *GTA,* ¿cuántas veces el *aliado*"
+  },
+  {
+   "ini": 278.88,
+   "fin": 280.47,
+   "txt": "del principio ha terminado siendo"
+  },
+  {
+   "ini": 280.47,
+   "fin": 281.83,
+   "txt": "el *traidor* del *final?*"
+  },
+  {
+   "ini": 282.07,
+   "fin": 282.98,
+   "txt": "Exacto."
+  },
+  {
+   "ini": 283.1,
+   "fin": 284.61,
+   "txt": "Mira bien estas *caras.*"
+  },
+  {
+   "ini": 284.66,
+   "fin": 286.6,
+   "txt": "¿Recuerdas a la *mujer* del *martillo?*"
+  },
+  {
+   "ini": 286.72,
+   "fin": 288.25,
+   "txt": "Aquí está la explicación."
+  },
+  {
+   "ini": 288.26,
+   "fin": 290.34,
+   "txt": "En el primer tráiler aparecen videos"
+  },
+  {
+   "ini": 290.34,
+   "fin": 292.07,
+   "txt": "verticales, igualitos a los de"
+  },
+  {
+   "ini": 292.07,
+   "fin": 293.91,
+   "txt": "*TikTok* o *Instagram,* grabados por"
+  },
+  {
+   "ini": 293.91,
+   "fin": 295.76,
+   "txt": "los ciudadanos de *Leonida.*"
+  },
+  {
+   "ini": 295.93,
+   "fin": 297.98,
+   "txt": "Y muchos son copias casi exactas"
+  },
+  {
+   "ini": 297.98,
+   "fin": 300.29,
+   "txt": "de videos virales reales de *Florida:*"
+  },
+  {
+   "ini": 300.29,
+   "fin": 302.72,
+   "txt": "peleas en la calle, gente con animales"
+  },
+  {
+   "ini": 302.72,
+   "fin": 304.77,
+   "txt": "exóticos, fiestas descontroladas"
+  },
+  {
+   "ini": 304.77,
+   "fin": 305.89,
+   "txt": "en la playa."
+  },
+  {
+   "ini": 306.16,
+   "fin": 308.11,
+   "txt": "La escena del *martillo* recrea casi"
+  },
+  {
+   "ini": 308.11,
+   "fin": 309.89,
+   "txt": "cuadro por cuadro un video *real*"
+  },
+  {
+   "ini": 309.89,
+   "fin": 312.53,
+   "txt": "que se hizo *viral* en *dos mil diecisiete.*"
+  },
+  {
+   "ini": 312.74,
+   "fin": 314.82,
+   "txt": "*Rockstar* no solo creó un mapa."
+  },
+  {
+   "ini": 314.89,
+   "fin": 319.57,
+   "txt": "Creó un *espejo* de nuestras redes sociales."
+  },
+  {
+   "ini": 319.65,
+   "fin": 321.22,
+   "txt": "Y la jugada le salió perfecta:"
+  },
+  {
+   "ini": 321.22,
+   "fin": 322.8,
+   "txt": "cuando por fin abrió su cuenta"
+  },
+  {
+   "ini": 322.8,
+   "fin": 324.74,
+   "txt": "de *TikTok* y subió el segundo tráiler,"
+  },
+  {
+   "ini": 324.74,
+   "fin": 326.36,
+   "txt": "en *mayo* de *dos mil veinticinco,*"
+  },
+  {
+   "ini": 326.36,
+   "fin": 328.31,
+   "txt": "pasó del cero al *millón* de seguidores"
+  },
+  {
+   "ini": 328.31,
+   "fin": 329.6,
+   "txt": "con un solo video."
+  },
+  {
+   "ini": 329.79,
+   "fin": 331.64,
+   "txt": "Ahora hablemos de lo que duele:"
+  },
+  {
+   "ini": 331.64,
+   "fin": 332.71,
+   "txt": "el *bolsillo.*"
+  },
+  {
+   "ini": 332.81,
+   "fin": 334.57,
+   "txt": "La edición estándar cuesta *setenta*"
+  },
+  {
+   "ini": 334.57,
+   "fin": 337.24,
+   "txt": "y nueve *dólares* con *noventa* y nueve centavos."
+  },
+  {
+   "ini": 337.27,
+   "fin": 338.9,
+   "txt": "*Diez dólares* más que la mayoría"
+  },
+  {
+   "ini": 338.9,
+   "fin": 340.41,
+   "txt": "de los juegos grandes."
+  },
+  {
+   "ini": 340.5,
+   "fin": 342.1,
+   "txt": "La edición *Ultimate, noventa* y"
+  },
+  {
+   "ini": 342.1,
+   "fin": 343.84,
+   "txt": "nueve con *noventa* y nueve."
+  },
+  {
+   "ini": 344.0,
+   "fin": 346.31,
+   "txt": "Y *Rockstar* fue clara: no habrá"
+  },
+  {
+   "ini": 346.31,
+   "fin": 347.71,
+   "txt": "más ediciones."
+  },
+  {
+   "ini": 347.71,
+   "fin": 349.99,
+   "txt": "Ni especial, ni de coleccionista."
+  },
+  {
+   "ini": 350.02,
+   "fin": 351.85,
+   "txt": "Pero ojo con esto, porque mucha"
+  },
+  {
+   "ini": 351.85,
+   "fin": 353.86,
+   "txt": "gente se va a llevar una sorpresa:"
+  },
+  {
+   "ini": 353.86,
+   "fin": 355.57,
+   "txt": "si compras la versión *física,*"
+  },
+  {
+   "ini": 355.57,
+   "fin": 357.63,
+   "txt": "en la caja no viene un *disco.*"
+  },
+  {
+   "ini": 357.73,
+   "fin": 358.98,
+   "txt": "Viene un *código.*"
+  },
+  {
+   "ini": 359.05,
+   "fin": 360.89,
+   "txt": "La buena noticia es que la descarga"
+  },
+  {
+   "ini": 360.89,
+   "fin": 363.3,
+   "txt": "anticipada empezó el *doce* de *noviembre.*"
+  },
+  {
+   "ini": 363.36,
+   "fin": 365.04,
+   "txt": "Si ya lo compraste, el día del"
+  },
+  {
+   "ini": 365.04,
+   "fin": 367.75,
+   "txt": "lanzamiento juegas desde el primer minuto."
+  },
+  {
+   "ini": 367.82,
+   "fin": 370.23,
+   "txt": "Y ahora, lo que te prometí al principio."
+  },
+  {
+   "ini": 370.3,
+   "fin": 372.58,
+   "txt": "Lo que *Rockstar* todavía esconde."
+  },
+  {
+   "ini": 372.66,
+   "fin": 374.6,
+   "txt": "Primero: la *computadora.*"
+  },
+  {
+   "ini": 374.64,
+   "fin": 377.07,
+   "txt": "*GTA seis* sale solo en *PlayStation*"
+  },
+  {
+   "ini": 377.07,
+   "fin": 378.88,
+   "txt": "*cinco* y *Xbox* Series."
+  },
+  {
+   "ini": 378.88,
+   "fin": 381.03,
+   "txt": "De *PC,* ni una palabra."
+  },
+  {
+   "ini": 381.05,
+   "fin": 382.6,
+   "txt": "Y si la historia se repite,"
+  },
+  {
+   "ini": 382.6,
+   "fin": 384.5,
+   "txt": "como pasó con *GTA cinco* y con Red"
+  },
+  {
+   "ini": 384.5,
+   "fin": 386.45,
+   "txt": "Dead Redemption *dos,* los jugadores"
+  },
+  {
+   "ini": 386.45,
+   "fin": 389.33,
+   "txt": "de *computadora* tendrán que esperar bastante."
+  },
+  {
+   "ini": 389.43,
+   "fin": 391.64,
+   "txt": "Segundo: el modo en línea."
+  },
+  {
+   "ini": 391.68,
+   "fin": 393.7,
+   "txt": "*GTA Online* convirtió a *GTA cinco*"
+  },
+  {
+   "ini": 393.7,
+   "fin": 395.59,
+   "txt": "en una máquina de hacer dinero"
+  },
+  {
+   "ini": 395.59,
+   "fin": 397.51,
+   "txt": "durante más de *diez* años."
+  },
+  {
+   "ini": 397.58,
+   "fin": 399.42,
+   "txt": "Y sobre el nuevo modo en línea,"
+  },
+  {
+   "ini": 399.42,
+   "fin": 401.39,
+   "txt": "*Rockstar* no ha dicho cuándo llega"
+  },
+  {
+   "ini": 401.39,
+   "fin": 402.75,
+   "txt": "ni cómo funciona."
+  },
+  {
+   "ini": 402.94,
+   "fin": 404.75,
+   "txt": "Ese *silencio* dice mucho."
+  },
+  {
+   "ini": 404.82,
+   "fin": 407.1,
+   "txt": "Y tercero, lo más grande de todo:"
+  },
+  {
+   "ini": 407.1,
+   "fin": 410.36,
+   "txt": "cómo termina la historia de *Lucia* y *Jason.*"
+  },
+  {
+   "ini": 410.48,
+   "fin": 412.79,
+   "txt": "Eso, *nadie* lo sabe todavía."
+  },
+  {
+   "ini": 412.82,
+   "fin": 414.87,
+   "txt": "El *diecinueve* de *noviembre* empieza"
+  },
+  {
+   "ini": 414.87,
+   "fin": 416.68,
+   "txt": "una nueva *era,* y aquí la vamos"
+  },
+  {
+   "ini": 416.68,
+   "fin": 417.94,
+   "txt": "a vivir *juntos.*"
+  },
+  {
+   "ini": 418.06,
+   "fin": 420.65,
+   "txt": "Cada día te vamos a traer los *secretos,*"
+  },
+  {
+   "ini": 420.65,
+   "fin": 422.91,
+   "txt": "los *trucos,* los lugares escondidos"
+  },
+  {
+   "ini": 422.91,
+   "fin": 425.24,
+   "txt": "y las historias detrás de *GTA seis,*"
+  },
+  {
+   "ini": 425.24,
+   "fin": 427.85,
+   "txt": "explicadas como *nadie* más lo hace."
+  },
+  {
+   "ini": 427.98,
+   "fin": 429.57,
+   "txt": "Si no te quieres perder nada,"
+  },
+  {
+   "ini": 429.57,
+   "fin": 432.06,
+   "txt": "*suscríbete* ahora y activa la *campanita.*"
+  },
+  {
+   "ini": 432.11,
+   "fin": 434.39,
+   "txt": "Y déjame tu respuesta en los comentarios:"
+  },
+  {
+   "ini": 434.44,
+   "fin": 436.28,
+   "txt": "*¿Lucia* y *Jason* terminan *juntos,*"
+  },
+  {
+   "ini": 436.28,
+   "fin": 438.05,
+   "txt": "o uno *traiciona* al otro?"
+  },
+  {
+   "ini": 438.19,
+   "fin": 440.03,
+   "txt": "Nos vemos en el próximo video."
+  }
+ ]
+}
