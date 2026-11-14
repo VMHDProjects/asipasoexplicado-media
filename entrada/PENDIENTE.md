@@ -1,4 +1,6 @@
 # Pendiente
+GTA 6 lanzamiento (14 nov): largo en YouTube 14 nov 18:00 y Shorts 14 nov 20:00 y 15 nov 18:00, todo programado.
+Motor GTA listo en templates/gta/render_gta.py (para los próximos largos gta_*.mp3).
 Todo lo de los audios del 13 nov quedó publicado y programado (Nutrición, Biblia ángeles, Historia Bosch a Balaguer).
 Falta: audio nuevo de Salud (hay reels hasta el 16 nov) y los siguientes largos de cada serie:
 Nutrición después del 18 nov, Biblia después del 23 nov, Historia después del 25 nov.
