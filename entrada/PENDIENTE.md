@@ -9,6 +9,6 @@ PUBLICACIÓN PAUSADA desde el 19 nov por orden de Victor: no programar ni public
 
 Biblia, orden de los próximos largos (decidido 19 nov, por los datos de Facebook: el reel de Enoc y los
 nefilim tuvo 52,374 reproducciones y trajo ~700 seguidores; Melquisedec, 242):
-1. biblia/largo3_enoc/guion.txt (Enoc a fondo: el hombre que no murió, Matusalén, el libro de Enoc, los vigilantes y los gigantes). Audio: entrada/biblia.mp3.
+1. biblia/largo3_enoc/guion.txt (Los misterios del libro de Enoc: Judas lo cita, Etiopía, Qumrán, los vigilantes, los gigantes, el viaje de Enoc y el Hijo del Hombre). Audio: entrada/biblia.mp3.
 2. biblia/largo4_eden_a_cain/guion.txt (continuación de Génesis).
 3. biblia/largo5_melquisedec/guion.txt.
