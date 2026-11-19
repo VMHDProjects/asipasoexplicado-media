@@ -9,6 +9,6 @@ PUBLICACIÓN PAUSADA desde el 19 nov por orden de Victor: no programar ni public
 
 Biblia, orden de los próximos largos (decidido 19 nov, por los datos de Facebook: el reel de Enoc y los
 nefilim tuvo 52,374 reproducciones y trajo ~700 seguidores; Melquisedec, 242):
-1. biblia/largo3_enoc/guion.txt (Los misterios del libro de Enoc: Judas lo cita, Etiopía, Qumrán, los vigilantes, los gigantes, el viaje de Enoc y el Hijo del Hombre). Audio: entrada/biblia.mp3.
+1. biblia/largo3_enoc/guion.txt (Los misterios del libro de Enoc: Judas lo cita, Etiopía, Qumrán, los vigilantes, los gigantes, el viaje de Enoc y el Hijo del Hombre). Audio ya en biblia/largo3_enoc/audio.mp3 (10:08, subido 19 nov). Falta en el repo: escenas.json, largo_youtube.mp4 y capitulos/ (el render del 19 nov se perdió sin subir).
 2. biblia/largo4_eden_a_cain/guion.txt (continuación de Génesis).
 3. biblia/largo5_melquisedec/guion.txt.
