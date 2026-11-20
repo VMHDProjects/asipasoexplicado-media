@@ -16,7 +16,7 @@ Para subir por Metricool el video debe estar en un enlace público de menos de 1
 | Serie | Hora (RD, UTC-4) | Palabra ManyChat | Carpeta |
 |---|---|---|---|
 | Historia de RD | 07:00 | Historia | `historia/` |
-| Biblia | 12:00 | Biblia | `biblia/` |
+| Biblia (serie de Enoc) | 09:00 (siempre en la mañana, pedido de Victor 19 nov) | Biblia | `biblia/` |
 | Salud | 17:00 | Cuerpo | `salud/` |
 | Nutrición | 22:00 | Nutrición | `nutricion/` |
 

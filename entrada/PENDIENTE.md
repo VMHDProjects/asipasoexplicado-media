@@ -9,6 +9,6 @@ Nutrición después del 18 nov, Biblia después del 23 nov, Historia después de
 
 Biblia, orden de los próximos largos (decidido 19 nov, por los datos de Facebook: el reel de Enoc y los
 nefilim tuvo 52,374 reproducciones y trajo ~700 seguidores; Melquisedec, 242):
-1. biblia/largo3_enoc/guion.txt (Los misterios del libro de Enoc: Judas lo cita, Etiopía, Qumrán, los vigilantes, los gigantes, el viaje de Enoc y el Hijo del Hombre). Audio ya en biblia/largo3_enoc/audio.mp3 (10:08, subido 19 nov). Largo y 5 reels publicados/programados: largo YouTube 19 nov 20:45, reel 01 19 nov 21:15, reels 02-05 del 20 al 23 nov 12:00.
+1. biblia/largo3_enoc/guion.txt (Los misterios del libro de Enoc: Judas lo cita, Etiopía, Qumrán, los vigilantes, los gigantes, el viaje de Enoc y el Hijo del Hombre). Audio ya en biblia/largo3_enoc/audio.mp3 (10:08, subido 19 nov). Largo y 5 reels publicados/programados: largo YouTube 19 nov 20:45, reel 01 19 nov 21:15, reels 02-05 del 20 al 23 nov 9:00 a. m..
 2. biblia/largo4_eden_a_cain/guion.txt (continuación de Génesis).
 3. biblia/largo5_melquisedec/guion.txt.
