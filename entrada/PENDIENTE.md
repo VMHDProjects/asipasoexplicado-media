@@ -24,3 +24,8 @@ Un largo por episodio, cada uno cortado en 5 reels a las 9:00 a. m.:
 7. El nacimiento de Noé (106-107): el niño que Lamec creyó hijo de los vigilantes.
 8. 2 Enoc, el libro eslavo: los siete cielos y el nacimiento milagroso de Melquisedec.
 9. 3 Enoc: Enoc convertido en Metatrón.
+
+20 nov: Victor confirmó que solo siguen las tareas de la serie de Enoc (el audio de 26 s que mandó ese día fue un error; no se usa).
+Estado Enoc al 20 nov: reel 02 publicado en IG, TikTok y Facebook (tarea diaria 9:15). Reels 03-05 programados en vidIQ para IG y TikTok el 21, 22 y 23 nov a las 9:00; Facebook los copia la tarea de las 9:15.
+Episodio 1, Los vigilantes: guion listo en biblia/enoc_01_vigilantes/guion.txt (unos 13 min). Falta el audio de Victor como entrada/biblia.mp3.
+Al llegar: largo en YouTube primero y 5 reels diarios a las 9:00 desde el 24 nov (o el siguiente día libre).
