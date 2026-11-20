@@ -12,3 +12,15 @@ nefilim tuvo 52,374 reproducciones y trajo ~700 seguidores; Melquisedec, 242):
 1. biblia/largo3_enoc/guion.txt (Los misterios del libro de Enoc: Judas lo cita, Etiopía, Qumrán, los vigilantes, los gigantes, el viaje de Enoc y el Hijo del Hombre). Audio ya en biblia/largo3_enoc/audio.mp3 (10:08, subido 19 nov). Largo y 5 reels publicados/programados: largo YouTube 19 nov 20:45, reel 01 19 nov 21:15, reels 02-05 del 20 al 23 nov 9:00 a. m..
 2. biblia/largo4_eden_a_cain/guion.txt (continuación de Génesis).
 3. biblia/largo5_melquisedec/guion.txt.
+
+SERIE DE ENOC (19 nov, reemplaza el orden anterior de Biblia: Edén a Caín y Melquisedec quedan para después).
+Un largo por episodio, cada uno cortado en 5 reels a las 9:00 a. m.:
+1. Los vigilantes (1 Enoc 6-16): Semyaza, Azazel, juramento en el Hermón, lo que enseñaron, los arcángeles, Azazel atado en Dudael.
+2. Los viajes de Enoc (17-36): la prisión de las estrellas, el Seol y sus divisiones, el árbol de la vida, el Edén.
+3. El libro de las parábolas (37-71): el Elegido, el Hijo del Hombre, el Anciano de días, el juicio de los reyes.
+4. El libro de las luminarias (72-82): Uriel, el sol y la luna, el calendario de 364 días y Qumrán.
+5. El apocalipsis de los animales (83-90): la historia de Israel contada con toros y ovejas.
+6. Las diez semanas y la carta de Enoc (91-105).
+7. El nacimiento de Noé (106-107): el niño que Lamec creyó hijo de los vigilantes.
+8. 2 Enoc, el libro eslavo: los siete cielos y el nacimiento milagroso de Melquisedec.
+9. 3 Enoc: Enoc convertido en Metatrón.
