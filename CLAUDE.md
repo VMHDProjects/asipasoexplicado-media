@@ -12,6 +12,14 @@ videos viejos. Si una herramienta falla (créditos de vidIQ, límites de tamaño
 Para subir por Metricool el video debe estar en un enlace público de menos de 100 MB
 (raw.githubusercontent.com de este repo); comprimir con 2 pasadas si hace falta.
 
+## Publicación (desde 19 nov 2026)
+Metricool está en plan gratis (20 posts/mes, cada red cuenta aparte): ya no se usa para publicar.
+- YouTube (largo): YouTube Studio en el navegador integrado (sesión del canal abierta). Subir el archivo con
+  JS: fetch del video y DataTransfer al input[type=file] del diálogo de subida.
+- Instagram y TikTok (reels): vidIQ (vidiq_video_upload con la URL raw de GitHub → vidiq_social_post_draft_create
+  con publishAt → vidiq_social_post_publish). TikTok: público, comentarios activados y uso de música aceptado (Victor, 19 nov).
+- Facebook: pendiente de conectar la página a vidIQ.
+
 ## Series (diarias, sin pausa)
 | Serie | Hora (RD, UTC-4) | Palabra ManyChat | Carpeta |
 |---|---|---|---|
